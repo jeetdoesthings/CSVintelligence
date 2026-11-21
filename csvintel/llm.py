@@ -211,3 +211,54 @@ def propose_plan(question: str, profile: DatasetProfile, timeout: int = 18) -> t
 
 def schema_preview(profile: DatasetProfile) -> str:
     return ", ".join(f"{humanize(c.name)} ({c.kind})" for c in profile.column_profiles)
+
+
+def test_connection(
+    api_key: str | None = None,
+    base_url: str | None = None,
+    model: str | None = None,
+    timeout: int = 10,
+) -> tuple[bool, str]:
+    """Test connectivity and authentication to an OpenAI-compatible endpoint."""
+    _load_dotenv()
+    if api_key is not None:
+        key = api_key.strip()
+    else:
+        key = os.environ.get("OPENAI_API_KEY", "").strip()
+    if not key:
+        return False, "No API key configured."
+    base = (base_url or os.environ.get("OPENAI_BASE_URL", DEFAULT_BASE_URL)).rstrip("/")
+    mdl = (model or os.environ.get("OPENAI_MODEL", DEFAULT_MODEL)).strip() or DEFAULT_MODEL
+    url = f"{base}/chat/completions"
+    payload = {
+        "model": mdl,
+        "max_tokens": 5,
+        "messages": [{"role": "user", "content": "ping"}],
+    }
+    request = urllib.request.Request(
+        url,
+        data=json.dumps(payload).encode("utf-8"),
+        headers={
+            "Content-Type": "application/json",
+            "Authorization": f"Bearer {key}",
+        },
+        method="POST",
+    )
+    try:
+        with urllib.request.urlopen(request, timeout=timeout) as response:
+            if response.status == 200:
+                return True, f"Connection verified. Successfully reached {mdl} via {base}."
+            return False, f"Server responded with status code {response.status}."
+    except urllib.error.HTTPError as exc:
+        if exc.code in (401, 403):
+            return False, "Authentication failed: invalid or unauthorized API key."
+        if exc.code == 429:
+            return False, "Rate limit reached on provider."
+        return False, f"HTTP error {exc.code}: {exc.reason}"
+    except urllib.error.URLError as exc:
+        return False, f"Network error reaching {base}: {exc.reason}"
+    except TimeoutError:
+        return False, f"Connection timed out after {timeout} seconds."
+    except Exception as exc:
+        return False, f"Connection check failed ({type(exc).__name__}): {exc}"
+

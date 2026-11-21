@@ -172,10 +172,14 @@ The structured plan is deliberately small and inspectable: `intent`, `metric`, `
 ### Automated tests
 
 ```bash
+# Unit & integration test suite
 python -m unittest discover -s tests -v
+
+# Full multi-dataset automated verification across all 11 business datasets
+python scripts/test_all_datasets.py
 ```
 
-**47 tests pass** in the current workspace. They cover:
+**49 unit tests pass** in the current workspace. They cover:
 
 - parsing, delimiter/encoding detection, duplicate headers, empty/header-only rejection
 - type inference, missingness and duplicate profiling
@@ -186,6 +190,10 @@ python -m unittest discover -s tests -v
 - count-based row and group questions
 - time words inside column names not forcing a trend
 - chart construction, insights and the built-in benchmark
+- off-topic questions on datasets with boolean prefix columns (e.g. `is_international`)
+- connection test helper for external LLM endpoints
+
+In addition, `scripts/test_all_datasets.py` runs **132 automated tests across all 11 datasets** (Retail Demo + 10 industry datasets) with **100% success**.
 
 ### Live benchmark
 

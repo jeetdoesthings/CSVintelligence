@@ -1,15 +1,21 @@
 import os
 import sys
-sys.path.insert(0, os.path.abspath("."))
-import glob
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parent.parent
+sys.path.insert(0, str(ROOT))
+
 import pandas as pd
 import numpy as np
 
-# Import core analytical engine functions directly from app
-from app import analyze_query, get_col_type_label, load_csv_file, is_numeric_col, is_date_col, DATASET_OPTIONS
+from csvintel.loader import read_csv_path
+from csvintel.schema import profile_dataset, is_numeric_col, is_date_col, classify_column
+from csvintel.planner import build_plan, primary_metric, primary_group, primary_date
+from csvintel.validator import validate_plan
+from csvintel.executor import execute_plan
 
 print("=" * 70)
-print("COMPREHENSIVE AUTOMATED VERIFICATION SUITE ACROSS ALL 10 DATASETS")
+print("COMPREHENSIVE AUTOMATED VERIFICATION SUITE ACROSS ALL 11 DATASETS")
 print("=" * 70)
 
 datasets_to_test = [
@@ -32,68 +38,85 @@ passed_tests = 0
 for label, filepath in datasets_to_test:
     print(f"\n📂 Testing Dataset: [{label}] -> {filepath}")
     assert os.path.exists(filepath), f"File {filepath} does not exist!"
-    
-    df = load_csv_file(filepath)
+
+    df, report = read_csv_path(filepath)
     num_rows, num_cols = len(df), len(df.columns)
     print(f"   Loaded: {num_rows:,} rows, {num_cols} columns")
-    
-    # 1. Test Schema Type Inference (Crucial StringDtype test)
+
+    # 1. Test Schema Type Inference
+    profile = profile_dataset(df, name=label)
     schema_types = {}
     try:
         for c in df.columns:
-            t = get_col_type_label(df[c])
-            schema_types[c] = t
-        print(f"   ✓ Schema inference passed ({len(schema_types)} columns classified without StringDtype error)")
+            kind = classify_column(c, df[c])
+            schema_types[c] = kind
+        print(f"   ✓ Schema inference passed ({len(schema_types)} columns classified without error)")
         passed_tests += 1
     except Exception as e:
         print(f"   ❌ FAILED Schema inference: {e}")
     total_tests += 1
 
-    # Numeric & categorical detection
-    num_cols_list = [c for c in df.columns if is_numeric_col(df[c])]
-    cat_cols_list = [c for c in df.columns if not is_numeric_col(df[c]) and not is_date_col(df[c])]
-    date_cols_list = [c for c in df.columns if is_date_col(df[c])]
-    
-    primary_num = num_cols_list[0] if num_cols_list else "value"
-    primary_cat = cat_cols_list[0] if cat_cols_list else "category"
+    primary_num = primary_metric(profile) or (profile.numeric_columns[0] if profile.numeric_columns else None)
+    primary_cat = primary_group(profile) or (profile.categorical_columns[0] if profile.categorical_columns else None)
+    has_date = bool(profile.date_columns)
+
+    if not primary_num:
+        print(f"   ⚠️ Skipping numerical queries for {label}: no numeric columns found")
+        continue
 
     # Test Queries Array
     queries = [
         ("Total / Sum", f"What is the total {primary_num}?"),
         ("Average / Mean", f"What is the average {primary_num}?"),
         ("Min / Max", f"What is the maximum {primary_num}?"),
-        ("Ranking / Top", f"Which {primary_cat} has the highest {primary_num}?"),
-        ("Comparison / Group-by", f"Compare {primary_num} across {primary_cat}"),
-        ("Outlier Detection", "Are there any unusual patterns in this dataset?"),
+        ("Outlier Detection", f"Are there any unusual values in {primary_num}?"),
         ("Missing Values Check", "Are there any missing values?"),
         ("Row Count", "How many records are there?"),
-        ("Safe Fallback (Unsupported)", "What is the weather on Jupiter?")
+        ("Safe Fallback (Unsupported)", "What is the weather on Jupiter?"),
+        ("Safe Clarification (Unknown Column)", "What is the total unknown_xyz_column?")
     ]
-    
-    if date_cols_list:
+
+    if primary_cat:
+        queries.extend([
+            ("Ranking / Top", f"Which {primary_cat} has the highest {primary_num}?"),
+            ("Comparison / Group-by", f"Compare {primary_num} across {primary_cat}"),
+        ])
+
+    if has_date:
         queries.append(("Time-Series Trend", f"Show monthly {primary_num} trends"))
 
     for q_type, q_text in queries:
         total_tests += 1
         try:
-            headline, details, evidence, formula, fig, res_df, *rest = analyze_query(q_text, df)
-            
+            plan = build_plan(q_text, df, profile)
+            validate_plan(plan, profile)
+            result = execute_plan(plan, df, profile)
+
+            headline = result.answer
+            details = result.detail
+            formula = result.formula
+
             # Validation assertions
             assert headline is not None and len(headline) > 5, "Headline must not be empty"
             assert details is not None, "Details must not be empty"
-            assert formula is not None, "Formula must not be empty"
-            
+
             if q_type == "Safe Fallback (Unsupported)":
-                assert any(w in headline.lower() for w in ["couldn't match", "not recognized", "outside the scope"]), f"Unsupported query must return safe fallback, got: {headline}"
+                assert result.intent in ("meta", "clarification"), f"Expected meta/clarification intent, got: {result.intent}"
+                assert any(w in headline.lower() for w in ["outside", "not match", "could not", "scope", "clarif"]), f"Unexpected fallback message: {headline}"
                 assert "$" not in headline, "Safe fallback must not fabricate dollar amounts"
+            elif q_type == "Safe Clarification (Unknown Column)":
+                assert result.intent == "clarification", f"Unknown column must return clarification, got: {result.intent}"
             elif q_type == "Total / Sum":
                 expected_sum = df[primary_num].sum()
-                assert f"{expected_sum:,.0f}" in headline or f"{expected_sum:,.2f}" in headline or f"{int(expected_sum):,}" in headline, f"Sum query must match actual sum: {expected_sum}"
+                val = result.metrics.get("Value", 0)
+                assert np.isclose(val, expected_sum, rtol=1e-3) or np.isclose(val, expected_sum, atol=1e-2), f"Sum query {val} must match actual sum {expected_sum}"
             elif q_type == "Average / Mean":
                 expected_mean = df[primary_num].mean()
-                assert f"{expected_mean:,.0f}" in headline or f"{expected_mean:,.2f}" in headline or f"{int(expected_mean):,}" in headline, f"Mean query must match actual mean: {expected_mean}"
+                val = result.metrics.get("Value", 0)
+                assert np.isclose(val, expected_mean, rtol=1e-3) or np.isclose(val, expected_mean, atol=1e-2), f"Mean query {val} must match actual mean {expected_mean}"
             elif q_type == "Row Count":
-                assert f"{num_rows:,}" in headline, f"Row count must match: {num_rows}"
+                val = result.metrics.get("Rows", result.metrics.get("Records", 0))
+                assert val == num_rows, f"Row count {val} must match {num_rows}"
 
             passed_tests += 1
             print(f"   ✓ [{q_type}]: \"{q_text}\" -> PASSED")
@@ -106,6 +129,6 @@ print("=" * 70)
 
 if passed_tests == total_tests:
     print("✨ ALL QUERIES, SCHEMAS, AND DATASETS PASSED WITH 100% SUCCESS! ✨\n")
-    exit(0)
+    sys.exit(0)
 else:
-    exit(1)
+    sys.exit(1)

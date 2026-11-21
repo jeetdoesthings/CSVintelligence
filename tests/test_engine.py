@@ -382,6 +382,20 @@ class ExecutorTests(unittest.TestCase):
         self.assertEqual(plan["intent"], "aggregate")
         self.assertAlmostEqual(result.metrics["Value"], 600.0)
 
+    def test_off_topic_with_prefix_columns(self):
+        df = tiny_df()
+        df["is_international"] = [True, False, True, False, True, False]
+        profile = profile_dataset(df)
+        plan = build_plan("What is the weather on Jupiter?", df, profile)
+        self.assertEqual(plan["intent"], "meta")
+
+    def test_connection_helper(self):
+        from csvintel.llm import test_connection
+        ok, msg = test_connection(api_key="")
+        self.assertFalse(ok)
+        self.assertIn("No API key", msg)
+
+
 
 class BenchmarkTests(unittest.TestCase):
     def test_builtin_benchmark_passes(self):

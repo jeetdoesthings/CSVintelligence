@@ -19,6 +19,7 @@ from .executor import execute_plan, AnalysisResult
 from .insights import generate_insights
 from .loader import parse_csv_bytes, read_csv_path, DatasetLoadError
 from .evaluation import run_benchmark
+from .llm import llm_config, propose_plan, test_connection
 
 __all__ = [
     "ColumnProfile",
@@ -38,4 +39,7 @@ __all__ = [
     "read_csv_path",
     "DatasetLoadError",
     "run_benchmark",
+    "llm_config",
+    "propose_plan",
+    "test_connection",
 ]

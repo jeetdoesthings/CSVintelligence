@@ -26,7 +26,7 @@ from csvintel.charts import alt_chart_types, build_figure, style_figure
 from csvintel.evaluation import run_benchmark
 from csvintel.executor import AnalysisResult, execute_plan
 from csvintel.insights import generate_insights
-from csvintel.llm import llm_config, propose_plan
+from csvintel.llm import llm_config, propose_plan, test_connection
 from csvintel.loader import DatasetLoadError, parse_csv_bytes, read_csv_path
 from csvintel.planner import build_plan, explain_plan, primary_date, primary_group, primary_metric, suggest_questions
 from csvintel.schema import DatasetProfile, profile_dataset
@@ -658,7 +658,16 @@ def render_result(
             st.plotly_chart(
                 figure,
                 use_container_width=True,
-                config={"displayModeBar": False},
+                config={
+                    "displayModeBar": "hover",
+                    "toImageButtonOptions": {
+                        "format": "png",
+                        "filename": "csv_intelligence_chart",
+                        "height": 550,
+                        "width": 900,
+                        "scale": 2,
+                    },
+                },
                 key=f"{key_prefix}_plot_{result.intent}_{result.row_count}",
             )
 
@@ -947,7 +956,10 @@ with st.sidebar:
             key="use_llm",
             help="Sends only the question, column names/types and up to 3 sample values to your configured provider. The full CSV never leaves this machine. Every returned plan is validated before execution.",
         )
-        st.caption(f"Provider model: {cfg['model']}")
+        st.markdown(
+            f'<div class="chip green" style="margin-top:4px;">LLM ready: {esc(str(cfg["model"]))}</div>',
+            unsafe_allow_html=True,
+        )
     else:
         st.session_state.use_llm = False
         st.markdown(
@@ -955,6 +967,53 @@ with st.sidebar:
             '<div class="small-muted" style="margin-top:6px;">No LLM key configured. Set OPENAI_API_KEY to enable optional natural-language plan interpretation.</div>',
             unsafe_allow_html=True,
         )
+
+    with st.expander("⚙️ LLM Provider & Key (Optional)", expanded=False):
+        st.caption("Connect OpenAI, Ollama, LM Studio, or any OpenAI-compatible endpoint")
+        input_key = st.text_input(
+            "API Key",
+            value=os.environ.get("OPENAI_API_KEY", ""),
+            type="password",
+            help="Set an OpenAI-compatible API key. Leave empty to use local-only deterministic engine.",
+            key="ui_llm_key",
+        )
+        input_base = st.text_input(
+            "Base URL",
+            value=os.environ.get("OPENAI_BASE_URL", "https://api.openai.com/v1"),
+            help="Default: https://api.openai.com/v1 (or http://localhost:11434/v1 for Ollama)",
+            key="ui_llm_base",
+        )
+        input_model = st.text_input(
+            "Model",
+            value=os.environ.get("OPENAI_MODEL", "gpt-4o-mini"),
+            help="Model used for structured plan proposal",
+            key="ui_llm_model",
+        )
+        btn_c1, btn_c2 = st.columns(2)
+        with btn_c1:
+            if st.button("Test", use_container_width=True, key="btn_test_llm"):
+                if not input_key.strip():
+                    st.error("No API key entered.")
+                else:
+                    with st.spinner("Connecting..."):
+                        ok, msg = test_connection(
+                            api_key=input_key.strip(),
+                            base_url=input_base.strip(),
+                            model=input_model.strip(),
+                        )
+                        if ok:
+                            st.success(msg)
+                        else:
+                            st.error(msg)
+        with btn_c2:
+            if st.button("Apply", use_container_width=True, key="btn_apply_llm"):
+                if input_key.strip():
+                    os.environ["OPENAI_API_KEY"] = input_key.strip()
+                elif "OPENAI_API_KEY" in os.environ:
+                    del os.environ["OPENAI_API_KEY"]
+                os.environ["OPENAI_BASE_URL"] = input_base.strip() or "https://api.openai.com/v1"
+                os.environ["OPENAI_MODEL"] = input_model.strip() or "gpt-4o-mini"
+                st.rerun()
 
     st.markdown(
         '<div style="margin-top:18px;font-size:10px;color:#526178;line-height:1.6;">'
@@ -1071,7 +1130,16 @@ if nav == "Overview":
                 st.plotly_chart(
                     style_figure(fig, f"{humanize(pair[0])} vs {humanize(pair[1])} · r = {best:.3f}"),
                     use_container_width=True,
-                    config={"displayModeBar": False},
+                    config={
+                    "displayModeBar": "hover",
+                    "toImageButtonOptions": {
+                        "format": "png",
+                        "filename": "csv_intelligence_chart",
+                        "height": 550,
+                        "width": 900,
+                        "scale": 2,
+                    },
+                },
                     key="ov_scatter",
                 )
             else:

@@ -429,17 +429,25 @@ def column_aliases(name: str, kind: str) -> list[str]:
         aliases.add(" ".join(tokens))
         aliases.add(" ".join(singular(t) for t in tokens))
         if len(tokens) > 1:
-            aliases.add(" ".join(tokens[:-1]))
+            prefix = " ".join(tokens[:-1])
+            if prefix not in STOPWORDS and prefix not in _GENERIC_MATCH_TOKENS:
+                aliases.add(prefix)
+            if tokens[0] in {"is", "has", "was", "total", "avg", "average"}:
+                suffix = " ".join(tokens[1:])
+                if suffix not in STOPWORDS:
+                    aliases.add(suffix)
     for known, extra in COLUMN_ALIASES.items():
         if known == normalize(name) or known in aliases:
             aliases.update(extra)
     # Name-token aliases without the trailing "id".
     if tokens and tokens[-1] in {"id", "no", "number"} and len(tokens) > 1:
-        aliases.add(" ".join(tokens[:-1]))
+        base = " ".join(tokens[:-1])
+        if base not in STOPWORDS:
+            aliases.add(base)
     concept = concept_for_column(name)
     if concept:
         aliases.update(CONCEPT_ALIASES.get(concept, ()))
-    return [a for a in aliases if a]
+    return [a for a in aliases if a and a not in STOPWORDS and len(a) > 1]
 
 
 _GENERIC_MATCH_TOKENS = {
@@ -455,7 +463,7 @@ def column_match_score(question_text: str, column: str, kind: str) -> float:
     aliases = column_aliases(column, kind)
     score = 0.0
     for alias in aliases:
-        if not alias:
+        if not alias or alias in STOPWORDS or alias in _GENERIC_MATCH_TOKENS:
             continue
         if contains_phrase(q, alias):
             # Exact, longer phrases are stronger. Exact column names dominate.
