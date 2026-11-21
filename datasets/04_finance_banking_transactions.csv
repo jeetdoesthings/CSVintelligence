@@ -1,0 +1,2001 @@
+transaction_id,transaction_date,account_type,merchant_category,transaction_amount,fee_amount,channel,is_international,risk_score,fraud_flag
+TXN-800000,2024-12-09,Business Platinum,Utilities,50,0.9,Online Web,Yes,1,No
+TXN-800001,2024-06-01,Business Platinum,Entertainment,145,2.61,Online Web,No,29,No
+TXN-800002,2024-06-15,Credit Card,Groceries,239,4.3,In-Store POS,No,22,No
+TXN-800003,2024-11-23,Checking,Restaurants,30,0.54,In-Store POS,Yes,13,No
+TXN-800004,2024-09-11,Checking,Entertainment,90,1.62,Online Web,No,1,No
+TXN-800005,2024-09-12,Business Platinum,Online Retail,7,0.13,ATM,No,1,No
+TXN-800006,2024-10-08,Savings,Utilities,339,6.1,Online Web,No,7,No
+TXN-800007,2024-04-08,Credit Card,Airlines & Travel,13,0.23,In-Store POS,No,10,No
+TXN-800008,2024-10-31,Business Platinum,Online Retail,221,3.98,Mobile App,Yes,1,No
+TXN-800009,2024-05-27,Credit Card,Restaurants,134,2.41,ATM,No,14,No
+TXN-800010,2024-03-24,Credit Card,Restaurants,474,8.53,Online Web,No,68,No
+TXN-800011,2024-01-12,Business Platinum,Gas Stations,94,1.69,Mobile App,Yes,31,No
+TXN-800012,2024-02-29,Business Platinum,Airlines & Travel,320,5.76,In-Store POS,No,23,No
+TXN-800013,2024-07-26,Checking,Online Retail,81,1.46,In-Store POS,Yes,7,No
+TXN-800014,2024-11-05,Business Platinum,Airlines & Travel,16,0.29,In-Store POS,No,11,No
+TXN-800015,2024-05-03,Checking,Utilities,265,4.77,Mobile App,Yes,46,No
+TXN-800016,2024-04-17,Checking,Airlines & Travel,66,1.19,In-Store POS,No,1,No
+TXN-800017,2024-09-08,Savings,Online Retail,79,1.42,Online Web,No,33,No
+TXN-800018,2024-08-19,Checking,Restaurants,137,2.47,Online Web,No,5,No
+TXN-800019,2024-07-29,Checking,Gas Stations,218,3.92,Mobile App,No,32,No
+TXN-800020,2024-03-29,Credit Card,Entertainment,327,5.89,ATM,No,13,No
+TXN-800021,2024-04-03,Credit Card,Groceries,57,1.03,ATM,No,4,No
+TXN-800022,2024-04-22,Savings,Airlines & Travel,33,0.59,ATM,No,1,No
+TXN-800023,2024-07-06,Savings,Airlines & Travel,619,11.14,ATM,Yes,20,No
+TXN-800024,2024-04-17,Checking,Entertainment,39,0.7,Online Web,Yes,1,No
+TXN-800025,2024-01-27,Credit Card,Airlines & Travel,33,0.59,In-Store POS,Yes,1,No
+TXN-800026,2024-08-17,Business Platinum,Restaurants,97,1.75,Mobile App,No,15,No
+TXN-800027,2024-09-05,Savings,Online Retail,122,2.2,Online Web,No,31,No
+TXN-800028,2024-09-25,Savings,Utilities,25,0.45,In-Store POS,No,1,No
+TXN-800029,2024-09-11,Credit Card,Restaurants,24,0.43,ATM,Yes,33,No
+TXN-800030,2024-04-30,Savings,Airlines & Travel,269,4.84,Mobile App,Yes,1,No
+TXN-800031,2024-03-06,Savings,Online Retail,70,1.26,Online Web,No,44,No
+TXN-800032,2024-09-12,Credit Card,Restaurants,362,6.52,Mobile App,No,6,No
+TXN-800033,2024-02-23,Savings,Groceries,37,0.67,ATM,No,39,No
+TXN-800034,2024-08-31,Credit Card,Entertainment,198,3.56,ATM,No,23,No
+TXN-800035,2024-06-07,Savings,Online Retail,6,0.11,In-Store POS,Yes,1,No
+TXN-800036,2024-11-24,Checking,Utilities,40,0.72,In-Store POS,No,47,No
+TXN-800037,2024-06-06,Savings,Online Retail,243,4.37,In-Store POS,No,52,No
+TXN-800038,2024-02-21,Credit Card,Utilities,208,3.74,Mobile App,No,52,No
+TXN-800039,2024-11-21,Savings,Gas Stations,206,3.71,ATM,No,1,No
+TXN-800040,2024-02-21,Checking,Utilities,69,1.24,Mobile App,No,19,No
+TXN-800041,2024-09-29,Business Platinum,Airlines & Travel,99,1.78,ATM,No,6,No
+TXN-800042,2024-07-02,Business Platinum,Utilities,235,4.23,Online Web,No,25,No
+TXN-800043,2024-08-09,Business Platinum,Airlines & Travel,297,5.35,ATM,No,1,No
+TXN-800044,2024-03-30,Savings,Gas Stations,57,1.03,In-Store POS,No,36,No
+TXN-800045,2024-07-04,Credit Card,Groceries,116,2.09,Mobile App,No,1,No
+TXN-800046,2024-06-30,Credit Card,Airlines & Travel,24,0.43,In-Store POS,Yes,1,No
+TXN-800047,2024-11-11,Credit Card,Utilities,30,0.54,Mobile App,Yes,1,No
+TXN-800048,2024-08-07,Business Platinum,Entertainment,475,8.55,Mobile App,Yes,39,No
+TXN-800049,2024-05-05,Credit Card,Utilities,134,2.41,Online Web,No,15,No
+TXN-800050,2024-12-27,Savings,Utilities,174,3.13,Mobile App,No,35,No
+TXN-800051,2024-07-09,Credit Card,Gas Stations,219,3.94,In-Store POS,Yes,1,No
+TXN-800052,2024-03-20,Credit Card,Restaurants,73,1.31,Mobile App,No,1,No
+TXN-800053,2024-04-30,Credit Card,Entertainment,17,0.31,Mobile App,No,10,No
+TXN-800054,2024-09-20,Business Platinum,Entertainment,258,4.64,In-Store POS,Yes,1,No
+TXN-800055,2024-05-06,Checking,Airlines & Travel,129,2.32,Online Web,No,24,No
+TXN-800056,2024-10-19,Checking,Restaurants,229,4.12,Mobile App,No,31,No
+TXN-800057,2024-07-09,Business Platinum,Gas Stations,97,1.75,Mobile App,No,57,No
+TXN-800058,2024-04-30,Business Platinum,Airlines & Travel,132,2.38,Mobile App,No,4,No
+TXN-800059,2024-10-28,Savings,Restaurants,206,3.71,In-Store POS,No,50,No
+TXN-800060,2024-02-15,Checking,Restaurants,468,8.42,In-Store POS,Yes,53,No
+TXN-800061,2024-03-22,Business Platinum,Groceries,45,0.81,In-Store POS,Yes,83,No
+TXN-800062,2024-11-04,Credit Card,Entertainment,13,0.23,In-Store POS,Yes,33,No
+TXN-800063,2024-10-01,Checking,Restaurants,5,0.09,ATM,No,57,No
+TXN-800064,2024-04-05,Credit Card,Airlines & Travel,27,0.49,ATM,No,37,No
+TXN-800065,2024-05-25,Business Platinum,Gas Stations,65,1.17,ATM,Yes,61,No
+TXN-800066,2024-04-05,Credit Card,Groceries,454,8.17,Online Web,No,9,No
+TXN-800067,2024-09-28,Business Platinum,Airlines & Travel,13,0.23,Online Web,Yes,31,No
+TXN-800068,2024-04-18,Checking,Entertainment,52,0.94,In-Store POS,Yes,62,No
+TXN-800069,2024-11-02,Credit Card,Entertainment,6,0.11,Online Web,No,1,No
+TXN-800070,2024-12-09,Savings,Gas Stations,143,2.57,Mobile App,Yes,23,No
+TXN-800071,2024-06-10,Business Platinum,Airlines & Travel,24,0.43,In-Store POS,No,4,No
+TXN-800072,2024-07-29,Business Platinum,Airlines & Travel,146,2.63,In-Store POS,No,46,No
+TXN-800073,2024-04-27,Business Platinum,Entertainment,213,3.83,Online Web,Yes,1,No
+TXN-800074,2024-09-03,Credit Card,Gas Stations,33,0.59,Mobile App,No,63,No
+TXN-800075,2024-04-29,Credit Card,Entertainment,361,6.5,Mobile App,No,35,No
+TXN-800076,2024-03-24,Business Platinum,Utilities,228,4.1,In-Store POS,No,36,No
+TXN-800077,2024-05-13,Credit Card,Gas Stations,45,0.81,Online Web,No,57,No
+TXN-800078,2024-02-29,Business Platinum,Airlines & Travel,158,2.84,ATM,No,53,No
+TXN-800079,2024-01-28,Business Platinum,Utilities,58,1.04,ATM,Yes,6,No
+TXN-800080,2024-05-02,Business Platinum,Groceries,44,0.79,ATM,No,49,No
+TXN-800081,2024-08-14,Credit Card,Utilities,107,1.93,In-Store POS,No,4,No
+TXN-800082,2024-09-02,Checking,Gas Stations,191,3.44,ATM,No,1,No
+TXN-800083,2024-02-06,Business Platinum,Gas Stations,162,2.92,ATM,No,7,No
+TXN-800084,2024-12-11,Checking,Restaurants,260,4.68,In-Store POS,No,27,No
+TXN-800085,2024-05-01,Savings,Gas Stations,68,1.22,In-Store POS,Yes,18,No
+TXN-800086,2024-12-15,Credit Card,Entertainment,176,3.17,ATM,No,47,No
+TXN-800087,2024-03-19,Checking,Utilities,211,3.8,Online Web,No,4,No
+TXN-800088,2024-08-14,Credit Card,Online Retail,57,1.03,ATM,No,29,No
+TXN-800089,2024-02-03,Credit Card,Gas Stations,42,0.76,ATM,No,1,No
+TXN-800090,2024-04-22,Checking,Online Retail,77,1.39,Mobile App,Yes,35,No
+TXN-800091,2024-08-25,Business Platinum,Entertainment,141,2.54,ATM,No,37,No
+TXN-800092,2024-08-02,Credit Card,Airlines & Travel,344,6.19,Online Web,No,3,No
+TXN-800093,2024-09-11,Credit Card,Online Retail,17,0.31,Online Web,No,25,No
+TXN-800094,2024-01-20,Business Platinum,Groceries,539,9.7,Mobile App,Yes,38,No
+TXN-800095,2024-05-11,Credit Card,Gas Stations,13,0.23,In-Store POS,No,25,No
+TXN-800096,2024-08-31,Credit Card,Online Retail,58,1.04,Mobile App,Yes,29,No
+TXN-800097,2024-12-21,Checking,Groceries,63,1.13,In-Store POS,No,18,No
+TXN-800098,2024-08-20,Business Platinum,Utilities,118,2.12,ATM,Yes,21,No
+TXN-800099,2024-01-26,Business Platinum,Gas Stations,23,0.41,Online Web,No,1,No
+TXN-800100,2024-05-26,Credit Card,Airlines & Travel,46,0.83,Online Web,Yes,40,No
+TXN-800101,2024-02-20,Savings,Restaurants,118,2.12,Online Web,Yes,40,No
+TXN-800102,2024-08-15,Business Platinum,Airlines & Travel,98,1.76,In-Store POS,No,65,No
+TXN-800103,2024-11-24,Business Platinum,Online Retail,65,1.17,ATM,No,33,No
+TXN-800104,2024-03-02,Savings,Entertainment,251,4.52,Mobile App,No,29,No
+TXN-800105,2024-12-07,Business Platinum,Restaurants,58,1.04,In-Store POS,No,38,No
+TXN-800106,2024-09-17,Credit Card,Entertainment,131,2.36,In-Store POS,No,36,No
+TXN-800107,2024-05-27,Credit Card,Gas Stations,45,0.81,Online Web,Yes,51,No
+TXN-800108,2024-06-29,Business Platinum,Utilities,11,0.2,ATM,Yes,16,No
+TXN-800109,2024-07-27,Savings,Entertainment,40,0.72,Online Web,No,1,No
+TXN-800110,2024-04-02,Savings,Online Retail,105,1.89,ATM,Yes,21,No
+TXN-800111,2024-02-07,Savings,Restaurants,212,3.82,Mobile App,No,20,No
+TXN-800112,2024-10-23,Credit Card,Groceries,17,0.31,In-Store POS,No,38,No
+TXN-800113,2024-06-19,Checking,Airlines & Travel,133,2.39,Online Web,No,29,No
+TXN-800114,2024-04-13,Credit Card,Groceries,89,1.6,In-Store POS,No,26,No
+TXN-800115,2024-08-17,Savings,Utilities,110,1.98,Online Web,No,49,No
+TXN-800116,2024-06-05,Credit Card,Utilities,49,0.88,Mobile App,Yes,1,No
+TXN-800117,2024-06-25,Credit Card,Airlines & Travel,139,2.5,In-Store POS,No,41,No
+TXN-800118,2024-11-09,Savings,Utilities,226,4.07,Mobile App,No,36,No
+TXN-800119,2024-03-13,Checking,Gas Stations,66,1.19,Online Web,Yes,18,No
+TXN-800120,2024-08-16,Savings,Gas Stations,111,2.0,Mobile App,No,38,No
+TXN-800121,2024-11-07,Business Platinum,Online Retail,224,4.03,Mobile App,No,19,No
+TXN-800122,2024-06-06,Credit Card,Entertainment,134,2.41,Mobile App,No,10,No
+TXN-800123,2024-11-14,Savings,Online Retail,21,0.38,Mobile App,No,37,No
+TXN-800124,2024-04-07,Credit Card,Utilities,37,0.67,Online Web,No,12,No
+TXN-800125,2024-07-21,Business Platinum,Gas Stations,627,11.29,In-Store POS,No,39,No
+TXN-800126,2024-08-31,Business Platinum,Airlines & Travel,125,2.25,In-Store POS,Yes,38,No
+TXN-800127,2024-09-18,Business Platinum,Online Retail,100,1.8,ATM,No,24,No
+TXN-800128,2024-06-26,Business Platinum,Utilities,119,2.14,ATM,Yes,1,No
+TXN-800129,2024-03-09,Credit Card,Restaurants,50,0.9,Mobile App,No,17,No
+TXN-800130,2024-02-22,Checking,Online Retail,134,2.41,In-Store POS,No,72,No
+TXN-800131,2024-07-07,Credit Card,Restaurants,78,1.4,Online Web,No,33,No
+TXN-800132,2024-04-03,Business Platinum,Gas Stations,383,6.89,In-Store POS,Yes,1,No
+TXN-800133,2024-11-17,Credit Card,Online Retail,18,0.32,ATM,No,19,No
+TXN-800134,2024-02-29,Business Platinum,Restaurants,164,2.95,In-Store POS,No,55,No
+TXN-800135,2024-01-17,Checking,Gas Stations,34,0.61,In-Store POS,No,61,No
+TXN-800136,2024-11-05,Credit Card,Gas Stations,89,1.6,ATM,Yes,22,No
+TXN-800137,2024-03-13,Business Platinum,Utilities,78,1.4,ATM,No,18,No
+TXN-800138,2024-09-02,Savings,Restaurants,42,0.76,Online Web,Yes,23,No
+TXN-800139,2024-01-25,Business Platinum,Restaurants,137,2.47,Online Web,No,28,No
+TXN-800140,2024-10-21,Credit Card,Gas Stations,60,1.08,In-Store POS,No,49,No
+TXN-800141,2024-10-04,Savings,Gas Stations,18,0.32,In-Store POS,No,28,No
+TXN-800142,2024-10-25,Credit Card,Entertainment,34,0.61,ATM,Yes,33,No
+TXN-800143,2024-06-10,Business Platinum,Online Retail,49,0.88,In-Store POS,No,36,No
+TXN-800144,2024-04-02,Credit Card,Gas Stations,255,4.59,Mobile App,No,1,No
+TXN-800145,2024-06-12,Savings,Gas Stations,137,2.47,ATM,Yes,43,No
+TXN-800146,2024-10-02,Business Platinum,Utilities,68,1.22,ATM,No,33,No
+TXN-800147,2024-11-06,Checking,Utilities,13,0.23,Mobile App,No,21,No
+TXN-800148,2024-02-13,Credit Card,Entertainment,244,4.39,ATM,Yes,39,No
+TXN-800149,2024-09-03,Credit Card,Groceries,14,0.25,Online Web,No,46,No
+TXN-800150,2024-09-20,Checking,Groceries,268,4.82,Mobile App,Yes,5,No
+TXN-800151,2024-08-22,Business Platinum,Restaurants,23,0.41,Online Web,No,15,No
+TXN-800152,2024-11-12,Savings,Utilities,67,1.21,Online Web,No,3,No
+TXN-800153,2024-09-10,Business Platinum,Entertainment,510,9.18,Mobile App,No,21,No
+TXN-800154,2024-08-02,Business Platinum,Utilities,176,3.17,Online Web,Yes,5,No
+TXN-800155,2024-03-09,Checking,Gas Stations,125,2.25,ATM,No,41,No
+TXN-800156,2024-03-05,Savings,Restaurants,52,0.94,Mobile App,No,19,No
+TXN-800157,2024-05-29,Savings,Restaurants,47,0.85,Mobile App,No,44,No
+TXN-800158,2024-12-19,Checking,Entertainment,420,7.56,Online Web,No,13,No
+TXN-800159,2024-05-05,Checking,Restaurants,82,1.48,Online Web,Yes,1,No
+TXN-800160,2024-01-03,Credit Card,Utilities,108,1.94,Mobile App,No,49,No
+TXN-800161,2024-01-19,Credit Card,Restaurants,16,0.29,Online Web,Yes,37,No
+TXN-800162,2024-08-18,Checking,Utilities,44,0.79,In-Store POS,No,35,No
+TXN-800163,2024-10-10,Business Platinum,Entertainment,85,1.53,Mobile App,No,4,No
+TXN-800164,2024-06-16,Credit Card,Utilities,43,0.77,Online Web,No,1,No
+TXN-800165,2024-01-01,Savings,Airlines & Travel,133,2.39,In-Store POS,No,31,No
+TXN-800166,2024-10-11,Checking,Utilities,73,1.31,Mobile App,No,22,No
+TXN-800167,2024-12-25,Credit Card,Utilities,6,0.11,Mobile App,Yes,37,No
+TXN-800168,2024-12-23,Savings,Online Retail,9,0.16,Mobile App,No,38,No
+TXN-800169,2024-03-10,Checking,Utilities,62,1.12,In-Store POS,No,47,No
+TXN-800170,2024-11-02,Savings,Groceries,15,0.27,In-Store POS,No,24,No
+TXN-800171,2024-04-16,Savings,Restaurants,44,0.79,Online Web,No,39,No
+TXN-800172,2024-10-11,Credit Card,Restaurants,7,0.13,In-Store POS,Yes,24,No
+TXN-800173,2024-03-12,Business Platinum,Gas Stations,213,3.83,Mobile App,No,25,No
+TXN-800174,2024-05-27,Savings,Airlines & Travel,145,2.61,Online Web,No,19,No
+TXN-800175,2024-03-03,Savings,Groceries,707,12.73,In-Store POS,No,50,No
+TXN-800176,2024-12-26,Credit Card,Groceries,48,0.86,In-Store POS,No,34,No
+TXN-800177,2024-01-06,Savings,Groceries,238,4.28,ATM,No,42,No
+TXN-800178,2024-04-26,Checking,Entertainment,91,1.64,In-Store POS,No,47,No
+TXN-800179,2024-10-13,Business Platinum,Utilities,20,0.36,ATM,No,32,No
+TXN-800180,2024-07-29,Checking,Gas Stations,105,1.89,In-Store POS,No,39,No
+TXN-800181,2024-07-23,Checking,Groceries,405,7.29,ATM,Yes,32,No
+TXN-800182,2024-07-25,Credit Card,Entertainment,53,0.95,Mobile App,No,37,No
+TXN-800183,2024-05-08,Savings,Utilities,157,2.83,In-Store POS,No,52,No
+TXN-800184,2024-12-10,Credit Card,Gas Stations,340,6.12,Mobile App,No,1,No
+TXN-800185,2024-01-31,Business Platinum,Groceries,140,2.52,In-Store POS,No,41,No
+TXN-800186,2024-06-28,Credit Card,Entertainment,51,0.92,Online Web,No,33,No
+TXN-800187,2024-03-22,Checking,Restaurants,7,0.13,Online Web,Yes,2,No
+TXN-800188,2024-11-13,Checking,Utilities,23,0.41,In-Store POS,No,8,No
+TXN-800189,2024-04-08,Savings,Entertainment,126,2.27,ATM,No,23,No
+TXN-800190,2024-07-21,Savings,Entertainment,141,2.54,In-Store POS,No,47,No
+TXN-800191,2024-08-02,Savings,Restaurants,89,1.6,ATM,No,1,No
+TXN-800192,2024-02-06,Business Platinum,Restaurants,199,3.58,ATM,No,10,No
+TXN-800193,2024-11-19,Business Platinum,Restaurants,197,3.55,In-Store POS,No,26,No
+TXN-800194,2024-09-26,Checking,Restaurants,125,2.25,Mobile App,No,17,No
+TXN-800195,2024-09-16,Checking,Airlines & Travel,13,0.23,Mobile App,No,5,No
+TXN-800196,2024-08-02,Credit Card,Entertainment,53,0.95,ATM,Yes,17,No
+TXN-800197,2024-02-22,Savings,Online Retail,131,2.36,In-Store POS,No,55,No
+TXN-800198,2024-03-24,Checking,Restaurants,176,3.17,Mobile App,Yes,2,No
+TXN-800199,2024-09-10,Business Platinum,Airlines & Travel,157,2.83,ATM,No,42,No
+TXN-800200,2024-09-07,Business Platinum,Online Retail,25,0.45,Online Web,No,1,No
+TXN-800201,2024-02-15,Savings,Online Retail,84,1.51,In-Store POS,No,1,No
+TXN-800202,2024-01-19,Savings,Entertainment,130,2.34,ATM,No,25,No
+TXN-800203,2024-04-17,Checking,Restaurants,64,1.15,Mobile App,No,56,No
+TXN-800204,2024-08-09,Business Platinum,Utilities,228,4.1,ATM,Yes,23,No
+TXN-800205,2024-12-30,Checking,Restaurants,49,0.88,Mobile App,Yes,42,No
+TXN-800206,2024-06-29,Savings,Entertainment,369,6.64,ATM,No,10,No
+TXN-800207,2024-05-01,Checking,Gas Stations,52,0.94,Mobile App,No,35,No
+TXN-800208,2024-09-24,Savings,Gas Stations,236,4.25,ATM,No,34,No
+TXN-800209,2024-01-05,Checking,Online Retail,240,4.32,ATM,No,33,No
+TXN-800210,2024-11-15,Checking,Airlines & Travel,87,1.57,Online Web,No,10,No
+TXN-800211,2024-07-14,Business Platinum,Restaurants,371,6.68,ATM,No,10,No
+TXN-800212,2024-07-09,Savings,Utilities,72,1.3,Online Web,No,1,No
+TXN-800213,2024-05-20,Credit Card,Restaurants,345,6.21,Mobile App,No,21,No
+TXN-800214,2024-10-13,Checking,Online Retail,56,1.01,In-Store POS,No,46,No
+TXN-800215,2024-12-22,Checking,Online Retail,17,0.31,Mobile App,No,1,No
+TXN-800216,2024-03-29,Credit Card,Restaurants,28,0.5,In-Store POS,No,22,No
+TXN-800217,2024-04-17,Savings,Online Retail,119,2.14,In-Store POS,No,8,No
+TXN-800218,2024-09-06,Checking,Groceries,415,7.47,Online Web,No,22,No
+TXN-800219,2024-03-18,Savings,Utilities,183,3.29,In-Store POS,Yes,45,No
+TXN-800220,2024-10-18,Checking,Airlines & Travel,40,0.72,In-Store POS,No,11,No
+TXN-800221,2024-11-01,Business Platinum,Online Retail,45,0.81,Online Web,Yes,23,No
+TXN-800222,2024-12-12,Savings,Groceries,9,0.16,In-Store POS,No,7,No
+TXN-800223,2024-07-21,Business Platinum,Restaurants,52,0.94,In-Store POS,No,8,No
+TXN-800224,2024-04-16,Checking,Entertainment,232,4.18,Online Web,Yes,39,No
+TXN-800225,2024-04-30,Credit Card,Gas Stations,89,1.6,Mobile App,Yes,32,No
+TXN-800226,2024-03-11,Business Platinum,Entertainment,43,0.77,Mobile App,No,22,No
+TXN-800227,2024-07-13,Credit Card,Airlines & Travel,491,8.84,Mobile App,No,32,No
+TXN-800228,2024-09-21,Checking,Gas Stations,24,0.43,Online Web,No,21,No
+TXN-800229,2024-01-16,Checking,Airlines & Travel,243,4.37,In-Store POS,No,69,No
+TXN-800230,2024-10-22,Savings,Entertainment,79,1.42,Online Web,No,64,No
+TXN-800231,2024-02-05,Credit Card,Airlines & Travel,72,1.3,Online Web,No,11,No
+TXN-800232,2024-06-07,Credit Card,Gas Stations,89,1.6,ATM,No,12,No
+TXN-800233,2024-10-04,Credit Card,Online Retail,476,8.57,ATM,Yes,1,No
+TXN-800234,2024-08-01,Checking,Online Retail,38,0.68,In-Store POS,No,49,No
+TXN-800235,2024-10-26,Credit Card,Groceries,24,0.43,Mobile App,No,4,No
+TXN-800236,2024-10-28,Checking,Online Retail,86,1.55,ATM,No,16,No
+TXN-800237,2024-07-09,Business Platinum,Restaurants,96,1.73,In-Store POS,Yes,47,No
+TXN-800238,2024-07-16,Business Platinum,Utilities,111,2.0,Mobile App,No,19,No
+TXN-800239,2024-05-19,Credit Card,Groceries,50,0.9,Online Web,No,15,No
+TXN-800240,2024-04-14,Savings,Groceries,813,14.63,ATM,No,41,No
+TXN-800241,2024-09-13,Checking,Airlines & Travel,46,0.83,Online Web,No,12,No
+TXN-800242,2024-08-18,Checking,Utilities,80,1.44,Online Web,No,28,No
+TXN-800243,2024-09-09,Credit Card,Groceries,185,3.33,Online Web,No,32,No
+TXN-800244,2024-03-28,Savings,Airlines & Travel,49,0.88,In-Store POS,No,60,No
+TXN-800245,2024-10-04,Credit Card,Airlines & Travel,152,2.74,ATM,No,4,No
+TXN-800246,2024-07-29,Savings,Groceries,270,4.86,Online Web,No,40,No
+TXN-800247,2024-04-11,Checking,Utilities,84,1.51,ATM,No,27,No
+TXN-800248,2024-04-03,Savings,Utilities,35,0.63,ATM,No,48,No
+TXN-800249,2024-09-12,Business Platinum,Online Retail,84,1.51,Online Web,No,38,No
+TXN-800250,2024-06-12,Checking,Entertainment,28,0.5,Mobile App,No,8,No
+TXN-800251,2024-10-27,Credit Card,Online Retail,144,2.59,Online Web,No,19,No
+TXN-800252,2024-11-03,Checking,Airlines & Travel,247,4.45,ATM,No,1,No
+TXN-800253,2024-06-25,Business Platinum,Utilities,28,0.5,Mobile App,No,67,No
+TXN-800254,2024-12-02,Checking,Online Retail,86,1.55,Online Web,No,14,No
+TXN-800255,2024-01-18,Business Platinum,Restaurants,314,5.65,Online Web,Yes,19,No
+TXN-800256,2024-12-26,Credit Card,Entertainment,145,2.61,Online Web,No,47,No
+TXN-800257,2024-02-24,Savings,Online Retail,126,2.27,In-Store POS,No,33,No
+TXN-800258,2024-09-25,Checking,Airlines & Travel,5,0.09,Mobile App,No,35,No
+TXN-800259,2024-05-31,Business Platinum,Entertainment,194,3.49,Mobile App,Yes,1,No
+TXN-800260,2024-10-21,Business Platinum,Gas Stations,22,0.4,Mobile App,No,47,No
+TXN-800261,2024-06-23,Credit Card,Online Retail,208,3.74,In-Store POS,No,35,No
+TXN-800262,2024-07-21,Business Platinum,Restaurants,109,1.96,In-Store POS,No,18,No
+TXN-800263,2024-04-04,Checking,Groceries,444,7.99,Mobile App,No,28,No
+TXN-800264,2024-06-19,Checking,Restaurants,276,4.97,ATM,No,9,No
+TXN-800265,2024-02-29,Credit Card,Online Retail,86,1.55,ATM,Yes,18,No
+TXN-800266,2024-02-19,Credit Card,Online Retail,138,2.48,Mobile App,No,10,No
+TXN-800267,2024-01-26,Savings,Restaurants,155,2.79,Mobile App,Yes,21,No
+TXN-800268,2024-04-15,Credit Card,Restaurants,47,0.85,ATM,No,30,No
+TXN-800269,2024-08-07,Savings,Groceries,385,6.93,In-Store POS,No,1,No
+TXN-800270,2024-10-02,Checking,Utilities,151,2.72,Mobile App,No,1,No
+TXN-800271,2024-08-18,Checking,Restaurants,99,1.78,In-Store POS,Yes,31,No
+TXN-800272,2024-07-16,Credit Card,Utilities,18,0.32,Mobile App,No,46,No
+TXN-800273,2024-08-14,Savings,Online Retail,765,13.77,Online Web,Yes,43,No
+TXN-800274,2024-12-25,Business Platinum,Gas Stations,406,7.31,ATM,No,5,No
+TXN-800275,2024-02-27,Savings,Utilities,49,0.88,Online Web,No,34,No
+TXN-800276,2024-09-29,Business Platinum,Entertainment,99,1.78,ATM,No,11,No
+TXN-800277,2024-06-21,Business Platinum,Entertainment,53,0.95,Online Web,No,48,No
+TXN-800278,2024-11-03,Checking,Entertainment,57,1.03,In-Store POS,No,3,No
+TXN-800279,2024-11-05,Business Platinum,Airlines & Travel,120,2.16,In-Store POS,No,8,No
+TXN-800280,2024-04-14,Credit Card,Online Retail,45,0.81,In-Store POS,No,32,No
+TXN-800281,2024-11-07,Savings,Groceries,23,0.41,In-Store POS,No,1,No
+TXN-800282,2024-12-16,Savings,Online Retail,36,0.65,Online Web,No,18,No
+TXN-800283,2024-03-30,Credit Card,Airlines & Travel,118,2.12,Mobile App,Yes,40,No
+TXN-800284,2024-07-20,Credit Card,Restaurants,293,5.27,ATM,No,12,No
+TXN-800285,2024-07-04,Business Platinum,Online Retail,14,0.25,In-Store POS,No,24,No
+TXN-800286,2024-10-14,Business Platinum,Airlines & Travel,110,1.98,Mobile App,No,3,No
+TXN-800287,2024-08-19,Business Platinum,Airlines & Travel,45,0.81,Online Web,Yes,56,No
+TXN-800288,2024-01-02,Savings,Groceries,98,1.76,In-Store POS,No,59,No
+TXN-800289,2024-09-28,Savings,Restaurants,12,0.22,ATM,No,24,No
+TXN-800290,2024-11-01,Credit Card,Entertainment,202,3.64,Online Web,Yes,13,No
+TXN-800291,2024-08-17,Checking,Utilities,24,0.43,ATM,No,1,No
+TXN-800292,2024-05-24,Credit Card,Restaurants,293,5.27,In-Store POS,No,44,No
+TXN-800293,2024-01-26,Business Platinum,Gas Stations,154,2.77,Online Web,No,23,No
+TXN-800294,2024-04-17,Business Platinum,Groceries,101,1.82,ATM,No,55,No
+TXN-800295,2024-09-13,Checking,Online Retail,158,2.84,In-Store POS,Yes,38,No
+TXN-800296,2024-09-20,Credit Card,Entertainment,204,3.67,In-Store POS,No,78,No
+TXN-800297,2024-01-25,Savings,Online Retail,84,1.51,In-Store POS,No,21,No
+TXN-800298,2024-09-14,Savings,Utilities,13,0.23,ATM,Yes,46,No
+TXN-800299,2024-01-21,Credit Card,Gas Stations,43,0.77,Online Web,No,33,No
+TXN-800300,2024-07-12,Savings,Restaurants,227,4.09,Mobile App,No,34,No
+TXN-800301,2024-11-08,Business Platinum,Airlines & Travel,30,0.54,In-Store POS,No,25,No
+TXN-800302,2024-09-08,Business Platinum,Utilities,49,0.88,In-Store POS,Yes,39,No
+TXN-800303,2024-10-08,Savings,Utilities,38,0.68,Mobile App,Yes,57,No
+TXN-800304,2024-01-06,Savings,Groceries,56,1.01,Online Web,No,50,No
+TXN-800305,2024-08-25,Savings,Gas Stations,233,4.19,Online Web,No,31,No
+TXN-800306,2024-05-18,Savings,Groceries,107,1.93,ATM,No,1,No
+TXN-800307,2024-11-11,Checking,Utilities,32,0.58,Online Web,No,9,No
+TXN-800308,2024-03-13,Savings,Restaurants,29,0.52,ATM,No,26,No
+TXN-800309,2024-05-13,Credit Card,Airlines & Travel,26,0.47,Mobile App,No,8,No
+TXN-800310,2024-06-08,Credit Card,Gas Stations,49,0.88,In-Store POS,No,16,No
+TXN-800311,2024-11-09,Credit Card,Online Retail,49,0.88,Online Web,No,26,No
+TXN-800312,2024-12-03,Business Platinum,Groceries,173,3.11,ATM,No,33,No
+TXN-800313,2024-08-27,Savings,Groceries,170,3.06,In-Store POS,No,8,No
+TXN-800314,2024-08-09,Savings,Restaurants,93,1.67,Online Web,No,7,No
+TXN-800315,2024-06-15,Business Platinum,Airlines & Travel,202,3.64,Mobile App,Yes,43,No
+TXN-800316,2024-08-03,Checking,Airlines & Travel,31,0.56,ATM,No,29,No
+TXN-800317,2024-12-14,Business Platinum,Groceries,12,0.22,ATM,Yes,1,No
+TXN-800318,2024-05-02,Credit Card,Utilities,32,0.58,ATM,Yes,50,No
+TXN-800319,2024-12-02,Business Platinum,Online Retail,71,1.28,Online Web,No,35,No
+TXN-800320,2024-02-13,Credit Card,Airlines & Travel,135,2.43,ATM,No,1,No
+TXN-800321,2024-10-21,Business Platinum,Restaurants,234,4.21,In-Store POS,No,30,No
+TXN-800322,2024-12-04,Checking,Restaurants,49,0.88,In-Store POS,No,37,No
+TXN-800323,2024-11-19,Business Platinum,Airlines & Travel,5,0.09,ATM,No,1,No
+TXN-800324,2024-03-08,Business Platinum,Groceries,15,0.27,Mobile App,No,15,No
+TXN-800325,2024-05-11,Business Platinum,Entertainment,38,0.68,ATM,No,1,No
+TXN-800326,2024-03-04,Credit Card,Restaurants,15,0.27,In-Store POS,No,1,No
+TXN-800327,2024-06-22,Credit Card,Airlines & Travel,213,3.83,In-Store POS,No,13,No
+TXN-800328,2024-03-03,Checking,Utilities,98,1.76,Mobile App,No,33,No
+TXN-800329,2024-01-29,Credit Card,Online Retail,651,11.72,Mobile App,No,9,No
+TXN-800330,2024-10-20,Checking,Online Retail,120,2.16,Online Web,No,11,No
+TXN-800331,2024-02-15,Business Platinum,Entertainment,192,3.46,ATM,No,14,No
+TXN-800332,2024-11-26,Savings,Gas Stations,14,0.25,Mobile App,No,35,No
+TXN-800333,2024-12-22,Credit Card,Restaurants,366,6.59,Mobile App,No,31,No
+TXN-800334,2024-08-06,Savings,Restaurants,64,1.15,Mobile App,No,53,No
+TXN-800335,2024-06-04,Checking,Restaurants,154,2.77,Mobile App,No,1,No
+TXN-800336,2024-08-11,Checking,Groceries,16,0.29,Mobile App,Yes,1,No
+TXN-800337,2024-09-06,Savings,Restaurants,136,2.45,Mobile App,No,37,No
+TXN-800338,2024-09-16,Credit Card,Groceries,31,0.56,Mobile App,No,1,No
+TXN-800339,2024-01-04,Credit Card,Online Retail,39,0.7,In-Store POS,No,10,No
+TXN-800340,2024-06-26,Business Platinum,Gas Stations,237,4.27,ATM,Yes,12,No
+TXN-800341,2024-12-07,Credit Card,Online Retail,19,0.34,ATM,No,1,No
+TXN-800342,2024-04-30,Savings,Restaurants,107,1.93,ATM,No,38,No
+TXN-800343,2024-10-06,Savings,Restaurants,66,1.19,Online Web,No,28,No
+TXN-800344,2024-06-18,Credit Card,Online Retail,144,2.59,Online Web,No,13,No
+TXN-800345,2024-04-05,Credit Card,Restaurants,13,0.23,ATM,No,23,No
+TXN-800346,2024-12-01,Checking,Restaurants,171,3.08,In-Store POS,Yes,28,No
+TXN-800347,2024-03-08,Checking,Utilities,110,1.98,ATM,No,1,No
+TXN-800348,2024-10-06,Checking,Entertainment,34,0.61,In-Store POS,No,6,No
+TXN-800349,2024-07-16,Savings,Online Retail,52,0.94,In-Store POS,Yes,16,No
+TXN-800350,2024-12-16,Savings,Airlines & Travel,246,4.43,Mobile App,No,1,No
+TXN-800351,2024-02-14,Savings,Entertainment,98,1.76,Online Web,No,55,No
+TXN-800352,2024-11-23,Business Platinum,Groceries,156,2.81,In-Store POS,Yes,47,No
+TXN-800353,2024-02-23,Savings,Restaurants,79,1.42,Mobile App,No,19,No
+TXN-800354,2024-10-18,Checking,Online Retail,162,2.92,In-Store POS,No,33,No
+TXN-800355,2024-01-03,Business Platinum,Gas Stations,29,0.52,Online Web,Yes,6,No
+TXN-800356,2024-07-06,Business Platinum,Groceries,51,0.92,In-Store POS,No,25,No
+TXN-800357,2024-04-01,Checking,Groceries,172,3.1,Online Web,No,25,No
+TXN-800358,2024-02-16,Business Platinum,Entertainment,151,2.72,Mobile App,No,14,No
+TXN-800359,2024-04-29,Checking,Restaurants,373,6.71,Online Web,No,49,No
+TXN-800360,2024-04-19,Credit Card,Entertainment,280,5.04,In-Store POS,No,5,No
+TXN-800361,2024-11-25,Checking,Restaurants,92,1.66,ATM,No,7,No
+TXN-800362,2024-09-25,Credit Card,Restaurants,107,1.93,Online Web,No,50,No
+TXN-800363,2024-04-14,Checking,Utilities,130,2.34,ATM,No,18,No
+TXN-800364,2024-01-01,Business Platinum,Gas Stations,151,2.72,In-Store POS,Yes,17,No
+TXN-800365,2024-09-16,Business Platinum,Utilities,13,0.23,ATM,No,28,No
+TXN-800366,2024-07-26,Credit Card,Online Retail,110,1.98,In-Store POS,Yes,28,No
+TXN-800367,2024-06-07,Business Platinum,Online Retail,37,0.67,In-Store POS,No,19,No
+TXN-800368,2024-02-14,Business Platinum,Airlines & Travel,78,1.4,Mobile App,No,27,No
+TXN-800369,2024-02-23,Business Platinum,Entertainment,53,0.95,ATM,No,19,No
+TXN-800370,2024-07-15,Savings,Airlines & Travel,68,1.22,Mobile App,Yes,37,No
+TXN-800371,2024-02-28,Savings,Gas Stations,90,1.62,ATM,Yes,1,No
+TXN-800372,2024-10-23,Business Platinum,Utilities,177,3.19,In-Store POS,No,50,No
+TXN-800373,2024-07-25,Checking,Entertainment,285,5.13,Mobile App,Yes,30,No
+TXN-800374,2024-05-26,Savings,Gas Stations,8,0.14,Mobile App,Yes,10,No
+TXN-800375,2024-09-04,Savings,Entertainment,14,0.25,Online Web,No,1,No
+TXN-800376,2024-10-30,Savings,Groceries,57,1.03,In-Store POS,No,39,No
+TXN-800377,2024-08-16,Savings,Utilities,43,0.77,Mobile App,No,29,No
+TXN-800378,2024-05-18,Savings,Groceries,296,5.33,Online Web,No,59,No
+TXN-800379,2024-06-20,Checking,Airlines & Travel,57,1.03,In-Store POS,No,1,No
+TXN-800380,2024-08-14,Credit Card,Airlines & Travel,36,0.65,ATM,No,26,No
+TXN-800381,2024-09-07,Business Platinum,Groceries,181,3.26,ATM,No,28,No
+TXN-800382,2024-06-24,Business Platinum,Entertainment,63,1.13,In-Store POS,No,20,No
+TXN-800383,2024-10-20,Business Platinum,Gas Stations,141,2.54,In-Store POS,Yes,16,No
+TXN-800384,2024-04-25,Checking,Entertainment,118,2.12,Online Web,No,10,No
+TXN-800385,2024-07-18,Credit Card,Online Retail,17,0.31,Mobile App,No,34,No
+TXN-800386,2024-08-13,Business Platinum,Groceries,87,1.57,ATM,No,59,No
+TXN-800387,2024-12-15,Checking,Entertainment,197,3.55,Mobile App,No,33,No
+TXN-800388,2024-01-12,Credit Card,Airlines & Travel,208,3.74,ATM,No,30,No
+TXN-800389,2024-10-29,Credit Card,Entertainment,58,1.04,Mobile App,No,25,No
+TXN-800390,2024-11-06,Savings,Entertainment,100,1.8,Online Web,No,1,No
+TXN-800391,2024-07-31,Business Platinum,Online Retail,469,8.44,Mobile App,No,27,No
+TXN-800392,2024-01-28,Savings,Airlines & Travel,50,0.9,In-Store POS,No,2,No
+TXN-800393,2024-09-02,Savings,Airlines & Travel,56,1.01,Online Web,No,37,No
+TXN-800394,2024-01-20,Credit Card,Airlines & Travel,221,3.98,Mobile App,No,34,No
+TXN-800395,2024-02-02,Savings,Airlines & Travel,86,1.55,ATM,Yes,17,No
+TXN-800396,2024-12-08,Business Platinum,Entertainment,90,1.62,Online Web,No,53,No
+TXN-800397,2024-09-07,Credit Card,Online Retail,74,1.33,ATM,Yes,1,No
+TXN-800398,2024-07-22,Business Platinum,Entertainment,7,0.13,In-Store POS,Yes,33,No
+TXN-800399,2024-08-28,Checking,Gas Stations,290,5.22,ATM,No,55,No
+TXN-800400,2024-05-08,Savings,Airlines & Travel,183,3.29,Mobile App,No,88,Yes
+TXN-800401,2024-07-22,Credit Card,Gas Stations,317,5.71,In-Store POS,No,16,No
+TXN-800402,2024-12-28,Savings,Online Retail,222,4.0,ATM,No,34,No
+TXN-800403,2024-10-01,Business Platinum,Airlines & Travel,11,0.2,Online Web,No,40,No
+TXN-800404,2024-03-19,Savings,Restaurants,216,3.89,Mobile App,No,7,No
+TXN-800405,2024-07-15,Business Platinum,Entertainment,9,0.16,Online Web,No,28,No
+TXN-800406,2024-08-15,Checking,Online Retail,236,4.25,Online Web,No,46,No
+TXN-800407,2024-06-17,Savings,Gas Stations,86,1.55,Mobile App,Yes,44,No
+TXN-800408,2024-06-30,Business Platinum,Airlines & Travel,113,2.03,Online Web,No,23,No
+TXN-800409,2024-03-18,Business Platinum,Entertainment,218,3.92,In-Store POS,No,19,No
+TXN-800410,2024-04-16,Checking,Gas Stations,62,1.12,In-Store POS,Yes,34,No
+TXN-800411,2024-02-26,Checking,Groceries,83,1.49,ATM,No,47,No
+TXN-800412,2024-03-27,Checking,Entertainment,46,0.83,Online Web,Yes,48,No
+TXN-800413,2024-10-15,Checking,Gas Stations,93,1.67,In-Store POS,Yes,30,No
+TXN-800414,2024-12-11,Business Platinum,Groceries,159,2.86,ATM,Yes,18,No
+TXN-800415,2024-12-12,Checking,Groceries,40,0.72,ATM,No,47,No
+TXN-800416,2024-08-20,Business Platinum,Online Retail,96,1.73,Mobile App,Yes,3,No
+TXN-800417,2024-09-28,Credit Card,Utilities,23,0.41,Mobile App,No,1,No
+TXN-800418,2024-12-13,Business Platinum,Gas Stations,212,3.82,ATM,No,12,No
+TXN-800419,2024-10-24,Savings,Entertainment,80,1.44,In-Store POS,No,32,No
+TXN-800420,2024-09-16,Credit Card,Entertainment,134,2.41,Mobile App,No,8,No
+TXN-800421,2024-08-13,Savings,Groceries,95,1.71,ATM,No,35,No
+TXN-800422,2024-11-17,Credit Card,Restaurants,97,1.75,Online Web,No,15,No
+TXN-800423,2024-09-06,Checking,Entertainment,19,0.34,In-Store POS,No,3,No
+TXN-800424,2024-11-14,Business Platinum,Online Retail,370,6.66,Mobile App,No,1,No
+TXN-800425,2024-09-21,Business Platinum,Online Retail,50,0.9,In-Store POS,No,33,No
+TXN-800426,2024-12-20,Business Platinum,Online Retail,164,2.95,Mobile App,No,33,No
+TXN-800427,2024-07-06,Savings,Online Retail,55,0.99,In-Store POS,No,3,No
+TXN-800428,2024-02-17,Credit Card,Gas Stations,151,2.72,Online Web,No,8,No
+TXN-800429,2024-08-13,Savings,Utilities,14,0.25,ATM,No,38,No
+TXN-800430,2024-07-29,Savings,Online Retail,286,5.15,In-Store POS,No,33,No
+TXN-800431,2024-06-29,Credit Card,Gas Stations,261,4.7,ATM,No,3,No
+TXN-800432,2024-11-13,Checking,Groceries,68,1.22,In-Store POS,Yes,12,No
+TXN-800433,2024-04-08,Business Platinum,Airlines & Travel,212,3.82,Mobile App,No,1,No
+TXN-800434,2024-11-02,Savings,Restaurants,353,6.35,ATM,Yes,40,No
+TXN-800435,2024-09-22,Checking,Online Retail,10,0.18,In-Store POS,No,51,No
+TXN-800436,2024-04-20,Savings,Online Retail,25,0.45,Online Web,No,29,No
+TXN-800437,2024-07-01,Savings,Online Retail,19,0.34,Mobile App,Yes,47,No
+TXN-800438,2024-03-27,Credit Card,Gas Stations,72,1.3,ATM,Yes,37,No
+TXN-800439,2024-11-06,Checking,Online Retail,288,5.18,Mobile App,No,24,No
+TXN-800440,2024-09-03,Savings,Gas Stations,30,0.54,ATM,Yes,8,No
+TXN-800441,2024-12-14,Credit Card,Groceries,355,6.39,Mobile App,Yes,16,No
+TXN-800442,2024-03-02,Checking,Airlines & Travel,175,3.15,Online Web,No,12,No
+TXN-800443,2024-06-22,Credit Card,Utilities,230,4.14,Online Web,No,39,No
+TXN-800444,2024-02-28,Savings,Airlines & Travel,56,1.01,Online Web,No,17,No
+TXN-800445,2024-05-24,Business Platinum,Groceries,91,1.64,Online Web,No,4,No
+TXN-800446,2024-02-26,Business Platinum,Online Retail,14,0.25,Mobile App,No,45,No
+TXN-800447,2024-03-23,Checking,Restaurants,110,1.98,Online Web,No,25,No
+TXN-800448,2024-03-06,Savings,Entertainment,58,1.04,ATM,No,8,No
+TXN-800449,2024-08-29,Credit Card,Airlines & Travel,367,6.61,Online Web,No,46,No
+TXN-800450,2024-09-23,Credit Card,Airlines & Travel,34,0.61,ATM,Yes,32,No
+TXN-800451,2024-01-16,Savings,Groceries,91,1.64,In-Store POS,Yes,25,No
+TXN-800452,2024-10-04,Business Platinum,Online Retail,222,4.0,ATM,No,6,No
+TXN-800453,2024-06-20,Credit Card,Groceries,37,0.67,In-Store POS,No,27,No
+TXN-800454,2024-02-12,Savings,Gas Stations,56,1.01,Mobile App,Yes,1,No
+TXN-800455,2024-03-01,Checking,Groceries,157,2.83,Online Web,No,65,No
+TXN-800456,2024-03-31,Credit Card,Gas Stations,20,0.36,Mobile App,No,4,No
+TXN-800457,2024-07-26,Credit Card,Utilities,6,0.11,Online Web,No,1,No
+TXN-800458,2024-02-10,Checking,Restaurants,144,2.59,Mobile App,No,22,No
+TXN-800459,2024-11-01,Savings,Restaurants,22,0.4,ATM,No,32,No
+TXN-800460,2024-05-08,Credit Card,Restaurants,292,5.26,Online Web,No,25,No
+TXN-800461,2024-02-07,Checking,Gas Stations,28,0.5,ATM,Yes,25,No
+TXN-800462,2024-02-26,Business Platinum,Entertainment,74,1.33,ATM,Yes,26,No
+TXN-800463,2024-08-10,Credit Card,Entertainment,350,6.3,Online Web,No,57,No
+TXN-800464,2024-09-10,Credit Card,Airlines & Travel,107,1.93,ATM,Yes,1,No
+TXN-800465,2024-04-06,Savings,Online Retail,53,0.95,ATM,No,43,No
+TXN-800466,2024-05-14,Savings,Restaurants,48,0.86,Mobile App,Yes,39,No
+TXN-800467,2024-12-21,Checking,Gas Stations,93,1.67,Online Web,No,40,No
+TXN-800468,2024-04-11,Credit Card,Entertainment,12,0.22,Mobile App,No,35,No
+TXN-800469,2024-03-23,Savings,Entertainment,399,7.18,ATM,No,50,No
+TXN-800470,2024-03-02,Checking,Entertainment,40,0.72,In-Store POS,No,16,No
+TXN-800471,2024-04-19,Business Platinum,Restaurants,474,8.53,Online Web,Yes,22,No
+TXN-800472,2024-09-12,Checking,Entertainment,61,1.1,Mobile App,No,29,No
+TXN-800473,2024-10-14,Checking,Entertainment,72,1.3,Online Web,Yes,47,No
+TXN-800474,2024-01-26,Credit Card,Utilities,143,2.57,Online Web,Yes,50,No
+TXN-800475,2024-03-26,Checking,Utilities,269,4.84,Mobile App,No,38,No
+TXN-800476,2024-03-17,Credit Card,Online Retail,55,0.99,Mobile App,No,1,No
+TXN-800477,2024-06-01,Savings,Airlines & Travel,208,3.74,ATM,No,28,No
+TXN-800478,2024-04-27,Credit Card,Online Retail,94,1.69,Mobile App,No,1,No
+TXN-800479,2024-07-26,Business Platinum,Restaurants,101,1.82,In-Store POS,No,17,No
+TXN-800480,2024-06-02,Credit Card,Entertainment,28,0.5,Mobile App,No,30,No
+TXN-800481,2024-05-28,Credit Card,Restaurants,153,2.75,In-Store POS,Yes,10,No
+TXN-800482,2024-10-18,Business Platinum,Restaurants,42,0.76,ATM,No,15,No
+TXN-800483,2024-08-30,Credit Card,Utilities,16,0.29,ATM,No,12,No
+TXN-800484,2024-11-14,Credit Card,Online Retail,22,0.4,ATM,No,23,No
+TXN-800485,2024-09-19,Savings,Entertainment,147,2.65,ATM,No,33,No
+TXN-800486,2024-10-09,Business Platinum,Utilities,69,1.24,Online Web,No,25,No
+TXN-800487,2024-12-26,Credit Card,Gas Stations,88,1.58,Online Web,No,22,No
+TXN-800488,2024-02-06,Business Platinum,Entertainment,126,2.27,Mobile App,No,4,No
+TXN-800489,2024-05-06,Credit Card,Online Retail,153,2.75,Online Web,No,24,No
+TXN-800490,2024-09-19,Credit Card,Restaurants,181,3.26,Online Web,No,1,No
+TXN-800491,2024-05-15,Business Platinum,Groceries,12,0.22,Mobile App,No,1,No
+TXN-800492,2024-11-06,Credit Card,Gas Stations,11,0.2,ATM,No,1,No
+TXN-800493,2024-02-27,Credit Card,Entertainment,347,6.25,In-Store POS,Yes,32,No
+TXN-800494,2024-03-29,Savings,Gas Stations,118,2.12,Online Web,Yes,33,No
+TXN-800495,2024-06-07,Checking,Airlines & Travel,5,0.09,ATM,No,1,No
+TXN-800496,2024-08-06,Savings,Entertainment,197,3.55,Online Web,No,27,No
+TXN-800497,2024-01-18,Savings,Restaurants,277,4.99,Mobile App,Yes,1,No
+TXN-800498,2024-05-19,Business Platinum,Groceries,81,1.46,Online Web,No,10,No
+TXN-800499,2024-12-01,Checking,Entertainment,137,2.47,Online Web,No,15,No
+TXN-800500,2024-06-15,Savings,Utilities,126,2.27,Online Web,Yes,18,No
+TXN-800501,2024-10-04,Checking,Airlines & Travel,27,0.49,ATM,No,24,No
+TXN-800502,2024-04-02,Credit Card,Utilities,179,3.22,ATM,No,19,No
+TXN-800503,2024-04-24,Savings,Online Retail,642,11.56,ATM,Yes,32,No
+TXN-800504,2024-11-17,Business Platinum,Entertainment,61,1.1,Online Web,No,1,No
+TXN-800505,2024-06-17,Credit Card,Online Retail,23,0.41,Online Web,Yes,8,No
+TXN-800506,2024-03-29,Checking,Online Retail,141,2.54,Mobile App,No,35,No
+TXN-800507,2024-11-17,Checking,Entertainment,81,1.46,In-Store POS,No,11,No
+TXN-800508,2024-02-15,Savings,Airlines & Travel,246,4.43,Mobile App,No,47,No
+TXN-800509,2024-11-28,Checking,Gas Stations,14,0.25,Online Web,No,8,No
+TXN-800510,2024-01-04,Business Platinum,Airlines & Travel,42,0.76,In-Store POS,No,33,No
+TXN-800511,2024-03-30,Checking,Airlines & Travel,54,0.97,ATM,No,37,No
+TXN-800512,2024-07-02,Credit Card,Groceries,286,5.15,Mobile App,No,58,No
+TXN-800513,2024-04-01,Credit Card,Groceries,19,0.34,Mobile App,No,53,No
+TXN-800514,2024-04-13,Checking,Utilities,142,2.56,Online Web,No,31,No
+TXN-800515,2024-12-30,Business Platinum,Gas Stations,515,9.27,Mobile App,No,15,No
+TXN-800516,2024-01-06,Credit Card,Utilities,138,2.48,In-Store POS,No,7,No
+TXN-800517,2024-04-12,Savings,Online Retail,210,3.78,Online Web,Yes,19,No
+TXN-800518,2024-12-14,Credit Card,Airlines & Travel,30,0.54,Mobile App,No,40,No
+TXN-800519,2024-03-03,Credit Card,Restaurants,9,0.16,Online Web,No,24,No
+TXN-800520,2024-04-19,Checking,Online Retail,48,0.86,ATM,No,49,No
+TXN-800521,2024-10-02,Checking,Gas Stations,67,1.21,In-Store POS,No,16,No
+TXN-800522,2024-06-01,Checking,Online Retail,108,1.94,Online Web,No,1,No
+TXN-800523,2024-09-03,Savings,Utilities,118,2.12,In-Store POS,Yes,26,No
+TXN-800524,2024-03-25,Credit Card,Restaurants,35,0.63,In-Store POS,No,40,No
+TXN-800525,2024-04-01,Business Platinum,Gas Stations,139,2.5,Mobile App,No,11,No
+TXN-800526,2024-01-20,Credit Card,Online Retail,553,9.95,In-Store POS,No,4,No
+TXN-800527,2024-03-17,Savings,Entertainment,134,2.41,ATM,No,40,No
+TXN-800528,2024-07-15,Checking,Groceries,46,0.83,ATM,No,16,No
+TXN-800529,2024-10-16,Business Platinum,Entertainment,17,0.31,Mobile App,No,16,No
+TXN-800530,2024-03-09,Credit Card,Restaurants,74,1.33,In-Store POS,No,1,No
+TXN-800531,2024-10-27,Savings,Utilities,124,2.23,ATM,No,1,No
+TXN-800532,2024-10-20,Checking,Airlines & Travel,47,0.85,Mobile App,No,16,No
+TXN-800533,2024-05-16,Savings,Groceries,122,2.2,In-Store POS,No,30,No
+TXN-800534,2024-03-13,Business Platinum,Online Retail,51,0.92,Mobile App,No,15,No
+TXN-800535,2024-12-30,Business Platinum,Entertainment,13,0.23,In-Store POS,No,46,No
+TXN-800536,2024-09-05,Savings,Gas Stations,144,2.59,In-Store POS,No,14,No
+TXN-800537,2024-10-15,Credit Card,Online Retail,195,3.51,Mobile App,Yes,9,No
+TXN-800538,2024-07-31,Checking,Online Retail,92,1.66,ATM,No,3,No
+TXN-800539,2024-09-19,Checking,Entertainment,219,3.94,Online Web,Yes,24,No
+TXN-800540,2024-09-15,Credit Card,Groceries,13,0.23,Mobile App,No,23,No
+TXN-800541,2024-06-09,Checking,Entertainment,44,0.79,Online Web,No,24,No
+TXN-800542,2024-09-14,Savings,Gas Stations,22,0.4,Online Web,No,20,No
+TXN-800543,2024-08-17,Checking,Entertainment,50,0.9,Online Web,No,42,No
+TXN-800544,2024-12-05,Savings,Entertainment,67,1.21,Online Web,Yes,1,No
+TXN-800545,2024-11-06,Business Platinum,Online Retail,78,1.4,Mobile App,No,35,No
+TXN-800546,2024-02-28,Checking,Online Retail,35,0.63,In-Store POS,No,1,No
+TXN-800547,2024-06-20,Savings,Gas Stations,300,5.4,In-Store POS,No,39,No
+TXN-800548,2024-05-24,Credit Card,Entertainment,136,2.45,In-Store POS,Yes,45,No
+TXN-800549,2024-10-28,Business Platinum,Utilities,63,1.13,ATM,No,40,No
+TXN-800550,2024-05-23,Savings,Gas Stations,116,2.09,ATM,No,36,No
+TXN-800551,2024-04-07,Credit Card,Airlines & Travel,23,0.41,In-Store POS,No,14,No
+TXN-800552,2024-09-26,Checking,Utilities,176,3.17,ATM,Yes,24,No
+TXN-800553,2024-07-12,Credit Card,Online Retail,99,1.78,ATM,Yes,34,No
+TXN-800554,2024-03-04,Business Platinum,Utilities,76,1.37,In-Store POS,No,15,No
+TXN-800555,2024-04-13,Business Platinum,Utilities,210,3.78,Online Web,Yes,28,No
+TXN-800556,2024-03-01,Savings,Online Retail,168,3.02,Mobile App,No,38,No
+TXN-800557,2024-12-22,Business Platinum,Restaurants,195,3.51,Mobile App,No,1,No
+TXN-800558,2024-08-02,Savings,Utilities,79,1.42,In-Store POS,Yes,45,No
+TXN-800559,2024-09-08,Business Platinum,Airlines & Travel,243,4.37,Online Web,No,21,No
+TXN-800560,2024-06-22,Business Platinum,Utilities,10,0.18,Online Web,Yes,10,No
+TXN-800561,2024-04-04,Credit Card,Online Retail,165,2.97,ATM,Yes,39,No
+TXN-800562,2024-05-11,Checking,Entertainment,669,12.04,Online Web,No,27,No
+TXN-800563,2024-04-22,Checking,Airlines & Travel,480,8.64,In-Store POS,Yes,30,No
+TXN-800564,2024-09-23,Business Platinum,Restaurants,84,1.51,ATM,No,50,No
+TXN-800565,2024-02-11,Credit Card,Gas Stations,92,1.66,Online Web,No,1,No
+TXN-800566,2024-07-21,Savings,Online Retail,124,2.23,Online Web,No,7,No
+TXN-800567,2024-03-19,Checking,Airlines & Travel,118,2.12,Online Web,No,1,No
+TXN-800568,2024-08-28,Business Platinum,Airlines & Travel,5,0.09,ATM,No,38,No
+TXN-800569,2024-09-15,Checking,Restaurants,11,0.2,In-Store POS,No,12,No
+TXN-800570,2024-09-28,Business Platinum,Groceries,12,0.22,In-Store POS,No,54,No
+TXN-800571,2024-11-20,Business Platinum,Restaurants,776,13.97,ATM,No,41,No
+TXN-800572,2024-11-07,Savings,Restaurants,8,0.14,In-Store POS,No,38,No
+TXN-800573,2024-05-07,Checking,Restaurants,16,0.29,Online Web,No,15,No
+TXN-800574,2024-08-03,Credit Card,Utilities,47,0.85,Online Web,No,41,No
+TXN-800575,2024-10-18,Savings,Gas Stations,92,1.66,ATM,No,1,No
+TXN-800576,2024-12-02,Savings,Airlines & Travel,276,4.97,Online Web,No,57,No
+TXN-800577,2024-01-03,Credit Card,Airlines & Travel,141,2.54,In-Store POS,No,11,No
+TXN-800578,2024-02-12,Business Platinum,Gas Stations,73,1.31,In-Store POS,No,45,No
+TXN-800579,2024-11-13,Checking,Restaurants,19,0.34,ATM,No,30,No
+TXN-800580,2024-01-11,Business Platinum,Gas Stations,119,2.14,Online Web,Yes,8,No
+TXN-800581,2024-08-17,Checking,Restaurants,37,0.67,Mobile App,No,76,No
+TXN-800582,2024-02-17,Credit Card,Entertainment,85,1.53,ATM,No,42,No
+TXN-800583,2024-06-06,Savings,Restaurants,536,9.65,In-Store POS,No,20,No
+TXN-800584,2024-07-19,Credit Card,Airlines & Travel,327,5.89,Mobile App,Yes,49,No
+TXN-800585,2024-04-05,Business Platinum,Entertainment,156,2.81,Online Web,No,25,No
+TXN-800586,2024-10-04,Checking,Groceries,30,0.54,Online Web,No,6,No
+TXN-800587,2024-04-06,Savings,Online Retail,25,0.45,ATM,No,9,No
+TXN-800588,2024-04-21,Credit Card,Online Retail,47,0.85,ATM,Yes,10,No
+TXN-800589,2024-04-05,Business Platinum,Groceries,55,0.99,ATM,No,74,No
+TXN-800590,2024-01-06,Checking,Online Retail,64,1.15,Online Web,No,22,No
+TXN-800591,2024-04-14,Business Platinum,Airlines & Travel,84,1.51,In-Store POS,No,1,No
+TXN-800592,2024-02-29,Savings,Utilities,85,1.53,In-Store POS,No,33,No
+TXN-800593,2024-05-21,Business Platinum,Restaurants,120,2.16,Mobile App,No,40,No
+TXN-800594,2024-09-28,Credit Card,Online Retail,9,0.16,In-Store POS,Yes,27,No
+TXN-800595,2024-10-15,Business Platinum,Groceries,55,0.99,Online Web,No,5,No
+TXN-800596,2024-10-10,Credit Card,Utilities,170,3.06,ATM,Yes,14,No
+TXN-800597,2024-02-18,Credit Card,Groceries,186,3.35,ATM,No,38,No
+TXN-800598,2024-03-15,Business Platinum,Gas Stations,30,0.54,Mobile App,Yes,22,No
+TXN-800599,2024-11-05,Credit Card,Airlines & Travel,78,1.4,Mobile App,No,3,No
+TXN-800600,2024-01-09,Checking,Groceries,33,0.59,Online Web,Yes,37,No
+TXN-800601,2024-05-14,Credit Card,Gas Stations,119,2.14,ATM,No,46,No
+TXN-800602,2024-09-14,Business Platinum,Restaurants,181,3.26,Mobile App,No,67,No
+TXN-800603,2024-08-21,Credit Card,Utilities,5,0.09,ATM,No,50,No
+TXN-800604,2024-05-15,Checking,Online Retail,138,2.48,Online Web,Yes,9,No
+TXN-800605,2024-06-12,Checking,Entertainment,72,1.3,Mobile App,No,1,No
+TXN-800606,2024-01-17,Credit Card,Gas Stations,6,0.11,Online Web,Yes,5,No
+TXN-800607,2024-02-20,Checking,Entertainment,17,0.31,In-Store POS,No,40,No
+TXN-800608,2024-08-21,Checking,Groceries,35,0.63,In-Store POS,No,20,No
+TXN-800609,2024-04-29,Savings,Airlines & Travel,110,1.98,ATM,No,17,No
+TXN-800610,2024-12-13,Savings,Utilities,318,5.72,ATM,No,35,No
+TXN-800611,2024-09-29,Business Platinum,Airlines & Travel,116,2.09,In-Store POS,No,15,No
+TXN-800612,2024-12-02,Business Platinum,Groceries,129,2.32,In-Store POS,No,18,No
+TXN-800613,2024-07-30,Business Platinum,Airlines & Travel,16,0.29,ATM,No,1,No
+TXN-800614,2024-01-01,Savings,Groceries,32,0.58,Mobile App,No,54,No
+TXN-800615,2024-03-21,Business Platinum,Online Retail,19,0.34,ATM,Yes,38,No
+TXN-800616,2024-03-23,Business Platinum,Gas Stations,148,2.66,In-Store POS,No,11,No
+TXN-800617,2024-01-09,Savings,Entertainment,27,0.49,In-Store POS,No,3,No
+TXN-800618,2024-01-15,Credit Card,Airlines & Travel,166,2.99,Mobile App,No,17,No
+TXN-800619,2024-12-21,Checking,Online Retail,116,2.09,Mobile App,Yes,6,No
+TXN-800620,2024-04-12,Checking,Gas Stations,27,0.49,In-Store POS,No,32,No
+TXN-800621,2024-12-30,Checking,Restaurants,14,0.25,Online Web,No,47,No
+TXN-800622,2024-02-28,Checking,Utilities,12,0.22,In-Store POS,No,37,No
+TXN-800623,2024-04-15,Credit Card,Utilities,87,1.57,Mobile App,No,65,No
+TXN-800624,2024-07-26,Checking,Utilities,91,1.64,Online Web,Yes,43,No
+TXN-800625,2024-11-06,Checking,Groceries,44,0.79,Mobile App,Yes,42,No
+TXN-800626,2024-07-28,Checking,Groceries,102,1.84,ATM,No,1,No
+TXN-800627,2024-12-02,Savings,Gas Stations,232,4.18,ATM,No,21,No
+TXN-800628,2024-08-25,Savings,Online Retail,106,1.91,ATM,Yes,55,No
+TXN-800629,2024-11-23,Business Platinum,Gas Stations,284,5.11,ATM,No,8,No
+TXN-800630,2024-01-06,Savings,Groceries,23,0.41,Online Web,Yes,23,No
+TXN-800631,2024-07-10,Savings,Gas Stations,235,4.23,Mobile App,Yes,19,No
+TXN-800632,2024-09-01,Savings,Gas Stations,116,2.09,In-Store POS,Yes,44,No
+TXN-800633,2024-12-09,Business Platinum,Airlines & Travel,231,4.16,Mobile App,No,30,No
+TXN-800634,2024-04-13,Credit Card,Airlines & Travel,52,0.94,Online Web,No,15,No
+TXN-800635,2024-06-18,Business Platinum,Online Retail,15,0.27,In-Store POS,No,14,No
+TXN-800636,2024-12-03,Business Platinum,Online Retail,115,2.07,Online Web,No,1,No
+TXN-800637,2024-02-07,Checking,Entertainment,24,0.43,In-Store POS,Yes,43,No
+TXN-800638,2024-01-06,Checking,Entertainment,189,3.4,ATM,Yes,19,No
+TXN-800639,2024-06-25,Savings,Gas Stations,131,2.36,ATM,Yes,45,No
+TXN-800640,2024-03-31,Credit Card,Utilities,13,0.23,In-Store POS,Yes,1,No
+TXN-800641,2024-10-12,Credit Card,Groceries,90,1.62,ATM,No,36,No
+TXN-800642,2024-08-29,Savings,Entertainment,269,4.84,ATM,No,1,No
+TXN-800643,2024-02-06,Savings,Airlines & Travel,13,0.23,Mobile App,Yes,47,No
+TXN-800644,2024-08-13,Business Platinum,Gas Stations,32,0.58,Online Web,No,32,No
+TXN-800645,2024-02-05,Checking,Entertainment,34,0.61,Online Web,Yes,41,No
+TXN-800646,2024-12-18,Savings,Entertainment,19,0.34,ATM,No,57,No
+TXN-800647,2024-09-14,Credit Card,Gas Stations,39,0.7,Online Web,No,42,No
+TXN-800648,2024-04-07,Business Platinum,Groceries,424,7.63,Online Web,No,29,No
+TXN-800649,2024-07-03,Savings,Online Retail,61,1.1,Online Web,No,4,No
+TXN-800650,2024-07-29,Business Platinum,Groceries,588,10.58,Mobile App,No,43,No
+TXN-800651,2024-12-13,Business Platinum,Gas Stations,49,0.88,In-Store POS,Yes,31,No
+TXN-800652,2024-05-31,Checking,Airlines & Travel,121,2.18,ATM,No,14,No
+TXN-800653,2024-02-27,Checking,Gas Stations,136,2.45,Online Web,No,9,No
+TXN-800654,2024-07-04,Checking,Utilities,9,0.16,Mobile App,No,47,No
+TXN-800655,2024-09-11,Business Platinum,Online Retail,56,1.01,Online Web,No,18,No
+TXN-800656,2024-03-13,Savings,Restaurants,359,6.46,Online Web,No,11,No
+TXN-800657,2024-04-28,Credit Card,Restaurants,187,3.37,ATM,No,1,No
+TXN-800658,2024-07-05,Business Platinum,Gas Stations,177,3.19,Online Web,Yes,3,No
+TXN-800659,2024-10-22,Business Platinum,Restaurants,8,0.14,ATM,No,1,No
+TXN-800660,2024-11-03,Savings,Gas Stations,45,0.81,In-Store POS,No,6,No
+TXN-800661,2024-01-02,Checking,Entertainment,26,0.47,ATM,No,41,No
+TXN-800662,2024-02-13,Savings,Utilities,167,3.01,Mobile App,Yes,30,No
+TXN-800663,2024-11-26,Checking,Restaurants,96,1.73,In-Store POS,No,1,No
+TXN-800664,2024-04-20,Savings,Groceries,239,4.3,In-Store POS,No,11,No
+TXN-800665,2024-08-21,Business Platinum,Online Retail,44,0.79,ATM,No,1,No
+TXN-800666,2024-10-07,Business Platinum,Gas Stations,22,0.4,ATM,Yes,35,No
+TXN-800667,2024-05-17,Savings,Restaurants,49,0.88,Mobile App,Yes,83,No
+TXN-800668,2024-05-16,Credit Card,Airlines & Travel,293,5.27,ATM,No,56,No
+TXN-800669,2024-06-17,Credit Card,Utilities,50,0.9,In-Store POS,Yes,20,No
+TXN-800670,2024-07-16,Business Platinum,Utilities,124,2.23,ATM,No,1,No
+TXN-800671,2024-05-29,Savings,Airlines & Travel,206,3.71,ATM,Yes,1,No
+TXN-800672,2024-08-29,Business Platinum,Online Retail,83,1.49,In-Store POS,No,24,No
+TXN-800673,2024-09-13,Savings,Groceries,48,0.86,ATM,Yes,21,No
+TXN-800674,2024-01-13,Credit Card,Utilities,289,5.2,Mobile App,No,40,No
+TXN-800675,2024-04-16,Credit Card,Gas Stations,29,0.52,ATM,No,41,No
+TXN-800676,2024-07-01,Savings,Gas Stations,90,1.62,Mobile App,No,1,No
+TXN-800677,2024-11-21,Business Platinum,Airlines & Travel,57,1.03,In-Store POS,Yes,41,No
+TXN-800678,2024-01-30,Savings,Online Retail,118,2.12,Online Web,No,7,No
+TXN-800679,2024-11-03,Credit Card,Online Retail,365,6.57,Mobile App,No,21,No
+TXN-800680,2024-08-13,Checking,Airlines & Travel,7,0.13,ATM,No,39,No
+TXN-800681,2024-02-25,Credit Card,Airlines & Travel,238,4.28,In-Store POS,No,34,No
+TXN-800682,2024-08-28,Checking,Entertainment,83,1.49,ATM,No,51,No
+TXN-800683,2024-03-21,Savings,Online Retail,182,3.28,Mobile App,No,26,No
+TXN-800684,2024-09-18,Business Platinum,Airlines & Travel,61,1.1,Mobile App,No,1,No
+TXN-800685,2024-07-25,Business Platinum,Online Retail,88,1.58,Mobile App,No,29,No
+TXN-800686,2024-07-07,Checking,Gas Stations,228,4.1,In-Store POS,No,24,No
+TXN-800687,2024-01-03,Savings,Online Retail,84,1.51,In-Store POS,No,35,No
+TXN-800688,2024-12-10,Credit Card,Entertainment,23,0.41,ATM,No,15,No
+TXN-800689,2024-10-22,Business Platinum,Restaurants,22,0.4,In-Store POS,Yes,1,No
+TXN-800690,2024-01-20,Credit Card,Groceries,27,0.49,ATM,Yes,30,No
+TXN-800691,2024-02-20,Savings,Restaurants,295,5.31,Mobile App,No,17,No
+TXN-800692,2024-12-10,Business Platinum,Restaurants,42,0.76,Mobile App,No,1,No
+TXN-800693,2024-04-28,Checking,Utilities,34,0.61,Mobile App,No,43,No
+TXN-800694,2024-07-02,Savings,Groceries,12,0.22,In-Store POS,No,33,No
+TXN-800695,2024-04-06,Credit Card,Restaurants,78,1.4,ATM,No,1,No
+TXN-800696,2024-07-22,Savings,Online Retail,198,3.56,In-Store POS,No,46,No
+TXN-800697,2024-05-17,Savings,Gas Stations,38,0.68,ATM,Yes,61,No
+TXN-800698,2024-11-12,Savings,Restaurants,114,2.05,ATM,No,13,No
+TXN-800699,2024-08-03,Business Platinum,Gas Stations,9,0.16,In-Store POS,No,58,No
+TXN-800700,2024-10-27,Business Platinum,Entertainment,112,2.02,ATM,No,48,No
+TXN-800701,2024-07-22,Business Platinum,Online Retail,54,0.97,Mobile App,No,52,No
+TXN-800702,2024-08-04,Business Platinum,Utilities,34,0.61,Online Web,Yes,48,No
+TXN-800703,2024-08-19,Credit Card,Restaurants,130,2.34,Online Web,No,17,No
+TXN-800704,2024-05-14,Credit Card,Online Retail,119,2.14,Mobile App,No,59,No
+TXN-800705,2024-08-08,Credit Card,Entertainment,114,2.05,ATM,No,34,No
+TXN-800706,2024-11-23,Credit Card,Entertainment,687,12.37,Online Web,No,38,No
+TXN-800707,2024-11-27,Savings,Groceries,123,2.21,ATM,Yes,47,No
+TXN-800708,2024-09-14,Checking,Airlines & Travel,172,3.1,Online Web,No,3,No
+TXN-800709,2024-09-22,Credit Card,Airlines & Travel,32,0.58,In-Store POS,No,18,No
+TXN-800710,2024-01-27,Business Platinum,Gas Stations,120,2.16,Online Web,No,57,No
+TXN-800711,2024-06-13,Savings,Restaurants,250,4.5,Online Web,No,23,No
+TXN-800712,2024-02-14,Business Platinum,Groceries,13,0.23,ATM,Yes,5,No
+TXN-800713,2024-10-25,Checking,Restaurants,33,0.59,ATM,No,63,No
+TXN-800714,2024-10-07,Savings,Online Retail,140,2.52,Online Web,No,55,No
+TXN-800715,2024-07-09,Business Platinum,Utilities,102,1.84,Mobile App,Yes,33,No
+TXN-800716,2024-03-02,Credit Card,Groceries,79,1.42,In-Store POS,No,1,No
+TXN-800717,2024-07-17,Credit Card,Gas Stations,459,8.26,Mobile App,Yes,16,No
+TXN-800718,2024-12-19,Checking,Airlines & Travel,15,0.27,ATM,No,12,No
+TXN-800719,2024-12-26,Business Platinum,Online Retail,70,1.26,ATM,No,24,No
+TXN-800720,2024-02-28,Checking,Entertainment,16,0.29,Mobile App,No,9,No
+TXN-800721,2024-07-03,Checking,Entertainment,25,0.45,ATM,No,58,No
+TXN-800722,2024-05-03,Business Platinum,Online Retail,89,1.6,Online Web,No,1,No
+TXN-800723,2024-11-09,Savings,Utilities,417,7.51,Online Web,No,1,No
+TXN-800724,2024-06-14,Business Platinum,Entertainment,173,3.11,Online Web,No,9,No
+TXN-800725,2024-05-28,Checking,Entertainment,128,2.3,ATM,No,17,No
+TXN-800726,2024-07-07,Business Platinum,Airlines & Travel,20,0.36,Mobile App,Yes,29,No
+TXN-800727,2024-03-30,Business Platinum,Restaurants,66,1.19,ATM,No,36,No
+TXN-800728,2024-07-04,Credit Card,Online Retail,30,0.54,Mobile App,No,1,No
+TXN-800729,2024-04-26,Savings,Airlines & Travel,195,3.51,Mobile App,No,46,No
+TXN-800730,2024-12-27,Checking,Airlines & Travel,118,2.12,In-Store POS,No,29,No
+TXN-800731,2024-08-21,Savings,Groceries,421,7.58,In-Store POS,No,30,No
+TXN-800732,2024-08-13,Credit Card,Restaurants,232,4.18,ATM,Yes,25,No
+TXN-800733,2024-03-20,Checking,Airlines & Travel,60,1.08,ATM,Yes,15,No
+TXN-800734,2024-07-09,Credit Card,Entertainment,42,0.76,Mobile App,No,30,No
+TXN-800735,2024-05-11,Credit Card,Restaurants,18,0.32,Online Web,Yes,29,No
+TXN-800736,2024-09-05,Business Platinum,Utilities,287,5.17,ATM,Yes,28,No
+TXN-800737,2024-04-16,Checking,Gas Stations,283,5.09,Online Web,No,1,No
+TXN-800738,2024-07-12,Business Platinum,Utilities,201,3.62,In-Store POS,No,1,No
+TXN-800739,2024-09-06,Business Platinum,Online Retail,38,0.68,In-Store POS,No,17,No
+TXN-800740,2024-09-10,Credit Card,Groceries,63,1.13,In-Store POS,No,41,No
+TXN-800741,2024-12-13,Checking,Groceries,24,0.43,ATM,No,18,No
+TXN-800742,2024-09-18,Credit Card,Restaurants,308,5.54,Mobile App,Yes,7,No
+TXN-800743,2024-11-25,Credit Card,Gas Stations,26,0.47,Mobile App,No,1,No
+TXN-800744,2024-10-04,Business Platinum,Gas Stations,48,0.86,In-Store POS,No,39,No
+TXN-800745,2024-07-17,Credit Card,Utilities,138,2.48,Mobile App,No,1,No
+TXN-800746,2024-12-15,Business Platinum,Groceries,167,3.01,In-Store POS,No,23,No
+TXN-800747,2024-11-04,Credit Card,Groceries,137,2.47,ATM,Yes,2,No
+TXN-800748,2024-08-18,Checking,Groceries,33,0.59,Online Web,No,1,No
+TXN-800749,2024-04-19,Business Platinum,Utilities,14,0.25,Online Web,No,49,No
+TXN-800750,2024-11-26,Savings,Airlines & Travel,79,1.42,Online Web,Yes,23,No
+TXN-800751,2024-05-22,Credit Card,Entertainment,59,1.06,Online Web,No,23,No
+TXN-800752,2024-08-09,Business Platinum,Entertainment,197,3.55,ATM,No,1,No
+TXN-800753,2024-04-10,Savings,Airlines & Travel,40,0.72,In-Store POS,No,48,No
+TXN-800754,2024-09-18,Checking,Online Retail,156,2.81,Mobile App,No,31,No
+TXN-800755,2024-04-29,Savings,Airlines & Travel,369,6.64,ATM,No,49,No
+TXN-800756,2024-05-27,Savings,Airlines & Travel,434,7.81,Mobile App,No,1,No
+TXN-800757,2024-06-10,Savings,Entertainment,75,1.35,Online Web,No,24,No
+TXN-800758,2024-09-21,Checking,Online Retail,359,6.46,ATM,No,24,No
+TXN-800759,2024-04-23,Checking,Online Retail,159,2.86,Mobile App,No,26,No
+TXN-800760,2024-04-10,Checking,Restaurants,165,2.97,In-Store POS,No,17,No
+TXN-800761,2024-10-23,Savings,Online Retail,291,5.24,In-Store POS,No,34,No
+TXN-800762,2024-11-14,Credit Card,Utilities,201,3.62,ATM,No,1,No
+TXN-800763,2024-06-10,Business Platinum,Groceries,102,1.84,Mobile App,No,6,No
+TXN-800764,2024-01-09,Business Platinum,Utilities,261,4.7,In-Store POS,No,46,No
+TXN-800765,2024-10-24,Business Platinum,Gas Stations,29,0.52,In-Store POS,No,1,No
+TXN-800766,2024-06-26,Checking,Restaurants,80,1.44,Online Web,Yes,34,No
+TXN-800767,2024-06-04,Checking,Entertainment,21,0.38,ATM,No,12,No
+TXN-800768,2024-03-26,Business Platinum,Utilities,92,1.66,In-Store POS,No,51,No
+TXN-800769,2024-06-27,Credit Card,Gas Stations,51,0.92,In-Store POS,Yes,1,No
+TXN-800770,2024-04-06,Business Platinum,Utilities,38,0.68,Online Web,No,19,No
+TXN-800771,2024-10-19,Credit Card,Restaurants,69,1.24,ATM,No,53,No
+TXN-800772,2024-11-03,Business Platinum,Utilities,83,1.49,Mobile App,No,34,No
+TXN-800773,2024-05-29,Credit Card,Online Retail,177,3.19,In-Store POS,Yes,57,No
+TXN-800774,2024-02-16,Business Platinum,Groceries,91,1.64,Mobile App,Yes,25,No
+TXN-800775,2024-12-07,Checking,Groceries,57,1.03,ATM,No,36,No
+TXN-800776,2024-08-04,Business Platinum,Restaurants,9,0.16,ATM,No,53,No
+TXN-800777,2024-05-22,Checking,Restaurants,22,0.4,Mobile App,No,1,No
+TXN-800778,2024-04-20,Credit Card,Groceries,26,0.47,Online Web,Yes,24,No
+TXN-800779,2024-09-30,Credit Card,Online Retail,20,0.36,In-Store POS,No,1,No
+TXN-800780,2024-06-26,Checking,Online Retail,97,1.75,In-Store POS,No,62,No
+TXN-800781,2024-08-10,Credit Card,Online Retail,123,2.21,Mobile App,No,8,No
+TXN-800782,2024-08-04,Savings,Gas Stations,27,0.49,In-Store POS,Yes,1,No
+TXN-800783,2024-05-20,Business Platinum,Groceries,21,0.38,Online Web,No,15,No
+TXN-800784,2024-05-04,Business Platinum,Restaurants,344,6.19,ATM,No,25,No
+TXN-800785,2024-01-16,Checking,Groceries,41,0.74,Mobile App,No,11,No
+TXN-800786,2024-02-07,Savings,Online Retail,12,0.22,Mobile App,No,21,No
+TXN-800787,2024-11-04,Savings,Airlines & Travel,179,3.22,Mobile App,No,33,No
+TXN-800788,2024-12-15,Savings,Airlines & Travel,432,7.78,ATM,Yes,52,No
+TXN-800789,2024-10-10,Savings,Online Retail,81,1.46,Mobile App,No,74,No
+TXN-800790,2024-02-05,Savings,Utilities,77,1.39,Mobile App,No,13,No
+TXN-800791,2024-08-14,Checking,Utilities,373,6.71,ATM,No,18,No
+TXN-800792,2024-04-17,Checking,Utilities,75,1.35,Mobile App,Yes,60,No
+TXN-800793,2024-07-19,Savings,Entertainment,124,2.23,In-Store POS,No,26,No
+TXN-800794,2024-04-17,Credit Card,Gas Stations,14,0.25,ATM,Yes,58,No
+TXN-800795,2024-06-28,Checking,Groceries,144,2.59,In-Store POS,Yes,72,No
+TXN-800796,2024-09-25,Checking,Groceries,15,0.27,Online Web,No,1,No
+TXN-800797,2024-10-03,Business Platinum,Utilities,118,2.12,In-Store POS,No,16,No
+TXN-800798,2024-11-08,Savings,Gas Stations,52,0.94,Mobile App,Yes,38,No
+TXN-800799,2024-10-25,Business Platinum,Utilities,231,4.16,Online Web,Yes,1,No
+TXN-800800,2024-06-20,Savings,Groceries,37,0.67,Online Web,No,31,No
+TXN-800801,2024-01-10,Credit Card,Entertainment,32,0.58,Online Web,Yes,49,No
+TXN-800802,2024-04-24,Credit Card,Airlines & Travel,7,0.13,ATM,No,9,No
+TXN-800803,2024-07-15,Business Platinum,Airlines & Travel,66,1.19,In-Store POS,No,7,No
+TXN-800804,2024-06-07,Savings,Online Retail,310,5.58,Online Web,No,43,No
+TXN-800805,2024-04-09,Business Platinum,Entertainment,543,9.77,Online Web,Yes,40,No
+TXN-800806,2024-10-11,Checking,Restaurants,157,2.83,In-Store POS,Yes,3,No
+TXN-800807,2024-02-02,Savings,Online Retail,5,0.09,Mobile App,No,19,No
+TXN-800808,2024-04-29,Credit Card,Gas Stations,267,4.81,In-Store POS,Yes,17,No
+TXN-800809,2024-07-28,Business Platinum,Utilities,150,2.7,Online Web,No,42,No
+TXN-800810,2024-06-07,Savings,Online Retail,29,0.52,In-Store POS,No,12,No
+TXN-800811,2024-07-03,Savings,Airlines & Travel,90,1.62,Online Web,No,28,No
+TXN-800812,2024-01-26,Checking,Restaurants,158,2.84,Online Web,No,46,No
+TXN-800813,2024-08-12,Business Platinum,Utilities,297,5.35,Mobile App,Yes,37,No
+TXN-800814,2024-08-12,Savings,Airlines & Travel,21,0.38,Mobile App,No,56,No
+TXN-800815,2024-07-27,Credit Card,Restaurants,22,0.4,In-Store POS,No,60,No
+TXN-800816,2024-04-07,Checking,Restaurants,404,7.27,Online Web,No,48,No
+TXN-800817,2024-08-19,Checking,Groceries,40,0.72,Mobile App,No,37,No
+TXN-800818,2024-01-28,Credit Card,Groceries,66,1.19,Online Web,Yes,10,No
+TXN-800819,2024-06-12,Business Platinum,Groceries,56,1.01,ATM,No,6,No
+TXN-800820,2024-10-23,Checking,Utilities,23,0.41,Mobile App,No,22,No
+TXN-800821,2024-01-02,Savings,Airlines & Travel,236,4.25,In-Store POS,No,13,No
+TXN-800822,2024-04-02,Savings,Restaurants,101,1.82,Online Web,No,14,No
+TXN-800823,2024-12-13,Business Platinum,Entertainment,110,1.98,Mobile App,No,27,No
+TXN-800824,2024-01-18,Credit Card,Online Retail,27,0.49,Online Web,No,29,No
+TXN-800825,2024-07-18,Savings,Utilities,110,1.98,In-Store POS,Yes,37,No
+TXN-800826,2024-07-17,Savings,Airlines & Travel,266,4.79,Online Web,No,18,No
+TXN-800827,2024-08-03,Business Platinum,Entertainment,125,2.25,ATM,No,1,No
+TXN-800828,2024-08-28,Credit Card,Utilities,54,0.97,ATM,Yes,20,No
+TXN-800829,2024-10-18,Business Platinum,Restaurants,291,5.24,Online Web,No,15,No
+TXN-800830,2024-06-07,Savings,Utilities,91,1.64,Mobile App,No,35,No
+TXN-800831,2024-01-11,Checking,Restaurants,331,5.96,ATM,No,1,No
+TXN-800832,2024-12-03,Savings,Online Retail,13,0.23,In-Store POS,No,41,No
+TXN-800833,2024-11-18,Checking,Gas Stations,122,2.2,Mobile App,No,24,No
+TXN-800834,2024-01-11,Credit Card,Restaurants,52,0.94,Mobile App,No,7,No
+TXN-800835,2024-03-04,Business Platinum,Entertainment,51,0.92,Online Web,No,58,No
+TXN-800836,2024-02-09,Credit Card,Restaurants,41,0.74,Mobile App,No,59,No
+TXN-800837,2024-05-10,Savings,Gas Stations,329,5.92,In-Store POS,Yes,29,No
+TXN-800838,2024-02-12,Credit Card,Airlines & Travel,158,2.84,In-Store POS,Yes,3,No
+TXN-800839,2024-06-27,Credit Card,Entertainment,38,0.68,Mobile App,No,28,No
+TXN-800840,2024-08-11,Savings,Airlines & Travel,58,1.04,ATM,No,20,No
+TXN-800841,2024-10-09,Credit Card,Online Retail,311,5.6,Online Web,Yes,12,No
+TXN-800842,2024-02-23,Business Platinum,Gas Stations,199,3.58,Online Web,No,30,No
+TXN-800843,2024-10-14,Credit Card,Groceries,42,0.76,ATM,No,9,No
+TXN-800844,2024-11-07,Savings,Groceries,279,5.02,Mobile App,No,18,No
+TXN-800845,2024-01-14,Savings,Utilities,105,1.89,In-Store POS,No,44,No
+TXN-800846,2024-03-07,Checking,Online Retail,36,0.65,Online Web,No,37,No
+TXN-800847,2024-01-06,Checking,Gas Stations,23,0.41,Online Web,No,1,No
+TXN-800848,2024-10-14,Credit Card,Entertainment,179,3.22,Mobile App,No,17,No
+TXN-800849,2024-04-25,Checking,Groceries,389,7.0,ATM,No,30,No
+TXN-800850,2024-05-17,Savings,Groceries,61,1.1,Mobile App,Yes,60,No
+TXN-800851,2024-07-20,Business Platinum,Online Retail,104,1.87,In-Store POS,No,9,No
+TXN-800852,2024-03-07,Checking,Airlines & Travel,74,1.33,In-Store POS,No,27,No
+TXN-800853,2024-05-13,Checking,Restaurants,223,4.01,In-Store POS,No,16,No
+TXN-800854,2024-10-02,Savings,Online Retail,25,0.45,Online Web,No,27,No
+TXN-800855,2024-12-13,Business Platinum,Entertainment,70,1.26,ATM,No,43,No
+TXN-800856,2024-10-08,Business Platinum,Restaurants,100,1.8,ATM,No,17,No
+TXN-800857,2024-01-01,Business Platinum,Restaurants,20,0.36,ATM,No,25,No
+TXN-800858,2024-09-18,Savings,Restaurants,14,0.25,Mobile App,No,10,No
+TXN-800859,2024-10-09,Credit Card,Airlines & Travel,6,0.11,Mobile App,No,1,No
+TXN-800860,2024-09-10,Credit Card,Restaurants,27,0.49,Mobile App,No,33,No
+TXN-800861,2024-02-11,Credit Card,Airlines & Travel,377,6.79,ATM,Yes,22,No
+TXN-800862,2024-04-25,Credit Card,Online Retail,85,1.53,Mobile App,Yes,17,No
+TXN-800863,2024-03-19,Credit Card,Airlines & Travel,290,5.22,Mobile App,No,24,No
+TXN-800864,2024-08-12,Business Platinum,Airlines & Travel,96,1.73,ATM,Yes,35,No
+TXN-800865,2024-04-04,Checking,Groceries,20,0.36,Mobile App,Yes,24,No
+TXN-800866,2024-01-12,Business Platinum,Groceries,22,0.4,Mobile App,No,59,No
+TXN-800867,2024-12-13,Credit Card,Utilities,120,2.16,Mobile App,No,19,No
+TXN-800868,2024-01-30,Credit Card,Entertainment,152,2.74,In-Store POS,No,11,No
+TXN-800869,2024-08-04,Savings,Restaurants,38,0.68,In-Store POS,No,40,No
+TXN-800870,2024-10-24,Credit Card,Utilities,234,4.21,Mobile App,No,41,No
+TXN-800871,2024-08-19,Credit Card,Gas Stations,22,0.4,ATM,No,51,No
+TXN-800872,2024-05-29,Business Platinum,Utilities,31,0.56,In-Store POS,Yes,7,No
+TXN-800873,2024-12-03,Savings,Online Retail,58,1.04,ATM,No,44,No
+TXN-800874,2024-06-21,Checking,Airlines & Travel,123,2.21,In-Store POS,No,30,No
+TXN-800875,2024-04-24,Savings,Airlines & Travel,202,3.64,Mobile App,Yes,41,No
+TXN-800876,2024-12-25,Business Platinum,Online Retail,231,4.16,In-Store POS,Yes,32,No
+TXN-800877,2024-01-29,Credit Card,Entertainment,55,0.99,Online Web,Yes,12,No
+TXN-800878,2024-08-20,Checking,Airlines & Travel,103,1.85,In-Store POS,No,18,No
+TXN-800879,2024-08-27,Savings,Airlines & Travel,371,6.68,Online Web,No,28,No
+TXN-800880,2024-11-11,Savings,Entertainment,98,1.76,Mobile App,No,1,No
+TXN-800881,2024-04-28,Savings,Gas Stations,180,3.24,Mobile App,No,15,No
+TXN-800882,2024-08-23,Savings,Airlines & Travel,464,8.35,In-Store POS,No,27,No
+TXN-800883,2024-01-28,Checking,Restaurants,120,2.16,In-Store POS,No,28,No
+TXN-800884,2024-01-11,Credit Card,Utilities,76,1.37,In-Store POS,Yes,44,No
+TXN-800885,2024-07-03,Credit Card,Gas Stations,82,1.48,ATM,No,9,No
+TXN-800886,2024-10-31,Credit Card,Utilities,34,0.61,Mobile App,Yes,36,No
+TXN-800887,2024-05-13,Savings,Online Retail,63,1.13,ATM,Yes,27,No
+TXN-800888,2024-11-12,Checking,Airlines & Travel,265,4.77,Online Web,Yes,33,No
+TXN-800889,2024-03-09,Savings,Airlines & Travel,89,1.6,ATM,No,16,No
+TXN-800890,2024-04-11,Savings,Entertainment,19,0.34,Online Web,No,42,No
+TXN-800891,2024-09-15,Checking,Restaurants,177,3.19,Online Web,No,44,No
+TXN-800892,2024-04-17,Business Platinum,Utilities,43,0.77,Online Web,No,32,No
+TXN-800893,2024-08-07,Savings,Airlines & Travel,135,2.43,Online Web,No,4,No
+TXN-800894,2024-07-20,Checking,Online Retail,115,2.07,Mobile App,Yes,32,No
+TXN-800895,2024-11-10,Savings,Online Retail,136,2.45,In-Store POS,No,29,No
+TXN-800896,2024-11-23,Credit Card,Utilities,21,0.38,ATM,No,43,No
+TXN-800897,2024-05-26,Credit Card,Online Retail,102,1.84,ATM,No,27,No
+TXN-800898,2024-03-19,Checking,Airlines & Travel,18,0.32,Online Web,Yes,5,No
+TXN-800899,2024-02-08,Business Platinum,Groceries,95,1.71,In-Store POS,No,29,No
+TXN-800900,2024-11-09,Checking,Gas Stations,123,2.21,Mobile App,No,1,No
+TXN-800901,2024-11-12,Business Platinum,Gas Stations,49,0.88,ATM,No,32,No
+TXN-800902,2024-07-16,Checking,Groceries,181,3.26,Online Web,Yes,1,No
+TXN-800903,2024-05-16,Checking,Groceries,242,4.36,In-Store POS,No,42,No
+TXN-800904,2024-06-22,Savings,Online Retail,100,1.8,Online Web,Yes,41,No
+TXN-800905,2024-05-21,Checking,Online Retail,87,1.57,In-Store POS,No,26,No
+TXN-800906,2024-12-11,Business Platinum,Online Retail,128,2.3,Mobile App,No,56,No
+TXN-800907,2024-08-04,Checking,Entertainment,167,3.01,Mobile App,No,1,No
+TXN-800908,2024-10-10,Credit Card,Restaurants,20,0.36,In-Store POS,No,49,No
+TXN-800909,2024-06-06,Checking,Online Retail,109,1.96,ATM,Yes,27,No
+TXN-800910,2024-12-24,Savings,Online Retail,55,0.99,Mobile App,No,32,No
+TXN-800911,2024-12-24,Savings,Entertainment,97,1.75,ATM,No,27,No
+TXN-800912,2024-04-03,Business Platinum,Airlines & Travel,40,0.72,ATM,Yes,8,No
+TXN-800913,2024-09-23,Business Platinum,Airlines & Travel,91,1.64,In-Store POS,Yes,1,No
+TXN-800914,2024-09-10,Savings,Online Retail,71,1.28,Mobile App,Yes,23,No
+TXN-800915,2024-03-04,Credit Card,Groceries,132,2.38,In-Store POS,No,25,No
+TXN-800916,2024-01-05,Business Platinum,Gas Stations,5,0.09,ATM,No,25,No
+TXN-800917,2024-08-24,Credit Card,Restaurants,139,2.5,Online Web,No,20,No
+TXN-800918,2024-07-29,Savings,Entertainment,23,0.41,In-Store POS,No,49,No
+TXN-800919,2024-07-07,Savings,Entertainment,16,0.29,Online Web,No,1,No
+TXN-800920,2024-07-31,Credit Card,Entertainment,40,0.72,ATM,Yes,19,No
+TXN-800921,2024-03-30,Checking,Online Retail,98,1.76,ATM,No,28,No
+TXN-800922,2024-03-03,Savings,Groceries,31,0.56,Online Web,Yes,1,No
+TXN-800923,2024-04-28,Savings,Groceries,16,0.29,Online Web,Yes,40,No
+TXN-800924,2024-08-21,Business Platinum,Restaurants,161,2.9,In-Store POS,No,45,No
+TXN-800925,2024-11-08,Checking,Restaurants,105,1.89,Online Web,No,27,No
+TXN-800926,2024-09-29,Savings,Gas Stations,21,0.38,Online Web,Yes,45,No
+TXN-800927,2024-04-02,Checking,Restaurants,124,2.23,Online Web,No,21,No
+TXN-800928,2024-11-26,Business Platinum,Entertainment,13,0.23,Online Web,No,23,No
+TXN-800929,2024-03-12,Checking,Gas Stations,9,0.16,Mobile App,No,1,No
+TXN-800930,2024-08-29,Savings,Gas Stations,113,2.03,Online Web,No,36,No
+TXN-800931,2024-04-28,Business Platinum,Airlines & Travel,22,0.4,Online Web,No,46,No
+TXN-800932,2024-01-21,Credit Card,Groceries,146,2.63,ATM,No,56,No
+TXN-800933,2024-03-24,Business Platinum,Gas Stations,278,5.0,In-Store POS,No,58,No
+TXN-800934,2024-09-01,Checking,Utilities,60,1.08,ATM,Yes,47,No
+TXN-800935,2024-07-07,Checking,Gas Stations,188,3.38,In-Store POS,No,1,No
+TXN-800936,2024-10-28,Savings,Online Retail,47,0.85,ATM,No,28,No
+TXN-800937,2024-08-09,Business Platinum,Online Retail,108,1.94,ATM,No,30,No
+TXN-800938,2024-12-25,Business Platinum,Airlines & Travel,64,1.15,ATM,No,47,No
+TXN-800939,2024-12-29,Checking,Entertainment,369,6.64,Mobile App,No,27,No
+TXN-800940,2024-08-18,Credit Card,Airlines & Travel,53,0.95,Online Web,No,45,No
+TXN-800941,2024-09-24,Credit Card,Groceries,133,2.39,ATM,No,14,No
+TXN-800942,2024-05-13,Savings,Utilities,212,3.82,Online Web,No,42,No
+TXN-800943,2024-02-11,Checking,Entertainment,63,1.13,Mobile App,No,45,No
+TXN-800944,2024-10-30,Credit Card,Online Retail,99,1.78,ATM,No,46,No
+TXN-800945,2024-10-14,Checking,Online Retail,137,2.47,Mobile App,No,1,No
+TXN-800946,2024-01-01,Savings,Restaurants,14,0.25,Mobile App,Yes,35,No
+TXN-800947,2024-05-06,Checking,Online Retail,86,1.55,Mobile App,No,1,No
+TXN-800948,2024-09-30,Savings,Gas Stations,395,7.11,In-Store POS,No,53,No
+TXN-800949,2024-10-23,Savings,Entertainment,51,0.92,Mobile App,No,1,No
+TXN-800950,2024-03-10,Checking,Entertainment,60,1.08,Online Web,No,22,No
+TXN-800951,2024-04-26,Checking,Gas Stations,39,0.7,Online Web,No,40,No
+TXN-800952,2024-10-01,Credit Card,Gas Stations,46,0.83,Mobile App,Yes,14,No
+TXN-800953,2024-03-23,Business Platinum,Restaurants,525,9.45,Mobile App,No,4,No
+TXN-800954,2024-07-06,Credit Card,Groceries,67,1.21,In-Store POS,No,1,No
+TXN-800955,2024-01-08,Checking,Restaurants,209,3.76,Online Web,Yes,28,No
+TXN-800956,2024-01-30,Business Platinum,Entertainment,27,0.49,Mobile App,No,21,No
+TXN-800957,2024-08-08,Checking,Utilities,25,0.45,Online Web,Yes,60,No
+TXN-800958,2024-08-30,Savings,Entertainment,108,1.94,In-Store POS,No,22,No
+TXN-800959,2024-09-28,Business Platinum,Groceries,48,0.86,ATM,Yes,21,No
+TXN-800960,2024-09-22,Business Platinum,Entertainment,89,1.6,ATM,Yes,13,No
+TXN-800961,2024-05-06,Checking,Gas Stations,23,0.41,Mobile App,No,46,No
+TXN-800962,2024-01-29,Savings,Entertainment,36,0.65,Online Web,Yes,29,No
+TXN-800963,2024-04-19,Checking,Groceries,146,2.63,Mobile App,Yes,20,No
+TXN-800964,2024-08-12,Business Platinum,Utilities,29,0.52,ATM,No,60,No
+TXN-800965,2024-09-02,Business Platinum,Groceries,89,1.6,In-Store POS,Yes,31,No
+TXN-800966,2024-07-13,Business Platinum,Gas Stations,180,3.24,ATM,No,18,No
+TXN-800967,2024-08-13,Business Platinum,Utilities,67,1.21,ATM,No,32,No
+TXN-800968,2024-03-25,Savings,Entertainment,254,4.57,Mobile App,No,19,No
+TXN-800969,2024-08-09,Savings,Gas Stations,50,0.9,Mobile App,No,4,No
+TXN-800970,2024-10-04,Credit Card,Entertainment,30,0.54,Online Web,No,40,No
+TXN-800971,2024-06-27,Business Platinum,Utilities,101,1.82,ATM,No,37,No
+TXN-800972,2024-05-17,Business Platinum,Entertainment,138,2.48,Online Web,No,12,No
+TXN-800973,2024-11-04,Checking,Entertainment,317,5.71,In-Store POS,No,34,No
+TXN-800974,2024-11-19,Checking,Groceries,178,3.2,Online Web,Yes,6,No
+TXN-800975,2024-08-05,Checking,Online Retail,77,1.39,ATM,Yes,28,No
+TXN-800976,2024-03-24,Checking,Restaurants,88,1.58,In-Store POS,No,49,No
+TXN-800977,2024-10-25,Business Platinum,Airlines & Travel,140,2.52,In-Store POS,Yes,1,No
+TXN-800978,2024-12-29,Savings,Airlines & Travel,351,6.32,Online Web,Yes,54,No
+TXN-800979,2024-01-27,Credit Card,Restaurants,174,3.13,In-Store POS,Yes,1,No
+TXN-800980,2024-12-16,Business Platinum,Utilities,42,0.76,In-Store POS,No,25,No
+TXN-800981,2024-09-12,Savings,Airlines & Travel,85,1.53,Online Web,No,34,No
+TXN-800982,2024-11-26,Business Platinum,Utilities,227,4.09,In-Store POS,No,41,No
+TXN-800983,2024-01-17,Credit Card,Online Retail,152,2.74,In-Store POS,No,25,No
+TXN-800984,2024-04-25,Checking,Airlines & Travel,100,1.8,ATM,No,34,No
+TXN-800985,2024-09-20,Credit Card,Airlines & Travel,23,0.41,Mobile App,No,34,No
+TXN-800986,2024-10-10,Savings,Airlines & Travel,125,2.25,ATM,Yes,13,No
+TXN-800987,2024-09-13,Credit Card,Groceries,21,0.38,Mobile App,Yes,34,No
+TXN-800988,2024-11-16,Business Platinum,Utilities,174,3.13,ATM,No,32,No
+TXN-800989,2024-06-02,Credit Card,Restaurants,76,1.37,Mobile App,No,24,No
+TXN-800990,2024-10-04,Savings,Restaurants,276,4.97,In-Store POS,No,40,No
+TXN-800991,2024-09-09,Checking,Airlines & Travel,5,0.09,ATM,No,9,No
+TXN-800992,2024-07-25,Credit Card,Airlines & Travel,47,0.85,ATM,No,1,No
+TXN-800993,2024-02-09,Business Platinum,Airlines & Travel,85,1.53,In-Store POS,No,24,No
+TXN-800994,2024-07-16,Savings,Groceries,161,2.9,In-Store POS,Yes,27,No
+TXN-800995,2024-10-08,Credit Card,Airlines & Travel,45,0.81,Mobile App,No,12,No
+TXN-800996,2024-10-04,Credit Card,Gas Stations,162,2.92,Online Web,No,3,No
+TXN-800997,2024-05-11,Checking,Groceries,337,6.07,Mobile App,No,22,No
+TXN-800998,2024-12-02,Checking,Restaurants,36,0.65,ATM,No,27,No
+TXN-800999,2024-11-10,Checking,Groceries,31,0.56,In-Store POS,No,9,No
+TXN-801000,2024-04-04,Checking,Restaurants,25,0.45,Mobile App,No,44,No
+TXN-801001,2024-11-19,Business Platinum,Airlines & Travel,15,0.27,In-Store POS,No,51,No
+TXN-801002,2024-12-24,Credit Card,Gas Stations,294,5.29,Online Web,Yes,11,No
+TXN-801003,2024-12-26,Checking,Online Retail,37,0.67,Online Web,No,17,No
+TXN-801004,2024-07-08,Checking,Entertainment,164,2.95,ATM,No,16,No
+TXN-801005,2024-09-07,Savings,Utilities,96,1.73,ATM,Yes,22,No
+TXN-801006,2024-05-24,Credit Card,Groceries,199,3.58,Mobile App,No,62,No
+TXN-801007,2024-02-15,Credit Card,Restaurants,277,4.99,Mobile App,Yes,37,No
+TXN-801008,2024-05-09,Checking,Groceries,8,0.14,Mobile App,No,42,No
+TXN-801009,2024-02-21,Savings,Groceries,86,1.55,Mobile App,No,13,No
+TXN-801010,2024-08-15,Credit Card,Restaurants,46,0.83,Mobile App,Yes,25,No
+TXN-801011,2024-10-16,Savings,Groceries,54,0.97,Online Web,No,1,No
+TXN-801012,2024-08-05,Credit Card,Groceries,128,2.3,In-Store POS,Yes,32,No
+TXN-801013,2024-10-14,Checking,Gas Stations,97,1.75,ATM,No,18,No
+TXN-801014,2024-12-14,Checking,Restaurants,55,0.99,ATM,No,1,No
+TXN-801015,2024-04-22,Business Platinum,Groceries,82,1.48,Online Web,No,1,No
+TXN-801016,2024-05-29,Checking,Entertainment,80,1.44,Online Web,No,7,No
+TXN-801017,2024-03-26,Checking,Restaurants,518,9.32,Mobile App,Yes,32,No
+TXN-801018,2024-12-10,Credit Card,Gas Stations,28,0.5,Online Web,No,39,No
+TXN-801019,2024-01-12,Checking,Restaurants,173,3.11,In-Store POS,No,43,No
+TXN-801020,2024-10-05,Business Platinum,Entertainment,20,0.36,Mobile App,No,44,No
+TXN-801021,2024-06-30,Savings,Restaurants,140,2.52,Online Web,No,1,No
+TXN-801022,2024-09-02,Business Platinum,Online Retail,151,2.72,ATM,No,30,No
+TXN-801023,2024-03-18,Savings,Entertainment,214,3.85,Online Web,Yes,70,No
+TXN-801024,2024-10-21,Checking,Utilities,175,3.15,Online Web,No,49,No
+TXN-801025,2024-01-11,Credit Card,Restaurants,24,0.43,In-Store POS,Yes,82,No
+TXN-801026,2024-04-14,Savings,Entertainment,14,0.25,ATM,No,31,No
+TXN-801027,2024-10-18,Checking,Groceries,65,1.17,ATM,Yes,1,No
+TXN-801028,2024-04-04,Savings,Online Retail,495,8.91,Online Web,No,40,No
+TXN-801029,2024-04-11,Business Platinum,Restaurants,268,4.82,Mobile App,Yes,20,No
+TXN-801030,2024-11-22,Savings,Groceries,246,4.43,Online Web,Yes,42,No
+TXN-801031,2024-09-11,Checking,Gas Stations,89,1.6,Mobile App,No,27,No
+TXN-801032,2024-11-02,Savings,Airlines & Travel,150,2.7,In-Store POS,Yes,1,No
+TXN-801033,2024-06-04,Savings,Utilities,15,0.27,In-Store POS,Yes,27,No
+TXN-801034,2024-12-21,Credit Card,Restaurants,207,3.73,ATM,No,21,No
+TXN-801035,2024-07-03,Credit Card,Airlines & Travel,13,0.23,Online Web,No,51,No
+TXN-801036,2024-09-20,Checking,Gas Stations,41,0.74,Mobile App,No,17,No
+TXN-801037,2024-03-23,Credit Card,Restaurants,67,1.21,ATM,No,36,No
+TXN-801038,2024-05-25,Checking,Airlines & Travel,6,0.11,Mobile App,No,18,No
+TXN-801039,2024-09-25,Checking,Utilities,45,0.81,Online Web,Yes,11,No
+TXN-801040,2024-10-18,Credit Card,Utilities,147,2.65,Online Web,No,1,No
+TXN-801041,2024-04-30,Business Platinum,Gas Stations,138,2.48,In-Store POS,No,51,No
+TXN-801042,2024-09-22,Savings,Airlines & Travel,426,7.67,In-Store POS,No,6,No
+TXN-801043,2024-04-29,Business Platinum,Utilities,23,0.41,Online Web,No,3,No
+TXN-801044,2024-05-11,Business Platinum,Utilities,137,2.47,Online Web,Yes,29,No
+TXN-801045,2024-09-06,Savings,Groceries,286,5.15,In-Store POS,No,28,No
+TXN-801046,2024-06-17,Checking,Utilities,34,0.61,Mobile App,Yes,34,No
+TXN-801047,2024-05-25,Credit Card,Restaurants,52,0.94,ATM,No,46,No
+TXN-801048,2024-12-07,Business Platinum,Gas Stations,86,1.55,Online Web,No,18,No
+TXN-801049,2024-01-30,Credit Card,Online Retail,289,5.2,Mobile App,No,30,No
+TXN-801050,2024-02-04,Business Platinum,Online Retail,225,4.05,Online Web,Yes,40,No
+TXN-801051,2024-02-22,Checking,Gas Stations,29,0.52,Online Web,Yes,32,No
+TXN-801052,2024-05-31,Business Platinum,Entertainment,19,0.34,ATM,Yes,43,No
+TXN-801053,2024-02-16,Savings,Airlines & Travel,27,0.49,Mobile App,No,57,No
+TXN-801054,2024-03-25,Credit Card,Airlines & Travel,86,1.55,ATM,Yes,1,No
+TXN-801055,2024-07-30,Business Platinum,Gas Stations,244,4.39,ATM,No,35,No
+TXN-801056,2024-08-05,Savings,Online Retail,451,8.12,Online Web,Yes,16,No
+TXN-801057,2024-04-07,Savings,Entertainment,139,2.5,Online Web,Yes,17,No
+TXN-801058,2024-12-19,Credit Card,Online Retail,139,2.5,ATM,No,1,No
+TXN-801059,2024-01-13,Checking,Airlines & Travel,83,1.49,In-Store POS,No,24,No
+TXN-801060,2024-04-27,Savings,Entertainment,18,0.32,ATM,Yes,52,No
+TXN-801061,2024-04-21,Business Platinum,Airlines & Travel,50,0.9,ATM,Yes,17,No
+TXN-801062,2024-07-11,Savings,Gas Stations,133,2.39,In-Store POS,No,27,No
+TXN-801063,2024-02-20,Business Platinum,Restaurants,34,0.61,In-Store POS,No,20,No
+TXN-801064,2024-11-07,Business Platinum,Airlines & Travel,91,1.64,ATM,Yes,35,No
+TXN-801065,2024-07-17,Checking,Gas Stations,28,0.5,In-Store POS,No,6,No
+TXN-801066,2024-04-22,Credit Card,Entertainment,268,4.82,Mobile App,No,50,No
+TXN-801067,2024-05-15,Credit Card,Groceries,228,4.1,Online Web,No,1,No
+TXN-801068,2024-07-07,Savings,Online Retail,31,0.56,Mobile App,No,24,No
+TXN-801069,2024-03-29,Savings,Groceries,200,3.6,In-Store POS,No,1,No
+TXN-801070,2024-08-29,Business Platinum,Groceries,123,2.21,Mobile App,No,29,No
+TXN-801071,2024-02-01,Business Platinum,Airlines & Travel,9,0.16,Online Web,Yes,28,No
+TXN-801072,2024-12-01,Credit Card,Restaurants,6,0.11,In-Store POS,No,8,No
+TXN-801073,2024-10-09,Business Platinum,Groceries,77,1.39,ATM,No,11,No
+TXN-801074,2024-11-08,Credit Card,Groceries,165,2.97,Online Web,No,1,No
+TXN-801075,2024-01-07,Business Platinum,Restaurants,10,0.18,In-Store POS,No,18,No
+TXN-801076,2024-11-12,Checking,Utilities,194,3.49,ATM,No,32,No
+TXN-801077,2024-09-14,Business Platinum,Utilities,102,1.84,ATM,No,44,No
+TXN-801078,2024-11-01,Credit Card,Gas Stations,41,0.74,Online Web,No,4,No
+TXN-801079,2024-12-28,Checking,Airlines & Travel,43,0.77,ATM,No,17,No
+TXN-801080,2024-04-14,Checking,Airlines & Travel,131,2.36,Online Web,Yes,20,No
+TXN-801081,2024-05-05,Business Platinum,Utilities,384,6.91,ATM,Yes,27,No
+TXN-801082,2024-01-14,Savings,Airlines & Travel,54,0.97,Online Web,No,31,No
+TXN-801083,2024-12-24,Business Platinum,Groceries,121,2.18,Mobile App,No,11,No
+TXN-801084,2024-01-20,Checking,Restaurants,190,3.42,In-Store POS,Yes,5,No
+TXN-801085,2024-03-04,Business Platinum,Entertainment,80,1.44,ATM,Yes,67,No
+TXN-801086,2024-08-22,Credit Card,Groceries,70,1.26,Mobile App,No,69,No
+TXN-801087,2024-12-30,Checking,Entertainment,18,0.32,ATM,No,52,No
+TXN-801088,2024-03-24,Savings,Airlines & Travel,696,12.53,Online Web,No,1,No
+TXN-801089,2024-09-11,Credit Card,Gas Stations,40,0.72,ATM,No,11,No
+TXN-801090,2024-01-12,Business Platinum,Entertainment,5,0.09,Mobile App,No,34,No
+TXN-801091,2024-08-21,Savings,Entertainment,34,0.61,Mobile App,No,33,No
+TXN-801092,2024-08-17,Checking,Airlines & Travel,17,0.31,ATM,Yes,36,No
+TXN-801093,2024-02-07,Business Platinum,Gas Stations,221,3.98,In-Store POS,Yes,8,No
+TXN-801094,2024-06-01,Business Platinum,Entertainment,108,1.94,Online Web,No,17,No
+TXN-801095,2024-03-23,Checking,Gas Stations,61,1.1,ATM,Yes,27,No
+TXN-801096,2024-03-25,Business Platinum,Gas Stations,350,6.3,In-Store POS,Yes,10,No
+TXN-801097,2024-09-24,Business Platinum,Airlines & Travel,232,4.18,In-Store POS,No,62,No
+TXN-801098,2024-09-14,Savings,Entertainment,61,1.1,Mobile App,No,19,No
+TXN-801099,2024-09-30,Business Platinum,Airlines & Travel,186,3.35,Mobile App,No,24,No
+TXN-801100,2024-03-12,Checking,Groceries,239,4.3,ATM,Yes,47,No
+TXN-801101,2024-04-19,Savings,Restaurants,69,1.24,ATM,No,33,No
+TXN-801102,2024-07-15,Checking,Groceries,92,1.66,Online Web,No,1,No
+TXN-801103,2024-10-30,Checking,Online Retail,117,2.11,Mobile App,No,20,No
+TXN-801104,2024-12-07,Checking,Restaurants,41,0.74,Online Web,No,63,No
+TXN-801105,2024-09-13,Credit Card,Entertainment,16,0.29,ATM,No,18,No
+TXN-801106,2024-09-27,Savings,Online Retail,45,0.81,Mobile App,No,19,No
+TXN-801107,2024-03-16,Credit Card,Groceries,35,0.63,In-Store POS,Yes,37,No
+TXN-801108,2024-10-11,Savings,Gas Stations,318,5.72,Mobile App,Yes,26,No
+TXN-801109,2024-03-11,Savings,Gas Stations,59,1.06,Online Web,No,21,No
+TXN-801110,2024-10-12,Credit Card,Entertainment,20,0.36,ATM,No,35,No
+TXN-801111,2024-08-17,Credit Card,Entertainment,105,1.89,ATM,Yes,30,No
+TXN-801112,2024-03-20,Business Platinum,Groceries,41,0.74,Online Web,No,8,No
+TXN-801113,2024-05-29,Business Platinum,Restaurants,123,2.21,In-Store POS,Yes,39,No
+TXN-801114,2024-03-24,Business Platinum,Restaurants,17,0.31,Online Web,No,1,No
+TXN-801115,2024-03-25,Business Platinum,Restaurants,302,5.44,In-Store POS,No,45,No
+TXN-801116,2024-12-18,Credit Card,Gas Stations,621,11.18,ATM,No,44,No
+TXN-801117,2024-12-17,Savings,Online Retail,55,0.99,Online Web,No,5,No
+TXN-801118,2024-03-15,Business Platinum,Entertainment,81,1.46,Mobile App,No,17,No
+TXN-801119,2024-08-31,Savings,Airlines & Travel,9,0.16,ATM,No,13,No
+TXN-801120,2024-06-07,Business Platinum,Groceries,435,7.83,ATM,No,64,No
+TXN-801121,2024-08-24,Credit Card,Online Retail,61,1.1,In-Store POS,Yes,17,No
+TXN-801122,2024-08-11,Savings,Gas Stations,57,1.03,ATM,No,43,No
+TXN-801123,2024-08-10,Credit Card,Utilities,46,0.83,Online Web,No,25,No
+TXN-801124,2024-04-12,Checking,Restaurants,15,0.27,In-Store POS,No,26,No
+TXN-801125,2024-02-21,Savings,Utilities,93,1.67,Mobile App,No,57,No
+TXN-801126,2024-11-27,Savings,Gas Stations,632,11.38,Mobile App,No,30,No
+TXN-801127,2024-06-03,Business Platinum,Utilities,208,3.74,ATM,Yes,40,No
+TXN-801128,2024-08-16,Business Platinum,Online Retail,181,3.26,Online Web,No,18,No
+TXN-801129,2024-10-09,Credit Card,Restaurants,157,2.83,Online Web,No,1,No
+TXN-801130,2024-11-10,Credit Card,Entertainment,203,3.65,Mobile App,No,16,No
+TXN-801131,2024-01-11,Checking,Online Retail,73,1.31,Mobile App,No,18,No
+TXN-801132,2024-05-20,Business Platinum,Groceries,31,0.56,In-Store POS,No,25,No
+TXN-801133,2024-02-04,Business Platinum,Gas Stations,37,0.67,Mobile App,No,4,No
+TXN-801134,2024-05-29,Business Platinum,Utilities,127,2.29,Mobile App,No,2,No
+TXN-801135,2024-08-24,Business Platinum,Airlines & Travel,15,0.27,Online Web,Yes,17,No
+TXN-801136,2024-03-10,Savings,Online Retail,34,0.61,Mobile App,No,36,No
+TXN-801137,2024-02-16,Credit Card,Restaurants,88,1.58,Mobile App,Yes,41,No
+TXN-801138,2024-08-20,Checking,Online Retail,110,1.98,In-Store POS,Yes,37,No
+TXN-801139,2024-05-28,Checking,Airlines & Travel,87,1.57,In-Store POS,Yes,19,No
+TXN-801140,2024-02-16,Checking,Restaurants,5,0.09,Online Web,No,1,No
+TXN-801141,2024-10-18,Business Platinum,Groceries,204,3.67,Online Web,No,1,No
+TXN-801142,2024-05-12,Credit Card,Restaurants,56,1.01,Online Web,No,1,No
+TXN-801143,2024-05-26,Credit Card,Utilities,199,3.58,Mobile App,Yes,1,No
+TXN-801144,2024-02-27,Credit Card,Gas Stations,31,0.56,In-Store POS,No,5,No
+TXN-801145,2024-05-19,Business Platinum,Gas Stations,86,1.55,Online Web,No,38,No
+TXN-801146,2024-06-21,Credit Card,Gas Stations,64,1.15,In-Store POS,No,45,No
+TXN-801147,2024-09-28,Credit Card,Groceries,46,0.83,Online Web,No,43,No
+TXN-801148,2024-06-27,Checking,Groceries,53,0.95,ATM,No,61,No
+TXN-801149,2024-08-06,Savings,Gas Stations,120,2.16,Online Web,No,1,No
+TXN-801150,2024-02-19,Savings,Online Retail,6,0.11,Online Web,No,10,No
+TXN-801151,2024-06-05,Business Platinum,Online Retail,52,0.94,In-Store POS,Yes,16,No
+TXN-801152,2024-09-30,Credit Card,Online Retail,80,1.44,In-Store POS,Yes,28,No
+TXN-801153,2024-12-19,Savings,Online Retail,163,2.93,Mobile App,No,26,No
+TXN-801154,2024-05-20,Savings,Restaurants,368,6.62,ATM,No,1,No
+TXN-801155,2024-03-07,Business Platinum,Utilities,250,4.5,ATM,No,1,No
+TXN-801156,2024-04-24,Savings,Gas Stations,180,3.24,Mobile App,No,47,No
+TXN-801157,2024-02-04,Checking,Airlines & Travel,537,9.67,Online Web,No,59,No
+TXN-801158,2024-09-12,Credit Card,Entertainment,84,1.51,Online Web,No,67,No
+TXN-801159,2024-12-05,Business Platinum,Restaurants,84,1.51,Mobile App,Yes,26,No
+TXN-801160,2024-12-12,Checking,Airlines & Travel,287,5.17,In-Store POS,Yes,15,No
+TXN-801161,2024-08-29,Savings,Utilities,64,1.15,In-Store POS,No,27,No
+TXN-801162,2024-02-12,Credit Card,Groceries,57,1.03,In-Store POS,No,28,No
+TXN-801163,2024-07-09,Savings,Utilities,26,0.47,Online Web,No,1,No
+TXN-801164,2024-08-23,Savings,Utilities,32,0.58,In-Store POS,No,26,No
+TXN-801165,2024-10-30,Business Platinum,Online Retail,96,1.73,ATM,No,3,No
+TXN-801166,2024-08-18,Business Platinum,Online Retail,47,0.85,ATM,No,1,No
+TXN-801167,2024-09-02,Savings,Groceries,27,0.49,ATM,Yes,50,No
+TXN-801168,2024-07-04,Credit Card,Groceries,127,2.29,Online Web,No,59,No
+TXN-801169,2024-08-17,Savings,Restaurants,85,1.53,Mobile App,No,17,No
+TXN-801170,2024-05-30,Checking,Entertainment,350,6.3,In-Store POS,Yes,23,No
+TXN-801171,2024-09-09,Savings,Gas Stations,136,2.45,In-Store POS,No,42,No
+TXN-801172,2024-01-14,Credit Card,Groceries,109,1.96,ATM,No,44,No
+TXN-801173,2024-06-17,Savings,Airlines & Travel,44,0.79,In-Store POS,No,10,No
+TXN-801174,2024-03-08,Credit Card,Gas Stations,118,2.12,Mobile App,No,59,No
+TXN-801175,2024-05-31,Business Platinum,Restaurants,77,1.39,Mobile App,No,1,No
+TXN-801176,2024-08-07,Savings,Groceries,48,0.86,In-Store POS,No,1,No
+TXN-801177,2024-04-27,Savings,Online Retail,24,0.43,In-Store POS,No,14,No
+TXN-801178,2024-12-24,Business Platinum,Online Retail,48,0.86,Mobile App,No,15,No
+TXN-801179,2024-04-06,Checking,Airlines & Travel,35,0.63,Mobile App,No,28,No
+TXN-801180,2024-02-06,Savings,Gas Stations,94,1.69,Mobile App,No,11,No
+TXN-801181,2024-07-09,Savings,Utilities,63,1.13,In-Store POS,Yes,16,No
+TXN-801182,2024-11-14,Business Platinum,Groceries,33,0.59,Mobile App,No,29,No
+TXN-801183,2024-12-30,Business Platinum,Gas Stations,190,3.42,In-Store POS,No,24,No
+TXN-801184,2024-10-26,Business Platinum,Groceries,119,2.14,Mobile App,No,22,No
+TXN-801185,2024-06-17,Savings,Airlines & Travel,252,4.54,Mobile App,No,1,No
+TXN-801186,2024-07-13,Checking,Airlines & Travel,198,3.56,Mobile App,Yes,36,No
+TXN-801187,2024-01-30,Credit Card,Gas Stations,41,0.74,ATM,Yes,57,No
+TXN-801188,2024-11-30,Savings,Restaurants,27,0.49,Online Web,No,26,No
+TXN-801189,2024-12-29,Business Platinum,Online Retail,196,3.53,Online Web,No,25,No
+TXN-801190,2024-08-18,Credit Card,Entertainment,397,7.15,Mobile App,No,27,No
+TXN-801191,2024-07-20,Credit Card,Gas Stations,284,5.11,Online Web,Yes,43,No
+TXN-801192,2024-04-11,Checking,Gas Stations,36,0.65,In-Store POS,No,33,No
+TXN-801193,2024-08-02,Credit Card,Utilities,124,2.23,In-Store POS,No,37,No
+TXN-801194,2024-12-08,Credit Card,Gas Stations,13,0.23,ATM,No,1,No
+TXN-801195,2024-03-04,Savings,Entertainment,301,5.42,In-Store POS,Yes,24,No
+TXN-801196,2024-08-20,Checking,Gas Stations,83,1.49,Online Web,Yes,1,No
+TXN-801197,2024-12-09,Checking,Airlines & Travel,75,1.35,ATM,No,38,No
+TXN-801198,2024-04-23,Credit Card,Restaurants,33,0.59,Mobile App,Yes,17,No
+TXN-801199,2024-05-24,Credit Card,Airlines & Travel,110,1.98,Mobile App,Yes,14,No
+TXN-801200,2024-05-28,Business Platinum,Groceries,36,0.65,Mobile App,No,9,No
+TXN-801201,2024-09-18,Checking,Online Retail,175,3.15,ATM,Yes,28,No
+TXN-801202,2024-06-04,Savings,Utilities,15,0.27,ATM,No,12,No
+TXN-801203,2024-08-10,Credit Card,Restaurants,181,3.26,In-Store POS,No,8,No
+TXN-801204,2024-03-17,Credit Card,Airlines & Travel,71,1.28,Online Web,No,26,No
+TXN-801205,2024-03-16,Checking,Restaurants,121,2.18,Online Web,No,52,No
+TXN-801206,2024-03-08,Credit Card,Restaurants,133,2.39,Mobile App,No,32,No
+TXN-801207,2024-09-12,Savings,Groceries,204,3.67,Online Web,No,27,No
+TXN-801208,2024-10-31,Savings,Groceries,133,2.39,Mobile App,No,2,No
+TXN-801209,2024-07-10,Checking,Online Retail,102,1.84,In-Store POS,No,1,No
+TXN-801210,2024-01-04,Checking,Gas Stations,66,1.19,Mobile App,No,74,No
+TXN-801211,2024-12-02,Savings,Airlines & Travel,41,0.74,In-Store POS,Yes,6,No
+TXN-801212,2024-01-30,Credit Card,Groceries,119,2.14,In-Store POS,No,50,No
+TXN-801213,2024-06-20,Credit Card,Entertainment,35,0.63,Mobile App,No,12,No
+TXN-801214,2024-11-27,Business Platinum,Groceries,71,1.28,Mobile App,No,1,No
+TXN-801215,2024-04-17,Savings,Online Retail,109,1.96,In-Store POS,No,44,No
+TXN-801216,2024-05-29,Business Platinum,Groceries,22,0.4,Mobile App,Yes,1,No
+TXN-801217,2024-01-23,Checking,Airlines & Travel,33,0.59,Online Web,Yes,21,No
+TXN-801218,2024-04-29,Savings,Online Retail,47,0.85,ATM,No,1,No
+TXN-801219,2024-05-31,Savings,Gas Stations,183,3.29,Mobile App,No,41,No
+TXN-801220,2024-10-19,Savings,Online Retail,14,0.25,ATM,No,4,No
+TXN-801221,2024-10-02,Checking,Groceries,41,0.74,Mobile App,Yes,78,No
+TXN-801222,2024-09-28,Credit Card,Online Retail,191,3.44,ATM,No,53,No
+TXN-801223,2024-11-01,Checking,Online Retail,138,2.48,ATM,Yes,9,No
+TXN-801224,2024-01-25,Savings,Utilities,516,9.29,ATM,No,15,No
+TXN-801225,2024-07-12,Business Platinum,Online Retail,192,3.46,ATM,Yes,21,No
+TXN-801226,2024-05-16,Savings,Groceries,18,0.32,In-Store POS,No,12,No
+TXN-801227,2024-08-15,Credit Card,Gas Stations,126,2.27,Online Web,No,53,No
+TXN-801228,2024-11-29,Savings,Restaurants,125,2.25,Online Web,Yes,37,No
+TXN-801229,2024-05-17,Savings,Restaurants,29,0.52,Mobile App,No,46,No
+TXN-801230,2024-03-31,Business Platinum,Gas Stations,22,0.4,Online Web,No,38,No
+TXN-801231,2024-01-28,Credit Card,Online Retail,32,0.58,ATM,Yes,23,No
+TXN-801232,2024-08-27,Savings,Restaurants,149,2.68,ATM,No,1,No
+TXN-801233,2024-10-06,Credit Card,Gas Stations,19,0.34,In-Store POS,No,39,No
+TXN-801234,2024-12-25,Credit Card,Groceries,316,5.69,ATM,No,1,No
+TXN-801235,2024-11-05,Checking,Utilities,30,0.54,Mobile App,No,68,No
+TXN-801236,2024-02-21,Savings,Entertainment,450,8.1,In-Store POS,No,72,No
+TXN-801237,2024-08-10,Credit Card,Entertainment,100,1.8,Online Web,No,24,No
+TXN-801238,2024-08-20,Checking,Airlines & Travel,35,0.63,Mobile App,Yes,35,No
+TXN-801239,2024-04-16,Checking,Groceries,82,1.48,In-Store POS,No,14,No
+TXN-801240,2024-02-12,Savings,Entertainment,155,2.79,Mobile App,Yes,20,No
+TXN-801241,2024-08-26,Checking,Utilities,92,1.66,Online Web,No,12,No
+TXN-801242,2024-10-15,Savings,Groceries,42,0.76,ATM,No,18,No
+TXN-801243,2024-09-11,Savings,Entertainment,269,4.84,Online Web,No,29,No
+TXN-801244,2024-05-11,Credit Card,Airlines & Travel,87,1.57,Online Web,No,30,No
+TXN-801245,2024-09-19,Business Platinum,Gas Stations,246,4.43,ATM,Yes,36,No
+TXN-801246,2024-07-14,Business Platinum,Gas Stations,27,0.49,Mobile App,No,35,No
+TXN-801247,2024-02-16,Savings,Airlines & Travel,363,6.53,Mobile App,No,23,No
+TXN-801248,2024-01-22,Credit Card,Groceries,55,0.99,In-Store POS,No,14,No
+TXN-801249,2024-09-28,Checking,Restaurants,107,1.93,In-Store POS,No,32,No
+TXN-801250,2024-11-28,Business Platinum,Entertainment,37,0.67,Mobile App,Yes,35,No
+TXN-801251,2024-09-27,Checking,Gas Stations,110,1.98,Mobile App,No,64,No
+TXN-801252,2024-08-31,Credit Card,Utilities,85,1.53,In-Store POS,No,25,No
+TXN-801253,2024-04-19,Business Platinum,Utilities,70,1.26,Mobile App,No,48,No
+TXN-801254,2024-10-17,Savings,Restaurants,205,3.69,In-Store POS,No,7,No
+TXN-801255,2024-11-19,Credit Card,Online Retail,23,0.41,In-Store POS,Yes,7,No
+TXN-801256,2024-05-09,Savings,Entertainment,24,0.43,In-Store POS,No,63,No
+TXN-801257,2024-01-15,Business Platinum,Restaurants,151,2.72,Online Web,No,37,No
+TXN-801258,2024-03-21,Checking,Groceries,327,5.89,ATM,No,1,No
+TXN-801259,2024-12-14,Business Platinum,Groceries,355,6.39,ATM,No,1,No
+TXN-801260,2024-12-12,Credit Card,Restaurants,23,0.41,ATM,No,42,No
+TXN-801261,2024-03-01,Savings,Airlines & Travel,10,0.18,Online Web,No,36,No
+TXN-801262,2024-01-13,Checking,Gas Stations,186,3.35,ATM,Yes,27,No
+TXN-801263,2024-12-01,Credit Card,Groceries,67,1.21,Mobile App,No,1,No
+TXN-801264,2024-06-29,Checking,Restaurants,87,1.57,Mobile App,Yes,5,No
+TXN-801265,2024-05-04,Checking,Gas Stations,41,0.74,ATM,No,74,No
+TXN-801266,2024-05-05,Savings,Restaurants,206,3.71,In-Store POS,Yes,27,No
+TXN-801267,2024-07-19,Checking,Entertainment,10,0.18,Mobile App,No,71,No
+TXN-801268,2024-01-21,Checking,Utilities,185,3.33,Mobile App,No,28,No
+TXN-801269,2024-07-12,Checking,Restaurants,76,1.37,Online Web,No,75,No
+TXN-801270,2024-05-29,Business Platinum,Entertainment,62,1.12,Online Web,No,6,No
+TXN-801271,2024-11-09,Checking,Airlines & Travel,87,1.57,In-Store POS,No,36,No
+TXN-801272,2024-04-27,Checking,Groceries,11,0.2,In-Store POS,No,50,No
+TXN-801273,2024-04-24,Checking,Entertainment,338,6.08,Online Web,No,24,No
+TXN-801274,2024-03-11,Credit Card,Online Retail,270,4.86,In-Store POS,No,25,No
+TXN-801275,2024-07-13,Credit Card,Gas Stations,172,3.1,Online Web,No,10,No
+TXN-801276,2024-08-04,Business Platinum,Utilities,124,2.23,Mobile App,Yes,12,No
+TXN-801277,2024-01-22,Checking,Groceries,181,3.26,Online Web,No,9,No
+TXN-801278,2024-10-08,Business Platinum,Gas Stations,316,5.69,In-Store POS,No,27,No
+TXN-801279,2024-09-15,Savings,Utilities,114,2.05,ATM,No,18,No
+TXN-801280,2024-08-21,Checking,Airlines & Travel,307,5.53,Mobile App,No,30,No
+TXN-801281,2024-02-29,Checking,Online Retail,54,0.97,ATM,No,13,No
+TXN-801282,2024-02-20,Checking,Restaurants,223,4.01,ATM,No,9,No
+TXN-801283,2024-02-13,Credit Card,Groceries,52,0.94,Mobile App,No,15,No
+TXN-801284,2024-07-30,Credit Card,Utilities,72,1.3,ATM,No,5,No
+TXN-801285,2024-03-21,Credit Card,Utilities,453,8.15,ATM,No,4,No
+TXN-801286,2024-01-21,Savings,Groceries,192,3.46,Online Web,No,23,No
+TXN-801287,2024-05-29,Credit Card,Groceries,16,0.29,ATM,No,49,No
+TXN-801288,2024-12-20,Checking,Entertainment,54,0.97,Online Web,No,62,No
+TXN-801289,2024-09-13,Checking,Online Retail,85,1.53,Online Web,No,23,No
+TXN-801290,2024-03-31,Credit Card,Airlines & Travel,121,2.18,In-Store POS,No,25,No
+TXN-801291,2024-01-07,Checking,Groceries,156,2.81,Mobile App,Yes,11,No
+TXN-801292,2024-10-11,Savings,Online Retail,175,3.15,Online Web,No,33,No
+TXN-801293,2024-06-12,Checking,Entertainment,96,1.73,In-Store POS,No,15,No
+TXN-801294,2024-02-11,Checking,Gas Stations,282,5.08,In-Store POS,No,1,No
+TXN-801295,2024-08-03,Credit Card,Restaurants,29,0.52,ATM,No,37,No
+TXN-801296,2024-11-23,Checking,Gas Stations,13,0.23,Online Web,No,34,No
+TXN-801297,2024-01-09,Savings,Airlines & Travel,53,0.95,In-Store POS,Yes,58,No
+TXN-801298,2024-08-19,Checking,Airlines & Travel,12,0.22,Online Web,No,1,No
+TXN-801299,2024-03-15,Credit Card,Restaurants,106,1.91,Mobile App,Yes,48,No
+TXN-801300,2024-03-03,Business Platinum,Restaurants,49,0.88,ATM,No,26,No
+TXN-801301,2024-04-04,Checking,Utilities,97,1.75,In-Store POS,Yes,1,No
+TXN-801302,2024-01-07,Credit Card,Entertainment,71,1.28,In-Store POS,No,13,No
+TXN-801303,2024-11-04,Credit Card,Airlines & Travel,21,0.38,Mobile App,No,61,No
+TXN-801304,2024-01-06,Credit Card,Utilities,454,8.17,Mobile App,No,47,No
+TXN-801305,2024-08-23,Credit Card,Utilities,30,0.54,In-Store POS,Yes,1,No
+TXN-801306,2024-04-15,Credit Card,Airlines & Travel,8,0.14,Mobile App,Yes,1,No
+TXN-801307,2024-03-20,Business Platinum,Utilities,215,3.87,Mobile App,Yes,8,No
+TXN-801308,2024-07-26,Business Platinum,Online Retail,151,2.72,Online Web,No,14,No
+TXN-801309,2024-10-13,Business Platinum,Groceries,57,1.03,In-Store POS,No,46,No
+TXN-801310,2024-01-25,Business Platinum,Utilities,337,6.07,Mobile App,No,22,No
+TXN-801311,2024-12-22,Checking,Airlines & Travel,16,0.29,In-Store POS,No,25,No
+TXN-801312,2024-01-14,Savings,Utilities,29,0.52,In-Store POS,Yes,5,No
+TXN-801313,2024-05-31,Credit Card,Groceries,77,1.39,ATM,Yes,19,No
+TXN-801314,2024-08-06,Checking,Restaurants,56,1.01,Mobile App,No,10,No
+TXN-801315,2024-08-14,Credit Card,Gas Stations,73,1.31,Mobile App,No,32,No
+TXN-801316,2024-07-03,Savings,Utilities,73,1.31,Online Web,No,67,No
+TXN-801317,2024-08-25,Savings,Online Retail,181,3.26,Online Web,Yes,30,No
+TXN-801318,2024-04-11,Checking,Online Retail,66,1.19,Online Web,No,25,No
+TXN-801319,2024-12-01,Savings,Gas Stations,66,1.19,Online Web,No,10,No
+TXN-801320,2024-01-08,Checking,Entertainment,230,4.14,Mobile App,Yes,30,No
+TXN-801321,2024-11-15,Credit Card,Entertainment,19,0.34,Mobile App,No,8,No
+TXN-801322,2024-08-05,Credit Card,Entertainment,18,0.32,In-Store POS,Yes,1,No
+TXN-801323,2024-08-02,Checking,Airlines & Travel,351,6.32,ATM,Yes,31,No
+TXN-801324,2024-02-09,Credit Card,Online Retail,209,3.76,Mobile App,Yes,35,No
+TXN-801325,2024-05-19,Checking,Groceries,42,0.76,In-Store POS,No,18,No
+TXN-801326,2024-03-29,Credit Card,Utilities,379,6.82,ATM,No,50,No
+TXN-801327,2024-11-29,Checking,Utilities,146,2.63,In-Store POS,No,1,No
+TXN-801328,2024-02-12,Business Platinum,Gas Stations,162,2.92,Online Web,No,14,No
+TXN-801329,2024-10-06,Business Platinum,Online Retail,58,1.04,In-Store POS,No,1,No
+TXN-801330,2024-11-22,Checking,Airlines & Travel,9,0.16,Mobile App,No,1,No
+TXN-801331,2024-11-13,Checking,Online Retail,57,1.03,Mobile App,No,14,No
+TXN-801332,2024-12-08,Checking,Restaurants,5,0.09,Mobile App,No,8,No
+TXN-801333,2024-07-04,Business Platinum,Groceries,50,0.9,In-Store POS,No,49,No
+TXN-801334,2024-04-15,Business Platinum,Airlines & Travel,186,3.35,Online Web,No,1,No
+TXN-801335,2024-10-23,Credit Card,Airlines & Travel,134,2.41,Mobile App,No,37,No
+TXN-801336,2024-07-03,Credit Card,Gas Stations,45,0.81,Online Web,No,56,No
+TXN-801337,2024-06-16,Savings,Groceries,74,1.33,In-Store POS,No,29,No
+TXN-801338,2024-12-17,Checking,Entertainment,89,1.6,Online Web,No,21,No
+TXN-801339,2024-12-30,Savings,Airlines & Travel,48,0.86,In-Store POS,No,60,No
+TXN-801340,2024-03-28,Business Platinum,Entertainment,68,1.22,Mobile App,No,21,No
+TXN-801341,2024-05-09,Checking,Groceries,170,3.06,In-Store POS,No,2,No
+TXN-801342,2024-01-24,Checking,Groceries,14,0.25,In-Store POS,Yes,30,No
+TXN-801343,2024-08-14,Savings,Online Retail,440,7.92,ATM,No,1,No
+TXN-801344,2024-12-02,Credit Card,Utilities,104,1.87,In-Store POS,No,1,No
+TXN-801345,2024-12-22,Checking,Restaurants,24,0.43,ATM,No,1,No
+TXN-801346,2024-10-26,Business Platinum,Gas Stations,211,3.8,ATM,No,13,No
+TXN-801347,2024-09-21,Checking,Utilities,221,3.98,ATM,No,3,No
+TXN-801348,2024-12-04,Savings,Gas Stations,214,3.85,Online Web,No,42,No
+TXN-801349,2024-02-12,Credit Card,Groceries,43,0.77,In-Store POS,No,34,No
+TXN-801350,2024-10-12,Savings,Online Retail,94,1.69,ATM,No,1,No
+TXN-801351,2024-09-13,Credit Card,Online Retail,10,0.18,Mobile App,No,5,No
+TXN-801352,2024-09-21,Savings,Online Retail,241,4.34,Online Web,Yes,32,No
+TXN-801353,2024-07-19,Checking,Airlines & Travel,24,0.43,In-Store POS,No,25,No
+TXN-801354,2024-04-09,Checking,Restaurants,359,6.46,ATM,No,24,No
+TXN-801355,2024-05-11,Credit Card,Restaurants,114,2.05,Mobile App,Yes,1,No
+TXN-801356,2024-11-16,Business Platinum,Groceries,10,0.18,Online Web,No,27,No
+TXN-801357,2024-05-15,Business Platinum,Entertainment,112,2.02,Mobile App,Yes,52,No
+TXN-801358,2024-05-08,Credit Card,Utilities,406,7.31,In-Store POS,No,1,No
+TXN-801359,2024-02-25,Savings,Groceries,101,1.82,ATM,No,7,No
+TXN-801360,2024-09-22,Credit Card,Restaurants,104,1.87,ATM,Yes,31,No
+TXN-801361,2024-03-25,Savings,Entertainment,5,0.09,Mobile App,No,50,No
+TXN-801362,2024-03-06,Checking,Restaurants,134,2.41,ATM,Yes,1,No
+TXN-801363,2024-04-26,Credit Card,Airlines & Travel,131,2.36,In-Store POS,No,32,No
+TXN-801364,2024-05-11,Checking,Restaurants,277,4.99,Online Web,Yes,30,No
+TXN-801365,2024-04-25,Credit Card,Entertainment,39,0.7,Online Web,No,3,No
+TXN-801366,2024-09-04,Savings,Utilities,426,7.67,Mobile App,No,31,No
+TXN-801367,2024-10-21,Checking,Utilities,99,1.78,Online Web,Yes,71,No
+TXN-801368,2024-10-02,Savings,Airlines & Travel,329,5.92,ATM,No,40,No
+TXN-801369,2024-09-26,Savings,Online Retail,153,2.75,In-Store POS,No,3,No
+TXN-801370,2024-03-15,Checking,Gas Stations,40,0.72,In-Store POS,Yes,1,No
+TXN-801371,2024-07-30,Checking,Airlines & Travel,271,4.88,In-Store POS,No,29,No
+TXN-801372,2024-05-19,Business Platinum,Entertainment,72,1.3,Online Web,No,54,No
+TXN-801373,2024-06-29,Credit Card,Utilities,19,0.34,Online Web,No,3,No
+TXN-801374,2024-08-05,Credit Card,Restaurants,23,0.41,ATM,Yes,5,No
+TXN-801375,2024-11-08,Checking,Airlines & Travel,115,2.07,ATM,Yes,12,No
+TXN-801376,2024-10-08,Business Platinum,Online Retail,75,1.35,In-Store POS,No,20,No
+TXN-801377,2024-07-21,Credit Card,Restaurants,42,0.76,ATM,No,1,No
+TXN-801378,2024-09-06,Checking,Groceries,33,0.59,In-Store POS,No,25,No
+TXN-801379,2024-01-02,Checking,Groceries,115,2.07,Online Web,No,26,No
+TXN-801380,2024-08-21,Business Platinum,Airlines & Travel,78,1.4,In-Store POS,No,54,No
+TXN-801381,2024-12-06,Savings,Entertainment,75,1.35,ATM,No,11,No
+TXN-801382,2024-05-18,Credit Card,Restaurants,27,0.49,Online Web,No,15,No
+TXN-801383,2024-03-20,Savings,Gas Stations,42,0.76,Mobile App,No,55,No
+TXN-801384,2024-09-26,Savings,Restaurants,79,1.42,Online Web,Yes,55,No
+TXN-801385,2024-10-11,Savings,Gas Stations,169,3.04,Online Web,No,32,No
+TXN-801386,2024-01-17,Business Platinum,Entertainment,420,7.56,Mobile App,No,6,No
+TXN-801387,2024-12-11,Savings,Restaurants,268,4.82,ATM,No,12,No
+TXN-801388,2024-12-23,Business Platinum,Airlines & Travel,57,1.03,Online Web,No,14,No
+TXN-801389,2024-07-21,Business Platinum,Entertainment,146,2.63,Mobile App,No,13,No
+TXN-801390,2024-05-22,Business Platinum,Utilities,376,6.77,ATM,Yes,41,No
+TXN-801391,2024-02-08,Business Platinum,Online Retail,10,0.18,ATM,No,12,No
+TXN-801392,2024-10-20,Credit Card,Airlines & Travel,92,1.66,Mobile App,No,1,No
+TXN-801393,2024-06-30,Savings,Entertainment,41,0.74,In-Store POS,No,23,No
+TXN-801394,2024-05-27,Credit Card,Online Retail,10,0.18,In-Store POS,No,56,No
+TXN-801395,2024-03-31,Checking,Online Retail,66,1.19,Online Web,No,25,No
+TXN-801396,2024-07-08,Credit Card,Utilities,27,0.49,In-Store POS,No,30,No
+TXN-801397,2024-07-07,Checking,Restaurants,94,1.69,ATM,No,26,No
+TXN-801398,2024-06-14,Checking,Online Retail,214,3.85,ATM,Yes,7,No
+TXN-801399,2024-04-01,Checking,Airlines & Travel,72,1.3,Mobile App,No,27,No
+TXN-801400,2024-02-01,Savings,Restaurants,338,6.08,ATM,Yes,5,No
+TXN-801401,2024-11-21,Business Platinum,Online Retail,103,1.85,ATM,No,37,No
+TXN-801402,2024-05-17,Credit Card,Online Retail,47,0.85,Mobile App,No,30,No
+TXN-801403,2024-04-09,Savings,Groceries,57,1.03,Online Web,No,50,No
+TXN-801404,2024-09-13,Checking,Utilities,37,0.67,ATM,Yes,53,No
+TXN-801405,2024-10-19,Checking,Utilities,210,3.78,In-Store POS,Yes,32,No
+TXN-801406,2024-11-11,Savings,Gas Stations,113,2.03,ATM,No,17,No
+TXN-801407,2024-11-28,Credit Card,Airlines & Travel,418,7.52,Mobile App,No,22,No
+TXN-801408,2024-06-15,Credit Card,Online Retail,62,1.12,ATM,No,28,No
+TXN-801409,2024-05-06,Checking,Airlines & Travel,235,4.23,Online Web,No,25,No
+TXN-801410,2024-07-03,Credit Card,Restaurants,103,1.85,Mobile App,No,46,No
+TXN-801411,2024-05-01,Checking,Groceries,24,0.43,ATM,Yes,50,No
+TXN-801412,2024-10-10,Checking,Entertainment,108,1.94,In-Store POS,Yes,40,No
+TXN-801413,2024-06-17,Business Platinum,Airlines & Travel,398,7.16,Mobile App,No,55,No
+TXN-801414,2024-02-06,Checking,Online Retail,33,0.59,Online Web,No,36,No
+TXN-801415,2024-09-07,Credit Card,Restaurants,1109,19.96,ATM,Yes,48,No
+TXN-801416,2024-07-13,Credit Card,Entertainment,159,2.86,Online Web,No,10,No
+TXN-801417,2024-08-29,Checking,Groceries,79,1.42,In-Store POS,No,31,No
+TXN-801418,2024-01-13,Savings,Gas Stations,222,4.0,Online Web,No,11,No
+TXN-801419,2024-06-04,Business Platinum,Airlines & Travel,205,3.69,In-Store POS,No,21,No
+TXN-801420,2024-05-27,Checking,Utilities,27,0.49,ATM,Yes,38,No
+TXN-801421,2024-10-20,Checking,Groceries,92,1.66,ATM,No,24,No
+TXN-801422,2024-06-17,Checking,Utilities,29,0.52,Online Web,No,19,No
+TXN-801423,2024-06-03,Business Platinum,Online Retail,169,3.04,In-Store POS,No,6,No
+TXN-801424,2024-09-17,Checking,Groceries,51,0.92,In-Store POS,No,1,No
+TXN-801425,2024-05-19,Credit Card,Airlines & Travel,8,0.14,ATM,Yes,11,No
+TXN-801426,2024-10-05,Checking,Groceries,156,2.81,ATM,No,16,No
+TXN-801427,2024-01-25,Savings,Groceries,65,1.17,In-Store POS,No,3,No
+TXN-801428,2024-03-24,Credit Card,Airlines & Travel,48,0.86,Online Web,No,23,No
+TXN-801429,2024-01-04,Savings,Airlines & Travel,59,1.06,In-Store POS,No,23,No
+TXN-801430,2024-09-04,Checking,Airlines & Travel,134,2.41,In-Store POS,No,10,No
+TXN-801431,2024-10-31,Credit Card,Gas Stations,19,0.34,In-Store POS,No,1,No
+TXN-801432,2024-12-24,Business Platinum,Airlines & Travel,166,2.99,Mobile App,No,22,No
+TXN-801433,2024-06-30,Checking,Gas Stations,36,0.65,In-Store POS,No,59,No
+TXN-801434,2024-12-10,Checking,Entertainment,41,0.74,Online Web,Yes,27,No
+TXN-801435,2024-02-12,Credit Card,Gas Stations,28,0.5,Online Web,No,19,No
+TXN-801436,2024-06-23,Savings,Online Retail,27,0.49,ATM,Yes,3,No
+TXN-801437,2024-07-04,Business Platinum,Restaurants,62,1.12,Online Web,No,35,No
+TXN-801438,2024-08-08,Credit Card,Gas Stations,88,1.58,Mobile App,No,26,No
+TXN-801439,2024-09-14,Checking,Restaurants,37,0.67,Online Web,No,1,No
+TXN-801440,2024-06-27,Credit Card,Restaurants,35,0.63,ATM,No,54,No
+TXN-801441,2024-06-10,Checking,Utilities,288,5.18,Mobile App,No,31,No
+TXN-801442,2024-10-25,Checking,Airlines & Travel,217,3.91,Online Web,No,12,No
+TXN-801443,2024-02-18,Savings,Restaurants,59,1.06,Mobile App,No,26,No
+TXN-801444,2024-12-10,Credit Card,Gas Stations,5,0.09,ATM,No,1,No
+TXN-801445,2024-04-30,Savings,Entertainment,6,0.11,In-Store POS,No,19,No
+TXN-801446,2024-03-23,Checking,Utilities,191,3.44,Mobile App,No,31,No
+TXN-801447,2024-08-13,Savings,Utilities,101,1.82,ATM,Yes,27,No
+TXN-801448,2024-10-30,Savings,Airlines & Travel,73,1.31,In-Store POS,No,20,No
+TXN-801449,2024-02-26,Credit Card,Gas Stations,171,3.08,Online Web,No,13,No
+TXN-801450,2024-07-08,Savings,Groceries,82,1.48,ATM,No,49,No
+TXN-801451,2024-09-11,Credit Card,Restaurants,103,1.85,In-Store POS,No,37,No
+TXN-801452,2024-06-12,Savings,Utilities,82,1.48,In-Store POS,No,5,No
+TXN-801453,2024-01-18,Credit Card,Utilities,20,0.36,ATM,No,23,No
+TXN-801454,2024-12-15,Business Platinum,Online Retail,164,2.95,ATM,No,14,No
+TXN-801455,2024-10-15,Savings,Gas Stations,94,1.69,In-Store POS,Yes,44,No
+TXN-801456,2024-07-30,Business Platinum,Groceries,284,5.11,Mobile App,Yes,38,No
+TXN-801457,2024-12-19,Checking,Restaurants,25,0.45,Mobile App,No,13,No
+TXN-801458,2024-09-05,Credit Card,Online Retail,9,0.16,In-Store POS,No,16,No
+TXN-801459,2024-07-31,Checking,Utilities,70,1.26,ATM,No,1,No
+TXN-801460,2024-07-05,Credit Card,Entertainment,205,3.69,In-Store POS,No,18,No
+TXN-801461,2024-11-11,Business Platinum,Airlines & Travel,86,1.55,ATM,No,27,No
+TXN-801462,2024-11-06,Savings,Restaurants,141,2.54,Mobile App,Yes,40,No
+TXN-801463,2024-05-28,Business Platinum,Online Retail,72,1.3,ATM,No,24,No
+TXN-801464,2024-11-07,Business Platinum,Groceries,94,1.69,Online Web,No,1,No
+TXN-801465,2024-03-21,Savings,Entertainment,405,7.29,ATM,No,28,No
+TXN-801466,2024-10-04,Credit Card,Utilities,22,0.4,ATM,No,37,No
+TXN-801467,2024-09-04,Credit Card,Online Retail,337,6.07,Online Web,No,1,No
+TXN-801468,2024-11-22,Business Platinum,Entertainment,12,0.22,ATM,No,38,No
+TXN-801469,2024-05-28,Business Platinum,Utilities,23,0.41,ATM,No,22,No
+TXN-801470,2024-03-23,Business Platinum,Entertainment,173,3.11,In-Store POS,No,32,No
+TXN-801471,2024-03-05,Savings,Gas Stations,463,8.33,In-Store POS,Yes,1,No
+TXN-801472,2024-09-27,Business Platinum,Groceries,75,1.35,ATM,Yes,33,No
+TXN-801473,2024-11-23,Checking,Utilities,318,5.72,Online Web,No,11,No
+TXN-801474,2024-08-30,Checking,Restaurants,6,0.11,In-Store POS,Yes,20,No
+TXN-801475,2024-02-14,Business Platinum,Groceries,25,0.45,In-Store POS,No,59,No
+TXN-801476,2024-09-03,Credit Card,Entertainment,67,1.21,In-Store POS,No,47,No
+TXN-801477,2024-01-28,Checking,Restaurants,32,0.58,In-Store POS,Yes,26,No
+TXN-801478,2024-11-05,Checking,Restaurants,29,0.52,ATM,Yes,1,No
+TXN-801479,2024-12-01,Checking,Entertainment,275,4.95,ATM,No,14,No
+TXN-801480,2024-04-07,Business Platinum,Entertainment,213,3.83,ATM,No,32,No
+TXN-801481,2024-04-10,Credit Card,Entertainment,364,6.55,Mobile App,Yes,25,No
+TXN-801482,2024-06-04,Credit Card,Restaurants,14,0.25,Online Web,Yes,39,No
+TXN-801483,2024-02-13,Checking,Utilities,50,0.9,In-Store POS,No,27,No
+TXN-801484,2024-09-23,Credit Card,Entertainment,268,4.82,Online Web,No,1,No
+TXN-801485,2024-08-14,Checking,Utilities,191,3.44,ATM,Yes,42,No
+TXN-801486,2024-03-04,Business Platinum,Restaurants,103,1.85,ATM,No,6,No
+TXN-801487,2024-08-17,Business Platinum,Entertainment,148,2.66,Mobile App,No,45,No
+TXN-801488,2024-01-28,Checking,Gas Stations,38,0.68,In-Store POS,No,40,No
+TXN-801489,2024-01-24,Credit Card,Groceries,211,3.8,In-Store POS,No,31,No
+TXN-801490,2024-09-22,Checking,Groceries,30,0.54,Mobile App,No,25,No
+TXN-801491,2024-04-06,Savings,Online Retail,170,3.06,ATM,No,10,No
+TXN-801492,2024-05-15,Savings,Groceries,131,2.36,Mobile App,No,20,No
+TXN-801493,2024-05-10,Business Platinum,Online Retail,29,0.52,Online Web,Yes,23,No
+TXN-801494,2024-12-28,Credit Card,Entertainment,195,3.51,ATM,Yes,33,No
+TXN-801495,2024-08-11,Checking,Utilities,109,1.96,Online Web,No,62,No
+TXN-801496,2024-06-25,Savings,Groceries,43,0.77,Mobile App,No,62,No
+TXN-801497,2024-10-09,Checking,Online Retail,98,1.76,ATM,No,4,No
+TXN-801498,2024-10-14,Checking,Restaurants,109,1.96,ATM,No,6,No
+TXN-801499,2024-12-24,Business Platinum,Restaurants,28,0.5,Mobile App,No,44,No
+TXN-801500,2024-04-11,Credit Card,Groceries,20,0.36,Mobile App,No,18,No
+TXN-801501,2024-09-30,Checking,Restaurants,38,0.68,Online Web,No,1,No
+TXN-801502,2024-09-30,Business Platinum,Online Retail,33,0.59,Mobile App,Yes,51,No
+TXN-801503,2024-07-12,Credit Card,Utilities,147,2.65,ATM,Yes,11,No
+TXN-801504,2024-10-18,Business Platinum,Online Retail,94,1.69,ATM,No,26,No
+TXN-801505,2024-01-17,Checking,Utilities,260,4.68,ATM,No,25,No
+TXN-801506,2024-09-24,Checking,Utilities,191,3.44,Online Web,No,24,No
+TXN-801507,2024-05-22,Credit Card,Gas Stations,27,0.49,Online Web,No,7,No
+TXN-801508,2024-02-24,Savings,Entertainment,65,1.17,ATM,No,47,No
+TXN-801509,2024-03-22,Checking,Entertainment,193,3.47,In-Store POS,No,6,No
+TXN-801510,2024-07-26,Savings,Online Retail,57,1.03,Mobile App,Yes,39,No
+TXN-801511,2024-12-17,Savings,Utilities,43,0.77,Online Web,No,17,No
+TXN-801512,2024-05-10,Business Platinum,Entertainment,96,1.73,ATM,No,4,No
+TXN-801513,2024-06-09,Savings,Airlines & Travel,61,1.1,Online Web,Yes,13,No
+TXN-801514,2024-10-27,Business Platinum,Airlines & Travel,186,3.35,ATM,No,14,No
+TXN-801515,2024-03-24,Business Platinum,Restaurants,339,6.1,ATM,No,40,No
+TXN-801516,2024-11-05,Business Platinum,Gas Stations,30,0.54,Online Web,No,43,No
+TXN-801517,2024-11-15,Credit Card,Gas Stations,325,5.85,ATM,No,21,No
+TXN-801518,2024-11-19,Credit Card,Utilities,100,1.8,Online Web,No,21,No
+TXN-801519,2024-02-20,Savings,Airlines & Travel,65,1.17,ATM,No,44,No
+TXN-801520,2024-09-22,Credit Card,Entertainment,30,0.54,ATM,No,46,No
+TXN-801521,2024-09-23,Savings,Utilities,8,0.14,In-Store POS,No,70,No
+TXN-801522,2024-12-30,Savings,Online Retail,174,3.13,ATM,No,22,No
+TXN-801523,2024-10-09,Credit Card,Entertainment,5,0.09,ATM,No,42,No
+TXN-801524,2024-06-29,Business Platinum,Online Retail,23,0.41,Online Web,No,5,No
+TXN-801525,2024-08-20,Savings,Utilities,35,0.63,Online Web,No,20,No
+TXN-801526,2024-09-15,Business Platinum,Groceries,9,0.16,Mobile App,No,9,No
+TXN-801527,2024-07-30,Savings,Utilities,207,3.73,ATM,Yes,14,No
+TXN-801528,2024-03-03,Credit Card,Entertainment,378,6.8,ATM,No,24,No
+TXN-801529,2024-05-17,Checking,Airlines & Travel,844,15.19,Mobile App,No,81,No
+TXN-801530,2024-03-20,Credit Card,Gas Stations,66,1.19,ATM,Yes,39,No
+TXN-801531,2024-09-23,Checking,Restaurants,245,4.41,In-Store POS,No,1,No
+TXN-801532,2024-12-01,Business Platinum,Airlines & Travel,50,0.9,In-Store POS,No,26,No
+TXN-801533,2024-04-15,Savings,Restaurants,96,1.73,Online Web,No,4,No
+TXN-801534,2024-08-23,Business Platinum,Gas Stations,167,3.01,Online Web,No,20,No
+TXN-801535,2024-05-31,Business Platinum,Restaurants,75,1.35,Mobile App,No,41,No
+TXN-801536,2024-05-28,Business Platinum,Restaurants,126,2.27,Online Web,No,41,No
+TXN-801537,2024-06-17,Business Platinum,Airlines & Travel,35,0.63,Mobile App,No,10,No
+TXN-801538,2024-09-16,Checking,Airlines & Travel,125,2.25,In-Store POS,No,45,No
+TXN-801539,2024-12-27,Business Platinum,Entertainment,262,4.72,ATM,No,38,No
+TXN-801540,2024-11-13,Checking,Restaurants,436,7.85,In-Store POS,No,1,No
+TXN-801541,2024-08-07,Business Platinum,Airlines & Travel,99,1.78,Online Web,No,42,No
+TXN-801542,2024-09-26,Business Platinum,Restaurants,159,2.86,Mobile App,Yes,3,No
+TXN-801543,2024-02-22,Business Platinum,Restaurants,92,1.66,ATM,No,6,No
+TXN-801544,2024-09-14,Savings,Groceries,49,0.88,Online Web,No,13,No
+TXN-801545,2024-10-11,Credit Card,Entertainment,6,0.11,ATM,Yes,2,No
+TXN-801546,2024-01-01,Business Platinum,Entertainment,216,3.89,In-Store POS,No,40,No
+TXN-801547,2024-05-13,Savings,Online Retail,51,0.92,Mobile App,No,6,No
+TXN-801548,2024-01-03,Business Platinum,Utilities,18,0.32,In-Store POS,No,23,No
+TXN-801549,2024-05-28,Business Platinum,Gas Stations,106,1.91,ATM,No,19,No
+TXN-801550,2024-07-21,Checking,Gas Stations,79,1.42,Online Web,No,50,No
+TXN-801551,2024-09-20,Checking,Restaurants,40,0.72,ATM,No,33,No
+TXN-801552,2024-08-09,Credit Card,Restaurants,33,0.59,Online Web,No,50,No
+TXN-801553,2024-06-12,Checking,Utilities,52,0.94,Mobile App,No,37,No
+TXN-801554,2024-07-27,Savings,Airlines & Travel,113,2.03,Mobile App,No,15,No
+TXN-801555,2024-11-26,Checking,Airlines & Travel,871,15.68,Mobile App,No,66,No
+TXN-801556,2024-11-01,Credit Card,Entertainment,7,0.13,Mobile App,No,13,No
+TXN-801557,2024-08-19,Credit Card,Online Retail,32,0.58,In-Store POS,No,26,No
+TXN-801558,2024-05-17,Checking,Restaurants,857,15.43,Online Web,No,63,No
+TXN-801559,2024-12-07,Credit Card,Gas Stations,172,3.1,Mobile App,No,22,No
+TXN-801560,2024-04-29,Savings,Airlines & Travel,92,1.66,Online Web,No,49,No
+TXN-801561,2024-04-16,Business Platinum,Airlines & Travel,194,3.49,Mobile App,Yes,14,No
+TXN-801562,2024-04-15,Business Platinum,Airlines & Travel,263,4.73,ATM,No,1,No
+TXN-801563,2024-11-17,Savings,Restaurants,116,2.09,In-Store POS,No,68,No
+TXN-801564,2024-03-11,Checking,Gas Stations,255,4.59,Mobile App,Yes,29,No
+TXN-801565,2024-08-31,Checking,Groceries,127,2.29,Mobile App,No,7,No
+TXN-801566,2024-03-19,Checking,Entertainment,198,3.56,Online Web,No,21,No
+TXN-801567,2024-09-13,Business Platinum,Groceries,51,0.92,Online Web,No,39,No
+TXN-801568,2024-09-26,Business Platinum,Airlines & Travel,9,0.16,In-Store POS,No,21,No
+TXN-801569,2024-01-19,Business Platinum,Utilities,267,4.81,Online Web,No,19,No
+TXN-801570,2024-01-24,Business Platinum,Entertainment,203,3.65,In-Store POS,Yes,45,No
+TXN-801571,2024-07-22,Credit Card,Groceries,467,8.41,ATM,No,61,No
+TXN-801572,2024-03-16,Credit Card,Gas Stations,21,0.38,ATM,No,43,No
+TXN-801573,2024-10-19,Checking,Groceries,15,0.27,ATM,No,5,No
+TXN-801574,2024-03-03,Savings,Airlines & Travel,144,2.59,Mobile App,No,13,No
+TXN-801575,2024-12-04,Business Platinum,Utilities,27,0.49,ATM,No,8,No
+TXN-801576,2024-01-26,Savings,Restaurants,91,1.64,Online Web,Yes,21,No
+TXN-801577,2024-05-27,Savings,Groceries,187,3.37,ATM,No,10,No
+TXN-801578,2024-05-30,Business Platinum,Gas Stations,304,5.47,In-Store POS,No,13,No
+TXN-801579,2024-06-11,Savings,Entertainment,9,0.16,Online Web,Yes,43,No
+TXN-801580,2024-02-25,Credit Card,Entertainment,136,2.45,In-Store POS,No,1,No
+TXN-801581,2024-06-15,Savings,Utilities,145,2.61,In-Store POS,Yes,26,No
+TXN-801582,2024-07-07,Checking,Airlines & Travel,86,1.55,ATM,No,12,No
+TXN-801583,2024-06-20,Business Platinum,Groceries,26,0.47,ATM,No,19,No
+TXN-801584,2024-03-25,Checking,Gas Stations,286,5.15,Mobile App,Yes,65,No
+TXN-801585,2024-07-05,Business Platinum,Restaurants,277,4.99,ATM,No,29,No
+TXN-801586,2024-10-06,Credit Card,Airlines & Travel,413,7.43,In-Store POS,Yes,29,No
+TXN-801587,2024-12-27,Credit Card,Entertainment,109,1.96,ATM,Yes,45,No
+TXN-801588,2024-05-09,Savings,Online Retail,179,3.22,ATM,No,56,No
+TXN-801589,2024-10-16,Savings,Utilities,84,1.51,In-Store POS,No,1,No
+TXN-801590,2024-02-23,Savings,Online Retail,97,1.75,ATM,No,39,No
+TXN-801591,2024-11-04,Checking,Restaurants,244,4.39,Online Web,No,12,No
+TXN-801592,2024-07-03,Savings,Restaurants,90,1.62,Online Web,No,12,No
+TXN-801593,2024-04-22,Checking,Airlines & Travel,138,2.48,ATM,No,2,No
+TXN-801594,2024-09-03,Business Platinum,Groceries,307,5.53,Mobile App,No,21,No
+TXN-801595,2024-08-27,Savings,Utilities,56,1.01,Mobile App,No,1,No
+TXN-801596,2024-07-03,Savings,Restaurants,208,3.74,Online Web,No,69,No
+TXN-801597,2024-12-24,Credit Card,Groceries,53,0.95,In-Store POS,No,28,No
+TXN-801598,2024-01-29,Savings,Groceries,65,1.17,ATM,No,30,No
+TXN-801599,2024-12-05,Business Platinum,Airlines & Travel,143,2.57,In-Store POS,No,59,No
+TXN-801600,2024-04-03,Business Platinum,Gas Stations,11,0.2,ATM,No,10,No
+TXN-801601,2024-03-28,Savings,Entertainment,78,1.4,ATM,No,48,No
+TXN-801602,2024-02-09,Savings,Utilities,242,4.36,In-Store POS,No,27,No
+TXN-801603,2024-11-12,Credit Card,Utilities,62,1.12,Online Web,No,67,No
+TXN-801604,2024-07-17,Credit Card,Online Retail,44,0.79,ATM,No,1,No
+TXN-801605,2024-02-12,Savings,Entertainment,179,3.22,Online Web,No,4,No
+TXN-801606,2024-02-29,Credit Card,Gas Stations,132,2.38,In-Store POS,No,21,No
+TXN-801607,2024-08-08,Checking,Airlines & Travel,85,1.53,In-Store POS,No,22,No
+TXN-801608,2024-03-19,Credit Card,Online Retail,31,0.56,In-Store POS,Yes,40,No
+TXN-801609,2024-12-06,Savings,Groceries,10,0.18,In-Store POS,No,1,No
+TXN-801610,2024-03-10,Savings,Airlines & Travel,56,1.01,In-Store POS,No,35,No
+TXN-801611,2024-12-26,Savings,Entertainment,39,0.7,ATM,No,21,No
+TXN-801612,2024-03-16,Savings,Gas Stations,74,1.33,Online Web,No,27,No
+TXN-801613,2024-10-31,Checking,Gas Stations,21,0.38,In-Store POS,No,25,No
+TXN-801614,2024-04-09,Savings,Restaurants,124,2.23,Mobile App,No,30,No
+TXN-801615,2024-04-22,Checking,Gas Stations,94,1.69,Mobile App,Yes,42,No
+TXN-801616,2024-05-31,Credit Card,Entertainment,109,1.96,ATM,No,56,No
+TXN-801617,2024-11-27,Business Platinum,Entertainment,6,0.11,Online Web,No,1,No
+TXN-801618,2024-09-14,Checking,Restaurants,105,1.89,In-Store POS,No,4,No
+TXN-801619,2024-07-28,Business Platinum,Utilities,175,3.15,Online Web,No,26,No
+TXN-801620,2024-12-01,Credit Card,Groceries,246,4.43,Mobile App,Yes,40,No
+TXN-801621,2024-11-21,Business Platinum,Gas Stations,147,2.65,Mobile App,Yes,35,No
+TXN-801622,2024-10-11,Business Platinum,Gas Stations,120,2.16,ATM,No,1,No
+TXN-801623,2024-05-21,Credit Card,Utilities,180,3.24,In-Store POS,No,34,No
+TXN-801624,2024-01-15,Business Platinum,Restaurants,33,0.59,Online Web,No,36,No
+TXN-801625,2024-10-20,Business Platinum,Restaurants,267,4.81,In-Store POS,Yes,29,No
+TXN-801626,2024-08-11,Savings,Entertainment,226,4.07,Online Web,No,27,No
+TXN-801627,2024-05-26,Business Platinum,Groceries,95,1.71,In-Store POS,No,28,No
+TXN-801628,2024-03-28,Savings,Gas Stations,16,0.29,ATM,No,54,No
+TXN-801629,2024-09-02,Savings,Gas Stations,79,1.42,ATM,No,58,No
+TXN-801630,2024-05-17,Savings,Airlines & Travel,28,0.5,Online Web,No,22,No
+TXN-801631,2024-07-27,Checking,Online Retail,71,1.28,Mobile App,No,21,No
+TXN-801632,2024-02-12,Business Platinum,Gas Stations,60,1.08,Online Web,No,36,No
+TXN-801633,2024-08-08,Credit Card,Airlines & Travel,46,0.83,In-Store POS,No,63,No
+TXN-801634,2024-04-25,Business Platinum,Airlines & Travel,102,1.84,Online Web,No,41,No
+TXN-801635,2024-07-30,Checking,Utilities,165,2.97,In-Store POS,No,13,No
+TXN-801636,2024-02-07,Business Platinum,Utilities,13,0.23,Mobile App,No,36,No
+TXN-801637,2024-07-13,Checking,Airlines & Travel,106,1.91,Online Web,No,1,No
+TXN-801638,2024-10-09,Checking,Online Retail,64,1.15,In-Store POS,Yes,3,No
+TXN-801639,2024-08-28,Checking,Online Retail,59,1.06,In-Store POS,No,19,No
+TXN-801640,2024-02-24,Business Platinum,Airlines & Travel,202,3.64,ATM,No,1,No
+TXN-801641,2024-07-22,Credit Card,Restaurants,90,1.62,Mobile App,No,25,No
+TXN-801642,2024-11-01,Business Platinum,Online Retail,89,1.6,In-Store POS,No,1,No
+TXN-801643,2024-04-06,Checking,Online Retail,22,0.4,Online Web,No,68,No
+TXN-801644,2024-08-19,Business Platinum,Online Retail,257,4.63,Online Web,Yes,1,No
+TXN-801645,2024-10-11,Checking,Online Retail,102,1.84,Online Web,Yes,33,No
+TXN-801646,2024-06-12,Savings,Gas Stations,55,0.99,ATM,Yes,1,No
+TXN-801647,2024-07-18,Business Platinum,Gas Stations,179,3.22,In-Store POS,No,40,No
+TXN-801648,2024-08-21,Credit Card,Gas Stations,202,3.64,Mobile App,No,32,No
+TXN-801649,2024-08-28,Business Platinum,Groceries,95,1.71,In-Store POS,No,21,No
+TXN-801650,2024-12-18,Savings,Online Retail,67,1.21,Online Web,No,56,No
+TXN-801651,2024-07-22,Credit Card,Restaurants,15,0.27,Mobile App,No,47,No
+TXN-801652,2024-05-20,Checking,Groceries,189,3.4,In-Store POS,No,35,No
+TXN-801653,2024-11-19,Business Platinum,Airlines & Travel,9,0.16,Mobile App,No,44,No
+TXN-801654,2024-10-31,Savings,Groceries,78,1.4,Online Web,Yes,25,No
+TXN-801655,2024-01-22,Savings,Restaurants,41,0.74,Mobile App,No,55,No
+TXN-801656,2024-11-04,Credit Card,Airlines & Travel,51,0.92,Mobile App,No,43,No
+TXN-801657,2024-03-21,Credit Card,Utilities,47,0.85,Mobile App,No,23,No
+TXN-801658,2024-07-04,Savings,Groceries,406,7.31,Mobile App,No,24,No
+TXN-801659,2024-02-24,Credit Card,Online Retail,27,0.49,In-Store POS,No,53,No
+TXN-801660,2024-03-14,Checking,Utilities,153,2.75,Mobile App,No,1,No
+TXN-801661,2024-09-26,Business Platinum,Gas Stations,215,3.87,ATM,Yes,62,No
+TXN-801662,2024-07-13,Checking,Groceries,6,0.11,ATM,No,45,No
+TXN-801663,2024-10-31,Checking,Entertainment,482,8.68,Online Web,No,16,No
+TXN-801664,2024-08-08,Credit Card,Groceries,103,1.85,Mobile App,No,37,No
+TXN-801665,2024-01-23,Credit Card,Groceries,46,0.83,Online Web,No,14,No
+TXN-801666,2024-03-29,Checking,Airlines & Travel,42,0.76,In-Store POS,No,26,No
+TXN-801667,2024-10-21,Checking,Utilities,13,0.23,ATM,Yes,11,No
+TXN-801668,2024-08-25,Business Platinum,Entertainment,534,9.61,In-Store POS,Yes,48,No
+TXN-801669,2024-07-21,Savings,Utilities,276,4.97,Online Web,No,23,No
+TXN-801670,2024-04-17,Credit Card,Gas Stations,76,1.37,ATM,Yes,25,No
+TXN-801671,2024-08-18,Business Platinum,Airlines & Travel,6,0.11,Online Web,No,30,No
+TXN-801672,2024-06-13,Business Platinum,Restaurants,54,0.97,In-Store POS,No,68,No
+TXN-801673,2024-09-23,Savings,Groceries,80,1.44,Online Web,Yes,33,No
+TXN-801674,2024-02-29,Savings,Entertainment,142,2.56,Online Web,No,27,No
+TXN-801675,2024-01-03,Business Platinum,Airlines & Travel,689,12.4,Mobile App,Yes,25,No
+TXN-801676,2024-11-03,Credit Card,Airlines & Travel,92,1.66,Mobile App,No,41,No
+TXN-801677,2024-10-15,Credit Card,Restaurants,117,2.11,In-Store POS,No,20,No
+TXN-801678,2024-06-23,Business Platinum,Restaurants,110,1.98,In-Store POS,No,2,No
+TXN-801679,2024-11-14,Checking,Entertainment,7,0.13,In-Store POS,No,41,No
+TXN-801680,2024-12-01,Business Platinum,Online Retail,60,1.08,In-Store POS,No,19,No
+TXN-801681,2024-09-09,Savings,Airlines & Travel,254,4.57,In-Store POS,Yes,1,No
+TXN-801682,2024-07-17,Checking,Groceries,107,1.93,In-Store POS,No,6,No
+TXN-801683,2024-08-01,Credit Card,Online Retail,50,0.9,In-Store POS,Yes,4,No
+TXN-801684,2024-03-03,Credit Card,Utilities,193,3.47,In-Store POS,No,1,No
+TXN-801685,2024-04-03,Credit Card,Airlines & Travel,115,2.07,ATM,No,24,No
+TXN-801686,2024-03-07,Credit Card,Airlines & Travel,194,3.49,Online Web,No,3,No
+TXN-801687,2024-10-20,Business Platinum,Entertainment,44,0.79,Mobile App,No,10,No
+TXN-801688,2024-07-22,Checking,Airlines & Travel,551,9.92,Online Web,Yes,68,No
+TXN-801689,2024-07-30,Credit Card,Utilities,9,0.16,In-Store POS,No,15,No
+TXN-801690,2024-03-27,Checking,Gas Stations,349,6.28,In-Store POS,No,27,No
+TXN-801691,2024-10-06,Savings,Airlines & Travel,201,3.62,ATM,No,29,No
+TXN-801692,2024-06-11,Checking,Restaurants,229,4.12,Mobile App,No,38,No
+TXN-801693,2024-10-08,Credit Card,Groceries,372,6.7,ATM,No,29,No
+TXN-801694,2024-04-13,Savings,Gas Stations,93,1.67,ATM,Yes,38,No
+TXN-801695,2024-02-03,Savings,Restaurants,50,0.9,Mobile App,No,38,No
+TXN-801696,2024-01-18,Checking,Utilities,229,4.12,In-Store POS,No,29,No
+TXN-801697,2024-03-23,Savings,Entertainment,23,0.41,In-Store POS,No,1,No
+TXN-801698,2024-05-01,Savings,Groceries,106,1.91,Online Web,No,56,No
+TXN-801699,2024-07-03,Savings,Airlines & Travel,271,4.88,Mobile App,No,20,No
+TXN-801700,2024-07-28,Business Platinum,Restaurants,109,1.96,ATM,Yes,36,No
+TXN-801701,2024-10-26,Savings,Online Retail,199,3.58,Online Web,No,18,No
+TXN-801702,2024-09-14,Business Platinum,Gas Stations,47,0.85,In-Store POS,Yes,25,No
+TXN-801703,2024-12-12,Credit Card,Online Retail,34,0.61,ATM,No,26,No
+TXN-801704,2024-01-17,Business Platinum,Online Retail,200,3.6,Online Web,No,42,No
+TXN-801705,2024-12-24,Checking,Airlines & Travel,100,1.8,Mobile App,Yes,3,No
+TXN-801706,2024-11-07,Business Platinum,Gas Stations,121,2.18,ATM,No,47,No
+TXN-801707,2024-05-09,Checking,Gas Stations,231,4.16,ATM,Yes,1,No
+TXN-801708,2024-01-06,Business Platinum,Utilities,98,1.76,ATM,Yes,15,No
+TXN-801709,2024-09-24,Business Platinum,Groceries,100,1.8,Online Web,No,10,No
+TXN-801710,2024-04-19,Savings,Utilities,303,5.45,Online Web,No,3,No
+TXN-801711,2024-03-16,Savings,Online Retail,151,2.72,Mobile App,Yes,1,No
+TXN-801712,2024-06-03,Business Platinum,Entertainment,7,0.13,Mobile App,No,39,No
+TXN-801713,2024-01-05,Checking,Gas Stations,81,1.46,Online Web,Yes,37,No
+TXN-801714,2024-03-22,Credit Card,Groceries,88,1.58,Online Web,No,6,No
+TXN-801715,2024-03-02,Business Platinum,Restaurants,82,1.48,ATM,Yes,18,No
+TXN-801716,2024-04-18,Savings,Airlines & Travel,18,0.32,Mobile App,No,56,No
+TXN-801717,2024-06-23,Savings,Restaurants,179,3.22,Online Web,No,11,No
+TXN-801718,2024-10-23,Business Platinum,Airlines & Travel,184,3.31,Mobile App,No,40,No
+TXN-801719,2024-03-04,Checking,Online Retail,8,0.14,Online Web,Yes,5,No
+TXN-801720,2024-08-15,Checking,Entertainment,68,1.22,Mobile App,No,37,No
+TXN-801721,2024-07-12,Business Platinum,Groceries,53,0.95,Online Web,No,19,No
+TXN-801722,2024-01-29,Credit Card,Groceries,45,0.81,In-Store POS,Yes,21,No
+TXN-801723,2024-09-15,Savings,Gas Stations,45,0.81,ATM,No,48,No
+TXN-801724,2024-01-24,Credit Card,Groceries,41,0.74,Online Web,Yes,13,No
+TXN-801725,2024-12-10,Savings,Gas Stations,21,0.38,ATM,No,47,No
+TXN-801726,2024-05-15,Checking,Entertainment,48,0.86,Mobile App,No,1,No
+TXN-801727,2024-09-13,Business Platinum,Entertainment,99,1.78,Mobile App,No,15,No
+TXN-801728,2024-12-15,Credit Card,Gas Stations,132,2.38,Mobile App,No,1,No
+TXN-801729,2024-09-04,Credit Card,Restaurants,108,1.94,Online Web,Yes,52,No
+TXN-801730,2024-07-06,Savings,Utilities,44,0.79,Mobile App,No,1,No
+TXN-801731,2024-01-28,Savings,Airlines & Travel,85,1.53,Mobile App,Yes,20,No
+TXN-801732,2024-12-13,Business Platinum,Restaurants,92,1.66,Online Web,Yes,4,No
+TXN-801733,2024-03-13,Credit Card,Gas Stations,425,7.65,Mobile App,No,1,No
+TXN-801734,2024-08-17,Savings,Restaurants,322,5.8,ATM,No,1,No
+TXN-801735,2024-07-17,Checking,Restaurants,311,5.6,ATM,No,64,No
+TXN-801736,2024-10-21,Checking,Restaurants,68,1.22,Online Web,No,27,No
+TXN-801737,2024-08-09,Credit Card,Entertainment,44,0.79,Mobile App,No,14,No
+TXN-801738,2024-04-03,Credit Card,Online Retail,98,1.76,ATM,Yes,21,No
+TXN-801739,2024-12-25,Checking,Airlines & Travel,233,4.19,ATM,No,5,No
+TXN-801740,2024-03-18,Checking,Airlines & Travel,192,3.46,ATM,Yes,53,No
+TXN-801741,2024-10-30,Business Platinum,Entertainment,35,0.63,Online Web,No,22,No
+TXN-801742,2024-02-08,Savings,Gas Stations,41,0.74,Mobile App,No,31,No
+TXN-801743,2024-05-20,Credit Card,Groceries,230,4.14,In-Store POS,Yes,38,No
+TXN-801744,2024-03-18,Checking,Airlines & Travel,143,2.57,ATM,No,57,No
+TXN-801745,2024-04-02,Checking,Groceries,197,3.55,Online Web,No,16,No
+TXN-801746,2024-08-13,Business Platinum,Utilities,304,5.47,ATM,No,45,No
+TXN-801747,2024-09-13,Savings,Gas Stations,34,0.61,In-Store POS,No,1,No
+TXN-801748,2024-09-11,Savings,Restaurants,188,3.38,In-Store POS,No,38,No
+TXN-801749,2024-11-20,Checking,Airlines & Travel,108,1.94,In-Store POS,No,33,No
+TXN-801750,2024-07-31,Savings,Gas Stations,67,1.21,Online Web,No,22,No
+TXN-801751,2024-11-24,Credit Card,Airlines & Travel,156,2.81,In-Store POS,No,6,No
+TXN-801752,2024-04-11,Business Platinum,Online Retail,18,0.32,In-Store POS,No,45,No
+TXN-801753,2024-01-30,Credit Card,Groceries,109,1.96,In-Store POS,No,57,No
+TXN-801754,2024-12-29,Credit Card,Online Retail,82,1.48,ATM,Yes,42,No
+TXN-801755,2024-01-02,Credit Card,Gas Stations,118,2.12,ATM,No,14,No
+TXN-801756,2024-05-11,Checking,Utilities,65,1.17,ATM,No,1,No
+TXN-801757,2024-05-19,Savings,Restaurants,90,1.62,In-Store POS,Yes,41,No
+TXN-801758,2024-05-04,Checking,Entertainment,33,0.59,Online Web,Yes,36,No
+TXN-801759,2024-06-25,Business Platinum,Groceries,293,5.27,Online Web,No,43,No
+TXN-801760,2024-11-23,Savings,Entertainment,218,3.92,Online Web,No,45,No
+TXN-801761,2024-05-13,Checking,Entertainment,420,7.56,Online Web,No,1,No
+TXN-801762,2024-05-17,Savings,Restaurants,68,1.22,Mobile App,Yes,7,No
+TXN-801763,2024-03-19,Savings,Restaurants,11,0.2,Online Web,Yes,60,No
+TXN-801764,2024-08-04,Savings,Utilities,26,0.47,Online Web,No,44,No
+TXN-801765,2024-12-08,Savings,Airlines & Travel,141,2.54,Online Web,No,37,No
+TXN-801766,2024-10-25,Business Platinum,Gas Stations,13,0.23,In-Store POS,Yes,31,No
+TXN-801767,2024-06-14,Savings,Gas Stations,69,1.24,In-Store POS,No,1,No
+TXN-801768,2024-12-03,Checking,Utilities,125,2.25,In-Store POS,No,28,No
+TXN-801769,2024-01-27,Checking,Airlines & Travel,39,0.7,In-Store POS,Yes,37,No
+TXN-801770,2024-02-19,Business Platinum,Restaurants,30,0.54,Online Web,No,1,No
+TXN-801771,2024-09-08,Credit Card,Airlines & Travel,128,2.3,ATM,No,47,No
+TXN-801772,2024-12-12,Business Platinum,Gas Stations,192,3.46,Mobile App,Yes,38,No
+TXN-801773,2024-01-29,Credit Card,Groceries,46,0.83,ATM,No,24,No
+TXN-801774,2024-01-26,Business Platinum,Groceries,223,4.01,In-Store POS,No,1,No
+TXN-801775,2024-10-07,Business Platinum,Groceries,209,3.76,ATM,No,29,No
+TXN-801776,2024-02-20,Business Platinum,Groceries,172,3.1,Online Web,No,1,No
+TXN-801777,2024-12-09,Checking,Utilities,58,1.04,Online Web,Yes,1,No
+TXN-801778,2024-03-19,Credit Card,Restaurants,328,5.9,ATM,No,49,No
+TXN-801779,2024-01-06,Savings,Groceries,106,1.91,In-Store POS,Yes,35,No
+TXN-801780,2024-06-18,Checking,Utilities,46,0.83,Online Web,Yes,38,No
+TXN-801781,2024-02-20,Business Platinum,Online Retail,139,2.5,Online Web,Yes,3,No
+TXN-801782,2024-12-01,Business Platinum,Restaurants,30,0.54,In-Store POS,No,20,No
+TXN-801783,2024-09-26,Savings,Airlines & Travel,233,4.19,Mobile App,Yes,4,No
+TXN-801784,2024-08-13,Credit Card,Gas Stations,177,3.19,ATM,No,27,No
+TXN-801785,2024-01-01,Checking,Utilities,22,0.4,ATM,No,44,No
+TXN-801786,2024-07-08,Business Platinum,Entertainment,90,1.62,In-Store POS,No,28,No
+TXN-801787,2024-11-06,Checking,Groceries,8,0.14,Mobile App,No,36,No
+TXN-801788,2024-08-31,Checking,Entertainment,62,1.12,ATM,No,35,No
+TXN-801789,2024-08-17,Business Platinum,Restaurants,309,5.56,In-Store POS,No,32,No
+TXN-801790,2024-11-07,Savings,Airlines & Travel,24,0.43,Online Web,Yes,1,No
+TXN-801791,2024-08-30,Savings,Utilities,48,0.86,Mobile App,No,9,No
+TXN-801792,2024-05-29,Business Platinum,Airlines & Travel,76,1.37,Mobile App,No,24,No
+TXN-801793,2024-03-04,Credit Card,Groceries,104,1.87,Mobile App,No,30,No
+TXN-801794,2024-05-12,Business Platinum,Gas Stations,232,4.18,ATM,No,30,No
+TXN-801795,2024-08-08,Checking,Groceries,57,1.03,Online Web,No,52,No
+TXN-801796,2024-01-14,Credit Card,Online Retail,67,1.21,Online Web,No,21,No
+TXN-801797,2024-12-10,Business Platinum,Utilities,34,0.61,ATM,Yes,13,No
+TXN-801798,2024-07-10,Savings,Groceries,54,0.97,Mobile App,No,1,No
+TXN-801799,2024-03-29,Business Platinum,Entertainment,108,1.94,Online Web,No,52,No
+TXN-801800,2024-08-30,Savings,Entertainment,36,0.65,Mobile App,Yes,36,No
+TXN-801801,2024-12-30,Savings,Gas Stations,33,0.59,Online Web,No,10,No
+TXN-801802,2024-10-17,Savings,Airlines & Travel,118,2.12,Mobile App,Yes,35,No
+TXN-801803,2024-12-19,Checking,Restaurants,70,1.26,ATM,Yes,1,No
+TXN-801804,2024-04-09,Business Platinum,Gas Stations,262,4.72,ATM,No,26,No
+TXN-801805,2024-06-05,Savings,Restaurants,52,0.94,Online Web,Yes,19,No
+TXN-801806,2024-11-29,Checking,Restaurants,12,0.22,In-Store POS,Yes,48,No
+TXN-801807,2024-10-27,Savings,Online Retail,45,0.81,Online Web,Yes,10,No
+TXN-801808,2024-05-20,Checking,Airlines & Travel,14,0.25,Mobile App,Yes,33,No
+TXN-801809,2024-04-16,Savings,Entertainment,541,9.74,Mobile App,No,45,No
+TXN-801810,2024-09-01,Checking,Gas Stations,219,3.94,Online Web,No,50,No
+TXN-801811,2024-01-11,Credit Card,Online Retail,44,0.79,In-Store POS,No,6,No
+TXN-801812,2024-02-12,Savings,Gas Stations,72,1.3,Online Web,No,39,No
+TXN-801813,2024-09-26,Checking,Gas Stations,268,4.82,Mobile App,Yes,43,No
+TXN-801814,2024-11-14,Business Platinum,Gas Stations,248,4.46,Online Web,No,22,No
+TXN-801815,2024-03-05,Credit Card,Online Retail,291,5.24,In-Store POS,No,11,No
+TXN-801816,2024-07-04,Savings,Groceries,13,0.23,ATM,Yes,23,No
+TXN-801817,2024-10-03,Credit Card,Restaurants,302,5.44,Online Web,No,28,No
+TXN-801818,2024-10-06,Credit Card,Utilities,247,4.45,ATM,No,5,No
+TXN-801819,2024-08-24,Credit Card,Entertainment,85,1.53,Online Web,No,42,No
+TXN-801820,2024-11-10,Business Platinum,Airlines & Travel,120,2.16,Mobile App,No,28,No
+TXN-801821,2024-10-05,Credit Card,Groceries,88,1.58,ATM,No,1,No
+TXN-801822,2024-10-02,Business Platinum,Utilities,87,1.57,Online Web,No,23,No
+TXN-801823,2024-10-27,Business Platinum,Entertainment,13,0.23,Online Web,No,1,No
+TXN-801824,2024-10-02,Checking,Airlines & Travel,69,1.24,ATM,Yes,7,No
+TXN-801825,2024-12-10,Business Platinum,Airlines & Travel,169,3.04,In-Store POS,No,43,No
+TXN-801826,2024-10-14,Savings,Online Retail,285,5.13,ATM,No,27,No
+TXN-801827,2024-11-28,Credit Card,Online Retail,96,1.73,Mobile App,No,13,No
+TXN-801828,2024-11-08,Credit Card,Utilities,65,1.17,Mobile App,No,1,No
+TXN-801829,2024-04-27,Savings,Utilities,74,1.33,Mobile App,Yes,2,No
+TXN-801830,2024-05-03,Credit Card,Groceries,6,0.11,Online Web,Yes,13,No
+TXN-801831,2024-08-04,Checking,Restaurants,94,1.69,Online Web,Yes,21,No
+TXN-801832,2024-02-01,Credit Card,Gas Stations,185,3.33,Mobile App,No,30,No
+TXN-801833,2024-05-07,Business Platinum,Airlines & Travel,88,1.58,Mobile App,No,31,No
+TXN-801834,2024-06-16,Savings,Utilities,121,2.18,Online Web,No,5,No
+TXN-801835,2024-01-13,Credit Card,Airlines & Travel,43,0.77,ATM,No,33,No
+TXN-801836,2024-08-16,Checking,Entertainment,9,0.16,In-Store POS,No,31,No
+TXN-801837,2024-07-12,Credit Card,Restaurants,23,0.41,Online Web,Yes,22,No
+TXN-801838,2024-08-10,Credit Card,Online Retail,146,2.63,Online Web,No,41,No
+TXN-801839,2024-04-08,Savings,Utilities,141,2.54,Mobile App,No,39,No
+TXN-801840,2024-04-19,Business Platinum,Groceries,30,0.54,Online Web,Yes,24,No
+TXN-801841,2024-09-02,Checking,Airlines & Travel,102,1.84,Online Web,Yes,26,No
+TXN-801842,2024-12-29,Business Platinum,Entertainment,88,1.58,Mobile App,Yes,21,No
+TXN-801843,2024-10-06,Checking,Restaurants,43,0.77,Mobile App,No,44,No
+TXN-801844,2024-06-14,Credit Card,Restaurants,197,3.55,Online Web,Yes,56,No
+TXN-801845,2024-05-17,Checking,Gas Stations,286,5.15,In-Store POS,No,77,No
+TXN-801846,2024-11-04,Checking,Online Retail,312,5.62,Mobile App,No,16,No
+TXN-801847,2024-12-24,Credit Card,Groceries,116,2.09,Online Web,No,34,No
+TXN-801848,2024-12-12,Savings,Entertainment,64,1.15,In-Store POS,No,5,No
+TXN-801849,2024-08-13,Checking,Entertainment,384,6.91,In-Store POS,No,20,No
+TXN-801850,2024-05-10,Business Platinum,Groceries,95,1.71,ATM,No,13,No
+TXN-801851,2024-04-18,Business Platinum,Entertainment,28,0.5,Online Web,No,55,No
+TXN-801852,2024-01-01,Business Platinum,Restaurants,134,2.41,ATM,No,36,No
+TXN-801853,2024-05-09,Checking,Restaurants,16,0.29,In-Store POS,No,24,No
+TXN-801854,2024-01-29,Savings,Gas Stations,55,0.99,ATM,Yes,28,No
+TXN-801855,2024-06-27,Credit Card,Gas Stations,102,1.84,Mobile App,No,43,No
+TXN-801856,2024-05-09,Business Platinum,Gas Stations,12,0.22,Online Web,Yes,42,No
+TXN-801857,2024-07-08,Business Platinum,Utilities,56,1.01,Mobile App,Yes,1,No
+TXN-801858,2024-03-10,Savings,Groceries,28,0.5,Online Web,Yes,30,No
+TXN-801859,2024-05-07,Credit Card,Online Retail,316,5.69,Online Web,No,1,No
+TXN-801860,2024-04-18,Credit Card,Online Retail,220,3.96,Online Web,Yes,40,No
+TXN-801861,2024-10-06,Credit Card,Restaurants,26,0.47,In-Store POS,No,46,No
+TXN-801862,2024-10-27,Business Platinum,Groceries,67,1.21,ATM,No,18,No
+TXN-801863,2024-10-11,Checking,Entertainment,56,1.01,In-Store POS,No,20,No
+TXN-801864,2024-08-02,Credit Card,Online Retail,337,6.07,In-Store POS,Yes,72,No
+TXN-801865,2024-06-26,Savings,Airlines & Travel,187,3.37,Online Web,No,1,No
+TXN-801866,2024-07-25,Credit Card,Groceries,143,2.57,In-Store POS,No,1,No
+TXN-801867,2024-03-09,Credit Card,Restaurants,34,0.61,ATM,No,21,No
+TXN-801868,2024-04-02,Credit Card,Groceries,46,0.83,Online Web,No,16,No
+TXN-801869,2024-10-31,Credit Card,Online Retail,232,4.18,Online Web,No,4,No
+TXN-801870,2024-04-21,Checking,Online Retail,168,3.02,ATM,Yes,33,No
+TXN-801871,2024-09-28,Savings,Restaurants,169,3.04,In-Store POS,No,16,No
+TXN-801872,2024-01-09,Checking,Utilities,96,1.73,Online Web,No,45,No
+TXN-801873,2024-11-28,Checking,Airlines & Travel,98,1.76,Mobile App,Yes,12,No
+TXN-801874,2024-03-17,Credit Card,Entertainment,83,1.49,In-Store POS,Yes,1,No
+TXN-801875,2024-04-29,Credit Card,Entertainment,97,1.75,Online Web,No,22,No
+TXN-801876,2024-06-01,Business Platinum,Airlines & Travel,5,0.09,In-Store POS,No,33,No
+TXN-801877,2024-06-12,Checking,Groceries,104,1.87,In-Store POS,No,33,No
+TXN-801878,2024-07-20,Savings,Groceries,89,1.6,Online Web,No,64,No
+TXN-801879,2024-01-14,Checking,Online Retail,35,0.63,Mobile App,No,33,No
+TXN-801880,2024-06-29,Savings,Groceries,74,1.33,In-Store POS,No,23,No
+TXN-801881,2024-05-04,Credit Card,Gas Stations,106,1.91,In-Store POS,Yes,61,No
+TXN-801882,2024-11-10,Checking,Restaurants,73,1.31,In-Store POS,Yes,29,No
+TXN-801883,2024-07-14,Checking,Gas Stations,23,0.41,ATM,No,15,No
+TXN-801884,2024-03-28,Checking,Online Retail,25,0.45,Mobile App,No,15,No
+TXN-801885,2024-09-27,Checking,Restaurants,715,12.87,In-Store POS,No,63,No
+TXN-801886,2024-11-10,Savings,Online Retail,32,0.58,ATM,No,28,No
+TXN-801887,2024-01-04,Checking,Gas Stations,102,1.84,Mobile App,No,7,No
+TXN-801888,2024-10-26,Business Platinum,Restaurants,54,0.97,Online Web,No,62,No
+TXN-801889,2024-10-14,Credit Card,Groceries,236,4.25,Mobile App,Yes,22,No
+TXN-801890,2024-12-06,Checking,Online Retail,163,2.93,Online Web,Yes,3,No
+TXN-801891,2024-06-09,Checking,Airlines & Travel,29,0.52,Online Web,Yes,60,No
+TXN-801892,2024-03-29,Credit Card,Entertainment,199,3.58,Online Web,No,4,No
+TXN-801893,2024-07-03,Checking,Groceries,129,2.32,In-Store POS,No,25,No
+TXN-801894,2024-08-08,Credit Card,Entertainment,536,9.65,ATM,No,21,No
+TXN-801895,2024-03-07,Checking,Groceries,25,0.45,Online Web,No,8,No
+TXN-801896,2024-03-30,Credit Card,Restaurants,28,0.5,In-Store POS,Yes,1,No
+TXN-801897,2024-01-13,Credit Card,Airlines & Travel,89,1.6,ATM,No,31,No
+TXN-801898,2024-08-02,Checking,Entertainment,7,0.13,In-Store POS,No,51,No
+TXN-801899,2024-03-01,Business Platinum,Online Retail,96,1.73,ATM,No,12,No
+TXN-801900,2024-06-02,Credit Card,Groceries,209,3.76,Online Web,Yes,33,No
+TXN-801901,2024-05-25,Savings,Utilities,132,2.38,ATM,No,15,No
+TXN-801902,2024-06-27,Credit Card,Online Retail,20,0.36,Mobile App,No,9,No
+TXN-801903,2024-12-03,Business Platinum,Restaurants,214,3.85,In-Store POS,No,12,No
+TXN-801904,2024-07-28,Checking,Online Retail,90,1.62,ATM,No,6,No
+TXN-801905,2024-09-18,Checking,Groceries,86,1.55,Mobile App,No,38,No
+TXN-801906,2024-03-16,Savings,Utilities,312,5.62,Mobile App,No,38,No
+TXN-801907,2024-10-02,Business Platinum,Gas Stations,652,11.74,Online Web,No,1,No
+TXN-801908,2024-08-05,Checking,Restaurants,84,1.51,ATM,No,17,No
+TXN-801909,2024-09-04,Savings,Groceries,368,6.62,ATM,No,27,No
+TXN-801910,2024-06-16,Credit Card,Airlines & Travel,320,5.76,Mobile App,Yes,34,No
+TXN-801911,2024-09-03,Checking,Restaurants,407,7.33,ATM,No,52,No
+TXN-801912,2024-04-17,Checking,Utilities,81,1.46,Mobile App,No,71,No
+TXN-801913,2024-09-17,Credit Card,Airlines & Travel,45,0.81,In-Store POS,No,57,No
+TXN-801914,2024-10-18,Checking,Entertainment,43,0.77,Online Web,No,52,No
+TXN-801915,2024-06-28,Business Platinum,Airlines & Travel,12,0.22,Online Web,Yes,42,No
+TXN-801916,2024-11-20,Credit Card,Entertainment,124,2.23,Online Web,No,35,No
+TXN-801917,2024-12-07,Credit Card,Restaurants,76,1.37,Online Web,No,6,No
+TXN-801918,2024-07-26,Savings,Online Retail,51,0.92,Mobile App,No,64,No
+TXN-801919,2024-04-08,Savings,Airlines & Travel,80,1.44,Online Web,Yes,22,No
+TXN-801920,2024-11-17,Business Platinum,Restaurants,10,0.18,Mobile App,No,1,No
+TXN-801921,2024-05-03,Checking,Restaurants,232,4.18,In-Store POS,No,31,No
+TXN-801922,2024-10-20,Checking,Restaurants,53,0.95,Online Web,No,7,No
+TXN-801923,2024-11-01,Business Platinum,Airlines & Travel,96,1.73,ATM,Yes,4,No
+TXN-801924,2024-10-17,Business Platinum,Utilities,113,2.03,Mobile App,No,10,No
+TXN-801925,2024-09-13,Credit Card,Airlines & Travel,191,3.44,In-Store POS,Yes,24,No
+TXN-801926,2024-11-23,Savings,Online Retail,14,0.25,ATM,No,21,No
+TXN-801927,2024-07-01,Credit Card,Restaurants,475,8.55,Online Web,No,35,No
+TXN-801928,2024-06-10,Business Platinum,Online Retail,258,4.64,In-Store POS,No,6,No
+TXN-801929,2024-03-21,Credit Card,Online Retail,24,0.43,In-Store POS,No,1,No
+TXN-801930,2024-01-17,Business Platinum,Entertainment,234,4.21,Mobile App,Yes,16,No
+TXN-801931,2024-02-01,Credit Card,Airlines & Travel,11,0.2,In-Store POS,Yes,24,No
+TXN-801932,2024-03-29,Checking,Groceries,119,2.14,Mobile App,No,1,No
+TXN-801933,2024-02-20,Business Platinum,Utilities,58,1.04,In-Store POS,Yes,27,No
+TXN-801934,2024-03-21,Savings,Restaurants,141,2.54,Mobile App,No,1,No
+TXN-801935,2024-02-13,Checking,Restaurants,21,0.38,ATM,Yes,20,No
+TXN-801936,2024-10-31,Business Platinum,Online Retail,77,1.39,Mobile App,No,36,No
+TXN-801937,2024-07-19,Checking,Entertainment,171,3.08,Online Web,No,48,No
+TXN-801938,2024-12-06,Savings,Restaurants,107,1.93,Online Web,No,1,No
+TXN-801939,2024-04-19,Checking,Airlines & Travel,152,2.74,Online Web,No,23,No
+TXN-801940,2024-09-08,Credit Card,Groceries,228,4.1,ATM,No,1,No
+TXN-801941,2024-07-20,Business Platinum,Gas Stations,217,3.91,Mobile App,No,30,No
+TXN-801942,2024-09-22,Savings,Online Retail,49,0.88,In-Store POS,No,21,No
+TXN-801943,2024-01-19,Business Platinum,Restaurants,46,0.83,Online Web,No,35,No
+TXN-801944,2024-04-13,Business Platinum,Utilities,45,0.81,Online Web,No,21,No
+TXN-801945,2024-09-18,Savings,Utilities,50,0.9,Online Web,No,23,No
+TXN-801946,2024-03-04,Business Platinum,Airlines & Travel,31,0.56,Online Web,No,1,No
+TXN-801947,2024-05-18,Business Platinum,Online Retail,90,1.62,ATM,No,1,No
+TXN-801948,2024-08-14,Credit Card,Gas Stations,60,1.08,In-Store POS,No,33,No
+TXN-801949,2024-03-25,Business Platinum,Restaurants,38,0.68,Online Web,No,21,No
+TXN-801950,2024-02-24,Business Platinum,Airlines & Travel,298,5.36,Online Web,No,11,No
+TXN-801951,2024-12-11,Checking,Entertainment,128,2.3,ATM,Yes,51,No
+TXN-801952,2024-02-22,Checking,Restaurants,64,1.15,Mobile App,No,24,No
+TXN-801953,2024-01-25,Savings,Airlines & Travel,47,0.85,Online Web,No,41,No
+TXN-801954,2024-05-18,Checking,Utilities,166,2.99,Mobile App,No,6,No
+TXN-801955,2024-02-02,Checking,Groceries,38,0.68,ATM,Yes,47,No
+TXN-801956,2024-07-26,Savings,Online Retail,46,0.83,In-Store POS,No,23,No
+TXN-801957,2024-03-31,Business Platinum,Gas Stations,122,2.2,Mobile App,Yes,1,No
+TXN-801958,2024-01-23,Credit Card,Groceries,12,0.22,In-Store POS,No,1,No
+TXN-801959,2024-11-25,Credit Card,Utilities,72,1.3,Online Web,No,33,No
+TXN-801960,2024-03-21,Savings,Airlines & Travel,81,1.46,Mobile App,No,30,No
+TXN-801961,2024-08-19,Savings,Entertainment,141,2.54,Mobile App,No,1,No
+TXN-801962,2024-03-16,Credit Card,Groceries,138,2.48,ATM,Yes,25,No
+TXN-801963,2024-08-20,Savings,Utilities,26,0.47,In-Store POS,Yes,2,No
+TXN-801964,2024-06-15,Business Platinum,Online Retail,12,0.22,ATM,No,42,No
+TXN-801965,2024-05-05,Checking,Restaurants,112,2.02,Online Web,No,7,No
+TXN-801966,2024-03-09,Business Platinum,Airlines & Travel,47,0.85,In-Store POS,No,35,No
+TXN-801967,2024-11-11,Checking,Restaurants,67,1.21,Online Web,No,1,No
+TXN-801968,2024-11-10,Savings,Entertainment,356,6.41,Online Web,No,18,No
+TXN-801969,2024-11-27,Checking,Online Retail,56,1.01,Mobile App,No,34,No
+TXN-801970,2024-12-29,Checking,Online Retail,180,3.24,Online Web,No,14,No
+TXN-801971,2024-06-21,Business Platinum,Airlines & Travel,8,0.14,ATM,No,1,No
+TXN-801972,2024-07-19,Business Platinum,Restaurants,84,1.51,In-Store POS,Yes,29,No
+TXN-801973,2024-12-09,Business Platinum,Gas Stations,61,1.1,Mobile App,No,6,No
+TXN-801974,2024-01-16,Checking,Groceries,26,0.47,In-Store POS,No,2,No
+TXN-801975,2024-02-01,Business Platinum,Entertainment,35,0.63,Online Web,No,5,No
+TXN-801976,2024-04-27,Credit Card,Restaurants,113,2.03,In-Store POS,Yes,5,No
+TXN-801977,2024-01-10,Business Platinum,Gas Stations,60,1.08,Mobile App,No,40,No
+TXN-801978,2024-11-25,Credit Card,Gas Stations,35,0.63,Mobile App,No,28,No
+TXN-801979,2024-09-28,Checking,Groceries,327,5.89,ATM,No,8,No
+TXN-801980,2024-07-20,Business Platinum,Utilities,96,1.73,ATM,Yes,1,No
+TXN-801981,2024-05-27,Credit Card,Entertainment,6,0.11,In-Store POS,No,39,No
+TXN-801982,2024-09-04,Checking,Gas Stations,156,2.81,Mobile App,Yes,23,No
+TXN-801983,2024-07-15,Savings,Utilities,10,0.18,ATM,Yes,19,No
+TXN-801984,2024-01-21,Checking,Entertainment,13,0.23,In-Store POS,No,1,No
+TXN-801985,2024-05-07,Business Platinum,Groceries,117,2.11,Mobile App,Yes,36,No
+TXN-801986,2024-10-25,Credit Card,Airlines & Travel,18,0.32,Online Web,No,7,No
+TXN-801987,2024-02-14,Savings,Gas Stations,20,0.36,In-Store POS,Yes,4,No
+TXN-801988,2024-08-17,Business Platinum,Entertainment,8,0.14,ATM,No,32,No
+TXN-801989,2024-03-17,Business Platinum,Gas Stations,121,2.18,In-Store POS,Yes,21,No
+TXN-801990,2024-10-31,Checking,Entertainment,92,1.66,Mobile App,No,18,No
+TXN-801991,2024-07-04,Business Platinum,Online Retail,409,7.36,In-Store POS,No,22,No
+TXN-801992,2024-04-14,Business Platinum,Groceries,497,8.95,Mobile App,Yes,55,No
+TXN-801993,2024-12-14,Credit Card,Utilities,199,3.58,Mobile App,No,10,No
+TXN-801994,2024-05-17,Credit Card,Online Retail,318,5.72,Online Web,No,10,No
+TXN-801995,2024-01-05,Credit Card,Groceries,104,1.87,In-Store POS,No,27,No
+TXN-801996,2024-05-18,Credit Card,Online Retail,21,0.38,Mobile App,No,1,No
+TXN-801997,2024-05-15,Credit Card,Airlines & Travel,19,0.34,Online Web,No,25,No
+TXN-801998,2024-03-05,Savings,Restaurants,198,3.56,In-Store POS,No,29,No
+TXN-801999,2024-09-16,Checking,Utilities,21,0.38,Mobile App,No,1,No

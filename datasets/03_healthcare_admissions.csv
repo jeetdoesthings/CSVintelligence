@@ -1,0 +1,1001 @@
+patient_id,admission_date,age,gender,department,diagnosis,length_of_stay_days,total_bill_amount,insurance_provider,medication_count,readmitted_30_days
+PAT-3000,2024-09-05,35,Female,Neurology,Pneumonia,11,27637,Medicare,1,No
+PAT-3001,2024-01-27,52,Male,Pediatrics,Hypertension,5,7095,UnitedHealth,1,Yes
+PAT-3002,2024-02-08,54,Male,Neurology,Arrhythmia,17,41690,BlueCross,1,No
+PAT-3003,2024-06-15,84,Male,Orthopedics,Coronary Artery Disease,10,16905,UnitedHealth,1,No
+PAT-3004,2024-07-29,22,Female,Orthopedics,Arrhythmia,11,20242,Medicare,5,No
+PAT-3005,2024-06-05,64,Female,Emergency,Coronary Artery Disease,13,13831,BlueCross,4,No
+PAT-3006,2024-06-08,26,Female,Neurology,Hypertension,6,16491,Cigna,3,No
+PAT-3007,2024-04-15,33,Female,Cardiology,Stroke Rehab,8,17571,Aetna,6,Yes
+PAT-3008,2024-06-12,67,Female,Pediatrics,Acute Fracture,17,21662,Cigna,3,No
+PAT-3009,2024-07-28,74,Male,Oncology,Hypertension,6,20837,UnitedHealth,7,No
+PAT-3010,2024-11-13,30,Female,Neurology,Stroke Rehab,19,46743,BlueCross,5,No
+PAT-3011,2024-06-08,56,Male,Orthopedics,Stroke Rehab,8,13908,Medicare,1,No
+PAT-3012,2024-12-16,52,Female,Pediatrics,Pneumonia,11,16717,Medicare,4,No
+PAT-3013,2024-04-26,59,Female,Emergency,Stroke Rehab,12,14988,UnitedHealth,6,No
+PAT-3014,2024-11-11,83,Male,Pediatrics,Pneumonia,5,9523,Medicare,4,Yes
+PAT-3015,2024-05-10,74,Male,Pediatrics,Coronary Artery Disease,7,10465,BlueCross,5,No
+PAT-3016,2024-10-05,18,Male,Neurology,Hypertension,16,39304,BlueCross,7,No
+PAT-3017,2024-07-24,52,Female,Neurology,Hypertension,6,17311,UnitedHealth,6,Yes
+PAT-3018,2024-12-21,49,Female,Cardiology,Arrhythmia,1,6657,UnitedHealth,5,No
+PAT-3019,2024-09-27,80,Male,Emergency,Arrhythmia,17,19856,Aetna,5,No
+PAT-3020,2024-01-12,61,Female,Orthopedics,Coronary Artery Disease,2,4269,UnitedHealth,2,No
+PAT-3021,2024-01-22,76,Female,Cardiology,Arrhythmia,4,8751,BlueCross,2,Yes
+PAT-3022,2024-03-19,87,Male,Emergency,Coronary Artery Disease,1,2157,Cigna,2,No
+PAT-3023,2024-05-26,65,Male,Orthopedics,Coronary Artery Disease,7,15545,Aetna,1,No
+PAT-3024,2024-03-18,38,Male,Neurology,Pneumonia,12,28604,Aetna,1,No
+PAT-3025,2024-09-10,34,Female,Oncology,Hypertension,4,13603,Cigna,3,No
+PAT-3026,2024-08-12,65,Female,Orthopedics,Hypertension,13,25397,Medicare,7,No
+PAT-3027,2024-11-09,78,Female,Cardiology,Coronary Artery Disease,16,32048,Medicare,6,No
+PAT-3028,2024-07-03,47,Female,Orthopedics,Pneumonia,15,25192,UnitedHealth,1,No
+PAT-3029,2024-06-20,25,Female,Pediatrics,Acute Fracture,10,13172,UnitedHealth,2,No
+PAT-3030,2024-11-23,66,Female,Neurology,Stroke Rehab,12,30567,BlueCross,1,No
+PAT-3031,2024-12-14,53,Female,Cardiology,Coronary Artery Disease,14,26066,UnitedHealth,5,No
+PAT-3032,2024-12-23,36,Male,Neurology,Acute Fracture,14,33176,UnitedHealth,2,No
+PAT-3033,2024-09-12,57,Female,Neurology,Pneumonia,10,26637,UnitedHealth,7,No
+PAT-3034,2024-10-20,19,Male,Cardiology,Stroke Rehab,7,16267,Aetna,4,Yes
+PAT-3035,2024-08-14,41,Female,Pediatrics,Coronary Artery Disease,1,4019,Cigna,3,No
+PAT-3036,2024-04-12,51,Male,Neurology,Coronary Artery Disease,3,11437,Cigna,4,No
+PAT-3037,2024-02-11,30,Male,Pediatrics,Arrhythmia,10,15710,Cigna,3,Yes
+PAT-3038,2024-04-15,30,Female,Emergency,Acute Fracture,19,19560,Aetna,5,No
+PAT-3039,2024-01-26,78,Male,Cardiology,Stroke Rehab,1,3064,BlueCross,1,No
+PAT-3040,2024-09-28,33,Male,Neurology,Acute Fracture,9,21968,Aetna,1,Yes
+PAT-3041,2024-02-11,27,Male,Pediatrics,Hypertension,13,16552,BlueCross,3,No
+PAT-3042,2024-01-24,54,Female,Oncology,Acute Fracture,17,50090,Aetna,1,No
+PAT-3043,2024-05-07,62,Female,Pediatrics,Arrhythmia,19,23430,Medicare,5,No
+PAT-3044,2024-10-31,53,Male,Oncology,Acute Fracture,19,55635,UnitedHealth,2,No
+PAT-3045,2024-06-04,49,Male,Pediatrics,Hypertension,20,25839,UnitedHealth,5,No
+PAT-3046,2024-12-09,67,Male,Oncology,Pneumonia,6,19158,Cigna,7,No
+PAT-3047,2024-12-30,18,Female,Oncology,Acute Fracture,1,7403,Aetna,1,No
+PAT-3048,2024-08-10,69,Female,Emergency,Pneumonia,9,12583,Cigna,1,No
+PAT-3049,2024-03-29,49,Male,Pediatrics,Arrhythmia,1,3032,Cigna,7,Yes
+PAT-3050,2024-03-03,86,Female,Neurology,Coronary Artery Disease,16,37706,Cigna,3,No
+PAT-3051,2024-11-15,74,Female,Neurology,Hypertension,17,40375,Medicare,7,Yes
+PAT-3052,2024-04-17,62,Female,Neurology,Arrhythmia,13,33254,BlueCross,1,No
+PAT-3053,2024-03-28,29,Male,Cardiology,Stroke Rehab,9,19017,BlueCross,3,No
+PAT-3054,2024-12-05,52,Female,Orthopedics,Coronary Artery Disease,1,4271,Aetna,2,No
+PAT-3055,2024-10-04,36,Male,Emergency,Hypertension,20,19561,UnitedHealth,2,Yes
+PAT-3056,2024-01-18,73,Male,Orthopedics,Arrhythmia,19,34279,UnitedHealth,6,No
+PAT-3057,2024-11-16,56,Female,Emergency,Hypertension,12,13616,Cigna,1,No
+PAT-3058,2024-09-01,80,Male,Oncology,Stroke Rehab,8,27248,Cigna,7,No
+PAT-3059,2024-02-05,75,Female,Neurology,Arrhythmia,1,3578,Cigna,3,Yes
+PAT-3060,2024-07-25,42,Male,Pediatrics,Arrhythmia,11,16650,Aetna,1,No
+PAT-3061,2024-01-26,41,Female,Emergency,Arrhythmia,20,21463,Cigna,6,No
+PAT-3062,2024-07-04,39,Female,Orthopedics,Arrhythmia,11,20080,BlueCross,5,No
+PAT-3063,2024-03-22,63,Male,Cardiology,Pneumonia,17,33883,Aetna,6,No
+PAT-3064,2024-12-08,34,Male,Cardiology,Stroke Rehab,9,20207,UnitedHealth,7,No
+PAT-3065,2024-09-01,65,Male,Pediatrics,Acute Fracture,1,1780,Medicare,3,Yes
+PAT-3066,2024-12-04,70,Male,Pediatrics,Coronary Artery Disease,4,6011,BlueCross,3,No
+PAT-3067,2024-05-25,59,Male,Orthopedics,Hypertension,5,9359,UnitedHealth,4,No
+PAT-3068,2024-12-29,65,Male,Emergency,Stroke Rehab,17,18921,UnitedHealth,3,No
+PAT-3069,2024-10-25,87,Female,Pediatrics,Pneumonia,1,1641,BlueCross,3,No
+PAT-3070,2024-09-01,54,Female,Pediatrics,Coronary Artery Disease,14,16907,Aetna,1,No
+PAT-3071,2024-06-20,24,Female,Cardiology,Pneumonia,18,36903,Cigna,3,No
+PAT-3072,2024-02-20,44,Female,Oncology,Coronary Artery Disease,19,56018,BlueCross,5,No
+PAT-3073,2024-10-20,81,Male,Emergency,Stroke Rehab,9,12100,UnitedHealth,2,No
+PAT-3074,2024-06-16,61,Female,Neurology,Hypertension,10,22587,BlueCross,2,Yes
+PAT-3075,2024-07-03,80,Male,Cardiology,Hypertension,6,14013,Medicare,3,Yes
+PAT-3076,2024-06-11,78,Male,Emergency,Coronary Artery Disease,7,8379,Aetna,7,Yes
+PAT-3077,2024-09-22,21,Male,Neurology,Pneumonia,3,8730,BlueCross,4,No
+PAT-3078,2024-09-01,57,Male,Orthopedics,Pneumonia,20,36838,Aetna,7,No
+PAT-3079,2024-06-01,68,Female,Pediatrics,Coronary Artery Disease,20,26820,Aetna,6,No
+PAT-3080,2024-08-03,55,Male,Orthopedics,Acute Fracture,9,15176,UnitedHealth,1,No
+PAT-3081,2024-02-07,84,Male,Oncology,Stroke Rehab,14,43283,Medicare,2,Yes
+PAT-3082,2024-11-09,31,Female,Pediatrics,Acute Fracture,12,16877,BlueCross,3,No
+PAT-3083,2024-09-21,42,Male,Pediatrics,Coronary Artery Disease,16,19723,BlueCross,4,No
+PAT-3084,2024-10-14,68,Female,Orthopedics,Pneumonia,10,17942,Aetna,3,No
+PAT-3085,2024-11-24,68,Female,Oncology,Arrhythmia,11,32175,BlueCross,3,No
+PAT-3086,2024-07-30,22,Female,Emergency,Stroke Rehab,17,17507,UnitedHealth,2,Yes
+PAT-3087,2024-12-26,21,Male,Emergency,Arrhythmia,18,20351,UnitedHealth,6,No
+PAT-3088,2024-10-13,58,Male,Emergency,Arrhythmia,7,9201,BlueCross,5,No
+PAT-3089,2024-08-02,36,Male,Oncology,Acute Fracture,12,35857,BlueCross,6,No
+PAT-3090,2024-09-17,19,Male,Emergency,Stroke Rehab,3,6703,Medicare,4,No
+PAT-3091,2024-11-05,54,Male,Pediatrics,Arrhythmia,6,10371,Medicare,6,Yes
+PAT-3092,2024-03-28,28,Female,Emergency,Pneumonia,4,6269,Cigna,5,Yes
+PAT-3093,2024-11-30,84,Male,Pediatrics,Pneumonia,3,5309,UnitedHealth,5,No
+PAT-3094,2024-02-04,59,Female,Oncology,Pneumonia,12,37595,Medicare,6,No
+PAT-3095,2024-04-20,30,Male,Neurology,Hypertension,15,35981,Aetna,3,No
+PAT-3096,2024-06-09,22,Female,Neurology,Coronary Artery Disease,8,20709,Cigna,7,No
+PAT-3097,2024-02-27,42,Female,Oncology,Coronary Artery Disease,13,40625,BlueCross,2,Yes
+PAT-3098,2024-12-28,54,Male,Orthopedics,Coronary Artery Disease,18,32784,UnitedHealth,1,No
+PAT-3099,2024-05-26,85,Female,Emergency,Arrhythmia,15,17582,BlueCross,6,Yes
+PAT-3100,2024-02-06,22,Female,Emergency,Hypertension,3,6014,BlueCross,7,Yes
+PAT-3101,2024-09-20,82,Male,Orthopedics,Coronary Artery Disease,10,20174,UnitedHealth,7,No
+PAT-3102,2024-02-18,77,Male,Emergency,Pneumonia,16,15770,Cigna,5,No
+PAT-3103,2024-10-24,30,Male,Orthopedics,Arrhythmia,15,24590,BlueCross,2,No
+PAT-3104,2024-06-27,81,Female,Orthopedics,Hypertension,8,14874,Cigna,2,No
+PAT-3105,2024-08-13,52,Male,Pediatrics,Coronary Artery Disease,20,24815,Aetna,2,Yes
+PAT-3106,2024-07-10,83,Male,Emergency,Hypertension,3,6815,Cigna,6,Yes
+PAT-3107,2024-12-12,86,Male,Orthopedics,Coronary Artery Disease,19,32498,BlueCross,3,No
+PAT-3108,2024-12-28,41,Male,Pediatrics,Stroke Rehab,7,12256,Aetna,5,No
+PAT-3109,2024-09-14,27,Male,Pediatrics,Arrhythmia,1,5083,Aetna,3,No
+PAT-3110,2024-11-21,28,Female,Cardiology,Pneumonia,1,5518,Aetna,4,No
+PAT-3111,2024-03-20,71,Male,Oncology,Pneumonia,4,12818,UnitedHealth,6,No
+PAT-3112,2024-02-23,53,Male,Cardiology,Coronary Artery Disease,15,31744,Cigna,6,No
+PAT-3113,2024-06-08,59,Female,Oncology,Acute Fracture,12,35624,Cigna,2,No
+PAT-3114,2024-02-12,72,Male,Pediatrics,Stroke Rehab,14,18003,Medicare,5,No
+PAT-3115,2024-06-21,62,Female,Neurology,Hypertension,8,18862,Aetna,1,Yes
+PAT-3116,2024-10-07,22,Male,Neurology,Coronary Artery Disease,6,15586,Medicare,6,No
+PAT-3117,2024-08-23,80,Female,Orthopedics,Acute Fracture,20,36324,BlueCross,5,No
+PAT-3118,2024-07-06,40,Male,Oncology,Acute Fracture,9,28553,BlueCross,1,No
+PAT-3119,2024-09-14,64,Male,Pediatrics,Arrhythmia,11,14881,Medicare,4,Yes
+PAT-3120,2024-03-10,81,Female,Emergency,Stroke Rehab,5,5354,Cigna,7,No
+PAT-3121,2024-01-10,38,Female,Oncology,Stroke Rehab,10,31924,Medicare,7,No
+PAT-3122,2024-02-07,33,Male,Neurology,Arrhythmia,8,21131,BlueCross,6,No
+PAT-3123,2024-03-10,61,Male,Neurology,Pneumonia,17,41033,BlueCross,5,Yes
+PAT-3124,2024-11-11,33,Male,Oncology,Hypertension,11,34798,UnitedHealth,7,No
+PAT-3125,2024-09-12,84,Female,Cardiology,Coronary Artery Disease,8,15640,Cigna,4,No
+PAT-3126,2024-07-23,54,Male,Orthopedics,Arrhythmia,7,15906,Cigna,5,No
+PAT-3127,2024-10-10,67,Female,Pediatrics,Arrhythmia,17,21312,Cigna,7,No
+PAT-3128,2024-09-02,72,Male,Cardiology,Pneumonia,1,6537,BlueCross,4,No
+PAT-3129,2024-03-18,30,Female,Emergency,Arrhythmia,15,16477,BlueCross,7,No
+PAT-3130,2024-06-27,26,Female,Cardiology,Hypertension,4,10688,Aetna,2,No
+PAT-3131,2024-04-27,57,Female,Orthopedics,Acute Fracture,15,25667,BlueCross,7,No
+PAT-3132,2024-10-30,39,Female,Emergency,Acute Fracture,5,5715,Cigna,1,No
+PAT-3133,2024-12-08,40,Male,Neurology,Acute Fracture,13,31614,Cigna,3,No
+PAT-3134,2024-04-01,53,Male,Cardiology,Pneumonia,12,22586,UnitedHealth,3,No
+PAT-3135,2024-05-07,61,Female,Cardiology,Arrhythmia,13,26698,Aetna,7,No
+PAT-3136,2024-12-10,33,Female,Cardiology,Acute Fracture,4,9887,UnitedHealth,4,No
+PAT-3137,2024-10-30,60,Male,Pediatrics,Arrhythmia,17,23438,Aetna,2,No
+PAT-3138,2024-08-05,30,Female,Pediatrics,Pneumonia,8,12486,UnitedHealth,7,No
+PAT-3139,2024-09-13,50,Female,Neurology,Coronary Artery Disease,5,12009,BlueCross,1,No
+PAT-3140,2024-03-16,30,Female,Oncology,Arrhythmia,12,38152,Aetna,5,No
+PAT-3141,2024-04-11,23,Male,Oncology,Coronary Artery Disease,4,14715,Cigna,6,No
+PAT-3142,2024-04-28,77,Male,Emergency,Stroke Rehab,4,7556,Aetna,4,No
+PAT-3143,2024-07-07,43,Female,Oncology,Acute Fracture,15,43721,Medicare,2,No
+PAT-3144,2024-11-11,44,Male,Pediatrics,Acute Fracture,3,5593,Cigna,4,No
+PAT-3145,2024-01-11,57,Female,Oncology,Hypertension,16,46407,Cigna,3,No
+PAT-3146,2024-07-17,26,Female,Neurology,Coronary Artery Disease,15,34601,UnitedHealth,2,No
+PAT-3147,2024-07-28,42,Male,Pediatrics,Pneumonia,16,18379,Cigna,6,Yes
+PAT-3148,2024-08-09,70,Female,Neurology,Acute Fracture,6,14865,Cigna,4,No
+PAT-3149,2024-05-13,80,Male,Oncology,Coronary Artery Disease,17,48371,Medicare,5,No
+PAT-3150,2024-02-06,21,Male,Pediatrics,Stroke Rehab,10,14693,Cigna,3,No
+PAT-3151,2024-09-22,28,Male,Orthopedics,Hypertension,18,29624,Cigna,1,No
+PAT-3152,2024-01-12,49,Female,Oncology,Arrhythmia,13,37037,Cigna,6,No
+PAT-3153,2024-11-02,65,Male,Neurology,Acute Fracture,1,3210,Medicare,6,No
+PAT-3154,2024-07-22,30,Female,Oncology,Coronary Artery Disease,6,17725,Aetna,5,No
+PAT-3155,2024-05-16,36,Female,Orthopedics,Hypertension,13,22312,UnitedHealth,5,No
+PAT-3156,2024-01-14,23,Male,Orthopedics,Stroke Rehab,16,26137,UnitedHealth,5,No
+PAT-3157,2024-08-20,26,Male,Orthopedics,Hypertension,4,8609,Cigna,4,No
+PAT-3158,2024-04-08,76,Female,Oncology,Hypertension,18,52123,BlueCross,4,No
+PAT-3159,2024-08-19,24,Male,Pediatrics,Arrhythmia,4,7484,BlueCross,3,No
+PAT-3160,2024-02-20,86,Female,Cardiology,Hypertension,12,23554,Aetna,2,Yes
+PAT-3161,2024-06-19,33,Male,Neurology,Coronary Artery Disease,15,35684,Medicare,6,Yes
+PAT-3162,2024-12-30,62,Male,Orthopedics,Arrhythmia,9,16404,UnitedHealth,3,No
+PAT-3163,2024-07-19,41,Male,Neurology,Stroke Rehab,12,28660,BlueCross,5,No
+PAT-3164,2024-08-07,48,Male,Emergency,Coronary Artery Disease,12,11940,UnitedHealth,7,No
+PAT-3165,2024-10-22,29,Female,Emergency,Hypertension,2,4254,Cigna,4,No
+PAT-3166,2024-05-11,53,Male,Cardiology,Arrhythmia,15,28510,Aetna,3,No
+PAT-3167,2024-08-26,66,Male,Emergency,Pneumonia,2,3159,Medicare,6,No
+PAT-3168,2024-10-23,29,Male,Orthopedics,Stroke Rehab,13,24547,UnitedHealth,7,No
+PAT-3169,2024-05-11,39,Male,Pediatrics,Acute Fracture,8,11715,UnitedHealth,5,Yes
+PAT-3170,2024-08-14,32,Female,Oncology,Coronary Artery Disease,18,51707,Medicare,4,No
+PAT-3171,2024-07-03,36,Female,Pediatrics,Arrhythmia,4,6550,Cigna,4,No
+PAT-3172,2024-10-19,45,Female,Neurology,Arrhythmia,7,17058,UnitedHealth,2,No
+PAT-3173,2024-11-17,28,Male,Neurology,Arrhythmia,20,46661,BlueCross,1,No
+PAT-3174,2024-10-11,59,Female,Emergency,Coronary Artery Disease,16,17320,UnitedHealth,4,No
+PAT-3175,2024-10-20,70,Female,Pediatrics,Arrhythmia,20,23296,UnitedHealth,2,No
+PAT-3176,2024-02-15,52,Female,Emergency,Coronary Artery Disease,20,21858,BlueCross,7,No
+PAT-3177,2024-07-09,86,Male,Neurology,Pneumonia,8,21433,Aetna,7,No
+PAT-3178,2024-05-18,46,Male,Neurology,Stroke Rehab,12,28377,Cigna,2,No
+PAT-3179,2024-05-25,60,Female,Cardiology,Arrhythmia,17,31193,BlueCross,7,No
+PAT-3180,2024-01-10,66,Female,Neurology,Acute Fracture,5,12480,BlueCross,2,No
+PAT-3181,2024-07-13,66,Male,Oncology,Pneumonia,2,6337,UnitedHealth,2,No
+PAT-3182,2024-04-29,34,Male,Orthopedics,Stroke Rehab,19,34188,UnitedHealth,7,No
+PAT-3183,2024-02-25,65,Female,Orthopedics,Stroke Rehab,11,18136,Aetna,5,No
+PAT-3184,2024-01-09,20,Female,Oncology,Acute Fracture,17,51023,Aetna,4,No
+PAT-3185,2024-07-09,41,Male,Orthopedics,Acute Fracture,16,30309,Medicare,1,Yes
+PAT-3186,2024-10-15,55,Male,Cardiology,Hypertension,14,28590,Aetna,7,Yes
+PAT-3187,2024-08-10,36,Male,Pediatrics,Coronary Artery Disease,20,24562,Medicare,2,No
+PAT-3188,2024-05-05,60,Male,Cardiology,Stroke Rehab,5,13852,UnitedHealth,5,Yes
+PAT-3189,2024-10-21,38,Female,Neurology,Arrhythmia,9,24654,Aetna,2,No
+PAT-3190,2024-05-21,51,Male,Orthopedics,Acute Fracture,13,22000,Aetna,4,No
+PAT-3191,2024-05-26,52,Female,Neurology,Stroke Rehab,19,45652,BlueCross,4,No
+PAT-3192,2024-01-10,49,Female,Emergency,Hypertension,3,5649,BlueCross,4,No
+PAT-3193,2024-11-27,34,Male,Cardiology,Stroke Rehab,7,15762,UnitedHealth,3,Yes
+PAT-3194,2024-12-26,72,Male,Orthopedics,Acute Fracture,18,31940,Medicare,7,Yes
+PAT-3195,2024-08-30,85,Male,Cardiology,Acute Fracture,5,13297,Aetna,6,Yes
+PAT-3196,2024-11-19,20,Male,Orthopedics,Arrhythmia,2,5145,Aetna,2,No
+PAT-3197,2024-04-22,20,Male,Oncology,Hypertension,1,7251,UnitedHealth,4,No
+PAT-3198,2024-03-15,87,Male,Cardiology,Stroke Rehab,8,17366,Aetna,4,No
+PAT-3199,2024-04-15,54,Male,Oncology,Coronary Artery Disease,17,49945,Cigna,4,No
+PAT-3200,2024-04-17,73,Male,Cardiology,Hypertension,3,9605,Medicare,2,No
+PAT-3201,2024-07-09,68,Female,Cardiology,Acute Fracture,2,8461,Cigna,6,No
+PAT-3202,2024-10-06,68,Male,Pediatrics,Coronary Artery Disease,18,20547,Medicare,1,No
+PAT-3203,2024-07-01,55,Female,Orthopedics,Stroke Rehab,1,3713,Aetna,3,No
+PAT-3204,2024-01-13,81,Female,Neurology,Stroke Rehab,3,7529,BlueCross,1,Yes
+PAT-3205,2024-12-13,68,Male,Cardiology,Coronary Artery Disease,11,24091,Cigna,7,No
+PAT-3206,2024-11-05,51,Female,Cardiology,Stroke Rehab,5,9564,UnitedHealth,1,No
+PAT-3207,2024-12-12,59,Female,Neurology,Acute Fracture,19,42997,UnitedHealth,3,No
+PAT-3208,2024-01-06,37,Male,Oncology,Acute Fracture,15,45420,Medicare,1,No
+PAT-3209,2024-12-04,29,Female,Emergency,Acute Fracture,16,17585,Aetna,2,No
+PAT-3210,2024-04-13,22,Female,Emergency,Acute Fracture,4,6107,BlueCross,2,No
+PAT-3211,2024-05-11,80,Female,Pediatrics,Pneumonia,1,3928,BlueCross,4,No
+PAT-3212,2024-03-20,31,Female,Pediatrics,Acute Fracture,18,20961,Aetna,3,No
+PAT-3213,2024-03-21,20,Male,Orthopedics,Pneumonia,4,10076,Aetna,7,No
+PAT-3214,2024-01-09,20,Female,Oncology,Pneumonia,10,32121,Aetna,5,No
+PAT-3215,2024-01-10,79,Female,Pediatrics,Pneumonia,8,12259,Medicare,6,No
+PAT-3216,2024-03-13,33,Female,Cardiology,Acute Fracture,14,29019,Cigna,1,No
+PAT-3217,2024-07-26,42,Female,Orthopedics,Arrhythmia,11,18562,Aetna,1,Yes
+PAT-3218,2024-11-17,58,Male,Orthopedics,Stroke Rehab,3,7252,Aetna,5,No
+PAT-3219,2024-10-06,20,Male,Emergency,Arrhythmia,10,12433,BlueCross,1,No
+PAT-3220,2024-12-29,35,Male,Oncology,Stroke Rehab,8,26813,Medicare,7,No
+PAT-3221,2024-05-29,86,Male,Cardiology,Coronary Artery Disease,13,27801,UnitedHealth,6,No
+PAT-3222,2024-01-13,68,Male,Neurology,Coronary Artery Disease,12,30491,UnitedHealth,3,No
+PAT-3223,2024-03-08,63,Female,Oncology,Hypertension,15,45705,UnitedHealth,6,Yes
+PAT-3224,2024-08-16,81,Female,Pediatrics,Hypertension,20,24271,Medicare,4,Yes
+PAT-3225,2024-01-05,75,Female,Emergency,Acute Fracture,17,17572,BlueCross,5,No
+PAT-3226,2024-08-10,18,Male,Orthopedics,Coronary Artery Disease,2,5361,UnitedHealth,5,No
+PAT-3227,2024-04-24,21,Male,Emergency,Hypertension,18,20806,Cigna,4,Yes
+PAT-3228,2024-10-08,47,Male,Neurology,Arrhythmia,9,24384,Aetna,7,Yes
+PAT-3229,2024-01-20,77,Male,Cardiology,Coronary Artery Disease,6,15426,BlueCross,7,No
+PAT-3230,2024-10-30,26,Female,Neurology,Pneumonia,15,36525,UnitedHealth,5,No
+PAT-3231,2024-08-05,71,Female,Orthopedics,Coronary Artery Disease,2,4526,BlueCross,3,Yes
+PAT-3232,2024-07-20,47,Female,Neurology,Coronary Artery Disease,1,3607,Cigna,7,No
+PAT-3233,2024-06-29,83,Male,Oncology,Stroke Rehab,11,32841,UnitedHealth,3,Yes
+PAT-3234,2024-09-07,52,Male,Pediatrics,Acute Fracture,11,17006,BlueCross,1,No
+PAT-3235,2024-07-25,30,Female,Emergency,Hypertension,15,19221,BlueCross,7,No
+PAT-3236,2024-06-30,20,Female,Emergency,Stroke Rehab,5,7114,Medicare,6,Yes
+PAT-3237,2024-11-09,53,Male,Cardiology,Pneumonia,5,11700,Medicare,1,Yes
+PAT-3238,2024-12-14,84,Male,Cardiology,Pneumonia,20,38250,UnitedHealth,7,Yes
+PAT-3239,2024-01-19,18,Male,Emergency,Pneumonia,8,12218,BlueCross,7,No
+PAT-3240,2024-12-28,40,Male,Neurology,Pneumonia,13,31111,UnitedHealth,4,No
+PAT-3241,2024-01-07,61,Female,Neurology,Hypertension,14,33341,UnitedHealth,3,No
+PAT-3242,2024-07-21,54,Male,Emergency,Arrhythmia,10,14410,Medicare,1,No
+PAT-3243,2024-08-16,49,Female,Pediatrics,Coronary Artery Disease,11,15252,BlueCross,6,No
+PAT-3244,2024-03-07,25,Male,Neurology,Hypertension,2,8923,BlueCross,5,No
+PAT-3245,2024-02-05,48,Male,Pediatrics,Pneumonia,17,22217,Medicare,1,No
+PAT-3246,2024-08-08,60,Female,Oncology,Stroke Rehab,16,45846,UnitedHealth,2,No
+PAT-3247,2024-03-06,32,Female,Pediatrics,Arrhythmia,3,7319,Medicare,6,Yes
+PAT-3248,2024-04-28,61,Female,Pediatrics,Coronary Artery Disease,16,20245,Aetna,5,No
+PAT-3249,2024-09-25,68,Male,Pediatrics,Pneumonia,12,17082,Cigna,4,Yes
+PAT-3250,2024-10-26,37,Female,Pediatrics,Arrhythmia,10,14733,Cigna,1,No
+PAT-3251,2024-08-20,39,Female,Orthopedics,Hypertension,19,34396,BlueCross,4,No
+PAT-3252,2024-08-29,78,Male,Orthopedics,Arrhythmia,13,25534,BlueCross,5,No
+PAT-3253,2024-09-29,62,Male,Cardiology,Arrhythmia,3,7105,UnitedHealth,4,No
+PAT-3254,2024-02-21,22,Female,Orthopedics,Arrhythmia,20,33508,Medicare,3,No
+PAT-3255,2024-08-07,38,Female,Pediatrics,Hypertension,5,7470,Medicare,5,No
+PAT-3256,2024-02-15,69,Male,Orthopedics,Acute Fracture,7,13160,UnitedHealth,7,No
+PAT-3257,2024-02-17,87,Male,Cardiology,Acute Fracture,4,11975,Cigna,7,No
+PAT-3258,2024-10-12,22,Female,Emergency,Hypertension,3,7475,Aetna,7,Yes
+PAT-3259,2024-01-08,25,Male,Neurology,Arrhythmia,7,16885,Medicare,2,Yes
+PAT-3260,2024-08-21,64,Male,Orthopedics,Acute Fracture,2,6270,Cigna,6,No
+PAT-3261,2024-10-14,74,Female,Neurology,Pneumonia,14,33041,UnitedHealth,2,No
+PAT-3262,2024-06-21,54,Female,Emergency,Stroke Rehab,13,13079,UnitedHealth,4,No
+PAT-3263,2024-11-20,33,Female,Orthopedics,Hypertension,19,33409,Aetna,2,No
+PAT-3264,2024-07-09,68,Male,Orthopedics,Stroke Rehab,20,36194,Cigna,3,Yes
+PAT-3265,2024-02-19,78,Male,Orthopedics,Stroke Rehab,7,13539,Medicare,4,No
+PAT-3266,2024-07-18,57,Female,Pediatrics,Coronary Artery Disease,3,7275,Aetna,4,No
+PAT-3267,2024-05-21,75,Male,Cardiology,Stroke Rehab,9,17369,Medicare,7,No
+PAT-3268,2024-03-16,36,Male,Emergency,Arrhythmia,12,12751,BlueCross,2,Yes
+PAT-3269,2024-02-04,46,Male,Cardiology,Stroke Rehab,8,15730,Aetna,3,Yes
+PAT-3270,2024-10-14,29,Male,Orthopedics,Acute Fracture,4,8335,UnitedHealth,3,No
+PAT-3271,2024-04-24,69,Male,Oncology,Pneumonia,6,19940,UnitedHealth,1,No
+PAT-3272,2024-09-15,48,Male,Orthopedics,Coronary Artery Disease,14,23259,UnitedHealth,3,No
+PAT-3273,2024-08-04,79,Male,Cardiology,Acute Fracture,12,25842,BlueCross,2,No
+PAT-3274,2024-02-10,55,Male,Pediatrics,Pneumonia,15,21374,UnitedHealth,1,Yes
+PAT-3275,2024-08-18,28,Male,Cardiology,Coronary Artery Disease,11,22852,Medicare,1,Yes
+PAT-3276,2024-01-23,61,Female,Orthopedics,Acute Fracture,8,17133,Aetna,7,No
+PAT-3277,2024-12-01,78,Female,Pediatrics,Arrhythmia,7,9437,Cigna,2,Yes
+PAT-3278,2024-07-12,59,Male,Oncology,Stroke Rehab,3,11064,BlueCross,3,No
+PAT-3279,2024-01-31,80,Male,Oncology,Hypertension,15,45610,Medicare,5,Yes
+PAT-3280,2024-06-03,47,Male,Oncology,Stroke Rehab,15,46904,Cigna,7,No
+PAT-3281,2024-02-23,73,Male,Orthopedics,Hypertension,15,28844,BlueCross,4,No
+PAT-3282,2024-06-21,55,Male,Cardiology,Acute Fracture,19,36975,Aetna,5,No
+PAT-3283,2024-12-16,76,Female,Neurology,Stroke Rehab,2,5995,Cigna,1,Yes
+PAT-3284,2024-08-08,31,Female,Emergency,Stroke Rehab,7,9741,Cigna,6,Yes
+PAT-3285,2024-12-23,52,Female,Cardiology,Arrhythmia,16,33682,UnitedHealth,6,No
+PAT-3286,2024-08-21,32,Male,Emergency,Pneumonia,9,9084,Aetna,6,No
+PAT-3287,2024-10-05,59,Male,Emergency,Stroke Rehab,4,6224,BlueCross,1,No
+PAT-3288,2024-11-14,28,Female,Emergency,Stroke Rehab,9,10128,BlueCross,5,No
+PAT-3289,2024-12-14,73,Female,Oncology,Acute Fracture,20,59540,Aetna,7,No
+PAT-3290,2024-07-16,44,Female,Neurology,Acute Fracture,13,30338,UnitedHealth,2,Yes
+PAT-3291,2024-02-26,25,Female,Pediatrics,Stroke Rehab,13,18805,BlueCross,2,Yes
+PAT-3292,2024-12-17,23,Male,Oncology,Coronary Artery Disease,20,59260,Cigna,5,No
+PAT-3293,2024-04-08,22,Male,Oncology,Acute Fracture,14,39968,BlueCross,2,No
+PAT-3294,2024-05-09,27,Female,Pediatrics,Arrhythmia,18,23721,Cigna,2,No
+PAT-3295,2024-01-01,64,Female,Orthopedics,Pneumonia,8,15711,Medicare,2,No
+PAT-3296,2024-02-02,74,Male,Pediatrics,Coronary Artery Disease,3,4778,BlueCross,6,Yes
+PAT-3297,2024-04-01,41,Female,Neurology,Hypertension,16,38482,Medicare,5,Yes
+PAT-3298,2024-05-08,68,Male,Oncology,Arrhythmia,9,26297,Cigna,4,No
+PAT-3299,2024-01-04,26,Female,Neurology,Hypertension,8,21047,Aetna,2,No
+PAT-3300,2024-02-07,76,Male,Neurology,Hypertension,3,9493,UnitedHealth,2,Yes
+PAT-3301,2024-04-27,61,Male,Emergency,Pneumonia,2,3618,Cigna,3,No
+PAT-3302,2024-06-09,60,Male,Oncology,Pneumonia,2,10364,BlueCross,1,Yes
+PAT-3303,2024-08-22,56,Male,Emergency,Acute Fracture,7,11081,Aetna,6,No
+PAT-3304,2024-08-11,59,Female,Oncology,Acute Fracture,17,48134,Medicare,5,Yes
+PAT-3305,2024-09-14,24,Male,Cardiology,Coronary Artery Disease,3,8516,Cigna,1,No
+PAT-3306,2024-03-17,82,Female,Orthopedics,Pneumonia,20,36454,Aetna,7,No
+PAT-3307,2024-05-04,21,Male,Pediatrics,Pneumonia,3,7809,UnitedHealth,1,Yes
+PAT-3308,2024-04-03,31,Female,Cardiology,Arrhythmia,5,13677,UnitedHealth,6,No
+PAT-3309,2024-11-10,87,Female,Orthopedics,Coronary Artery Disease,1,5463,UnitedHealth,6,No
+PAT-3310,2024-06-27,69,Female,Orthopedics,Hypertension,10,17620,UnitedHealth,6,Yes
+PAT-3311,2024-07-29,46,Female,Pediatrics,Arrhythmia,19,25095,Aetna,3,Yes
+PAT-3312,2024-08-24,75,Female,Pediatrics,Arrhythmia,8,12155,Aetna,2,No
+PAT-3313,2024-05-10,84,Female,Emergency,Pneumonia,14,14232,Aetna,4,No
+PAT-3314,2024-06-22,87,Female,Neurology,Acute Fracture,14,33971,UnitedHealth,5,No
+PAT-3315,2024-06-17,72,Male,Orthopedics,Stroke Rehab,19,31480,Cigna,5,No
+PAT-3316,2024-04-23,67,Female,Cardiology,Coronary Artery Disease,17,32136,BlueCross,2,No
+PAT-3317,2024-02-14,63,Male,Cardiology,Stroke Rehab,5,10574,UnitedHealth,1,No
+PAT-3318,2024-03-02,31,Male,Oncology,Pneumonia,8,23752,UnitedHealth,4,No
+PAT-3319,2024-03-07,65,Male,Neurology,Hypertension,7,18234,BlueCross,3,No
+PAT-3320,2024-02-11,25,Male,Orthopedics,Stroke Rehab,4,10685,BlueCross,2,Yes
+PAT-3321,2024-08-21,83,Female,Neurology,Pneumonia,5,13445,Medicare,3,No
+PAT-3322,2024-03-08,57,Male,Orthopedics,Acute Fracture,18,33211,Medicare,6,No
+PAT-3323,2024-04-30,45,Female,Orthopedics,Arrhythmia,16,29247,Cigna,2,No
+PAT-3324,2024-08-01,67,Female,Neurology,Arrhythmia,3,9130,Cigna,3,No
+PAT-3325,2024-10-07,23,Female,Orthopedics,Stroke Rehab,20,33237,Medicare,7,No
+PAT-3326,2024-10-30,85,Female,Neurology,Arrhythmia,9,20993,Cigna,6,No
+PAT-3327,2024-05-05,64,Male,Emergency,Arrhythmia,19,22832,UnitedHealth,4,Yes
+PAT-3328,2024-10-22,75,Male,Orthopedics,Hypertension,4,8415,UnitedHealth,2,Yes
+PAT-3329,2024-02-11,33,Male,Neurology,Arrhythmia,16,39755,Medicare,3,Yes
+PAT-3330,2024-08-23,49,Male,Orthopedics,Hypertension,1,4634,Medicare,5,No
+PAT-3331,2024-06-21,56,Female,Neurology,Pneumonia,10,25167,Cigna,6,No
+PAT-3332,2024-05-18,22,Female,Oncology,Pneumonia,7,20210,UnitedHealth,1,Yes
+PAT-3333,2024-02-11,31,Male,Orthopedics,Acute Fracture,8,13968,BlueCross,1,No
+PAT-3334,2024-08-03,31,Male,Orthopedics,Arrhythmia,14,25438,Cigna,4,Yes
+PAT-3335,2024-04-21,49,Female,Pediatrics,Acute Fracture,6,11034,UnitedHealth,2,No
+PAT-3336,2024-11-15,87,Female,Cardiology,Coronary Artery Disease,1,3525,BlueCross,2,No
+PAT-3337,2024-12-08,51,Female,Emergency,Pneumonia,20,20687,Cigna,5,Yes
+PAT-3338,2024-11-16,59,Female,Neurology,Hypertension,9,20985,Aetna,2,Yes
+PAT-3339,2024-09-17,61,Male,Emergency,Stroke Rehab,4,5384,Medicare,7,No
+PAT-3340,2024-04-25,25,Male,Emergency,Arrhythmia,17,19655,UnitedHealth,6,No
+PAT-3341,2024-01-04,21,Male,Pediatrics,Stroke Rehab,8,9527,UnitedHealth,5,Yes
+PAT-3342,2024-01-19,21,Male,Emergency,Pneumonia,14,16394,UnitedHealth,2,Yes
+PAT-3343,2024-03-14,43,Female,Pediatrics,Stroke Rehab,16,22008,Cigna,5,No
+PAT-3344,2024-07-16,73,Male,Oncology,Stroke Rehab,14,43269,Cigna,3,No
+PAT-3345,2024-05-07,26,Male,Oncology,Acute Fracture,5,15841,Medicare,1,No
+PAT-3346,2024-01-18,35,Female,Pediatrics,Hypertension,4,6366,UnitedHealth,7,No
+PAT-3347,2024-09-02,34,Male,Emergency,Stroke Rehab,9,9174,BlueCross,2,No
+PAT-3348,2024-08-30,48,Male,Orthopedics,Hypertension,6,10566,BlueCross,6,No
+PAT-3349,2024-05-23,27,Male,Orthopedics,Pneumonia,8,17523,UnitedHealth,1,No
+PAT-3350,2024-08-03,31,Female,Orthopedics,Pneumonia,16,28845,UnitedHealth,1,No
+PAT-3351,2024-05-02,20,Male,Orthopedics,Acute Fracture,18,31586,BlueCross,4,Yes
+PAT-3352,2024-10-07,47,Male,Neurology,Coronary Artery Disease,2,7624,BlueCross,2,No
+PAT-3353,2024-01-07,66,Female,Cardiology,Pneumonia,1,5067,BlueCross,3,No
+PAT-3354,2024-08-15,70,Male,Emergency,Pneumonia,11,15006,UnitedHealth,4,No
+PAT-3355,2024-06-16,31,Female,Emergency,Pneumonia,2,4377,Aetna,2,Yes
+PAT-3356,2024-02-18,50,Female,Oncology,Coronary Artery Disease,9,27553,UnitedHealth,4,Yes
+PAT-3357,2024-10-12,24,Female,Neurology,Hypertension,6,16905,Aetna,1,Yes
+PAT-3358,2024-06-22,53,Male,Pediatrics,Arrhythmia,18,21968,Cigna,2,No
+PAT-3359,2024-04-27,60,Male,Emergency,Acute Fracture,13,16513,Aetna,3,No
+PAT-3360,2024-03-19,23,Male,Orthopedics,Hypertension,17,29327,Aetna,6,No
+PAT-3361,2024-10-31,45,Male,Oncology,Pneumonia,5,17021,BlueCross,7,No
+PAT-3362,2024-06-02,72,Female,Oncology,Coronary Artery Disease,3,10426,Aetna,5,Yes
+PAT-3363,2024-11-02,81,Female,Neurology,Stroke Rehab,8,21759,Medicare,2,Yes
+PAT-3364,2024-02-24,80,Female,Oncology,Coronary Artery Disease,13,37872,Medicare,4,Yes
+PAT-3365,2024-05-31,76,Female,Orthopedics,Coronary Artery Disease,15,28001,BlueCross,6,Yes
+PAT-3366,2024-11-29,63,Female,Orthopedics,Coronary Artery Disease,7,15547,Medicare,7,No
+PAT-3367,2024-04-30,24,Female,Cardiology,Arrhythmia,3,6639,BlueCross,4,No
+PAT-3368,2024-07-25,22,Male,Cardiology,Hypertension,14,27684,Medicare,4,No
+PAT-3369,2024-03-15,28,Female,Oncology,Pneumonia,18,53808,BlueCross,5,No
+PAT-3370,2024-06-19,45,Female,Pediatrics,Arrhythmia,8,13053,Medicare,7,Yes
+PAT-3371,2024-01-11,54,Male,Pediatrics,Acute Fracture,10,12504,UnitedHealth,4,No
+PAT-3372,2024-05-28,38,Male,Neurology,Arrhythmia,12,30724,Aetna,3,No
+PAT-3373,2024-03-03,40,Female,Oncology,Acute Fracture,9,26786,UnitedHealth,4,No
+PAT-3374,2024-04-04,33,Male,Pediatrics,Arrhythmia,7,9072,UnitedHealth,5,No
+PAT-3375,2024-01-29,80,Female,Pediatrics,Arrhythmia,8,13255,UnitedHealth,2,No
+PAT-3376,2024-10-23,85,Female,Emergency,Coronary Artery Disease,14,14754,BlueCross,3,No
+PAT-3377,2024-04-19,76,Male,Orthopedics,Acute Fracture,18,30099,UnitedHealth,5,No
+PAT-3378,2024-03-29,49,Female,Neurology,Pneumonia,16,37964,UnitedHealth,2,Yes
+PAT-3379,2024-03-23,87,Male,Orthopedics,Arrhythmia,18,33518,UnitedHealth,5,No
+PAT-3380,2024-04-22,52,Male,Orthopedics,Stroke Rehab,19,31340,Cigna,2,Yes
+PAT-3381,2024-05-07,32,Female,Cardiology,Stroke Rehab,11,24316,Cigna,1,No
+PAT-3382,2024-11-18,43,Male,Orthopedics,Hypertension,11,22566,Cigna,6,No
+PAT-3383,2024-02-09,26,Male,Emergency,Pneumonia,2,3192,Aetna,6,Yes
+PAT-3384,2024-06-20,54,Female,Neurology,Acute Fracture,14,35570,BlueCross,5,No
+PAT-3385,2024-09-26,75,Male,Neurology,Acute Fracture,10,24423,Aetna,3,No
+PAT-3386,2024-01-16,38,Male,Cardiology,Pneumonia,15,28377,BlueCross,5,No
+PAT-3387,2024-10-07,83,Male,Pediatrics,Arrhythmia,12,16778,Aetna,2,No
+PAT-3388,2024-04-13,39,Male,Emergency,Coronary Artery Disease,7,11646,BlueCross,2,Yes
+PAT-3389,2024-05-28,48,Female,Orthopedics,Hypertension,6,13657,BlueCross,6,Yes
+PAT-3390,2024-12-12,41,Female,Cardiology,Stroke Rehab,2,6542,Cigna,2,No
+PAT-3391,2024-04-03,59,Female,Orthopedics,Pneumonia,6,14293,Medicare,7,No
+PAT-3392,2024-03-22,87,Male,Cardiology,Acute Fracture,15,27696,Medicare,7,No
+PAT-3393,2024-05-19,27,Male,Pediatrics,Coronary Artery Disease,4,7769,Aetna,6,Yes
+PAT-3394,2024-08-05,37,Female,Cardiology,Coronary Artery Disease,13,27332,Cigna,2,No
+PAT-3395,2024-06-09,22,Male,Neurology,Pneumonia,4,9633,BlueCross,7,No
+PAT-3396,2024-06-15,65,Male,Cardiology,Arrhythmia,4,10147,UnitedHealth,6,No
+PAT-3397,2024-01-21,70,Male,Cardiology,Arrhythmia,12,25188,Aetna,3,No
+PAT-3398,2024-08-03,75,Female,Neurology,Acute Fracture,3,10242,Cigna,6,No
+PAT-3399,2024-05-21,82,Male,Pediatrics,Arrhythmia,17,21764,Medicare,6,No
+PAT-3400,2024-12-29,59,Female,Orthopedics,Arrhythmia,20,36255,Aetna,5,No
+PAT-3401,2024-02-11,23,Female,Orthopedics,Pneumonia,7,16125,Aetna,1,No
+PAT-3402,2024-02-02,33,Male,Pediatrics,Hypertension,11,14044,Medicare,3,No
+PAT-3403,2024-02-25,44,Male,Orthopedics,Hypertension,15,27015,Medicare,6,No
+PAT-3404,2024-05-14,25,Male,Pediatrics,Hypertension,6,9552,Aetna,1,No
+PAT-3405,2024-05-07,22,Male,Oncology,Pneumonia,14,39935,Cigna,3,No
+PAT-3406,2024-06-26,87,Female,Emergency,Stroke Rehab,1,2991,BlueCross,7,No
+PAT-3407,2024-02-02,69,Male,Neurology,Stroke Rehab,1,3789,Cigna,6,No
+PAT-3408,2024-01-14,48,Male,Oncology,Coronary Artery Disease,16,46565,Medicare,6,No
+PAT-3409,2024-12-04,41,Female,Cardiology,Acute Fracture,3,6297,BlueCross,4,No
+PAT-3410,2024-03-20,40,Female,Neurology,Coronary Artery Disease,7,19241,Aetna,3,No
+PAT-3411,2024-12-06,57,Female,Emergency,Coronary Artery Disease,13,17286,UnitedHealth,5,No
+PAT-3412,2024-02-23,32,Female,Oncology,Pneumonia,6,19615,BlueCross,7,No
+PAT-3413,2024-12-11,61,Male,Neurology,Coronary Artery Disease,20,47969,Medicare,3,No
+PAT-3414,2024-06-16,33,Male,Pediatrics,Pneumonia,12,14128,Aetna,1,No
+PAT-3415,2024-02-27,34,Female,Pediatrics,Acute Fracture,6,9833,Medicare,4,No
+PAT-3416,2024-06-06,23,Male,Cardiology,Acute Fracture,16,32516,Aetna,3,No
+PAT-3417,2024-01-06,43,Female,Pediatrics,Stroke Rehab,19,22002,Medicare,2,Yes
+PAT-3418,2024-12-07,57,Male,Oncology,Arrhythmia,10,32966,BlueCross,4,No
+PAT-3419,2024-12-10,42,Female,Cardiology,Hypertension,2,4153,Aetna,6,No
+PAT-3420,2024-04-04,32,Female,Emergency,Pneumonia,7,7481,Aetna,3,No
+PAT-3421,2024-04-18,28,Female,Pediatrics,Coronary Artery Disease,7,9015,Cigna,7,No
+PAT-3422,2024-05-05,70,Male,Cardiology,Pneumonia,4,10703,BlueCross,4,No
+PAT-3423,2024-05-04,61,Male,Orthopedics,Pneumonia,5,12003,Medicare,4,No
+PAT-3424,2024-06-16,70,Female,Cardiology,Stroke Rehab,10,18545,Medicare,7,No
+PAT-3425,2024-11-04,45,Male,Emergency,Hypertension,19,22382,Aetna,1,No
+PAT-3426,2024-06-20,26,Male,Pediatrics,Acute Fracture,13,15549,Aetna,5,No
+PAT-3427,2024-04-29,86,Female,Cardiology,Pneumonia,16,31873,Aetna,3,No
+PAT-3428,2024-03-24,61,Male,Neurology,Hypertension,17,40618,Medicare,5,Yes
+PAT-3429,2024-03-29,49,Female,Cardiology,Acute Fracture,2,5276,BlueCross,5,Yes
+PAT-3430,2024-06-30,30,Male,Cardiology,Arrhythmia,19,38788,Aetna,6,Yes
+PAT-3431,2024-04-29,28,Male,Neurology,Acute Fracture,2,5808,Aetna,6,No
+PAT-3432,2024-07-20,79,Female,Pediatrics,Stroke Rehab,13,16287,UnitedHealth,3,Yes
+PAT-3433,2024-05-14,38,Female,Neurology,Arrhythmia,19,45880,BlueCross,7,No
+PAT-3434,2024-12-07,56,Female,Oncology,Coronary Artery Disease,6,20563,Medicare,4,Yes
+PAT-3435,2024-02-08,30,Female,Neurology,Arrhythmia,3,8357,Cigna,7,No
+PAT-3436,2024-02-09,72,Male,Neurology,Hypertension,12,28300,Medicare,2,Yes
+PAT-3437,2024-03-29,68,Female,Emergency,Acute Fracture,9,10798,Aetna,6,No
+PAT-3438,2024-09-25,78,Male,Emergency,Pneumonia,13,16486,Medicare,3,No
+PAT-3439,2024-10-05,42,Female,Neurology,Stroke Rehab,7,16828,BlueCross,3,No
+PAT-3440,2024-01-08,67,Male,Orthopedics,Arrhythmia,3,5527,Aetna,3,Yes
+PAT-3441,2024-10-06,37,Male,Emergency,Hypertension,13,13786,BlueCross,7,No
+PAT-3442,2024-10-11,66,Male,Oncology,Stroke Rehab,12,36949,Aetna,7,No
+PAT-3443,2024-03-30,86,Female,Orthopedics,Hypertension,16,28198,Cigna,1,No
+PAT-3444,2024-12-04,21,Male,Cardiology,Coronary Artery Disease,7,13610,Aetna,5,No
+PAT-3445,2024-02-27,55,Female,Pediatrics,Arrhythmia,13,18731,Aetna,2,Yes
+PAT-3446,2024-02-12,31,Female,Oncology,Stroke Rehab,20,57158,UnitedHealth,5,No
+PAT-3447,2024-08-15,76,Female,Neurology,Stroke Rehab,5,15512,UnitedHealth,4,No
+PAT-3448,2024-01-24,64,Male,Pediatrics,Hypertension,19,25696,Aetna,5,Yes
+PAT-3449,2024-06-04,63,Male,Emergency,Hypertension,11,15219,Medicare,7,No
+PAT-3450,2024-03-05,58,Female,Neurology,Arrhythmia,3,9129,UnitedHealth,4,No
+PAT-3451,2024-10-07,54,Male,Cardiology,Coronary Artery Disease,18,37204,UnitedHealth,3,No
+PAT-3452,2024-02-28,44,Female,Emergency,Pneumonia,7,9954,UnitedHealth,4,No
+PAT-3453,2024-04-20,69,Male,Oncology,Arrhythmia,18,51760,Medicare,6,No
+PAT-3454,2024-06-08,74,Male,Orthopedics,Hypertension,9,16505,BlueCross,2,Yes
+PAT-3455,2024-07-04,84,Male,Oncology,Pneumonia,16,46860,BlueCross,5,No
+PAT-3456,2024-01-01,18,Male,Emergency,Hypertension,5,6521,BlueCross,4,Yes
+PAT-3457,2024-12-08,65,Male,Orthopedics,Stroke Rehab,5,11765,Medicare,7,No
+PAT-3458,2024-02-07,83,Male,Neurology,Hypertension,9,21746,Medicare,6,No
+PAT-3459,2024-06-26,41,Male,Pediatrics,Arrhythmia,18,23786,Cigna,3,No
+PAT-3460,2024-12-08,87,Female,Orthopedics,Coronary Artery Disease,1,5720,Cigna,6,No
+PAT-3461,2024-09-25,55,Female,Emergency,Acute Fracture,11,13965,Medicare,1,No
+PAT-3462,2024-05-25,22,Male,Pediatrics,Arrhythmia,4,6524,Cigna,7,No
+PAT-3463,2024-09-12,74,Female,Cardiology,Coronary Artery Disease,3,7492,BlueCross,4,Yes
+PAT-3464,2024-05-24,39,Male,Pediatrics,Hypertension,9,11990,Cigna,1,No
+PAT-3465,2024-01-08,65,Female,Orthopedics,Stroke Rehab,2,4651,Medicare,2,No
+PAT-3466,2024-01-13,87,Male,Pediatrics,Stroke Rehab,6,8580,Cigna,1,No
+PAT-3467,2024-03-23,21,Female,Emergency,Acute Fracture,12,13160,Medicare,1,No
+PAT-3468,2024-06-23,69,Male,Pediatrics,Pneumonia,4,9157,BlueCross,5,Yes
+PAT-3469,2024-11-04,22,Male,Orthopedics,Coronary Artery Disease,19,33670,BlueCross,6,Yes
+PAT-3470,2024-02-20,28,Male,Neurology,Pneumonia,16,36807,UnitedHealth,1,No
+PAT-3471,2024-05-16,52,Female,Emergency,Coronary Artery Disease,10,10313,Cigna,4,No
+PAT-3472,2024-03-03,57,Female,Orthopedics,Arrhythmia,13,21436,UnitedHealth,4,No
+PAT-3473,2024-04-24,66,Female,Oncology,Arrhythmia,13,38908,Medicare,3,No
+PAT-3474,2024-10-03,57,Male,Orthopedics,Pneumonia,11,20521,UnitedHealth,6,No
+PAT-3475,2024-04-30,31,Female,Cardiology,Pneumonia,14,26038,Cigna,6,No
+PAT-3476,2024-10-30,72,Male,Pediatrics,Arrhythmia,15,18113,BlueCross,3,No
+PAT-3477,2024-06-07,20,Female,Orthopedics,Coronary Artery Disease,2,6601,BlueCross,2,No
+PAT-3478,2024-09-10,40,Female,Oncology,Arrhythmia,3,12809,Cigna,3,No
+PAT-3479,2024-10-19,46,Male,Oncology,Coronary Artery Disease,13,39427,UnitedHealth,3,Yes
+PAT-3480,2024-12-27,35,Female,Neurology,Acute Fracture,20,45380,Cigna,5,No
+PAT-3481,2024-08-25,77,Female,Orthopedics,Coronary Artery Disease,20,34039,BlueCross,6,No
+PAT-3482,2024-01-22,80,Female,Neurology,Pneumonia,10,24121,Cigna,7,No
+PAT-3483,2024-01-20,36,Male,Neurology,Hypertension,2,8577,Medicare,6,No
+PAT-3484,2024-12-13,20,Male,Pediatrics,Stroke Rehab,4,8959,BlueCross,1,No
+PAT-3485,2024-01-28,19,Male,Pediatrics,Arrhythmia,19,25805,Cigna,1,No
+PAT-3486,2024-06-08,56,Female,Pediatrics,Arrhythmia,11,13578,Aetna,6,Yes
+PAT-3487,2024-05-27,63,Male,Neurology,Acute Fracture,1,6673,UnitedHealth,7,Yes
+PAT-3488,2024-06-18,48,Female,Orthopedics,Pneumonia,4,10303,UnitedHealth,7,No
+PAT-3489,2024-01-11,26,Female,Pediatrics,Arrhythmia,11,16362,Cigna,6,No
+PAT-3490,2024-04-06,42,Female,Oncology,Acute Fracture,18,52802,Aetna,6,No
+PAT-3491,2024-11-17,46,Male,Cardiology,Arrhythmia,1,4843,Aetna,4,No
+PAT-3492,2024-06-07,69,Female,Orthopedics,Arrhythmia,2,7319,Medicare,5,Yes
+PAT-3493,2024-08-07,37,Female,Emergency,Acute Fracture,13,13252,BlueCross,3,No
+PAT-3494,2024-04-22,72,Male,Cardiology,Hypertension,20,40277,Cigna,4,No
+PAT-3495,2024-05-19,42,Male,Emergency,Pneumonia,13,12903,Medicare,3,No
+PAT-3496,2024-09-17,37,Male,Cardiology,Stroke Rehab,13,28228,UnitedHealth,4,No
+PAT-3497,2024-09-08,35,Female,Emergency,Pneumonia,14,15335,BlueCross,1,No
+PAT-3498,2024-12-13,55,Male,Orthopedics,Stroke Rehab,7,12770,BlueCross,6,No
+PAT-3499,2024-08-12,26,Female,Emergency,Hypertension,7,10218,UnitedHealth,3,No
+PAT-3500,2024-12-16,22,Female,Orthopedics,Coronary Artery Disease,18,32646,Aetna,5,No
+PAT-3501,2024-03-22,36,Male,Pediatrics,Arrhythmia,17,19396,Medicare,3,No
+PAT-3502,2024-01-28,75,Male,Emergency,Arrhythmia,11,11651,Aetna,1,No
+PAT-3503,2024-09-19,45,Female,Neurology,Arrhythmia,6,15521,Aetna,1,Yes
+PAT-3504,2024-04-28,56,Male,Cardiology,Coronary Artery Disease,15,29509,BlueCross,3,No
+PAT-3505,2024-08-26,87,Male,Oncology,Stroke Rehab,7,21536,BlueCross,4,No
+PAT-3506,2024-08-06,80,Male,Cardiology,Pneumonia,6,14608,Medicare,2,Yes
+PAT-3507,2024-09-03,51,Male,Pediatrics,Hypertension,2,7134,Aetna,6,No
+PAT-3508,2024-06-20,51,Female,Oncology,Arrhythmia,7,23795,BlueCross,5,No
+PAT-3509,2024-03-18,49,Male,Orthopedics,Hypertension,16,26924,UnitedHealth,3,No
+PAT-3510,2024-04-04,18,Male,Oncology,Coronary Artery Disease,13,39841,Medicare,6,No
+PAT-3511,2024-07-21,67,Male,Orthopedics,Hypertension,15,24889,BlueCross,4,No
+PAT-3512,2024-10-16,31,Male,Oncology,Arrhythmia,2,7496,Cigna,2,No
+PAT-3513,2024-03-06,22,Female,Emergency,Stroke Rehab,12,12785,Medicare,2,No
+PAT-3514,2024-07-10,33,Male,Pediatrics,Hypertension,4,5029,UnitedHealth,4,No
+PAT-3515,2024-02-21,57,Female,Emergency,Pneumonia,12,13898,Medicare,1,No
+PAT-3516,2024-01-07,41,Male,Pediatrics,Pneumonia,8,10484,Medicare,3,Yes
+PAT-3517,2024-08-21,20,Male,Pediatrics,Pneumonia,20,26338,Medicare,3,No
+PAT-3518,2024-05-13,55,Female,Emergency,Coronary Artery Disease,4,8238,Cigna,3,No
+PAT-3519,2024-03-02,30,Female,Neurology,Arrhythmia,7,18068,Medicare,1,No
+PAT-3520,2024-12-22,28,Female,Orthopedics,Pneumonia,10,18716,Medicare,4,No
+PAT-3521,2024-10-14,44,Female,Pediatrics,Arrhythmia,3,6964,Aetna,7,No
+PAT-3522,2024-03-31,46,Female,Neurology,Acute Fracture,8,18191,Aetna,5,No
+PAT-3523,2024-01-06,40,Male,Orthopedics,Coronary Artery Disease,15,28891,UnitedHealth,3,No
+PAT-3524,2024-12-25,71,Male,Orthopedics,Pneumonia,3,5373,UnitedHealth,5,No
+PAT-3525,2024-10-28,78,Male,Emergency,Pneumonia,10,12756,Cigna,1,No
+PAT-3526,2024-10-09,77,Female,Emergency,Pneumonia,10,10728,Cigna,6,Yes
+PAT-3527,2024-09-16,80,Female,Emergency,Pneumonia,14,17343,Aetna,5,No
+PAT-3528,2024-09-29,20,Male,Cardiology,Arrhythmia,5,10724,Cigna,7,No
+PAT-3529,2024-11-19,38,Male,Oncology,Coronary Artery Disease,11,32790,UnitedHealth,2,No
+PAT-3530,2024-07-05,77,Female,Emergency,Hypertension,1,4641,Cigna,5,No
+PAT-3531,2024-04-03,59,Female,Oncology,Stroke Rehab,12,35106,Aetna,6,No
+PAT-3532,2024-06-16,43,Female,Neurology,Arrhythmia,11,24969,UnitedHealth,2,No
+PAT-3533,2024-06-30,32,Male,Neurology,Arrhythmia,7,18569,UnitedHealth,2,Yes
+PAT-3534,2024-03-25,33,Female,Cardiology,Acute Fracture,18,33824,Medicare,4,No
+PAT-3535,2024-09-10,59,Male,Orthopedics,Coronary Artery Disease,7,11857,BlueCross,3,Yes
+PAT-3536,2024-06-25,70,Female,Emergency,Arrhythmia,1,1548,Aetna,7,No
+PAT-3537,2024-03-31,72,Male,Emergency,Arrhythmia,7,11045,Aetna,5,Yes
+PAT-3538,2024-04-10,22,Female,Emergency,Stroke Rehab,14,15194,Medicare,5,No
+PAT-3539,2024-11-22,78,Male,Cardiology,Coronary Artery Disease,12,23109,Medicare,7,No
+PAT-3540,2024-11-28,59,Male,Cardiology,Pneumonia,7,14613,Cigna,2,No
+PAT-3541,2024-09-15,87,Male,Oncology,Hypertension,3,12785,Aetna,7,No
+PAT-3542,2024-04-25,39,Male,Emergency,Hypertension,15,18195,UnitedHealth,3,Yes
+PAT-3543,2024-12-02,71,Female,Orthopedics,Acute Fracture,17,30148,Aetna,6,No
+PAT-3544,2024-03-01,67,Male,Neurology,Coronary Artery Disease,19,43749,Medicare,2,No
+PAT-3545,2024-06-05,56,Female,Pediatrics,Hypertension,13,19175,BlueCross,2,No
+PAT-3546,2024-07-06,33,Female,Cardiology,Coronary Artery Disease,9,18679,Medicare,2,Yes
+PAT-3547,2024-01-26,67,Male,Orthopedics,Acute Fracture,13,25710,BlueCross,3,No
+PAT-3548,2024-07-06,39,Female,Orthopedics,Coronary Artery Disease,14,25507,BlueCross,3,No
+PAT-3549,2024-06-07,51,Female,Cardiology,Stroke Rehab,11,20465,Medicare,2,No
+PAT-3550,2024-08-25,76,Female,Emergency,Coronary Artery Disease,15,17492,Medicare,4,No
+PAT-3551,2024-06-12,56,Female,Emergency,Hypertension,11,12281,BlueCross,7,Yes
+PAT-3552,2024-01-18,77,Male,Neurology,Hypertension,8,21444,Aetna,1,No
+PAT-3553,2024-07-24,31,Female,Oncology,Arrhythmia,15,46925,UnitedHealth,3,No
+PAT-3554,2024-01-15,86,Female,Oncology,Stroke Rehab,15,46289,UnitedHealth,5,Yes
+PAT-3555,2024-03-25,53,Female,Oncology,Pneumonia,14,42884,Cigna,6,No
+PAT-3556,2024-04-08,55,Female,Orthopedics,Hypertension,4,9363,UnitedHealth,6,No
+PAT-3557,2024-04-26,18,Female,Neurology,Acute Fracture,9,21979,Medicare,4,No
+PAT-3558,2024-05-25,30,Male,Oncology,Pneumonia,9,28974,UnitedHealth,6,Yes
+PAT-3559,2024-01-29,65,Female,Oncology,Pneumonia,19,57521,UnitedHealth,7,No
+PAT-3560,2024-10-24,36,Male,Oncology,Coronary Artery Disease,16,48014,BlueCross,7,Yes
+PAT-3561,2024-03-27,72,Male,Oncology,Coronary Artery Disease,15,44816,Cigna,2,No
+PAT-3562,2024-08-29,27,Female,Pediatrics,Coronary Artery Disease,13,15059,Cigna,4,No
+PAT-3563,2024-11-10,33,Male,Orthopedics,Hypertension,2,7812,Cigna,1,No
+PAT-3564,2024-11-30,47,Female,Pediatrics,Pneumonia,20,26475,Aetna,2,No
+PAT-3565,2024-01-09,71,Male,Orthopedics,Hypertension,20,35861,UnitedHealth,5,No
+PAT-3566,2024-05-02,61,Male,Orthopedics,Coronary Artery Disease,6,11108,Aetna,4,No
+PAT-3567,2024-11-30,73,Female,Neurology,Pneumonia,15,35653,Aetna,5,Yes
+PAT-3568,2024-06-16,75,Male,Oncology,Stroke Rehab,1,5149,UnitedHealth,4,Yes
+PAT-3569,2024-11-16,27,Female,Neurology,Coronary Artery Disease,2,6603,BlueCross,1,No
+PAT-3570,2024-08-16,70,Male,Emergency,Acute Fracture,18,21314,UnitedHealth,7,Yes
+PAT-3571,2024-12-03,79,Male,Neurology,Coronary Artery Disease,2,6290,UnitedHealth,2,No
+PAT-3572,2024-06-05,20,Female,Cardiology,Arrhythmia,11,21280,UnitedHealth,1,No
+PAT-3573,2024-10-20,66,Male,Neurology,Stroke Rehab,15,34373,UnitedHealth,6,Yes
+PAT-3574,2024-10-31,85,Female,Oncology,Pneumonia,18,52028,Medicare,4,Yes
+PAT-3575,2024-06-09,37,Female,Emergency,Arrhythmia,8,10446,Cigna,1,No
+PAT-3576,2024-05-02,25,Male,Pediatrics,Arrhythmia,10,12487,BlueCross,7,No
+PAT-3577,2024-08-03,75,Female,Emergency,Pneumonia,15,14946,BlueCross,3,No
+PAT-3578,2024-05-06,55,Male,Neurology,Stroke Rehab,20,48492,BlueCross,1,No
+PAT-3579,2024-12-16,45,Male,Pediatrics,Acute Fracture,6,10428,Aetna,5,No
+PAT-3580,2024-06-03,65,Female,Cardiology,Stroke Rehab,6,15314,BlueCross,7,No
+PAT-3581,2024-07-07,40,Male,Orthopedics,Arrhythmia,18,31664,UnitedHealth,1,No
+PAT-3582,2024-06-22,87,Female,Orthopedics,Pneumonia,8,14334,Aetna,7,No
+PAT-3583,2024-11-20,67,Female,Oncology,Pneumonia,6,20022,Cigna,4,No
+PAT-3584,2024-03-09,84,Male,Neurology,Arrhythmia,7,17918,Medicare,7,No
+PAT-3585,2024-11-03,72,Male,Emergency,Hypertension,13,13965,Medicare,3,No
+PAT-3586,2024-05-08,22,Male,Oncology,Pneumonia,3,12572,Medicare,5,No
+PAT-3587,2024-12-02,80,Male,Cardiology,Acute Fracture,14,27626,UnitedHealth,2,No
+PAT-3588,2024-03-11,54,Female,Pediatrics,Coronary Artery Disease,15,18140,BlueCross,2,Yes
+PAT-3589,2024-08-31,32,Male,Neurology,Hypertension,17,38650,Medicare,7,No
+PAT-3590,2024-03-23,80,Female,Oncology,Acute Fracture,3,9202,Cigna,5,No
+PAT-3591,2024-06-02,21,Female,Pediatrics,Stroke Rehab,19,22976,UnitedHealth,6,No
+PAT-3592,2024-05-29,84,Male,Oncology,Pneumonia,11,31620,Cigna,7,No
+PAT-3593,2024-05-19,78,Male,Cardiology,Acute Fracture,11,22873,UnitedHealth,7,No
+PAT-3594,2024-05-09,53,Male,Cardiology,Arrhythmia,9,18407,Medicare,6,No
+PAT-3595,2024-10-26,23,Male,Cardiology,Pneumonia,12,25030,Aetna,2,No
+PAT-3596,2024-02-02,24,Female,Oncology,Pneumonia,12,34775,Medicare,7,No
+PAT-3597,2024-07-09,18,Male,Oncology,Coronary Artery Disease,15,44512,Aetna,6,No
+PAT-3598,2024-04-15,27,Female,Neurology,Coronary Artery Disease,19,43095,Aetna,3,No
+PAT-3599,2024-07-27,51,Female,Oncology,Pneumonia,8,26143,BlueCross,3,No
+PAT-3600,2024-07-05,43,Female,Cardiology,Stroke Rehab,7,16780,Cigna,4,No
+PAT-3601,2024-10-12,41,Female,Emergency,Stroke Rehab,3,5678,UnitedHealth,3,Yes
+PAT-3602,2024-03-20,63,Male,Orthopedics,Arrhythmia,18,29802,BlueCross,7,No
+PAT-3603,2024-01-13,60,Female,Neurology,Arrhythmia,17,40930,Medicare,7,No
+PAT-3604,2024-09-08,40,Male,Pediatrics,Arrhythmia,8,11826,Aetna,2,No
+PAT-3605,2024-08-04,87,Male,Neurology,Acute Fracture,4,11770,Cigna,6,Yes
+PAT-3606,2024-08-30,81,Female,Oncology,Arrhythmia,7,23423,Cigna,4,No
+PAT-3607,2024-09-12,51,Female,Pediatrics,Coronary Artery Disease,12,15890,BlueCross,2,No
+PAT-3608,2024-03-25,73,Female,Neurology,Hypertension,11,28727,Aetna,1,Yes
+PAT-3609,2024-07-16,54,Female,Pediatrics,Hypertension,17,20533,BlueCross,5,No
+PAT-3610,2024-06-14,68,Male,Orthopedics,Arrhythmia,15,26712,Medicare,1,No
+PAT-3611,2024-11-03,21,Female,Orthopedics,Hypertension,4,10106,Aetna,4,No
+PAT-3612,2024-05-05,35,Male,Oncology,Coronary Artery Disease,5,18316,Medicare,4,No
+PAT-3613,2024-02-12,38,Male,Cardiology,Arrhythmia,10,19936,Cigna,5,No
+PAT-3614,2024-06-06,54,Female,Neurology,Coronary Artery Disease,9,22141,BlueCross,1,No
+PAT-3615,2024-06-28,26,Female,Neurology,Coronary Artery Disease,17,41472,Cigna,4,No
+PAT-3616,2024-05-07,53,Female,Cardiology,Hypertension,9,17582,Medicare,7,No
+PAT-3617,2024-02-14,18,Male,Orthopedics,Coronary Artery Disease,3,5841,Aetna,4,No
+PAT-3618,2024-04-10,38,Female,Pediatrics,Stroke Rehab,11,14364,BlueCross,6,No
+PAT-3619,2024-10-25,19,Male,Emergency,Pneumonia,12,13917,BlueCross,2,No
+PAT-3620,2024-12-14,52,Female,Pediatrics,Pneumonia,16,19075,BlueCross,4,No
+PAT-3621,2024-11-15,76,Male,Pediatrics,Arrhythmia,19,23331,Aetna,6,No
+PAT-3622,2024-03-03,82,Female,Oncology,Pneumonia,9,29029,BlueCross,3,Yes
+PAT-3623,2024-07-15,73,Female,Orthopedics,Acute Fracture,14,24649,UnitedHealth,1,No
+PAT-3624,2024-12-30,61,Male,Pediatrics,Arrhythmia,7,11093,Aetna,6,No
+PAT-3625,2024-09-03,20,Female,Oncology,Arrhythmia,16,48905,Cigna,7,No
+PAT-3626,2024-11-06,54,Female,Emergency,Stroke Rehab,13,14867,BlueCross,3,Yes
+PAT-3627,2024-07-13,62,Female,Orthopedics,Hypertension,17,28817,UnitedHealth,7,No
+PAT-3628,2024-10-23,61,Female,Orthopedics,Coronary Artery Disease,8,16315,UnitedHealth,5,No
+PAT-3629,2024-12-23,60,Male,Pediatrics,Stroke Rehab,18,23258,Cigna,5,No
+PAT-3630,2024-12-18,22,Male,Cardiology,Hypertension,7,17302,Cigna,4,No
+PAT-3631,2024-07-31,73,Male,Pediatrics,Acute Fracture,17,21347,Cigna,4,No
+PAT-3632,2024-06-22,84,Male,Emergency,Acute Fracture,14,17196,Aetna,7,No
+PAT-3633,2024-08-20,75,Female,Oncology,Hypertension,15,43718,Medicare,3,No
+PAT-3634,2024-01-10,38,Male,Oncology,Hypertension,18,51667,Aetna,1,No
+PAT-3635,2024-01-14,47,Female,Emergency,Coronary Artery Disease,14,14531,BlueCross,6,No
+PAT-3636,2024-04-12,39,Female,Emergency,Arrhythmia,12,13616,Medicare,1,No
+PAT-3637,2024-06-17,53,Female,Cardiology,Coronary Artery Disease,5,9875,Medicare,4,Yes
+PAT-3638,2024-02-28,72,Female,Neurology,Acute Fracture,13,30894,Aetna,2,No
+PAT-3639,2024-12-07,76,Male,Pediatrics,Stroke Rehab,6,9955,Medicare,3,No
+PAT-3640,2024-08-30,66,Female,Cardiology,Arrhythmia,6,12832,UnitedHealth,7,Yes
+PAT-3641,2024-01-23,36,Male,Neurology,Hypertension,10,25888,Aetna,4,No
+PAT-3642,2024-12-03,35,Female,Cardiology,Stroke Rehab,9,18138,Cigna,2,No
+PAT-3643,2024-07-02,86,Female,Oncology,Coronary Artery Disease,19,54732,Aetna,3,Yes
+PAT-3644,2024-11-26,33,Female,Orthopedics,Hypertension,9,15730,BlueCross,5,No
+PAT-3645,2024-10-08,82,Female,Orthopedics,Pneumonia,11,21993,UnitedHealth,5,Yes
+PAT-3646,2024-01-07,47,Female,Pediatrics,Pneumonia,18,21690,Medicare,7,Yes
+PAT-3647,2024-09-18,59,Male,Neurology,Acute Fracture,17,39360,Aetna,4,No
+PAT-3648,2024-02-04,83,Female,Neurology,Acute Fracture,3,7549,Medicare,4,No
+PAT-3649,2024-12-24,52,Male,Emergency,Acute Fracture,5,7257,Medicare,2,Yes
+PAT-3650,2024-08-15,71,Male,Orthopedics,Stroke Rehab,3,6918,Cigna,2,No
+PAT-3651,2024-04-03,21,Male,Pediatrics,Stroke Rehab,20,22864,Cigna,4,No
+PAT-3652,2024-01-10,41,Female,Emergency,Pneumonia,11,13987,BlueCross,5,No
+PAT-3653,2024-04-05,41,Male,Oncology,Arrhythmia,14,40681,Aetna,6,No
+PAT-3654,2024-03-22,64,Male,Neurology,Hypertension,7,16388,BlueCross,7,No
+PAT-3655,2024-01-17,34,Male,Oncology,Arrhythmia,8,26441,Medicare,1,Yes
+PAT-3656,2024-07-05,61,Male,Neurology,Hypertension,8,19296,Aetna,7,No
+PAT-3657,2024-12-20,20,Male,Orthopedics,Pneumonia,13,23430,Medicare,6,Yes
+PAT-3658,2024-10-22,56,Male,Oncology,Coronary Artery Disease,15,43502,BlueCross,6,No
+PAT-3659,2024-04-17,42,Female,Orthopedics,Acute Fracture,4,7054,BlueCross,6,No
+PAT-3660,2024-09-19,32,Male,Emergency,Acute Fracture,18,21902,Medicare,1,No
+PAT-3661,2024-02-05,82,Male,Oncology,Acute Fracture,10,32019,Aetna,4,No
+PAT-3662,2024-08-31,41,Male,Oncology,Arrhythmia,6,21119,BlueCross,3,No
+PAT-3663,2024-05-29,38,Male,Oncology,Stroke Rehab,17,51893,Medicare,2,No
+PAT-3664,2024-11-09,72,Female,Emergency,Stroke Rehab,6,6447,Medicare,1,No
+PAT-3665,2024-11-29,29,Female,Neurology,Arrhythmia,18,41982,UnitedHealth,7,No
+PAT-3666,2024-01-08,80,Male,Orthopedics,Arrhythmia,20,36133,Aetna,2,No
+PAT-3667,2024-06-05,55,Female,Cardiology,Stroke Rehab,19,38577,Medicare,1,Yes
+PAT-3668,2024-10-05,81,Male,Oncology,Hypertension,13,41268,Aetna,6,Yes
+PAT-3669,2024-09-15,37,Female,Orthopedics,Acute Fracture,10,19796,UnitedHealth,6,Yes
+PAT-3670,2024-12-22,74,Male,Orthopedics,Acute Fracture,19,32890,Cigna,1,No
+PAT-3671,2024-11-29,85,Female,Pediatrics,Pneumonia,10,12232,Cigna,6,No
+PAT-3672,2024-08-07,70,Male,Oncology,Pneumonia,19,53812,Cigna,2,No
+PAT-3673,2024-10-17,26,Female,Orthopedics,Arrhythmia,10,19455,BlueCross,1,Yes
+PAT-3674,2024-01-13,76,Male,Pediatrics,Hypertension,19,23838,UnitedHealth,7,No
+PAT-3675,2024-11-24,61,Female,Pediatrics,Coronary Artery Disease,13,16721,BlueCross,4,No
+PAT-3676,2024-08-19,57,Female,Neurology,Stroke Rehab,1,6729,BlueCross,6,Yes
+PAT-3677,2024-06-15,26,Male,Pediatrics,Stroke Rehab,20,22992,Aetna,2,Yes
+PAT-3678,2024-05-05,65,Male,Orthopedics,Stroke Rehab,10,18976,BlueCross,5,No
+PAT-3679,2024-12-22,21,Male,Neurology,Arrhythmia,11,25618,Medicare,4,Yes
+PAT-3680,2024-07-06,84,Male,Emergency,Acute Fracture,10,10354,BlueCross,7,No
+PAT-3681,2024-09-02,86,Female,Neurology,Coronary Artery Disease,7,17209,Aetna,3,Yes
+PAT-3682,2024-11-13,34,Female,Emergency,Arrhythmia,5,9084,BlueCross,4,No
+PAT-3683,2024-10-20,84,Male,Cardiology,Stroke Rehab,11,22066,UnitedHealth,5,No
+PAT-3684,2024-08-26,37,Male,Orthopedics,Hypertension,4,10883,Medicare,1,No
+PAT-3685,2024-10-26,79,Male,Cardiology,Acute Fracture,8,16496,BlueCross,3,No
+PAT-3686,2024-09-28,52,Male,Pediatrics,Acute Fracture,5,8989,BlueCross,7,No
+PAT-3687,2024-06-26,35,Female,Emergency,Acute Fracture,4,8001,Aetna,7,Yes
+PAT-3688,2024-01-27,75,Male,Pediatrics,Acute Fracture,13,18159,Cigna,6,Yes
+PAT-3689,2024-10-11,80,Male,Pediatrics,Arrhythmia,5,7358,Medicare,2,Yes
+PAT-3690,2024-05-24,37,Female,Neurology,Stroke Rehab,2,7894,Aetna,4,No
+PAT-3691,2024-03-22,71,Female,Pediatrics,Pneumonia,9,14493,BlueCross,7,No
+PAT-3692,2024-04-21,83,Female,Cardiology,Arrhythmia,9,17289,BlueCross,3,No
+PAT-3693,2024-05-30,18,Female,Neurology,Acute Fracture,4,11239,Medicare,4,No
+PAT-3694,2024-10-31,85,Male,Orthopedics,Arrhythmia,3,9024,UnitedHealth,1,No
+PAT-3695,2024-06-17,79,Female,Neurology,Arrhythmia,19,44779,Aetna,7,Yes
+PAT-3696,2024-09-13,86,Male,Orthopedics,Pneumonia,1,5256,BlueCross,7,No
+PAT-3697,2024-07-05,63,Female,Pediatrics,Pneumonia,17,20989,Medicare,3,Yes
+PAT-3698,2024-11-11,85,Male,Pediatrics,Coronary Artery Disease,19,22187,BlueCross,5,No
+PAT-3699,2024-06-01,67,Male,Neurology,Stroke Rehab,4,12280,Medicare,7,Yes
+PAT-3700,2024-07-01,60,Female,Pediatrics,Coronary Artery Disease,17,23256,Cigna,2,No
+PAT-3701,2024-09-29,70,Male,Cardiology,Hypertension,18,33039,UnitedHealth,4,Yes
+PAT-3702,2024-03-20,37,Female,Neurology,Pneumonia,15,34463,Cigna,1,No
+PAT-3703,2024-01-30,52,Female,Oncology,Coronary Artery Disease,18,51150,Aetna,5,Yes
+PAT-3704,2024-02-25,47,Male,Pediatrics,Hypertension,9,13576,Cigna,2,No
+PAT-3705,2024-10-30,70,Female,Cardiology,Coronary Artery Disease,18,36470,Aetna,7,No
+PAT-3706,2024-12-10,70,Female,Orthopedics,Pneumonia,5,11796,Medicare,7,No
+PAT-3707,2024-01-12,46,Male,Pediatrics,Hypertension,19,23831,Aetna,5,No
+PAT-3708,2024-12-22,70,Male,Emergency,Coronary Artery Disease,14,14488,BlueCross,6,No
+PAT-3709,2024-11-04,73,Female,Oncology,Coronary Artery Disease,16,49469,BlueCross,2,No
+PAT-3710,2024-05-06,38,Male,Orthopedics,Coronary Artery Disease,9,18195,BlueCross,1,No
+PAT-3711,2024-03-23,85,Male,Neurology,Hypertension,2,7622,UnitedHealth,3,Yes
+PAT-3712,2024-03-28,42,Female,Emergency,Acute Fracture,7,11229,BlueCross,7,No
+PAT-3713,2024-06-26,22,Female,Pediatrics,Hypertension,11,13898,Medicare,5,No
+PAT-3714,2024-04-01,62,Male,Emergency,Hypertension,4,5558,BlueCross,5,Yes
+PAT-3715,2024-11-16,47,Female,Pediatrics,Hypertension,19,22907,Medicare,5,No
+PAT-3716,2024-12-08,47,Male,Emergency,Arrhythmia,18,20064,UnitedHealth,2,No
+PAT-3717,2024-06-14,27,Male,Orthopedics,Arrhythmia,2,6222,BlueCross,1,No
+PAT-3718,2024-07-08,69,Male,Pediatrics,Pneumonia,17,21967,Medicare,3,No
+PAT-3719,2024-03-27,70,Female,Oncology,Arrhythmia,3,12416,BlueCross,6,No
+PAT-3720,2024-10-25,47,Male,Emergency,Pneumonia,11,14468,UnitedHealth,6,No
+PAT-3721,2024-08-02,74,Female,Emergency,Arrhythmia,16,17788,Medicare,2,No
+PAT-3722,2024-06-26,51,Male,Neurology,Pneumonia,8,20379,UnitedHealth,3,No
+PAT-3723,2024-02-22,20,Female,Orthopedics,Stroke Rehab,1,5112,BlueCross,4,Yes
+PAT-3724,2024-01-18,42,Female,Cardiology,Acute Fracture,19,35571,Medicare,3,No
+PAT-3725,2024-03-05,30,Female,Emergency,Stroke Rehab,14,18010,BlueCross,1,No
+PAT-3726,2024-11-08,54,Male,Pediatrics,Stroke Rehab,9,14568,Medicare,2,No
+PAT-3727,2024-05-24,81,Male,Pediatrics,Stroke Rehab,17,22987,UnitedHealth,5,No
+PAT-3728,2024-05-27,31,Female,Cardiology,Coronary Artery Disease,14,28203,BlueCross,1,No
+PAT-3729,2024-06-22,44,Male,Emergency,Arrhythmia,17,20244,Aetna,6,No
+PAT-3730,2024-11-05,68,Male,Pediatrics,Coronary Artery Disease,15,18374,UnitedHealth,4,No
+PAT-3731,2024-06-08,87,Female,Pediatrics,Coronary Artery Disease,8,11291,Cigna,7,Yes
+PAT-3732,2024-09-11,62,Female,Oncology,Hypertension,2,9164,Cigna,6,No
+PAT-3733,2024-04-07,66,Male,Cardiology,Acute Fracture,16,32812,BlueCross,4,Yes
+PAT-3734,2024-10-21,43,Female,Orthopedics,Pneumonia,9,14986,UnitedHealth,7,No
+PAT-3735,2024-02-12,52,Male,Emergency,Arrhythmia,6,9683,Aetna,7,No
+PAT-3736,2024-07-19,38,Male,Orthopedics,Hypertension,14,23947,Aetna,5,Yes
+PAT-3737,2024-09-23,55,Male,Emergency,Arrhythmia,5,6188,Medicare,6,Yes
+PAT-3738,2024-12-11,78,Female,Emergency,Acute Fracture,9,11371,BlueCross,3,No
+PAT-3739,2024-02-08,60,Male,Orthopedics,Stroke Rehab,2,3760,BlueCross,5,Yes
+PAT-3740,2024-10-18,49,Female,Oncology,Acute Fracture,1,3675,Cigna,7,Yes
+PAT-3741,2024-09-19,42,Female,Pediatrics,Pneumonia,8,11526,UnitedHealth,1,No
+PAT-3742,2024-03-04,62,Female,Pediatrics,Arrhythmia,7,11470,Cigna,3,No
+PAT-3743,2024-12-18,63,Female,Cardiology,Hypertension,7,15240,UnitedHealth,2,Yes
+PAT-3744,2024-09-19,63,Female,Cardiology,Acute Fracture,3,9403,BlueCross,5,No
+PAT-3745,2024-04-03,21,Male,Orthopedics,Acute Fracture,2,5077,UnitedHealth,7,No
+PAT-3746,2024-05-23,18,Female,Orthopedics,Stroke Rehab,10,20934,Aetna,1,No
+PAT-3747,2024-11-26,79,Female,Cardiology,Pneumonia,19,37192,Aetna,4,Yes
+PAT-3748,2024-09-22,64,Male,Oncology,Coronary Artery Disease,5,18344,Cigna,7,No
+PAT-3749,2024-10-18,40,Male,Emergency,Coronary Artery Disease,13,17172,Medicare,7,No
+PAT-3750,2024-11-17,70,Male,Neurology,Coronary Artery Disease,20,45714,UnitedHealth,5,No
+PAT-3751,2024-03-06,60,Female,Cardiology,Pneumonia,1,3251,Cigna,6,No
+PAT-3752,2024-01-20,21,Male,Emergency,Hypertension,20,20010,UnitedHealth,3,No
+PAT-3753,2024-06-06,65,Male,Pediatrics,Coronary Artery Disease,14,18303,BlueCross,2,No
+PAT-3754,2024-05-23,23,Male,Pediatrics,Coronary Artery Disease,13,18383,Cigna,5,No
+PAT-3755,2024-09-22,60,Male,Oncology,Acute Fracture,16,48546,UnitedHealth,3,No
+PAT-3756,2024-04-29,33,Female,Orthopedics,Arrhythmia,9,16651,BlueCross,6,No
+PAT-3757,2024-06-27,72,Female,Cardiology,Stroke Rehab,11,22026,BlueCross,7,No
+PAT-3758,2024-12-03,22,Female,Emergency,Stroke Rehab,6,8985,Medicare,4,Yes
+PAT-3759,2024-11-15,72,Male,Emergency,Hypertension,6,9632,UnitedHealth,2,No
+PAT-3760,2024-09-15,49,Female,Cardiology,Hypertension,8,17192,UnitedHealth,5,Yes
+PAT-3761,2024-07-13,49,Female,Pediatrics,Hypertension,7,10184,Aetna,1,No
+PAT-3762,2024-06-18,83,Female,Oncology,Arrhythmia,17,52091,UnitedHealth,5,Yes
+PAT-3763,2024-05-19,51,Female,Oncology,Acute Fracture,20,58373,UnitedHealth,4,No
+PAT-3764,2024-01-08,41,Female,Pediatrics,Coronary Artery Disease,17,20348,UnitedHealth,2,No
+PAT-3765,2024-05-27,67,Male,Cardiology,Arrhythmia,3,9077,UnitedHealth,6,Yes
+PAT-3766,2024-08-19,40,Male,Oncology,Acute Fracture,5,18272,BlueCross,7,Yes
+PAT-3767,2024-07-21,52,Male,Neurology,Acute Fracture,13,30773,Aetna,3,Yes
+PAT-3768,2024-07-04,22,Male,Cardiology,Acute Fracture,6,11565,BlueCross,1,No
+PAT-3769,2024-11-23,31,Male,Cardiology,Acute Fracture,16,33790,BlueCross,2,No
+PAT-3770,2024-02-09,86,Female,Neurology,Arrhythmia,2,9224,Cigna,5,Yes
+PAT-3771,2024-09-27,39,Male,Cardiology,Pneumonia,9,20249,Medicare,2,No
+PAT-3772,2024-06-26,19,Male,Neurology,Arrhythmia,12,29859,UnitedHealth,5,Yes
+PAT-3773,2024-05-15,25,Female,Neurology,Arrhythmia,16,36625,UnitedHealth,2,No
+PAT-3774,2024-07-23,36,Male,Cardiology,Stroke Rehab,20,40162,Medicare,6,No
+PAT-3775,2024-03-28,34,Male,Cardiology,Arrhythmia,19,38299,Medicare,2,No
+PAT-3776,2024-11-27,44,Female,Emergency,Coronary Artery Disease,7,9187,Medicare,1,No
+PAT-3777,2024-09-23,85,Female,Neurology,Arrhythmia,18,44270,BlueCross,3,No
+PAT-3778,2024-06-09,34,Female,Pediatrics,Arrhythmia,18,20786,UnitedHealth,7,No
+PAT-3779,2024-02-29,49,Female,Pediatrics,Stroke Rehab,16,18319,Aetna,2,No
+PAT-3780,2024-06-08,25,Female,Pediatrics,Stroke Rehab,18,21269,Cigna,2,Yes
+PAT-3781,2024-01-05,47,Male,Neurology,Coronary Artery Disease,20,46469,UnitedHealth,3,Yes
+PAT-3782,2024-01-31,46,Male,Orthopedics,Stroke Rehab,13,23008,BlueCross,2,No
+PAT-3783,2024-01-28,75,Male,Orthopedics,Stroke Rehab,1,6244,Cigna,6,No
+PAT-3784,2024-06-17,57,Male,Pediatrics,Acute Fracture,1,5065,BlueCross,2,No
+PAT-3785,2024-10-02,40,Male,Oncology,Arrhythmia,2,8977,Aetna,5,Yes
+PAT-3786,2024-03-12,27,Male,Neurology,Arrhythmia,17,39790,Medicare,1,No
+PAT-3787,2024-07-03,26,Male,Pediatrics,Hypertension,16,21239,Medicare,1,Yes
+PAT-3788,2024-06-04,45,Male,Emergency,Coronary Artery Disease,6,7079,UnitedHealth,5,No
+PAT-3789,2024-01-15,58,Male,Emergency,Hypertension,18,21489,UnitedHealth,7,No
+PAT-3790,2024-09-11,26,Male,Emergency,Stroke Rehab,16,19299,Medicare,6,No
+PAT-3791,2024-08-17,47,Male,Oncology,Stroke Rehab,8,24295,Medicare,6,No
+PAT-3792,2024-04-26,84,Male,Neurology,Acute Fracture,12,29464,Medicare,5,No
+PAT-3793,2024-04-20,80,Female,Oncology,Acute Fracture,1,4692,BlueCross,1,Yes
+PAT-3794,2024-04-21,84,Female,Orthopedics,Arrhythmia,17,29133,Medicare,4,No
+PAT-3795,2024-09-22,48,Male,Cardiology,Acute Fracture,15,30121,Aetna,4,No
+PAT-3796,2024-04-09,24,Male,Orthopedics,Hypertension,12,21378,Medicare,5,No
+PAT-3797,2024-07-21,72,Male,Cardiology,Hypertension,19,36443,Medicare,5,No
+PAT-3798,2024-01-18,20,Female,Orthopedics,Coronary Artery Disease,15,27690,BlueCross,1,No
+PAT-3799,2024-07-20,24,Female,Oncology,Coronary Artery Disease,8,25516,UnitedHealth,3,No
+PAT-3800,2024-07-03,49,Male,Pediatrics,Stroke Rehab,5,6379,UnitedHealth,3,No
+PAT-3801,2024-11-25,41,Female,Neurology,Arrhythmia,8,21321,UnitedHealth,2,Yes
+PAT-3802,2024-10-03,20,Male,Neurology,Stroke Rehab,3,8814,Aetna,5,No
+PAT-3803,2024-03-30,21,Male,Cardiology,Acute Fracture,18,36952,UnitedHealth,7,No
+PAT-3804,2024-12-29,78,Female,Cardiology,Stroke Rehab,7,15746,BlueCross,6,Yes
+PAT-3805,2024-10-14,48,Female,Cardiology,Hypertension,16,32280,Aetna,5,No
+PAT-3806,2024-03-19,79,Male,Pediatrics,Acute Fracture,13,18529,BlueCross,2,Yes
+PAT-3807,2024-03-10,32,Female,Orthopedics,Coronary Artery Disease,6,12736,Aetna,3,Yes
+PAT-3808,2024-05-21,63,Female,Pediatrics,Arrhythmia,10,14150,Aetna,6,No
+PAT-3809,2024-01-27,43,Male,Cardiology,Pneumonia,15,28761,UnitedHealth,2,Yes
+PAT-3810,2024-10-24,20,Male,Pediatrics,Arrhythmia,3,5191,BlueCross,6,No
+PAT-3811,2024-03-16,79,Male,Neurology,Pneumonia,2,7293,UnitedHealth,1,No
+PAT-3812,2024-12-05,39,Male,Neurology,Stroke Rehab,13,32421,Medicare,3,No
+PAT-3813,2024-04-08,27,Male,Cardiology,Coronary Artery Disease,4,8810,BlueCross,6,No
+PAT-3814,2024-08-16,23,Female,Cardiology,Hypertension,11,21854,Medicare,4,No
+PAT-3815,2024-06-05,49,Female,Emergency,Hypertension,7,8717,Cigna,1,No
+PAT-3816,2024-11-27,23,Female,Cardiology,Pneumonia,13,24625,UnitedHealth,7,No
+PAT-3817,2024-08-21,35,Female,Cardiology,Stroke Rehab,3,6154,Cigna,2,Yes
+PAT-3818,2024-01-18,86,Female,Cardiology,Pneumonia,20,39259,Aetna,7,No
+PAT-3819,2024-03-20,22,Female,Neurology,Pneumonia,3,7696,UnitedHealth,4,No
+PAT-3820,2024-02-15,38,Female,Orthopedics,Arrhythmia,1,3422,Cigna,7,No
+PAT-3821,2024-12-11,83,Male,Pediatrics,Acute Fracture,13,18632,Cigna,6,Yes
+PAT-3822,2024-09-12,68,Male,Neurology,Pneumonia,5,14272,UnitedHealth,7,No
+PAT-3823,2024-01-03,18,Male,Emergency,Stroke Rehab,17,16985,Medicare,5,No
+PAT-3824,2024-03-15,64,Male,Emergency,Stroke Rehab,3,4218,BlueCross,6,No
+PAT-3825,2024-10-29,37,Female,Neurology,Hypertension,11,26574,UnitedHealth,2,No
+PAT-3826,2024-07-23,41,Male,Emergency,Arrhythmia,14,16755,BlueCross,1,No
+PAT-3827,2024-07-07,29,Male,Orthopedics,Acute Fracture,7,13890,Cigna,4,No
+PAT-3828,2024-02-02,58,Male,Pediatrics,Pneumonia,16,20074,BlueCross,5,No
+PAT-3829,2024-08-15,81,Male,Neurology,Arrhythmia,8,21040,BlueCross,6,No
+PAT-3830,2024-09-01,61,Female,Neurology,Coronary Artery Disease,8,18852,UnitedHealth,5,No
+PAT-3831,2024-04-02,30,Male,Neurology,Arrhythmia,17,38211,UnitedHealth,2,No
+PAT-3832,2024-10-08,56,Female,Orthopedics,Stroke Rehab,11,19367,Aetna,6,Yes
+PAT-3833,2024-08-29,39,Female,Oncology,Acute Fracture,7,23082,UnitedHealth,6,No
+PAT-3834,2024-08-25,61,Female,Pediatrics,Coronary Artery Disease,8,10164,Cigna,1,No
+PAT-3835,2024-07-09,35,Female,Emergency,Stroke Rehab,20,22091,Aetna,5,No
+PAT-3836,2024-03-22,83,Female,Emergency,Pneumonia,20,20402,BlueCross,5,No
+PAT-3837,2024-02-04,25,Female,Orthopedics,Stroke Rehab,20,33784,Medicare,5,Yes
+PAT-3838,2024-12-02,83,Male,Cardiology,Stroke Rehab,8,18548,BlueCross,1,No
+PAT-3839,2024-03-26,29,Male,Orthopedics,Acute Fracture,20,35205,Cigna,1,No
+PAT-3840,2024-06-05,27,Female,Pediatrics,Stroke Rehab,8,13095,Aetna,2,Yes
+PAT-3841,2024-11-05,49,Female,Emergency,Acute Fracture,14,16411,UnitedHealth,6,No
+PAT-3842,2024-07-14,50,Male,Cardiology,Stroke Rehab,14,29336,Medicare,7,No
+PAT-3843,2024-11-18,29,Male,Emergency,Acute Fracture,4,5423,Cigna,7,No
+PAT-3844,2024-06-18,23,Male,Cardiology,Acute Fracture,14,27525,Cigna,2,No
+PAT-3845,2024-01-02,56,Female,Oncology,Coronary Artery Disease,17,51815,Aetna,3,No
+PAT-3846,2024-01-05,69,Female,Neurology,Arrhythmia,8,19834,UnitedHealth,4,No
+PAT-3847,2024-11-01,43,Female,Orthopedics,Arrhythmia,4,7897,BlueCross,4,No
+PAT-3848,2024-01-26,55,Female,Pediatrics,Arrhythmia,19,23114,Cigna,7,No
+PAT-3849,2024-07-07,77,Male,Pediatrics,Coronary Artery Disease,16,18937,Medicare,4,No
+PAT-3850,2024-10-18,61,Male,Cardiology,Coronary Artery Disease,3,10309,UnitedHealth,6,No
+PAT-3851,2024-09-02,82,Male,Emergency,Hypertension,12,14079,Cigna,5,No
+PAT-3852,2024-08-10,74,Female,Neurology,Acute Fracture,10,23323,Cigna,3,No
+PAT-3853,2024-11-29,20,Male,Emergency,Arrhythmia,9,9096,Medicare,3,Yes
+PAT-3854,2024-04-11,66,Female,Neurology,Coronary Artery Disease,2,7511,UnitedHealth,3,No
+PAT-3855,2024-03-25,39,Female,Oncology,Acute Fracture,6,18754,UnitedHealth,3,No
+PAT-3856,2024-05-30,73,Male,Oncology,Pneumonia,1,5950,Medicare,5,No
+PAT-3857,2024-12-16,26,Female,Pediatrics,Acute Fracture,6,9461,Aetna,2,Yes
+PAT-3858,2024-05-03,40,Male,Neurology,Arrhythmia,12,29277,Medicare,4,No
+PAT-3859,2024-01-09,51,Female,Emergency,Arrhythmia,7,7453,UnitedHealth,1,Yes
+PAT-3860,2024-03-29,60,Male,Neurology,Acute Fracture,8,18725,UnitedHealth,3,No
+PAT-3861,2024-01-05,82,Female,Emergency,Pneumonia,3,6655,UnitedHealth,5,No
+PAT-3862,2024-01-21,19,Male,Orthopedics,Acute Fracture,11,21914,Medicare,1,No
+PAT-3863,2024-01-10,67,Male,Neurology,Acute Fracture,5,14010,Aetna,6,Yes
+PAT-3864,2024-05-29,65,Male,Neurology,Arrhythmia,18,41657,UnitedHealth,5,No
+PAT-3865,2024-01-05,54,Female,Orthopedics,Arrhythmia,3,8584,Medicare,1,No
+PAT-3866,2024-12-24,37,Male,Oncology,Stroke Rehab,12,34574,Aetna,4,No
+PAT-3867,2024-12-06,78,Male,Cardiology,Acute Fracture,3,8544,Cigna,1,No
+PAT-3868,2024-04-28,68,Male,Pediatrics,Coronary Artery Disease,19,23585,UnitedHealth,1,No
+PAT-3869,2024-07-20,64,Female,Orthopedics,Arrhythmia,7,11746,Medicare,1,No
+PAT-3870,2024-05-01,62,Male,Oncology,Coronary Artery Disease,20,60797,Medicare,5,No
+PAT-3871,2024-01-18,30,Female,Cardiology,Acute Fracture,7,16113,Cigna,7,No
+PAT-3872,2024-02-28,55,Female,Orthopedics,Hypertension,18,33469,Cigna,1,No
+PAT-3873,2024-01-19,58,Female,Emergency,Hypertension,2,5240,Medicare,3,No
+PAT-3874,2024-02-13,18,Female,Neurology,Coronary Artery Disease,10,23330,BlueCross,2,No
+PAT-3875,2024-02-26,32,Female,Orthopedics,Stroke Rehab,4,10452,UnitedHealth,1,Yes
+PAT-3876,2024-02-23,27,Female,Cardiology,Arrhythmia,20,39392,BlueCross,2,No
+PAT-3877,2024-03-16,21,Male,Orthopedics,Acute Fracture,1,2733,BlueCross,2,No
+PAT-3878,2024-04-28,31,Female,Oncology,Coronary Artery Disease,15,43581,Medicare,2,No
+PAT-3879,2024-12-18,69,Female,Neurology,Stroke Rehab,14,34513,Medicare,6,No
+PAT-3880,2024-01-26,87,Female,Orthopedics,Hypertension,19,33597,UnitedHealth,3,Yes
+PAT-3881,2024-02-07,27,Female,Orthopedics,Arrhythmia,20,34186,Medicare,6,No
+PAT-3882,2024-09-09,86,Female,Emergency,Stroke Rehab,8,12410,UnitedHealth,6,Yes
+PAT-3883,2024-02-04,28,Male,Pediatrics,Arrhythmia,14,17409,Cigna,4,Yes
+PAT-3884,2024-07-25,78,Male,Neurology,Arrhythmia,10,24072,Medicare,3,Yes
+PAT-3885,2024-05-04,23,Female,Neurology,Coronary Artery Disease,2,7708,BlueCross,5,No
+PAT-3886,2024-11-17,75,Female,Cardiology,Acute Fracture,7,16858,BlueCross,6,No
+PAT-3887,2024-04-06,60,Male,Emergency,Stroke Rehab,15,15780,Medicare,4,Yes
+PAT-3888,2024-12-14,79,Male,Pediatrics,Hypertension,18,22724,Cigna,2,No
+PAT-3889,2024-05-04,75,Male,Cardiology,Coronary Artery Disease,8,18638,Cigna,3,No
+PAT-3890,2024-03-01,35,Female,Emergency,Acute Fracture,16,17088,Medicare,6,Yes
+PAT-3891,2024-09-10,86,Male,Pediatrics,Coronary Artery Disease,12,16992,Aetna,3,No
+PAT-3892,2024-07-08,33,Male,Emergency,Pneumonia,11,11665,BlueCross,4,Yes
+PAT-3893,2024-04-07,58,Female,Pediatrics,Hypertension,14,17596,Aetna,2,No
+PAT-3894,2024-01-25,59,Male,Oncology,Pneumonia,19,55073,Medicare,1,No
+PAT-3895,2024-06-13,40,Male,Emergency,Hypertension,16,16886,Medicare,7,No
+PAT-3896,2024-05-24,44,Female,Oncology,Hypertension,20,57415,Medicare,3,No
+PAT-3897,2024-02-05,24,Male,Cardiology,Coronary Artery Disease,8,16169,Medicare,6,Yes
+PAT-3898,2024-08-09,64,Male,Pediatrics,Stroke Rehab,20,25136,Aetna,5,No
+PAT-3899,2024-04-07,52,Male,Pediatrics,Hypertension,4,6194,Aetna,3,No
+PAT-3900,2024-10-06,83,Female,Cardiology,Arrhythmia,11,22885,Medicare,3,No
+PAT-3901,2024-04-27,62,Male,Emergency,Acute Fracture,20,22520,Medicare,5,No
+PAT-3902,2024-04-06,52,Male,Emergency,Pneumonia,6,9734,BlueCross,6,No
+PAT-3903,2024-11-09,65,Male,Orthopedics,Hypertension,13,25513,Aetna,3,No
+PAT-3904,2024-06-09,19,Female,Oncology,Coronary Artery Disease,18,55281,Cigna,2,No
+PAT-3905,2024-06-12,40,Female,Cardiology,Arrhythmia,18,35510,Cigna,7,No
+PAT-3906,2024-09-19,39,Female,Cardiology,Arrhythmia,13,24074,Cigna,2,No
+PAT-3907,2024-04-11,57,Male,Emergency,Stroke Rehab,19,21129,Medicare,2,No
+PAT-3908,2024-12-24,59,Female,Cardiology,Arrhythmia,13,27686,UnitedHealth,4,Yes
+PAT-3909,2024-02-11,23,Female,Oncology,Hypertension,4,15846,Medicare,4,No
+PAT-3910,2024-08-04,29,Female,Pediatrics,Acute Fracture,12,15654,UnitedHealth,5,No
+PAT-3911,2024-03-20,71,Female,Emergency,Arrhythmia,1,1829,BlueCross,4,No
+PAT-3912,2024-03-05,65,Male,Emergency,Stroke Rehab,10,13720,Medicare,1,Yes
+PAT-3913,2024-09-22,21,Male,Pediatrics,Coronary Artery Disease,6,10015,Cigna,4,Yes
+PAT-3914,2024-10-09,25,Female,Cardiology,Hypertension,4,8282,UnitedHealth,5,No
+PAT-3915,2024-08-07,37,Male,Emergency,Coronary Artery Disease,4,6781,Medicare,5,Yes
+PAT-3916,2024-04-15,38,Female,Emergency,Coronary Artery Disease,20,23045,BlueCross,3,No
+PAT-3917,2024-03-03,69,Female,Oncology,Stroke Rehab,17,49115,Cigna,2,No
+PAT-3918,2024-05-13,20,Male,Orthopedics,Arrhythmia,14,24705,Aetna,1,No
+PAT-3919,2024-04-14,41,Male,Emergency,Coronary Artery Disease,7,8962,Aetna,7,No
+PAT-3920,2024-07-01,82,Female,Neurology,Pneumonia,1,5797,Medicare,6,No
+PAT-3921,2024-06-30,69,Male,Oncology,Arrhythmia,4,11959,Medicare,4,No
+PAT-3922,2024-11-22,49,Female,Neurology,Coronary Artery Disease,20,46762,Aetna,6,No
+PAT-3923,2024-06-17,63,Male,Oncology,Acute Fracture,20,60004,Cigna,7,No
+PAT-3924,2024-11-27,70,Female,Orthopedics,Arrhythmia,10,17491,Cigna,2,Yes
+PAT-3925,2024-08-15,47,Male,Orthopedics,Hypertension,4,9359,UnitedHealth,6,No
+PAT-3926,2024-09-09,47,Female,Cardiology,Pneumonia,15,30302,UnitedHealth,4,Yes
+PAT-3927,2024-10-04,33,Male,Oncology,Stroke Rehab,7,21777,Cigna,1,No
+PAT-3928,2024-02-06,48,Female,Neurology,Pneumonia,3,9198,Aetna,6,No
+PAT-3929,2024-07-30,73,Female,Pediatrics,Arrhythmia,17,23265,Medicare,3,Yes
+PAT-3930,2024-08-14,76,Female,Cardiology,Pneumonia,5,13393,Medicare,1,No
+PAT-3931,2024-12-23,73,Male,Neurology,Arrhythmia,15,35083,Aetna,6,Yes
+PAT-3932,2024-05-03,64,Female,Oncology,Stroke Rehab,15,43742,UnitedHealth,2,Yes
+PAT-3933,2024-05-22,67,Male,Neurology,Stroke Rehab,16,37204,UnitedHealth,4,No
+PAT-3934,2024-11-05,71,Male,Emergency,Coronary Artery Disease,4,8635,UnitedHealth,1,No
+PAT-3935,2024-02-24,18,Male,Cardiology,Hypertension,1,2780,Medicare,5,No
+PAT-3936,2024-06-12,78,Male,Oncology,Hypertension,8,26618,Medicare,6,Yes
+PAT-3937,2024-10-29,18,Female,Orthopedics,Arrhythmia,2,6537,BlueCross,7,No
+PAT-3938,2024-01-20,78,Male,Oncology,Pneumonia,14,43958,Aetna,2,Yes
+PAT-3939,2024-08-28,64,Female,Cardiology,Hypertension,19,35155,Medicare,2,No
+PAT-3940,2024-03-06,48,Female,Oncology,Acute Fracture,2,6920,Cigna,7,No
+PAT-3941,2024-10-12,57,Male,Oncology,Coronary Artery Disease,16,48414,Medicare,6,Yes
+PAT-3942,2024-07-02,29,Male,Oncology,Hypertension,2,7970,Cigna,4,Yes
+PAT-3943,2024-10-13,85,Male,Neurology,Stroke Rehab,7,18939,Medicare,4,No
+PAT-3944,2024-01-24,36,Female,Orthopedics,Coronary Artery Disease,2,6417,Medicare,2,No
+PAT-3945,2024-11-05,63,Female,Orthopedics,Pneumonia,12,22193,Cigna,6,No
+PAT-3946,2024-02-12,42,Male,Emergency,Hypertension,11,15232,UnitedHealth,4,No
+PAT-3947,2024-12-04,26,Male,Oncology,Arrhythmia,2,6925,Cigna,2,Yes
+PAT-3948,2024-08-06,63,Male,Neurology,Hypertension,12,27260,BlueCross,1,No
+PAT-3949,2024-01-30,76,Male,Neurology,Acute Fracture,15,37010,Aetna,2,No
+PAT-3950,2024-01-18,43,Male,Emergency,Acute Fracture,4,8321,Medicare,3,No
+PAT-3951,2024-11-28,72,Male,Emergency,Pneumonia,10,11352,UnitedHealth,5,No
+PAT-3952,2024-09-18,77,Male,Cardiology,Acute Fracture,16,33646,Aetna,3,Yes
+PAT-3953,2024-08-26,68,Male,Oncology,Acute Fracture,15,42788,BlueCross,3,No
+PAT-3954,2024-05-15,64,Male,Oncology,Pneumonia,10,28991,Medicare,3,Yes
+PAT-3955,2024-07-16,38,Female,Pediatrics,Arrhythmia,1,5203,Cigna,3,No
+PAT-3956,2024-10-26,63,Male,Oncology,Stroke Rehab,17,50022,Medicare,1,No
+PAT-3957,2024-03-17,80,Female,Cardiology,Arrhythmia,5,10936,Medicare,6,No
+PAT-3958,2024-01-06,82,Male,Cardiology,Hypertension,4,10362,UnitedHealth,6,No
+PAT-3959,2024-12-24,49,Male,Orthopedics,Acute Fracture,3,7202,Cigna,6,No
+PAT-3960,2024-03-04,78,Male,Oncology,Coronary Artery Disease,6,21009,BlueCross,2,No
+PAT-3961,2024-01-12,38,Female,Emergency,Coronary Artery Disease,11,15061,UnitedHealth,7,No
+PAT-3962,2024-06-21,49,Female,Orthopedics,Arrhythmia,1,2557,Medicare,1,No
+PAT-3963,2024-02-15,25,Female,Orthopedics,Stroke Rehab,7,15492,Aetna,1,No
+PAT-3964,2024-03-16,71,Male,Cardiology,Stroke Rehab,15,30730,Medicare,4,No
+PAT-3965,2024-05-05,84,Female,Pediatrics,Hypertension,10,15772,BlueCross,5,Yes
+PAT-3966,2024-10-26,56,Male,Neurology,Hypertension,9,23231,Cigna,3,Yes
+PAT-3967,2024-08-28,82,Male,Oncology,Acute Fracture,13,38034,Aetna,6,No
+PAT-3968,2024-02-15,46,Female,Pediatrics,Stroke Rehab,19,25342,Medicare,4,Yes
+PAT-3969,2024-10-23,27,Male,Neurology,Hypertension,13,30892,Medicare,7,No
+PAT-3970,2024-03-11,68,Female,Orthopedics,Pneumonia,4,7786,UnitedHealth,5,No
+PAT-3971,2024-06-24,69,Male,Pediatrics,Coronary Artery Disease,18,20413,Cigna,7,No
+PAT-3972,2024-09-11,70,Male,Pediatrics,Arrhythmia,2,5169,Cigna,3,No
+PAT-3973,2024-04-16,64,Male,Cardiology,Pneumonia,15,28317,UnitedHealth,4,No
+PAT-3974,2024-12-14,41,Female,Cardiology,Arrhythmia,12,23715,Medicare,7,No
+PAT-3975,2024-11-01,83,Male,Orthopedics,Stroke Rehab,16,26884,Medicare,1,No
+PAT-3976,2024-12-03,62,Male,Pediatrics,Pneumonia,17,21446,Aetna,6,No
+PAT-3977,2024-08-25,82,Female,Cardiology,Stroke Rehab,15,27536,Medicare,6,No
+PAT-3978,2024-09-06,64,Male,Cardiology,Pneumonia,16,30603,BlueCross,6,No
+PAT-3979,2024-01-31,67,Female,Pediatrics,Acute Fracture,15,20686,Cigna,1,No
+PAT-3980,2024-07-22,18,Male,Oncology,Hypertension,7,22096,Cigna,6,No
+PAT-3981,2024-03-10,80,Female,Emergency,Coronary Artery Disease,15,17275,UnitedHealth,2,No
+PAT-3982,2024-03-20,48,Female,Orthopedics,Stroke Rehab,16,28727,BlueCross,2,No
+PAT-3983,2024-10-11,81,Male,Pediatrics,Arrhythmia,12,17777,Aetna,6,No
+PAT-3984,2024-02-17,27,Male,Oncology,Acute Fracture,16,46992,Aetna,5,Yes
+PAT-3985,2024-05-11,23,Male,Orthopedics,Pneumonia,8,13847,Cigna,2,No
+PAT-3986,2024-12-20,29,Male,Cardiology,Pneumonia,3,6804,UnitedHealth,6,No
+PAT-3987,2024-12-20,84,Female,Oncology,Hypertension,17,50309,UnitedHealth,7,No
+PAT-3988,2024-03-03,54,Female,Orthopedics,Acute Fracture,16,27734,Aetna,2,No
+PAT-3989,2024-07-02,29,Female,Pediatrics,Pneumonia,13,15476,Aetna,4,No
+PAT-3990,2024-08-07,78,Male,Oncology,Hypertension,10,30055,UnitedHealth,4,Yes
+PAT-3991,2024-10-19,40,Male,Oncology,Hypertension,7,22527,Medicare,5,No
+PAT-3992,2024-03-18,51,Female,Neurology,Hypertension,19,45810,Aetna,5,No
+PAT-3993,2024-12-11,61,Female,Neurology,Acute Fracture,11,25728,Cigna,2,No
+PAT-3994,2024-06-07,71,Male,Oncology,Arrhythmia,17,49316,BlueCross,3,No
+PAT-3995,2024-06-02,33,Female,Pediatrics,Hypertension,12,15815,Aetna,1,No
+PAT-3996,2024-08-09,20,Male,Oncology,Stroke Rehab,4,12647,UnitedHealth,2,No
+PAT-3997,2024-03-30,22,Female,Oncology,Pneumonia,2,10427,Medicare,5,Yes
+PAT-3998,2024-05-23,61,Male,Cardiology,Stroke Rehab,19,35968,BlueCross,7,No
+PAT-3999,2024-03-10,58,Male,Orthopedics,Hypertension,4,8912,BlueCross,3,No

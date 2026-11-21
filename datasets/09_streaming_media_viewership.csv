@@ -1,0 +1,1501 @@
+session_id,watch_date,user_tier,genre,watch_duration_minutes,device_type,user_rating,completed_stream
+STRM-90000,2024-03-27,Premium 4K,Comedy,16,Tablet,4,No
+STRM-90001,2024-03-19,Premium 4K,Action Thriller,42,Mobile Phone,2,No
+STRM-90002,2024-04-10,Premium 4K,Documentary,78,Smart TV,2,Yes
+STRM-90003,2024-12-20,Standard HD,Animation,17,Smart TV,4,No
+STRM-90004,2024-07-30,Ad-Supported Basic,Action Thriller,105,Mobile Phone,5,Yes
+STRM-90005,2024-07-04,Ad-Supported Basic,Action Thriller,22,Smart TV,5,No
+STRM-90006,2024-12-29,Standard HD,Comedy,240,Smart TV,5,Yes
+STRM-90007,2024-10-16,Standard HD,Sci-Fi,23,Laptop Browser,5,No
+STRM-90008,2024-03-10,Premium 4K,Action Thriller,29,Gaming Console,4,No
+STRM-90009,2024-02-05,Standard HD,Crime Drama,96,Mobile Phone,4,Yes
+STRM-90010,2024-08-30,Ad-Supported Basic,Comedy,24,Gaming Console,3,No
+STRM-90011,2024-12-25,Premium 4K,Animation,28,Tablet,5,No
+STRM-90012,2024-02-06,Ad-Supported Basic,Crime Drama,21,Mobile Phone,4,No
+STRM-90013,2024-05-17,Standard HD,Documentary,110,Tablet,5,Yes
+STRM-90014,2024-05-01,Ad-Supported Basic,Comedy,56,Tablet,3,Yes
+STRM-90015,2024-12-19,Standard HD,Crime Drama,11,Mobile Phone,4,No
+STRM-90016,2024-02-17,Premium 4K,Animation,47,Laptop Browser,3,Yes
+STRM-90017,2024-04-03,Standard HD,Crime Drama,28,Mobile Phone,4,No
+STRM-90018,2024-01-20,Premium 4K,Documentary,23,Gaming Console,4,No
+STRM-90019,2024-09-28,Ad-Supported Basic,Action Thriller,106,Tablet,2,Yes
+STRM-90020,2024-09-20,Premium 4K,Documentary,53,Laptop Browser,4,Yes
+STRM-90021,2024-04-17,Premium 4K,Action Thriller,156,Mobile Phone,4,Yes
+STRM-90022,2024-04-11,Standard HD,Documentary,129,Laptop Browser,4,Yes
+STRM-90023,2024-09-02,Premium 4K,Sci-Fi,29,Laptop Browser,1,No
+STRM-90024,2024-06-07,Ad-Supported Basic,Comedy,15,Laptop Browser,5,No
+STRM-90025,2024-05-08,Ad-Supported Basic,Animation,119,Gaming Console,5,Yes
+STRM-90026,2024-06-07,Standard HD,Action Thriller,14,Gaming Console,4,No
+STRM-90027,2024-02-08,Premium 4K,Sci-Fi,18,Mobile Phone,5,No
+STRM-90028,2024-11-24,Standard HD,Documentary,45,Smart TV,5,No
+STRM-90029,2024-06-01,Premium 4K,Sci-Fi,94,Mobile Phone,4,Yes
+STRM-90030,2024-05-02,Premium 4K,Comedy,164,Tablet,3,Yes
+STRM-90031,2024-04-01,Standard HD,Comedy,187,Mobile Phone,5,Yes
+STRM-90032,2024-11-09,Standard HD,Crime Drama,64,Laptop Browser,3,Yes
+STRM-90033,2024-12-26,Standard HD,Animation,177,Mobile Phone,3,Yes
+STRM-90034,2024-01-16,Standard HD,Documentary,117,Mobile Phone,4,Yes
+STRM-90035,2024-06-25,Ad-Supported Basic,Action Thriller,154,Laptop Browser,5,Yes
+STRM-90036,2024-01-09,Ad-Supported Basic,Sci-Fi,121,Tablet,4,Yes
+STRM-90037,2024-05-30,Ad-Supported Basic,Action Thriller,19,Smart TV,4,No
+STRM-90038,2024-05-02,Ad-Supported Basic,Sci-Fi,101,Tablet,3,Yes
+STRM-90039,2024-08-13,Ad-Supported Basic,Comedy,16,Laptop Browser,2,No
+STRM-90040,2024-12-18,Premium 4K,Documentary,52,Mobile Phone,2,Yes
+STRM-90041,2024-03-25,Standard HD,Documentary,89,Mobile Phone,2,Yes
+STRM-90042,2024-02-24,Ad-Supported Basic,Sci-Fi,112,Laptop Browser,5,Yes
+STRM-90043,2024-10-13,Premium 4K,Animation,68,Tablet,4,Yes
+STRM-90044,2024-07-13,Premium 4K,Comedy,32,Mobile Phone,4,No
+STRM-90045,2024-09-05,Premium 4K,Action Thriller,26,Mobile Phone,3,No
+STRM-90046,2024-04-01,Standard HD,Crime Drama,146,Smart TV,3,Yes
+STRM-90047,2024-10-10,Ad-Supported Basic,Comedy,85,Mobile Phone,4,Yes
+STRM-90048,2024-03-21,Standard HD,Crime Drama,61,Smart TV,4,Yes
+STRM-90049,2024-06-04,Premium 4K,Comedy,30,Mobile Phone,2,No
+STRM-90050,2024-08-17,Ad-Supported Basic,Animation,18,Tablet,4,No
+STRM-90051,2024-03-30,Premium 4K,Sci-Fi,173,Tablet,3,Yes
+STRM-90052,2024-04-15,Ad-Supported Basic,Crime Drama,124,Mobile Phone,4,Yes
+STRM-90053,2024-01-15,Ad-Supported Basic,Action Thriller,29,Tablet,4,No
+STRM-90054,2024-06-19,Premium 4K,Documentary,42,Tablet,2,No
+STRM-90055,2024-09-30,Premium 4K,Sci-Fi,38,Gaming Console,5,No
+STRM-90056,2024-12-25,Premium 4K,Comedy,108,Tablet,5,Yes
+STRM-90057,2024-02-13,Premium 4K,Comedy,99,Mobile Phone,5,Yes
+STRM-90058,2024-02-15,Standard HD,Comedy,128,Gaming Console,1,Yes
+STRM-90059,2024-10-29,Standard HD,Comedy,151,Gaming Console,3,Yes
+STRM-90060,2024-08-25,Standard HD,Comedy,30,Gaming Console,3,No
+STRM-90061,2024-01-13,Ad-Supported Basic,Action Thriller,300,Laptop Browser,2,Yes
+STRM-90062,2024-06-25,Premium 4K,Sci-Fi,11,Tablet,2,No
+STRM-90063,2024-08-02,Standard HD,Comedy,39,Mobile Phone,5,No
+STRM-90064,2024-07-31,Ad-Supported Basic,Comedy,44,Gaming Console,4,No
+STRM-90065,2024-08-20,Premium 4K,Sci-Fi,105,Tablet,4,Yes
+STRM-90066,2024-01-06,Ad-Supported Basic,Crime Drama,34,Gaming Console,5,No
+STRM-90067,2024-06-01,Ad-Supported Basic,Sci-Fi,29,Laptop Browser,1,No
+STRM-90068,2024-06-29,Standard HD,Action Thriller,17,Gaming Console,4,No
+STRM-90069,2024-05-21,Ad-Supported Basic,Action Thriller,12,Gaming Console,4,No
+STRM-90070,2024-06-23,Premium 4K,Sci-Fi,14,Tablet,3,No
+STRM-90071,2024-05-08,Standard HD,Sci-Fi,51,Gaming Console,1,Yes
+STRM-90072,2024-03-31,Standard HD,Action Thriller,25,Smart TV,4,No
+STRM-90073,2024-02-15,Premium 4K,Documentary,25,Mobile Phone,3,No
+STRM-90074,2024-08-04,Standard HD,Sci-Fi,53,Tablet,3,Yes
+STRM-90075,2024-01-21,Standard HD,Crime Drama,20,Smart TV,4,No
+STRM-90076,2024-11-10,Ad-Supported Basic,Animation,26,Tablet,5,No
+STRM-90077,2024-10-29,Ad-Supported Basic,Documentary,42,Laptop Browser,1,No
+STRM-90078,2024-10-25,Ad-Supported Basic,Comedy,23,Smart TV,4,No
+STRM-90079,2024-11-04,Premium 4K,Sci-Fi,61,Laptop Browser,4,Yes
+STRM-90080,2024-04-24,Ad-Supported Basic,Documentary,75,Gaming Console,5,Yes
+STRM-90081,2024-11-14,Standard HD,Crime Drama,147,Tablet,3,Yes
+STRM-90082,2024-09-07,Standard HD,Sci-Fi,12,Laptop Browser,2,No
+STRM-90083,2024-09-03,Premium 4K,Sci-Fi,43,Laptop Browser,4,No
+STRM-90084,2024-02-23,Ad-Supported Basic,Action Thriller,156,Smart TV,3,Yes
+STRM-90085,2024-08-01,Standard HD,Crime Drama,146,Tablet,3,Yes
+STRM-90086,2024-05-28,Ad-Supported Basic,Crime Drama,129,Tablet,4,Yes
+STRM-90087,2024-12-26,Ad-Supported Basic,Documentary,12,Gaming Console,5,No
+STRM-90088,2024-01-05,Premium 4K,Comedy,30,Smart TV,5,No
+STRM-90089,2024-10-16,Premium 4K,Action Thriller,10,Gaming Console,3,No
+STRM-90090,2024-09-23,Standard HD,Animation,28,Smart TV,4,No
+STRM-90091,2024-12-19,Standard HD,Animation,10,Gaming Console,3,No
+STRM-90092,2024-05-13,Ad-Supported Basic,Animation,11,Tablet,3,No
+STRM-90093,2024-12-06,Standard HD,Sci-Fi,226,Gaming Console,3,Yes
+STRM-90094,2024-10-22,Ad-Supported Basic,Sci-Fi,74,Laptop Browser,4,Yes
+STRM-90095,2024-10-26,Premium 4K,Crime Drama,106,Tablet,1,Yes
+STRM-90096,2024-05-25,Standard HD,Sci-Fi,11,Smart TV,5,No
+STRM-90097,2024-09-11,Premium 4K,Action Thriller,61,Tablet,4,Yes
+STRM-90098,2024-04-23,Standard HD,Animation,89,Tablet,4,Yes
+STRM-90099,2024-09-18,Ad-Supported Basic,Sci-Fi,238,Gaming Console,1,Yes
+STRM-90100,2024-05-10,Ad-Supported Basic,Comedy,76,Tablet,4,Yes
+STRM-90101,2024-11-07,Ad-Supported Basic,Animation,14,Laptop Browser,5,No
+STRM-90102,2024-03-16,Standard HD,Animation,38,Tablet,3,No
+STRM-90103,2024-06-21,Premium 4K,Documentary,46,Laptop Browser,4,Yes
+STRM-90104,2024-04-14,Premium 4K,Sci-Fi,27,Laptop Browser,3,No
+STRM-90105,2024-11-04,Premium 4K,Comedy,24,Tablet,3,No
+STRM-90106,2024-10-06,Standard HD,Action Thriller,69,Tablet,3,Yes
+STRM-90107,2024-07-15,Premium 4K,Documentary,63,Mobile Phone,5,Yes
+STRM-90108,2024-11-25,Premium 4K,Documentary,281,Tablet,4,Yes
+STRM-90109,2024-03-26,Standard HD,Crime Drama,137,Mobile Phone,5,Yes
+STRM-90110,2024-04-22,Standard HD,Sci-Fi,138,Laptop Browser,5,Yes
+STRM-90111,2024-09-09,Ad-Supported Basic,Animation,222,Tablet,2,Yes
+STRM-90112,2024-06-17,Ad-Supported Basic,Action Thriller,33,Smart TV,5,No
+STRM-90113,2024-02-26,Ad-Supported Basic,Crime Drama,39,Smart TV,4,No
+STRM-90114,2024-12-26,Premium 4K,Animation,106,Laptop Browser,5,Yes
+STRM-90115,2024-06-20,Ad-Supported Basic,Crime Drama,141,Mobile Phone,4,Yes
+STRM-90116,2024-02-10,Ad-Supported Basic,Animation,113,Gaming Console,3,Yes
+STRM-90117,2024-01-26,Ad-Supported Basic,Animation,83,Mobile Phone,4,Yes
+STRM-90118,2024-09-15,Premium 4K,Animation,15,Laptop Browser,4,No
+STRM-90119,2024-04-11,Standard HD,Sci-Fi,51,Tablet,4,Yes
+STRM-90120,2024-03-03,Ad-Supported Basic,Documentary,66,Mobile Phone,3,Yes
+STRM-90121,2024-03-06,Premium 4K,Documentary,85,Smart TV,5,Yes
+STRM-90122,2024-06-21,Standard HD,Action Thriller,16,Tablet,4,No
+STRM-90123,2024-01-17,Ad-Supported Basic,Documentary,206,Mobile Phone,3,Yes
+STRM-90124,2024-09-25,Ad-Supported Basic,Sci-Fi,32,Mobile Phone,1,No
+STRM-90125,2024-07-02,Standard HD,Animation,86,Gaming Console,4,Yes
+STRM-90126,2024-02-06,Premium 4K,Documentary,129,Mobile Phone,5,Yes
+STRM-90127,2024-07-26,Premium 4K,Action Thriller,161,Mobile Phone,4,Yes
+STRM-90128,2024-06-20,Ad-Supported Basic,Action Thriller,13,Mobile Phone,5,No
+STRM-90129,2024-04-03,Standard HD,Documentary,337,Mobile Phone,2,Yes
+STRM-90130,2024-12-28,Premium 4K,Animation,44,Tablet,4,No
+STRM-90131,2024-11-24,Premium 4K,Documentary,37,Gaming Console,4,No
+STRM-90132,2024-09-20,Standard HD,Action Thriller,325,Mobile Phone,4,Yes
+STRM-90133,2024-02-24,Standard HD,Action Thriller,13,Tablet,3,No
+STRM-90134,2024-10-01,Ad-Supported Basic,Action Thriller,18,Laptop Browser,4,No
+STRM-90135,2024-02-09,Standard HD,Animation,95,Mobile Phone,2,Yes
+STRM-90136,2024-02-21,Premium 4K,Documentary,131,Gaming Console,2,Yes
+STRM-90137,2024-04-05,Standard HD,Animation,30,Gaming Console,4,No
+STRM-90138,2024-05-08,Premium 4K,Animation,62,Tablet,3,Yes
+STRM-90139,2024-01-01,Standard HD,Documentary,138,Gaming Console,5,Yes
+STRM-90140,2024-11-14,Standard HD,Documentary,46,Gaming Console,5,Yes
+STRM-90141,2024-07-17,Standard HD,Sci-Fi,17,Tablet,2,No
+STRM-90142,2024-09-14,Ad-Supported Basic,Action Thriller,35,Mobile Phone,3,No
+STRM-90143,2024-11-22,Standard HD,Crime Drama,79,Smart TV,4,Yes
+STRM-90144,2024-05-05,Premium 4K,Sci-Fi,51,Smart TV,4,Yes
+STRM-90145,2024-11-19,Standard HD,Sci-Fi,18,Mobile Phone,5,No
+STRM-90146,2024-01-06,Standard HD,Comedy,262,Tablet,3,Yes
+STRM-90147,2024-08-13,Premium 4K,Crime Drama,31,Laptop Browser,4,No
+STRM-90148,2024-05-06,Ad-Supported Basic,Animation,44,Mobile Phone,4,No
+STRM-90149,2024-12-23,Premium 4K,Crime Drama,16,Laptop Browser,1,No
+STRM-90150,2024-04-29,Ad-Supported Basic,Action Thriller,225,Smart TV,5,Yes
+STRM-90151,2024-10-18,Ad-Supported Basic,Sci-Fi,81,Tablet,5,Yes
+STRM-90152,2024-03-14,Standard HD,Sci-Fi,81,Laptop Browser,5,Yes
+STRM-90153,2024-06-26,Premium 4K,Sci-Fi,27,Mobile Phone,3,No
+STRM-90154,2024-03-04,Premium 4K,Sci-Fi,136,Smart TV,3,Yes
+STRM-90155,2024-12-27,Ad-Supported Basic,Crime Drama,177,Smart TV,5,Yes
+STRM-90156,2024-07-22,Standard HD,Action Thriller,90,Laptop Browser,5,Yes
+STRM-90157,2024-08-15,Premium 4K,Animation,85,Smart TV,4,Yes
+STRM-90158,2024-05-26,Ad-Supported Basic,Crime Drama,72,Tablet,5,Yes
+STRM-90159,2024-11-28,Ad-Supported Basic,Animation,66,Gaming Console,3,Yes
+STRM-90160,2024-12-14,Premium 4K,Animation,41,Laptop Browser,5,No
+STRM-90161,2024-07-03,Standard HD,Comedy,75,Laptop Browser,3,Yes
+STRM-90162,2024-12-28,Standard HD,Documentary,41,Gaming Console,4,No
+STRM-90163,2024-12-18,Ad-Supported Basic,Crime Drama,173,Laptop Browser,4,Yes
+STRM-90164,2024-08-30,Standard HD,Comedy,44,Smart TV,4,No
+STRM-90165,2024-03-01,Standard HD,Crime Drama,61,Mobile Phone,3,Yes
+STRM-90166,2024-10-18,Standard HD,Action Thriller,131,Tablet,4,Yes
+STRM-90167,2024-04-03,Standard HD,Sci-Fi,11,Laptop Browser,4,No
+STRM-90168,2024-10-07,Standard HD,Crime Drama,335,Tablet,5,Yes
+STRM-90169,2024-01-18,Ad-Supported Basic,Crime Drama,154,Smart TV,4,Yes
+STRM-90170,2024-04-06,Standard HD,Sci-Fi,75,Smart TV,4,Yes
+STRM-90171,2024-07-16,Standard HD,Comedy,73,Gaming Console,3,Yes
+STRM-90172,2024-01-27,Standard HD,Action Thriller,65,Laptop Browser,5,Yes
+STRM-90173,2024-03-15,Standard HD,Animation,39,Gaming Console,5,No
+STRM-90174,2024-07-26,Premium 4K,Action Thriller,289,Mobile Phone,5,Yes
+STRM-90175,2024-09-13,Ad-Supported Basic,Sci-Fi,104,Smart TV,4,Yes
+STRM-90176,2024-05-19,Standard HD,Comedy,169,Smart TV,5,Yes
+STRM-90177,2024-10-12,Standard HD,Documentary,18,Gaming Console,4,No
+STRM-90178,2024-02-14,Standard HD,Documentary,213,Mobile Phone,3,Yes
+STRM-90179,2024-11-04,Premium 4K,Sci-Fi,60,Tablet,5,Yes
+STRM-90180,2024-08-22,Ad-Supported Basic,Crime Drama,43,Smart TV,4,No
+STRM-90181,2024-09-02,Premium 4K,Comedy,18,Mobile Phone,4,No
+STRM-90182,2024-07-15,Premium 4K,Documentary,45,Mobile Phone,3,No
+STRM-90183,2024-11-11,Premium 4K,Action Thriller,40,Gaming Console,4,No
+STRM-90184,2024-11-12,Premium 4K,Action Thriller,51,Mobile Phone,4,Yes
+STRM-90185,2024-06-05,Premium 4K,Crime Drama,52,Tablet,3,Yes
+STRM-90186,2024-06-09,Ad-Supported Basic,Animation,74,Mobile Phone,5,Yes
+STRM-90187,2024-02-18,Standard HD,Crime Drama,35,Gaming Console,3,No
+STRM-90188,2024-06-10,Premium 4K,Sci-Fi,53,Smart TV,3,Yes
+STRM-90189,2024-02-08,Ad-Supported Basic,Sci-Fi,12,Tablet,4,No
+STRM-90190,2024-02-10,Ad-Supported Basic,Documentary,55,Mobile Phone,5,Yes
+STRM-90191,2024-09-07,Standard HD,Comedy,142,Tablet,4,Yes
+STRM-90192,2024-08-06,Standard HD,Crime Drama,17,Gaming Console,5,No
+STRM-90193,2024-01-17,Ad-Supported Basic,Crime Drama,28,Gaming Console,1,No
+STRM-90194,2024-07-08,Ad-Supported Basic,Documentary,131,Gaming Console,4,Yes
+STRM-90195,2024-11-25,Standard HD,Sci-Fi,60,Mobile Phone,5,Yes
+STRM-90196,2024-11-13,Ad-Supported Basic,Comedy,126,Tablet,4,Yes
+STRM-90197,2024-06-21,Ad-Supported Basic,Animation,32,Mobile Phone,5,No
+STRM-90198,2024-05-06,Ad-Supported Basic,Animation,112,Mobile Phone,4,Yes
+STRM-90199,2024-03-20,Ad-Supported Basic,Sci-Fi,62,Smart TV,2,Yes
+STRM-90200,2024-06-22,Ad-Supported Basic,Action Thriller,78,Smart TV,4,Yes
+STRM-90201,2024-01-20,Ad-Supported Basic,Animation,47,Mobile Phone,4,Yes
+STRM-90202,2024-04-16,Ad-Supported Basic,Sci-Fi,45,Smart TV,4,No
+STRM-90203,2024-02-29,Ad-Supported Basic,Comedy,67,Smart TV,5,Yes
+STRM-90204,2024-01-02,Ad-Supported Basic,Comedy,46,Laptop Browser,3,Yes
+STRM-90205,2024-06-17,Ad-Supported Basic,Documentary,50,Mobile Phone,4,Yes
+STRM-90206,2024-04-22,Premium 4K,Sci-Fi,35,Laptop Browser,3,No
+STRM-90207,2024-05-25,Standard HD,Crime Drama,138,Smart TV,5,Yes
+STRM-90208,2024-12-18,Premium 4K,Comedy,103,Tablet,3,Yes
+STRM-90209,2024-11-21,Standard HD,Sci-Fi,23,Laptop Browser,5,No
+STRM-90210,2024-07-07,Standard HD,Animation,36,Smart TV,3,No
+STRM-90211,2024-08-07,Premium 4K,Comedy,37,Smart TV,5,No
+STRM-90212,2024-11-21,Premium 4K,Animation,14,Smart TV,3,No
+STRM-90213,2024-06-10,Standard HD,Crime Drama,69,Mobile Phone,1,Yes
+STRM-90214,2024-08-05,Standard HD,Crime Drama,19,Mobile Phone,4,No
+STRM-90215,2024-03-23,Standard HD,Crime Drama,40,Gaming Console,3,No
+STRM-90216,2024-04-01,Standard HD,Action Thriller,101,Tablet,4,Yes
+STRM-90217,2024-02-22,Standard HD,Crime Drama,11,Gaming Console,5,No
+STRM-90218,2024-02-24,Premium 4K,Animation,83,Smart TV,3,Yes
+STRM-90219,2024-09-30,Ad-Supported Basic,Action Thriller,12,Gaming Console,4,No
+STRM-90220,2024-05-20,Ad-Supported Basic,Action Thriller,111,Mobile Phone,4,Yes
+STRM-90221,2024-04-23,Premium 4K,Crime Drama,166,Tablet,2,Yes
+STRM-90222,2024-03-05,Ad-Supported Basic,Crime Drama,49,Gaming Console,5,Yes
+STRM-90223,2024-08-08,Ad-Supported Basic,Comedy,13,Gaming Console,4,No
+STRM-90224,2024-01-15,Premium 4K,Crime Drama,68,Tablet,4,Yes
+STRM-90225,2024-04-03,Premium 4K,Crime Drama,26,Tablet,5,No
+STRM-90226,2024-05-31,Ad-Supported Basic,Crime Drama,24,Smart TV,5,No
+STRM-90227,2024-11-17,Premium 4K,Action Thriller,94,Laptop Browser,4,Yes
+STRM-90228,2024-10-06,Standard HD,Crime Drama,53,Laptop Browser,3,Yes
+STRM-90229,2024-01-30,Ad-Supported Basic,Crime Drama,39,Mobile Phone,5,No
+STRM-90230,2024-12-09,Premium 4K,Animation,22,Smart TV,3,No
+STRM-90231,2024-02-08,Premium 4K,Documentary,166,Laptop Browser,1,Yes
+STRM-90232,2024-11-18,Premium 4K,Comedy,116,Smart TV,4,Yes
+STRM-90233,2024-08-17,Ad-Supported Basic,Animation,19,Gaming Console,5,No
+STRM-90234,2024-05-13,Ad-Supported Basic,Animation,97,Tablet,5,Yes
+STRM-90235,2024-06-23,Premium 4K,Action Thriller,67,Mobile Phone,2,Yes
+STRM-90236,2024-04-25,Premium 4K,Animation,34,Gaming Console,3,No
+STRM-90237,2024-06-22,Ad-Supported Basic,Comedy,27,Gaming Console,3,No
+STRM-90238,2024-04-27,Premium 4K,Sci-Fi,181,Tablet,4,Yes
+STRM-90239,2024-04-20,Standard HD,Documentary,56,Smart TV,5,Yes
+STRM-90240,2024-04-17,Ad-Supported Basic,Crime Drama,22,Tablet,4,No
+STRM-90241,2024-02-23,Ad-Supported Basic,Comedy,93,Smart TV,1,Yes
+STRM-90242,2024-04-10,Premium 4K,Sci-Fi,16,Laptop Browser,5,No
+STRM-90243,2024-02-13,Standard HD,Action Thriller,77,Mobile Phone,4,Yes
+STRM-90244,2024-11-15,Standard HD,Action Thriller,66,Gaming Console,4,Yes
+STRM-90245,2024-12-06,Ad-Supported Basic,Documentary,177,Mobile Phone,4,Yes
+STRM-90246,2024-05-31,Premium 4K,Sci-Fi,64,Smart TV,4,Yes
+STRM-90247,2024-03-13,Ad-Supported Basic,Animation,41,Tablet,3,No
+STRM-90248,2024-10-12,Premium 4K,Animation,55,Laptop Browser,1,Yes
+STRM-90249,2024-09-01,Ad-Supported Basic,Sci-Fi,17,Laptop Browser,3,No
+STRM-90250,2024-04-15,Ad-Supported Basic,Sci-Fi,77,Tablet,3,Yes
+STRM-90251,2024-11-28,Standard HD,Action Thriller,18,Mobile Phone,4,No
+STRM-90252,2024-10-06,Premium 4K,Action Thriller,21,Laptop Browser,5,No
+STRM-90253,2024-01-25,Standard HD,Crime Drama,78,Smart TV,5,Yes
+STRM-90254,2024-02-18,Standard HD,Crime Drama,29,Mobile Phone,4,No
+STRM-90255,2024-03-27,Premium 4K,Crime Drama,37,Smart TV,1,No
+STRM-90256,2024-10-04,Premium 4K,Animation,38,Laptop Browser,5,No
+STRM-90257,2024-07-16,Premium 4K,Sci-Fi,42,Gaming Console,2,No
+STRM-90258,2024-08-22,Ad-Supported Basic,Sci-Fi,51,Tablet,3,Yes
+STRM-90259,2024-07-15,Premium 4K,Animation,240,Smart TV,4,Yes
+STRM-90260,2024-08-19,Standard HD,Crime Drama,37,Tablet,4,No
+STRM-90261,2024-04-01,Premium 4K,Documentary,107,Smart TV,1,Yes
+STRM-90262,2024-12-28,Standard HD,Documentary,21,Smart TV,5,No
+STRM-90263,2024-03-10,Standard HD,Comedy,88,Tablet,4,Yes
+STRM-90264,2024-06-16,Ad-Supported Basic,Animation,18,Laptop Browser,3,No
+STRM-90265,2024-11-11,Ad-Supported Basic,Crime Drama,45,Gaming Console,4,No
+STRM-90266,2024-07-08,Standard HD,Animation,102,Gaming Console,5,Yes
+STRM-90267,2024-10-04,Premium 4K,Animation,60,Smart TV,3,Yes
+STRM-90268,2024-02-05,Ad-Supported Basic,Animation,78,Gaming Console,5,Yes
+STRM-90269,2024-02-24,Premium 4K,Comedy,54,Mobile Phone,1,Yes
+STRM-90270,2024-12-02,Premium 4K,Comedy,111,Tablet,4,Yes
+STRM-90271,2024-02-03,Premium 4K,Comedy,161,Tablet,4,Yes
+STRM-90272,2024-01-10,Ad-Supported Basic,Sci-Fi,28,Tablet,4,No
+STRM-90273,2024-07-20,Premium 4K,Crime Drama,51,Smart TV,5,Yes
+STRM-90274,2024-07-19,Standard HD,Crime Drama,151,Laptop Browser,4,Yes
+STRM-90275,2024-08-18,Premium 4K,Action Thriller,28,Laptop Browser,4,No
+STRM-90276,2024-02-19,Standard HD,Sci-Fi,62,Smart TV,3,Yes
+STRM-90277,2024-04-19,Premium 4K,Sci-Fi,118,Mobile Phone,5,Yes
+STRM-90278,2024-06-01,Standard HD,Comedy,31,Smart TV,3,No
+STRM-90279,2024-08-03,Standard HD,Comedy,71,Tablet,3,Yes
+STRM-90280,2024-11-07,Standard HD,Crime Drama,158,Smart TV,4,Yes
+STRM-90281,2024-05-20,Premium 4K,Action Thriller,140,Smart TV,4,Yes
+STRM-90282,2024-01-11,Ad-Supported Basic,Crime Drama,134,Mobile Phone,3,Yes
+STRM-90283,2024-12-14,Ad-Supported Basic,Crime Drama,10,Tablet,3,No
+STRM-90284,2024-05-14,Ad-Supported Basic,Crime Drama,29,Mobile Phone,4,No
+STRM-90285,2024-12-26,Premium 4K,Comedy,20,Laptop Browser,2,No
+STRM-90286,2024-01-09,Standard HD,Sci-Fi,71,Tablet,2,Yes
+STRM-90287,2024-07-14,Premium 4K,Comedy,83,Gaming Console,4,Yes
+STRM-90288,2024-01-28,Premium 4K,Comedy,212,Laptop Browser,4,Yes
+STRM-90289,2024-07-29,Premium 4K,Sci-Fi,48,Gaming Console,5,Yes
+STRM-90290,2024-04-20,Ad-Supported Basic,Action Thriller,32,Tablet,4,No
+STRM-90291,2024-07-28,Premium 4K,Comedy,90,Smart TV,5,Yes
+STRM-90292,2024-02-26,Ad-Supported Basic,Sci-Fi,28,Gaming Console,3,No
+STRM-90293,2024-03-20,Ad-Supported Basic,Animation,55,Mobile Phone,5,Yes
+STRM-90294,2024-05-02,Standard HD,Sci-Fi,46,Smart TV,4,Yes
+STRM-90295,2024-12-13,Ad-Supported Basic,Sci-Fi,127,Tablet,3,Yes
+STRM-90296,2024-07-13,Ad-Supported Basic,Documentary,88,Gaming Console,1,Yes
+STRM-90297,2024-03-23,Standard HD,Action Thriller,39,Laptop Browser,4,No
+STRM-90298,2024-03-05,Premium 4K,Sci-Fi,187,Tablet,5,Yes
+STRM-90299,2024-12-08,Premium 4K,Sci-Fi,100,Mobile Phone,5,Yes
+STRM-90300,2024-09-25,Ad-Supported Basic,Action Thriller,81,Gaming Console,3,Yes
+STRM-90301,2024-05-05,Standard HD,Comedy,11,Tablet,3,No
+STRM-90302,2024-05-24,Premium 4K,Crime Drama,87,Mobile Phone,4,Yes
+STRM-90303,2024-06-18,Premium 4K,Comedy,69,Smart TV,5,Yes
+STRM-90304,2024-11-26,Standard HD,Sci-Fi,71,Smart TV,4,Yes
+STRM-90305,2024-08-24,Premium 4K,Sci-Fi,266,Tablet,2,Yes
+STRM-90306,2024-12-14,Standard HD,Action Thriller,24,Gaming Console,4,No
+STRM-90307,2024-11-02,Standard HD,Action Thriller,59,Mobile Phone,1,Yes
+STRM-90308,2024-01-11,Ad-Supported Basic,Documentary,95,Smart TV,3,Yes
+STRM-90309,2024-10-01,Standard HD,Comedy,42,Mobile Phone,4,No
+STRM-90310,2024-11-05,Premium 4K,Sci-Fi,107,Mobile Phone,2,Yes
+STRM-90311,2024-01-20,Ad-Supported Basic,Documentary,71,Tablet,4,Yes
+STRM-90312,2024-12-11,Premium 4K,Sci-Fi,93,Mobile Phone,4,Yes
+STRM-90313,2024-09-17,Standard HD,Sci-Fi,11,Mobile Phone,4,No
+STRM-90314,2024-01-23,Standard HD,Crime Drama,48,Gaming Console,4,Yes
+STRM-90315,2024-07-15,Ad-Supported Basic,Crime Drama,49,Laptop Browser,2,Yes
+STRM-90316,2024-12-01,Premium 4K,Action Thriller,38,Mobile Phone,3,No
+STRM-90317,2024-10-28,Standard HD,Comedy,166,Tablet,2,Yes
+STRM-90318,2024-04-14,Premium 4K,Animation,10,Tablet,3,No
+STRM-90319,2024-04-05,Standard HD,Comedy,48,Mobile Phone,4,Yes
+STRM-90320,2024-06-15,Standard HD,Documentary,106,Laptop Browser,5,Yes
+STRM-90321,2024-09-01,Standard HD,Documentary,100,Tablet,2,Yes
+STRM-90322,2024-05-20,Ad-Supported Basic,Action Thriller,25,Laptop Browser,5,No
+STRM-90323,2024-05-28,Ad-Supported Basic,Documentary,12,Mobile Phone,5,No
+STRM-90324,2024-01-30,Ad-Supported Basic,Animation,48,Smart TV,4,Yes
+STRM-90325,2024-05-09,Standard HD,Comedy,146,Mobile Phone,3,Yes
+STRM-90326,2024-01-03,Premium 4K,Action Thriller,39,Laptop Browser,4,No
+STRM-90327,2024-03-16,Standard HD,Crime Drama,95,Laptop Browser,4,Yes
+STRM-90328,2024-05-06,Standard HD,Documentary,98,Smart TV,4,Yes
+STRM-90329,2024-08-14,Premium 4K,Documentary,92,Tablet,3,Yes
+STRM-90330,2024-02-06,Ad-Supported Basic,Comedy,70,Mobile Phone,4,Yes
+STRM-90331,2024-07-20,Standard HD,Animation,11,Gaming Console,3,No
+STRM-90332,2024-08-17,Premium 4K,Comedy,66,Gaming Console,3,Yes
+STRM-90333,2024-04-17,Premium 4K,Crime Drama,142,Laptop Browser,4,Yes
+STRM-90334,2024-07-05,Premium 4K,Crime Drama,33,Laptop Browser,3,No
+STRM-90335,2024-12-19,Standard HD,Comedy,65,Smart TV,4,Yes
+STRM-90336,2024-06-01,Ad-Supported Basic,Comedy,178,Tablet,3,Yes
+STRM-90337,2024-01-03,Premium 4K,Sci-Fi,69,Tablet,3,Yes
+STRM-90338,2024-11-30,Standard HD,Crime Drama,36,Gaming Console,4,No
+STRM-90339,2024-04-17,Standard HD,Action Thriller,35,Gaming Console,4,No
+STRM-90340,2024-03-25,Standard HD,Animation,27,Smart TV,5,No
+STRM-90341,2024-04-25,Ad-Supported Basic,Sci-Fi,20,Gaming Console,5,No
+STRM-90342,2024-05-09,Standard HD,Action Thriller,158,Smart TV,3,Yes
+STRM-90343,2024-12-22,Ad-Supported Basic,Sci-Fi,73,Tablet,4,Yes
+STRM-90344,2024-04-03,Ad-Supported Basic,Comedy,18,Mobile Phone,4,No
+STRM-90345,2024-04-23,Ad-Supported Basic,Comedy,136,Laptop Browser,4,Yes
+STRM-90346,2024-07-08,Standard HD,Crime Drama,53,Gaming Console,3,Yes
+STRM-90347,2024-05-05,Premium 4K,Action Thriller,79,Smart TV,4,Yes
+STRM-90348,2024-10-11,Premium 4K,Crime Drama,22,Tablet,4,No
+STRM-90349,2024-08-11,Standard HD,Animation,194,Gaming Console,4,Yes
+STRM-90350,2024-06-29,Premium 4K,Crime Drama,24,Mobile Phone,3,No
+STRM-90351,2024-06-15,Ad-Supported Basic,Documentary,49,Laptop Browser,4,Yes
+STRM-90352,2024-06-09,Premium 4K,Documentary,225,Smart TV,4,Yes
+STRM-90353,2024-12-23,Premium 4K,Sci-Fi,14,Tablet,4,No
+STRM-90354,2024-12-18,Ad-Supported Basic,Animation,12,Smart TV,4,No
+STRM-90355,2024-05-30,Standard HD,Action Thriller,12,Smart TV,4,No
+STRM-90356,2024-04-16,Ad-Supported Basic,Sci-Fi,105,Mobile Phone,4,Yes
+STRM-90357,2024-11-30,Premium 4K,Animation,61,Smart TV,4,Yes
+STRM-90358,2024-10-29,Premium 4K,Action Thriller,26,Gaming Console,4,No
+STRM-90359,2024-10-28,Standard HD,Action Thriller,34,Tablet,5,No
+STRM-90360,2024-06-15,Standard HD,Action Thriller,119,Smart TV,5,Yes
+STRM-90361,2024-06-26,Premium 4K,Documentary,173,Tablet,4,Yes
+STRM-90362,2024-06-28,Premium 4K,Crime Drama,29,Mobile Phone,4,No
+STRM-90363,2024-12-01,Ad-Supported Basic,Documentary,24,Gaming Console,4,No
+STRM-90364,2024-06-30,Premium 4K,Action Thriller,60,Gaming Console,5,Yes
+STRM-90365,2024-10-28,Standard HD,Sci-Fi,18,Tablet,4,No
+STRM-90366,2024-03-05,Ad-Supported Basic,Documentary,106,Smart TV,5,Yes
+STRM-90367,2024-12-08,Standard HD,Action Thriller,150,Mobile Phone,4,Yes
+STRM-90368,2024-12-09,Ad-Supported Basic,Animation,23,Laptop Browser,4,No
+STRM-90369,2024-12-16,Ad-Supported Basic,Sci-Fi,64,Gaming Console,1,Yes
+STRM-90370,2024-11-11,Standard HD,Documentary,12,Gaming Console,3,No
+STRM-90371,2024-02-25,Premium 4K,Comedy,156,Gaming Console,5,Yes
+STRM-90372,2024-04-25,Premium 4K,Comedy,125,Laptop Browser,4,Yes
+STRM-90373,2024-10-01,Premium 4K,Documentary,104,Laptop Browser,4,Yes
+STRM-90374,2024-05-09,Ad-Supported Basic,Action Thriller,246,Smart TV,5,Yes
+STRM-90375,2024-06-01,Premium 4K,Animation,37,Gaming Console,3,No
+STRM-90376,2024-11-11,Premium 4K,Documentary,56,Mobile Phone,5,Yes
+STRM-90377,2024-05-13,Standard HD,Sci-Fi,56,Laptop Browser,4,Yes
+STRM-90378,2024-09-07,Standard HD,Documentary,93,Gaming Console,3,Yes
+STRM-90379,2024-02-15,Standard HD,Animation,20,Smart TV,4,No
+STRM-90380,2024-07-04,Ad-Supported Basic,Comedy,10,Laptop Browser,2,No
+STRM-90381,2024-02-02,Premium 4K,Comedy,48,Tablet,4,Yes
+STRM-90382,2024-05-04,Premium 4K,Documentary,56,Tablet,4,Yes
+STRM-90383,2024-03-23,Standard HD,Documentary,86,Gaming Console,5,Yes
+STRM-90384,2024-01-09,Premium 4K,Animation,26,Laptop Browser,4,No
+STRM-90385,2024-07-26,Standard HD,Documentary,95,Mobile Phone,4,Yes
+STRM-90386,2024-05-25,Standard HD,Sci-Fi,104,Smart TV,5,Yes
+STRM-90387,2024-07-04,Standard HD,Documentary,42,Mobile Phone,4,No
+STRM-90388,2024-03-02,Premium 4K,Animation,11,Laptop Browser,5,No
+STRM-90389,2024-07-23,Ad-Supported Basic,Action Thriller,78,Mobile Phone,4,Yes
+STRM-90390,2024-02-16,Standard HD,Animation,66,Laptop Browser,5,Yes
+STRM-90391,2024-03-27,Standard HD,Animation,44,Smart TV,4,No
+STRM-90392,2024-03-22,Ad-Supported Basic,Action Thriller,19,Gaming Console,3,No
+STRM-90393,2024-05-25,Ad-Supported Basic,Documentary,119,Smart TV,5,Yes
+STRM-90394,2024-11-27,Premium 4K,Documentary,141,Gaming Console,4,Yes
+STRM-90395,2024-11-05,Ad-Supported Basic,Action Thriller,12,Laptop Browser,5,No
+STRM-90396,2024-01-06,Premium 4K,Sci-Fi,54,Mobile Phone,4,Yes
+STRM-90397,2024-04-21,Premium 4K,Action Thriller,239,Smart TV,5,Yes
+STRM-90398,2024-07-11,Standard HD,Crime Drama,19,Smart TV,5,No
+STRM-90399,2024-08-30,Standard HD,Sci-Fi,10,Mobile Phone,5,No
+STRM-90400,2024-02-23,Premium 4K,Sci-Fi,30,Mobile Phone,3,No
+STRM-90401,2024-12-05,Ad-Supported Basic,Action Thriller,52,Mobile Phone,5,Yes
+STRM-90402,2024-09-07,Ad-Supported Basic,Action Thriller,72,Mobile Phone,4,Yes
+STRM-90403,2024-05-02,Premium 4K,Sci-Fi,46,Gaming Console,3,Yes
+STRM-90404,2024-02-29,Ad-Supported Basic,Sci-Fi,141,Tablet,4,Yes
+STRM-90405,2024-02-12,Ad-Supported Basic,Crime Drama,18,Gaming Console,4,No
+STRM-90406,2024-01-06,Standard HD,Animation,339,Gaming Console,4,Yes
+STRM-90407,2024-03-13,Standard HD,Animation,140,Tablet,1,Yes
+STRM-90408,2024-09-25,Ad-Supported Basic,Action Thriller,100,Laptop Browser,1,Yes
+STRM-90409,2024-10-15,Premium 4K,Comedy,72,Gaming Console,3,Yes
+STRM-90410,2024-08-15,Ad-Supported Basic,Animation,129,Laptop Browser,2,Yes
+STRM-90411,2024-11-16,Premium 4K,Action Thriller,225,Smart TV,2,Yes
+STRM-90412,2024-06-22,Standard HD,Action Thriller,186,Tablet,3,Yes
+STRM-90413,2024-02-26,Ad-Supported Basic,Comedy,77,Tablet,5,Yes
+STRM-90414,2024-08-28,Standard HD,Sci-Fi,274,Smart TV,2,Yes
+STRM-90415,2024-05-30,Ad-Supported Basic,Documentary,73,Smart TV,4,Yes
+STRM-90416,2024-06-11,Ad-Supported Basic,Animation,22,Gaming Console,4,No
+STRM-90417,2024-08-04,Ad-Supported Basic,Action Thriller,113,Tablet,5,Yes
+STRM-90418,2024-11-11,Standard HD,Documentary,19,Laptop Browser,2,No
+STRM-90419,2024-02-21,Ad-Supported Basic,Animation,18,Mobile Phone,3,No
+STRM-90420,2024-07-29,Ad-Supported Basic,Documentary,16,Tablet,5,No
+STRM-90421,2024-01-28,Premium 4K,Action Thriller,25,Smart TV,2,No
+STRM-90422,2024-03-12,Standard HD,Comedy,117,Smart TV,4,Yes
+STRM-90423,2024-06-01,Ad-Supported Basic,Documentary,25,Laptop Browser,5,No
+STRM-90424,2024-10-27,Premium 4K,Comedy,125,Mobile Phone,4,Yes
+STRM-90425,2024-02-07,Ad-Supported Basic,Animation,11,Smart TV,4,No
+STRM-90426,2024-11-15,Ad-Supported Basic,Sci-Fi,21,Tablet,3,No
+STRM-90427,2024-10-20,Premium 4K,Comedy,34,Smart TV,4,No
+STRM-90428,2024-10-25,Premium 4K,Action Thriller,24,Mobile Phone,5,No
+STRM-90429,2024-07-31,Premium 4K,Documentary,17,Tablet,3,No
+STRM-90430,2024-09-20,Premium 4K,Sci-Fi,15,Tablet,4,No
+STRM-90431,2024-08-12,Premium 4K,Crime Drama,91,Gaming Console,3,Yes
+STRM-90432,2024-09-11,Premium 4K,Crime Drama,61,Mobile Phone,5,Yes
+STRM-90433,2024-06-15,Premium 4K,Crime Drama,76,Gaming Console,3,Yes
+STRM-90434,2024-12-11,Premium 4K,Animation,60,Gaming Console,2,Yes
+STRM-90435,2024-08-13,Premium 4K,Crime Drama,33,Mobile Phone,1,No
+STRM-90436,2024-11-10,Ad-Supported Basic,Sci-Fi,77,Mobile Phone,5,Yes
+STRM-90437,2024-08-07,Premium 4K,Comedy,27,Smart TV,4,No
+STRM-90438,2024-02-03,Ad-Supported Basic,Animation,44,Smart TV,1,No
+STRM-90439,2024-11-07,Standard HD,Crime Drama,32,Laptop Browser,1,No
+STRM-90440,2024-10-13,Standard HD,Animation,237,Gaming Console,4,Yes
+STRM-90441,2024-04-08,Ad-Supported Basic,Action Thriller,45,Gaming Console,2,No
+STRM-90442,2024-05-25,Ad-Supported Basic,Action Thriller,76,Gaming Console,5,Yes
+STRM-90443,2024-08-06,Standard HD,Comedy,25,Gaming Console,5,No
+STRM-90444,2024-06-03,Standard HD,Animation,48,Gaming Console,4,Yes
+STRM-90445,2024-05-20,Premium 4K,Action Thriller,131,Tablet,5,Yes
+STRM-90446,2024-10-29,Premium 4K,Documentary,59,Smart TV,3,Yes
+STRM-90447,2024-11-21,Ad-Supported Basic,Animation,83,Laptop Browser,2,Yes
+STRM-90448,2024-07-23,Premium 4K,Action Thriller,55,Smart TV,4,Yes
+STRM-90449,2024-10-14,Premium 4K,Comedy,113,Smart TV,3,Yes
+STRM-90450,2024-08-25,Standard HD,Crime Drama,141,Gaming Console,3,Yes
+STRM-90451,2024-04-22,Premium 4K,Action Thriller,34,Laptop Browser,3,No
+STRM-90452,2024-07-05,Ad-Supported Basic,Animation,220,Smart TV,4,Yes
+STRM-90453,2024-01-23,Standard HD,Crime Drama,21,Laptop Browser,4,No
+STRM-90454,2024-11-23,Premium 4K,Animation,29,Smart TV,4,No
+STRM-90455,2024-08-22,Standard HD,Comedy,81,Mobile Phone,2,Yes
+STRM-90456,2024-07-03,Standard HD,Crime Drama,56,Smart TV,3,Yes
+STRM-90457,2024-08-10,Premium 4K,Action Thriller,225,Mobile Phone,4,Yes
+STRM-90458,2024-03-12,Premium 4K,Action Thriller,62,Mobile Phone,4,Yes
+STRM-90459,2024-03-29,Premium 4K,Documentary,73,Gaming Console,4,Yes
+STRM-90460,2024-05-03,Premium 4K,Comedy,33,Tablet,4,No
+STRM-90461,2024-03-08,Standard HD,Sci-Fi,138,Smart TV,5,Yes
+STRM-90462,2024-10-14,Standard HD,Comedy,50,Laptop Browser,4,Yes
+STRM-90463,2024-09-16,Premium 4K,Comedy,50,Smart TV,5,Yes
+STRM-90464,2024-11-02,Standard HD,Comedy,29,Tablet,4,No
+STRM-90465,2024-11-20,Standard HD,Sci-Fi,79,Laptop Browser,5,Yes
+STRM-90466,2024-10-05,Ad-Supported Basic,Comedy,28,Mobile Phone,5,No
+STRM-90467,2024-10-27,Premium 4K,Sci-Fi,39,Gaming Console,5,No
+STRM-90468,2024-12-24,Premium 4K,Animation,55,Gaming Console,3,Yes
+STRM-90469,2024-08-24,Ad-Supported Basic,Comedy,155,Tablet,3,Yes
+STRM-90470,2024-11-25,Ad-Supported Basic,Documentary,229,Gaming Console,3,Yes
+STRM-90471,2024-01-13,Premium 4K,Crime Drama,163,Mobile Phone,4,Yes
+STRM-90472,2024-01-11,Standard HD,Crime Drama,61,Smart TV,3,Yes
+STRM-90473,2024-07-02,Premium 4K,Animation,90,Tablet,3,Yes
+STRM-90474,2024-07-19,Standard HD,Comedy,140,Laptop Browser,3,Yes
+STRM-90475,2024-09-10,Premium 4K,Sci-Fi,21,Mobile Phone,3,No
+STRM-90476,2024-04-29,Ad-Supported Basic,Crime Drama,159,Laptop Browser,4,Yes
+STRM-90477,2024-05-11,Standard HD,Documentary,106,Mobile Phone,5,Yes
+STRM-90478,2024-05-18,Standard HD,Comedy,65,Mobile Phone,3,Yes
+STRM-90479,2024-01-02,Ad-Supported Basic,Comedy,20,Mobile Phone,3,No
+STRM-90480,2024-01-25,Premium 4K,Animation,49,Tablet,4,Yes
+STRM-90481,2024-06-03,Premium 4K,Documentary,39,Smart TV,2,No
+STRM-90482,2024-05-24,Premium 4K,Action Thriller,17,Gaming Console,4,No
+STRM-90483,2024-03-03,Standard HD,Action Thriller,41,Mobile Phone,4,No
+STRM-90484,2024-04-13,Premium 4K,Action Thriller,66,Tablet,3,Yes
+STRM-90485,2024-02-24,Premium 4K,Comedy,68,Mobile Phone,3,Yes
+STRM-90486,2024-08-27,Standard HD,Crime Drama,59,Laptop Browser,4,Yes
+STRM-90487,2024-03-14,Standard HD,Comedy,130,Laptop Browser,4,Yes
+STRM-90488,2024-10-03,Premium 4K,Comedy,32,Gaming Console,5,No
+STRM-90489,2024-06-10,Premium 4K,Action Thriller,17,Tablet,1,No
+STRM-90490,2024-09-23,Standard HD,Documentary,96,Smart TV,5,Yes
+STRM-90491,2024-12-29,Ad-Supported Basic,Action Thriller,50,Smart TV,5,Yes
+STRM-90492,2024-07-07,Standard HD,Animation,68,Laptop Browser,5,Yes
+STRM-90493,2024-02-04,Ad-Supported Basic,Crime Drama,49,Laptop Browser,5,Yes
+STRM-90494,2024-01-30,Standard HD,Comedy,41,Laptop Browser,4,No
+STRM-90495,2024-02-10,Premium 4K,Documentary,127,Gaming Console,2,Yes
+STRM-90496,2024-05-20,Standard HD,Sci-Fi,13,Laptop Browser,5,No
+STRM-90497,2024-10-02,Standard HD,Sci-Fi,13,Smart TV,5,No
+STRM-90498,2024-04-04,Ad-Supported Basic,Sci-Fi,131,Gaming Console,3,Yes
+STRM-90499,2024-09-13,Standard HD,Action Thriller,41,Mobile Phone,1,No
+STRM-90500,2024-05-04,Premium 4K,Crime Drama,15,Smart TV,5,No
+STRM-90501,2024-12-23,Ad-Supported Basic,Animation,91,Tablet,3,Yes
+STRM-90502,2024-03-12,Ad-Supported Basic,Animation,63,Smart TV,3,Yes
+STRM-90503,2024-05-15,Ad-Supported Basic,Action Thriller,92,Tablet,5,Yes
+STRM-90504,2024-11-21,Standard HD,Sci-Fi,20,Tablet,4,No
+STRM-90505,2024-06-17,Standard HD,Action Thriller,27,Gaming Console,4,No
+STRM-90506,2024-03-01,Premium 4K,Crime Drama,49,Smart TV,4,Yes
+STRM-90507,2024-04-20,Ad-Supported Basic,Documentary,163,Laptop Browser,5,Yes
+STRM-90508,2024-02-29,Ad-Supported Basic,Animation,61,Laptop Browser,4,Yes
+STRM-90509,2024-12-09,Standard HD,Action Thriller,38,Gaming Console,4,No
+STRM-90510,2024-03-23,Standard HD,Sci-Fi,79,Laptop Browser,1,Yes
+STRM-90511,2024-12-13,Premium 4K,Sci-Fi,32,Laptop Browser,5,No
+STRM-90512,2024-12-23,Premium 4K,Animation,52,Mobile Phone,5,Yes
+STRM-90513,2024-03-10,Ad-Supported Basic,Documentary,34,Tablet,5,No
+STRM-90514,2024-12-23,Standard HD,Crime Drama,71,Smart TV,2,Yes
+STRM-90515,2024-11-24,Premium 4K,Crime Drama,18,Mobile Phone,4,No
+STRM-90516,2024-09-07,Standard HD,Crime Drama,49,Tablet,3,Yes
+STRM-90517,2024-06-02,Premium 4K,Animation,116,Tablet,4,Yes
+STRM-90518,2024-07-15,Ad-Supported Basic,Animation,23,Gaming Console,2,No
+STRM-90519,2024-01-02,Premium 4K,Documentary,11,Laptop Browser,4,No
+STRM-90520,2024-01-28,Standard HD,Sci-Fi,35,Mobile Phone,1,No
+STRM-90521,2024-03-27,Standard HD,Action Thriller,18,Smart TV,1,No
+STRM-90522,2024-05-03,Premium 4K,Sci-Fi,66,Tablet,4,Yes
+STRM-90523,2024-05-23,Ad-Supported Basic,Documentary,34,Smart TV,5,No
+STRM-90524,2024-02-07,Premium 4K,Documentary,47,Laptop Browser,4,Yes
+STRM-90525,2024-09-27,Ad-Supported Basic,Sci-Fi,155,Tablet,3,Yes
+STRM-90526,2024-12-13,Premium 4K,Comedy,12,Gaming Console,4,No
+STRM-90527,2024-05-21,Premium 4K,Action Thriller,60,Gaming Console,3,Yes
+STRM-90528,2024-03-03,Standard HD,Crime Drama,91,Gaming Console,5,Yes
+STRM-90529,2024-04-27,Ad-Supported Basic,Action Thriller,10,Laptop Browser,4,No
+STRM-90530,2024-09-10,Ad-Supported Basic,Documentary,60,Tablet,3,Yes
+STRM-90531,2024-02-25,Standard HD,Sci-Fi,193,Tablet,4,Yes
+STRM-90532,2024-07-23,Ad-Supported Basic,Documentary,22,Laptop Browser,5,No
+STRM-90533,2024-04-05,Ad-Supported Basic,Comedy,334,Tablet,4,Yes
+STRM-90534,2024-08-18,Standard HD,Action Thriller,133,Mobile Phone,2,Yes
+STRM-90535,2024-06-04,Premium 4K,Comedy,11,Gaming Console,3,No
+STRM-90536,2024-09-18,Standard HD,Comedy,88,Smart TV,5,Yes
+STRM-90537,2024-06-20,Ad-Supported Basic,Action Thriller,29,Tablet,4,No
+STRM-90538,2024-04-07,Ad-Supported Basic,Action Thriller,99,Mobile Phone,1,Yes
+STRM-90539,2024-05-05,Standard HD,Sci-Fi,52,Mobile Phone,3,Yes
+STRM-90540,2024-01-23,Standard HD,Sci-Fi,55,Gaming Console,5,Yes
+STRM-90541,2024-06-28,Premium 4K,Animation,73,Mobile Phone,4,Yes
+STRM-90542,2024-09-25,Ad-Supported Basic,Crime Drama,24,Laptop Browser,3,No
+STRM-90543,2024-03-12,Premium 4K,Animation,41,Smart TV,4,No
+STRM-90544,2024-02-12,Premium 4K,Crime Drama,113,Mobile Phone,5,Yes
+STRM-90545,2024-08-01,Ad-Supported Basic,Crime Drama,23,Smart TV,4,No
+STRM-90546,2024-04-11,Premium 4K,Sci-Fi,58,Smart TV,5,Yes
+STRM-90547,2024-09-28,Ad-Supported Basic,Comedy,160,Smart TV,5,Yes
+STRM-90548,2024-07-12,Premium 4K,Comedy,50,Gaming Console,3,Yes
+STRM-90549,2024-03-10,Premium 4K,Documentary,136,Laptop Browser,4,Yes
+STRM-90550,2024-07-04,Premium 4K,Comedy,15,Gaming Console,3,No
+STRM-90551,2024-04-12,Premium 4K,Animation,81,Gaming Console,3,Yes
+STRM-90552,2024-02-11,Standard HD,Comedy,52,Laptop Browser,4,Yes
+STRM-90553,2024-06-25,Premium 4K,Sci-Fi,20,Tablet,3,No
+STRM-90554,2024-06-09,Ad-Supported Basic,Sci-Fi,81,Mobile Phone,4,Yes
+STRM-90555,2024-10-09,Standard HD,Comedy,75,Gaming Console,3,Yes
+STRM-90556,2024-11-15,Standard HD,Action Thriller,82,Smart TV,5,Yes
+STRM-90557,2024-04-21,Premium 4K,Animation,109,Laptop Browser,4,Yes
+STRM-90558,2024-01-23,Ad-Supported Basic,Documentary,81,Tablet,5,Yes
+STRM-90559,2024-03-08,Premium 4K,Animation,61,Smart TV,4,Yes
+STRM-90560,2024-01-26,Premium 4K,Sci-Fi,31,Smart TV,4,No
+STRM-90561,2024-09-23,Premium 4K,Crime Drama,59,Mobile Phone,2,Yes
+STRM-90562,2024-10-08,Premium 4K,Sci-Fi,43,Mobile Phone,4,No
+STRM-90563,2024-11-22,Ad-Supported Basic,Animation,105,Tablet,3,Yes
+STRM-90564,2024-05-28,Premium 4K,Animation,30,Tablet,5,No
+STRM-90565,2024-01-05,Ad-Supported Basic,Action Thriller,145,Tablet,4,Yes
+STRM-90566,2024-10-02,Standard HD,Documentary,58,Gaming Console,1,Yes
+STRM-90567,2024-11-06,Premium 4K,Comedy,33,Gaming Console,4,No
+STRM-90568,2024-06-03,Standard HD,Animation,72,Gaming Console,1,Yes
+STRM-90569,2024-06-11,Standard HD,Documentary,48,Laptop Browser,3,Yes
+STRM-90570,2024-08-12,Premium 4K,Documentary,100,Mobile Phone,4,Yes
+STRM-90571,2024-10-01,Premium 4K,Sci-Fi,100,Mobile Phone,3,Yes
+STRM-90572,2024-05-16,Ad-Supported Basic,Comedy,182,Gaming Console,2,Yes
+STRM-90573,2024-12-06,Premium 4K,Documentary,22,Laptop Browser,4,No
+STRM-90574,2024-01-03,Premium 4K,Animation,76,Laptop Browser,2,Yes
+STRM-90575,2024-04-22,Standard HD,Documentary,114,Mobile Phone,4,Yes
+STRM-90576,2024-11-21,Ad-Supported Basic,Action Thriller,65,Smart TV,4,Yes
+STRM-90577,2024-01-29,Premium 4K,Sci-Fi,20,Laptop Browser,3,No
+STRM-90578,2024-02-11,Ad-Supported Basic,Crime Drama,16,Mobile Phone,4,No
+STRM-90579,2024-06-30,Ad-Supported Basic,Comedy,10,Smart TV,1,No
+STRM-90580,2024-04-07,Standard HD,Crime Drama,20,Tablet,3,No
+STRM-90581,2024-04-09,Standard HD,Documentary,59,Gaming Console,4,Yes
+STRM-90582,2024-11-11,Premium 4K,Sci-Fi,338,Gaming Console,4,Yes
+STRM-90583,2024-02-11,Ad-Supported Basic,Crime Drama,50,Smart TV,4,Yes
+STRM-90584,2024-09-13,Premium 4K,Animation,187,Gaming Console,2,Yes
+STRM-90585,2024-06-07,Ad-Supported Basic,Animation,11,Gaming Console,5,No
+STRM-90586,2024-03-19,Ad-Supported Basic,Comedy,172,Gaming Console,5,Yes
+STRM-90587,2024-02-12,Premium 4K,Animation,54,Laptop Browser,5,Yes
+STRM-90588,2024-04-03,Standard HD,Animation,80,Mobile Phone,5,Yes
+STRM-90589,2024-06-03,Standard HD,Crime Drama,86,Laptop Browser,5,Yes
+STRM-90590,2024-01-20,Standard HD,Action Thriller,20,Gaming Console,4,No
+STRM-90591,2024-08-01,Premium 4K,Comedy,65,Mobile Phone,3,Yes
+STRM-90592,2024-08-25,Ad-Supported Basic,Crime Drama,14,Tablet,4,No
+STRM-90593,2024-11-29,Ad-Supported Basic,Animation,132,Mobile Phone,4,Yes
+STRM-90594,2024-06-06,Ad-Supported Basic,Sci-Fi,38,Smart TV,3,No
+STRM-90595,2024-09-14,Standard HD,Crime Drama,94,Mobile Phone,5,Yes
+STRM-90596,2024-05-30,Premium 4K,Crime Drama,59,Gaming Console,3,Yes
+STRM-90597,2024-11-15,Ad-Supported Basic,Action Thriller,45,Gaming Console,3,No
+STRM-90598,2024-02-08,Ad-Supported Basic,Crime Drama,20,Smart TV,3,No
+STRM-90599,2024-08-05,Standard HD,Sci-Fi,11,Laptop Browser,4,No
+STRM-90600,2024-12-22,Standard HD,Sci-Fi,144,Tablet,4,Yes
+STRM-90601,2024-06-19,Premium 4K,Crime Drama,70,Smart TV,4,Yes
+STRM-90602,2024-06-03,Premium 4K,Comedy,49,Tablet,5,Yes
+STRM-90603,2024-07-27,Premium 4K,Comedy,13,Tablet,4,No
+STRM-90604,2024-02-20,Premium 4K,Animation,42,Gaming Console,2,No
+STRM-90605,2024-01-23,Standard HD,Crime Drama,32,Tablet,3,No
+STRM-90606,2024-10-20,Premium 4K,Action Thriller,84,Gaming Console,4,Yes
+STRM-90607,2024-05-13,Premium 4K,Comedy,10,Laptop Browser,2,No
+STRM-90608,2024-03-01,Premium 4K,Action Thriller,33,Smart TV,5,No
+STRM-90609,2024-03-29,Ad-Supported Basic,Sci-Fi,62,Gaming Console,4,Yes
+STRM-90610,2024-05-07,Premium 4K,Documentary,19,Mobile Phone,1,No
+STRM-90611,2024-11-06,Ad-Supported Basic,Animation,63,Laptop Browser,2,Yes
+STRM-90612,2024-12-22,Ad-Supported Basic,Animation,55,Laptop Browser,3,Yes
+STRM-90613,2024-12-24,Standard HD,Crime Drama,169,Smart TV,4,Yes
+STRM-90614,2024-02-19,Ad-Supported Basic,Crime Drama,15,Tablet,3,No
+STRM-90615,2024-07-13,Standard HD,Animation,38,Gaming Console,5,No
+STRM-90616,2024-05-23,Premium 4K,Animation,22,Gaming Console,5,No
+STRM-90617,2024-12-24,Ad-Supported Basic,Animation,45,Tablet,3,No
+STRM-90618,2024-03-15,Ad-Supported Basic,Action Thriller,171,Laptop Browser,3,Yes
+STRM-90619,2024-07-04,Ad-Supported Basic,Documentary,204,Laptop Browser,4,Yes
+STRM-90620,2024-12-13,Premium 4K,Comedy,41,Smart TV,4,No
+STRM-90621,2024-02-23,Premium 4K,Documentary,16,Mobile Phone,5,No
+STRM-90622,2024-12-20,Ad-Supported Basic,Crime Drama,101,Gaming Console,4,Yes
+STRM-90623,2024-07-30,Premium 4K,Crime Drama,41,Gaming Console,1,No
+STRM-90624,2024-07-18,Premium 4K,Animation,39,Tablet,5,No
+STRM-90625,2024-12-07,Ad-Supported Basic,Documentary,58,Smart TV,4,Yes
+STRM-90626,2024-02-22,Standard HD,Sci-Fi,73,Tablet,3,Yes
+STRM-90627,2024-02-29,Premium 4K,Comedy,89,Laptop Browser,4,Yes
+STRM-90628,2024-06-02,Ad-Supported Basic,Action Thriller,220,Gaming Console,4,Yes
+STRM-90629,2024-06-20,Standard HD,Crime Drama,38,Mobile Phone,4,No
+STRM-90630,2024-05-26,Premium 4K,Comedy,27,Smart TV,5,No
+STRM-90631,2024-10-29,Premium 4K,Crime Drama,29,Laptop Browser,5,No
+STRM-90632,2024-01-23,Ad-Supported Basic,Documentary,93,Tablet,5,Yes
+STRM-90633,2024-08-12,Premium 4K,Documentary,26,Mobile Phone,3,No
+STRM-90634,2024-04-13,Standard HD,Sci-Fi,32,Mobile Phone,4,No
+STRM-90635,2024-06-22,Standard HD,Sci-Fi,94,Laptop Browser,2,Yes
+STRM-90636,2024-09-04,Ad-Supported Basic,Crime Drama,256,Gaming Console,3,Yes
+STRM-90637,2024-11-15,Ad-Supported Basic,Documentary,37,Mobile Phone,3,No
+STRM-90638,2024-11-15,Ad-Supported Basic,Documentary,17,Laptop Browser,3,No
+STRM-90639,2024-06-13,Ad-Supported Basic,Action Thriller,22,Tablet,4,No
+STRM-90640,2024-03-08,Standard HD,Sci-Fi,13,Smart TV,2,No
+STRM-90641,2024-08-06,Ad-Supported Basic,Sci-Fi,197,Tablet,5,Yes
+STRM-90642,2024-01-28,Ad-Supported Basic,Crime Drama,86,Laptop Browser,1,Yes
+STRM-90643,2024-02-18,Premium 4K,Documentary,15,Tablet,4,No
+STRM-90644,2024-01-26,Standard HD,Documentary,57,Tablet,2,Yes
+STRM-90645,2024-07-16,Premium 4K,Comedy,238,Smart TV,1,Yes
+STRM-90646,2024-01-12,Premium 4K,Action Thriller,26,Mobile Phone,2,No
+STRM-90647,2024-06-02,Premium 4K,Comedy,35,Mobile Phone,3,No
+STRM-90648,2024-09-30,Standard HD,Action Thriller,21,Tablet,2,No
+STRM-90649,2024-08-21,Premium 4K,Animation,36,Smart TV,4,No
+STRM-90650,2024-10-01,Standard HD,Crime Drama,60,Gaming Console,3,Yes
+STRM-90651,2024-02-05,Premium 4K,Crime Drama,10,Smart TV,5,No
+STRM-90652,2024-09-24,Ad-Supported Basic,Crime Drama,73,Tablet,4,Yes
+STRM-90653,2024-06-13,Ad-Supported Basic,Sci-Fi,11,Gaming Console,4,No
+STRM-90654,2024-10-25,Ad-Supported Basic,Comedy,96,Gaming Console,2,Yes
+STRM-90655,2024-08-17,Ad-Supported Basic,Crime Drama,108,Smart TV,4,Yes
+STRM-90656,2024-07-31,Ad-Supported Basic,Comedy,220,Laptop Browser,2,Yes
+STRM-90657,2024-12-22,Premium 4K,Comedy,27,Tablet,3,No
+STRM-90658,2024-11-17,Premium 4K,Documentary,38,Gaming Console,4,No
+STRM-90659,2024-02-22,Standard HD,Documentary,44,Laptop Browser,3,No
+STRM-90660,2024-02-14,Standard HD,Comedy,69,Laptop Browser,3,Yes
+STRM-90661,2024-02-09,Premium 4K,Animation,123,Gaming Console,3,Yes
+STRM-90662,2024-02-08,Standard HD,Animation,67,Tablet,3,Yes
+STRM-90663,2024-07-07,Standard HD,Documentary,54,Mobile Phone,2,Yes
+STRM-90664,2024-01-01,Ad-Supported Basic,Documentary,148,Gaming Console,3,Yes
+STRM-90665,2024-08-23,Ad-Supported Basic,Documentary,42,Gaming Console,4,No
+STRM-90666,2024-12-12,Premium 4K,Action Thriller,63,Tablet,5,Yes
+STRM-90667,2024-04-14,Standard HD,Animation,109,Gaming Console,4,Yes
+STRM-90668,2024-11-28,Ad-Supported Basic,Comedy,34,Laptop Browser,5,No
+STRM-90669,2024-10-19,Premium 4K,Documentary,45,Laptop Browser,3,No
+STRM-90670,2024-01-27,Premium 4K,Animation,140,Mobile Phone,4,Yes
+STRM-90671,2024-11-27,Ad-Supported Basic,Documentary,52,Smart TV,4,Yes
+STRM-90672,2024-09-11,Standard HD,Crime Drama,74,Tablet,3,Yes
+STRM-90673,2024-11-07,Premium 4K,Animation,12,Tablet,2,No
+STRM-90674,2024-08-22,Premium 4K,Animation,16,Smart TV,4,No
+STRM-90675,2024-02-27,Standard HD,Action Thriller,87,Gaming Console,5,Yes
+STRM-90676,2024-09-21,Standard HD,Action Thriller,164,Smart TV,3,Yes
+STRM-90677,2024-01-26,Ad-Supported Basic,Action Thriller,25,Tablet,5,No
+STRM-90678,2024-09-15,Standard HD,Comedy,197,Gaming Console,5,Yes
+STRM-90679,2024-09-07,Ad-Supported Basic,Comedy,68,Laptop Browser,4,Yes
+STRM-90680,2024-05-26,Standard HD,Comedy,200,Gaming Console,4,Yes
+STRM-90681,2024-04-10,Ad-Supported Basic,Sci-Fi,41,Tablet,4,No
+STRM-90682,2024-09-12,Premium 4K,Animation,38,Laptop Browser,5,No
+STRM-90683,2024-08-14,Ad-Supported Basic,Comedy,27,Smart TV,4,No
+STRM-90684,2024-01-08,Standard HD,Documentary,57,Tablet,3,Yes
+STRM-90685,2024-11-12,Standard HD,Animation,18,Smart TV,5,No
+STRM-90686,2024-05-28,Ad-Supported Basic,Action Thriller,136,Laptop Browser,4,Yes
+STRM-90687,2024-03-29,Ad-Supported Basic,Crime Drama,11,Smart TV,5,No
+STRM-90688,2024-02-20,Standard HD,Action Thriller,23,Smart TV,3,No
+STRM-90689,2024-07-06,Ad-Supported Basic,Action Thriller,63,Mobile Phone,4,Yes
+STRM-90690,2024-08-08,Standard HD,Comedy,12,Tablet,5,No
+STRM-90691,2024-12-21,Premium 4K,Documentary,10,Tablet,5,No
+STRM-90692,2024-03-28,Standard HD,Documentary,44,Smart TV,4,No
+STRM-90693,2024-09-03,Standard HD,Animation,165,Mobile Phone,5,Yes
+STRM-90694,2024-06-10,Premium 4K,Documentary,80,Tablet,4,Yes
+STRM-90695,2024-07-31,Ad-Supported Basic,Crime Drama,198,Tablet,5,Yes
+STRM-90696,2024-05-31,Ad-Supported Basic,Crime Drama,32,Smart TV,4,No
+STRM-90697,2024-04-27,Standard HD,Action Thriller,131,Mobile Phone,4,Yes
+STRM-90698,2024-09-28,Standard HD,Documentary,105,Tablet,4,Yes
+STRM-90699,2024-01-05,Ad-Supported Basic,Animation,20,Mobile Phone,4,No
+STRM-90700,2024-04-27,Premium 4K,Documentary,120,Mobile Phone,2,Yes
+STRM-90701,2024-05-04,Standard HD,Animation,35,Tablet,4,No
+STRM-90702,2024-12-12,Premium 4K,Comedy,142,Mobile Phone,2,Yes
+STRM-90703,2024-03-06,Premium 4K,Animation,94,Tablet,3,Yes
+STRM-90704,2024-06-19,Standard HD,Crime Drama,261,Tablet,4,Yes
+STRM-90705,2024-09-24,Premium 4K,Sci-Fi,68,Mobile Phone,5,Yes
+STRM-90706,2024-07-03,Standard HD,Action Thriller,126,Tablet,4,Yes
+STRM-90707,2024-12-07,Premium 4K,Animation,142,Laptop Browser,3,Yes
+STRM-90708,2024-12-03,Standard HD,Documentary,136,Tablet,2,Yes
+STRM-90709,2024-10-08,Premium 4K,Comedy,37,Laptop Browser,5,No
+STRM-90710,2024-11-16,Standard HD,Comedy,132,Smart TV,3,Yes
+STRM-90711,2024-07-23,Ad-Supported Basic,Animation,21,Smart TV,4,No
+STRM-90712,2024-11-15,Premium 4K,Sci-Fi,129,Smart TV,3,Yes
+STRM-90713,2024-03-26,Standard HD,Crime Drama,106,Gaming Console,5,Yes
+STRM-90714,2024-07-20,Ad-Supported Basic,Sci-Fi,25,Tablet,4,No
+STRM-90715,2024-02-29,Premium 4K,Action Thriller,20,Smart TV,5,No
+STRM-90716,2024-06-22,Premium 4K,Sci-Fi,135,Laptop Browser,4,Yes
+STRM-90717,2024-09-22,Ad-Supported Basic,Animation,251,Laptop Browser,3,Yes
+STRM-90718,2024-03-14,Ad-Supported Basic,Comedy,18,Mobile Phone,5,No
+STRM-90719,2024-05-15,Premium 4K,Animation,21,Laptop Browser,4,No
+STRM-90720,2024-10-28,Standard HD,Action Thriller,118,Gaming Console,5,Yes
+STRM-90721,2024-11-22,Premium 4K,Documentary,18,Mobile Phone,4,No
+STRM-90722,2024-02-15,Ad-Supported Basic,Crime Drama,27,Smart TV,4,No
+STRM-90723,2024-02-04,Ad-Supported Basic,Animation,27,Tablet,1,No
+STRM-90724,2024-04-16,Ad-Supported Basic,Comedy,28,Laptop Browser,3,No
+STRM-90725,2024-04-05,Premium 4K,Crime Drama,124,Tablet,3,Yes
+STRM-90726,2024-12-01,Standard HD,Comedy,28,Smart TV,4,No
+STRM-90727,2024-06-08,Standard HD,Sci-Fi,127,Tablet,5,Yes
+STRM-90728,2024-08-02,Premium 4K,Comedy,36,Gaming Console,5,No
+STRM-90729,2024-12-27,Ad-Supported Basic,Crime Drama,17,Gaming Console,3,No
+STRM-90730,2024-11-22,Standard HD,Action Thriller,51,Laptop Browser,5,Yes
+STRM-90731,2024-09-30,Standard HD,Sci-Fi,315,Laptop Browser,5,Yes
+STRM-90732,2024-03-17,Standard HD,Animation,357,Mobile Phone,3,Yes
+STRM-90733,2024-06-10,Ad-Supported Basic,Crime Drama,39,Gaming Console,5,No
+STRM-90734,2024-11-28,Ad-Supported Basic,Sci-Fi,71,Tablet,3,Yes
+STRM-90735,2024-10-30,Standard HD,Comedy,47,Mobile Phone,4,Yes
+STRM-90736,2024-10-01,Ad-Supported Basic,Animation,56,Tablet,4,Yes
+STRM-90737,2024-04-20,Standard HD,Animation,106,Tablet,4,Yes
+STRM-90738,2024-05-05,Premium 4K,Animation,10,Tablet,3,No
+STRM-90739,2024-09-01,Premium 4K,Documentary,14,Smart TV,4,No
+STRM-90740,2024-11-04,Standard HD,Documentary,99,Gaming Console,3,Yes
+STRM-90741,2024-09-21,Standard HD,Crime Drama,29,Laptop Browser,5,No
+STRM-90742,2024-02-04,Standard HD,Documentary,111,Laptop Browser,4,Yes
+STRM-90743,2024-07-18,Standard HD,Animation,57,Laptop Browser,4,Yes
+STRM-90744,2024-12-03,Ad-Supported Basic,Animation,51,Laptop Browser,4,Yes
+STRM-90745,2024-07-05,Standard HD,Comedy,95,Mobile Phone,3,Yes
+STRM-90746,2024-11-20,Standard HD,Action Thriller,10,Laptop Browser,3,No
+STRM-90747,2024-11-19,Ad-Supported Basic,Crime Drama,56,Smart TV,4,Yes
+STRM-90748,2024-10-29,Premium 4K,Action Thriller,54,Smart TV,3,Yes
+STRM-90749,2024-02-29,Premium 4K,Documentary,24,Mobile Phone,5,No
+STRM-90750,2024-12-06,Premium 4K,Documentary,41,Smart TV,3,No
+STRM-90751,2024-08-30,Ad-Supported Basic,Animation,109,Tablet,4,Yes
+STRM-90752,2024-12-10,Ad-Supported Basic,Crime Drama,12,Mobile Phone,5,No
+STRM-90753,2024-02-11,Ad-Supported Basic,Documentary,19,Smart TV,5,No
+STRM-90754,2024-12-26,Standard HD,Sci-Fi,35,Gaming Console,5,No
+STRM-90755,2024-08-24,Standard HD,Animation,22,Tablet,4,No
+STRM-90756,2024-10-05,Ad-Supported Basic,Sci-Fi,14,Gaming Console,3,No
+STRM-90757,2024-07-21,Standard HD,Sci-Fi,58,Gaming Console,4,Yes
+STRM-90758,2024-09-03,Standard HD,Animation,22,Mobile Phone,2,No
+STRM-90759,2024-08-20,Standard HD,Crime Drama,59,Laptop Browser,4,Yes
+STRM-90760,2024-05-11,Premium 4K,Comedy,24,Smart TV,4,No
+STRM-90761,2024-05-10,Ad-Supported Basic,Documentary,12,Mobile Phone,4,No
+STRM-90762,2024-01-30,Standard HD,Action Thriller,89,Mobile Phone,4,Yes
+STRM-90763,2024-03-18,Standard HD,Crime Drama,57,Tablet,4,Yes
+STRM-90764,2024-06-22,Standard HD,Sci-Fi,93,Tablet,2,Yes
+STRM-90765,2024-08-22,Premium 4K,Documentary,26,Tablet,4,No
+STRM-90766,2024-06-11,Premium 4K,Crime Drama,51,Laptop Browser,3,Yes
+STRM-90767,2024-08-10,Premium 4K,Crime Drama,196,Smart TV,5,Yes
+STRM-90768,2024-12-20,Premium 4K,Action Thriller,264,Mobile Phone,5,Yes
+STRM-90769,2024-01-16,Standard HD,Documentary,26,Tablet,3,No
+STRM-90770,2024-03-13,Ad-Supported Basic,Crime Drama,50,Tablet,3,Yes
+STRM-90771,2024-04-30,Ad-Supported Basic,Comedy,24,Smart TV,4,No
+STRM-90772,2024-05-19,Premium 4K,Documentary,97,Gaming Console,4,Yes
+STRM-90773,2024-10-08,Premium 4K,Action Thriller,13,Tablet,5,No
+STRM-90774,2024-11-08,Premium 4K,Sci-Fi,91,Gaming Console,1,Yes
+STRM-90775,2024-03-24,Ad-Supported Basic,Sci-Fi,140,Mobile Phone,4,Yes
+STRM-90776,2024-02-29,Premium 4K,Documentary,99,Mobile Phone,3,Yes
+STRM-90777,2024-10-17,Ad-Supported Basic,Sci-Fi,171,Gaming Console,4,Yes
+STRM-90778,2024-07-20,Premium 4K,Crime Drama,47,Mobile Phone,5,Yes
+STRM-90779,2024-08-24,Ad-Supported Basic,Crime Drama,29,Mobile Phone,4,No
+STRM-90780,2024-02-14,Premium 4K,Documentary,13,Mobile Phone,4,No
+STRM-90781,2024-04-13,Ad-Supported Basic,Animation,283,Smart TV,4,Yes
+STRM-90782,2024-05-14,Premium 4K,Action Thriller,49,Gaming Console,5,Yes
+STRM-90783,2024-02-06,Premium 4K,Crime Drama,45,Laptop Browser,5,No
+STRM-90784,2024-03-29,Ad-Supported Basic,Comedy,230,Tablet,4,Yes
+STRM-90785,2024-03-19,Premium 4K,Animation,65,Mobile Phone,1,Yes
+STRM-90786,2024-02-20,Premium 4K,Crime Drama,156,Smart TV,3,Yes
+STRM-90787,2024-12-13,Standard HD,Crime Drama,39,Laptop Browser,3,No
+STRM-90788,2024-08-01,Standard HD,Sci-Fi,30,Tablet,4,No
+STRM-90789,2024-05-17,Standard HD,Animation,15,Smart TV,5,No
+STRM-90790,2024-02-10,Premium 4K,Action Thriller,44,Tablet,4,No
+STRM-90791,2024-12-17,Standard HD,Animation,61,Laptop Browser,4,Yes
+STRM-90792,2024-03-21,Standard HD,Documentary,37,Smart TV,3,No
+STRM-90793,2024-12-26,Standard HD,Comedy,79,Gaming Console,5,Yes
+STRM-90794,2024-09-15,Premium 4K,Crime Drama,206,Mobile Phone,4,Yes
+STRM-90795,2024-05-20,Premium 4K,Documentary,24,Laptop Browser,4,No
+STRM-90796,2024-06-29,Ad-Supported Basic,Animation,167,Mobile Phone,2,Yes
+STRM-90797,2024-01-01,Standard HD,Animation,35,Laptop Browser,5,No
+STRM-90798,2024-05-26,Premium 4K,Crime Drama,43,Laptop Browser,5,No
+STRM-90799,2024-10-17,Premium 4K,Comedy,69,Tablet,5,Yes
+STRM-90800,2024-06-11,Standard HD,Documentary,29,Tablet,4,No
+STRM-90801,2024-01-04,Standard HD,Comedy,64,Laptop Browser,4,Yes
+STRM-90802,2024-05-14,Standard HD,Sci-Fi,13,Gaming Console,4,No
+STRM-90803,2024-07-14,Premium 4K,Comedy,30,Laptop Browser,5,No
+STRM-90804,2024-04-03,Ad-Supported Basic,Documentary,34,Laptop Browser,4,No
+STRM-90805,2024-08-30,Ad-Supported Basic,Action Thriller,21,Mobile Phone,5,No
+STRM-90806,2024-11-27,Standard HD,Sci-Fi,33,Smart TV,2,No
+STRM-90807,2024-06-04,Standard HD,Comedy,92,Smart TV,1,Yes
+STRM-90808,2024-05-31,Standard HD,Sci-Fi,96,Smart TV,4,Yes
+STRM-90809,2024-11-04,Standard HD,Comedy,170,Tablet,4,Yes
+STRM-90810,2024-09-25,Premium 4K,Crime Drama,12,Tablet,4,No
+STRM-90811,2024-03-04,Standard HD,Documentary,109,Tablet,5,Yes
+STRM-90812,2024-02-09,Standard HD,Documentary,102,Tablet,5,Yes
+STRM-90813,2024-04-14,Ad-Supported Basic,Action Thriller,205,Mobile Phone,4,Yes
+STRM-90814,2024-05-09,Standard HD,Animation,54,Tablet,3,Yes
+STRM-90815,2024-02-03,Premium 4K,Action Thriller,41,Laptop Browser,2,No
+STRM-90816,2024-09-14,Standard HD,Comedy,17,Laptop Browser,1,No
+STRM-90817,2024-05-01,Standard HD,Crime Drama,174,Laptop Browser,3,Yes
+STRM-90818,2024-02-23,Standard HD,Action Thriller,86,Tablet,3,Yes
+STRM-90819,2024-01-20,Premium 4K,Action Thriller,114,Smart TV,5,Yes
+STRM-90820,2024-07-17,Premium 4K,Documentary,12,Smart TV,2,No
+STRM-90821,2024-04-29,Standard HD,Action Thriller,109,Laptop Browser,4,Yes
+STRM-90822,2024-06-05,Standard HD,Comedy,39,Laptop Browser,2,No
+STRM-90823,2024-01-17,Premium 4K,Documentary,141,Gaming Console,5,Yes
+STRM-90824,2024-12-16,Ad-Supported Basic,Comedy,24,Smart TV,5,No
+STRM-90825,2024-01-01,Ad-Supported Basic,Documentary,105,Tablet,3,Yes
+STRM-90826,2024-08-09,Ad-Supported Basic,Action Thriller,38,Smart TV,4,No
+STRM-90827,2024-10-03,Premium 4K,Sci-Fi,49,Mobile Phone,3,Yes
+STRM-90828,2024-12-25,Standard HD,Comedy,11,Laptop Browser,3,No
+STRM-90829,2024-12-06,Premium 4K,Documentary,23,Tablet,4,No
+STRM-90830,2024-04-17,Standard HD,Documentary,58,Mobile Phone,4,Yes
+STRM-90831,2024-10-27,Premium 4K,Crime Drama,105,Mobile Phone,4,Yes
+STRM-90832,2024-06-02,Premium 4K,Sci-Fi,82,Gaming Console,4,Yes
+STRM-90833,2024-06-28,Ad-Supported Basic,Animation,154,Gaming Console,4,Yes
+STRM-90834,2024-10-15,Standard HD,Action Thriller,31,Smart TV,4,No
+STRM-90835,2024-03-03,Ad-Supported Basic,Documentary,11,Laptop Browser,4,No
+STRM-90836,2024-09-18,Standard HD,Documentary,51,Smart TV,5,Yes
+STRM-90837,2024-05-30,Standard HD,Comedy,28,Gaming Console,4,No
+STRM-90838,2024-10-05,Standard HD,Documentary,49,Gaming Console,4,Yes
+STRM-90839,2024-06-02,Ad-Supported Basic,Action Thriller,44,Smart TV,1,No
+STRM-90840,2024-08-18,Ad-Supported Basic,Crime Drama,18,Mobile Phone,5,No
+STRM-90841,2024-02-15,Premium 4K,Action Thriller,79,Laptop Browser,2,Yes
+STRM-90842,2024-02-25,Premium 4K,Documentary,104,Gaming Console,5,Yes
+STRM-90843,2024-02-16,Standard HD,Crime Drama,48,Smart TV,4,Yes
+STRM-90844,2024-03-28,Premium 4K,Crime Drama,36,Smart TV,4,No
+STRM-90845,2024-03-12,Ad-Supported Basic,Animation,104,Gaming Console,3,Yes
+STRM-90846,2024-10-01,Premium 4K,Crime Drama,32,Mobile Phone,4,No
+STRM-90847,2024-04-20,Ad-Supported Basic,Action Thriller,73,Mobile Phone,4,Yes
+STRM-90848,2024-12-17,Ad-Supported Basic,Comedy,37,Smart TV,5,No
+STRM-90849,2024-04-08,Ad-Supported Basic,Sci-Fi,18,Gaming Console,5,No
+STRM-90850,2024-02-02,Standard HD,Animation,23,Mobile Phone,5,No
+STRM-90851,2024-02-03,Premium 4K,Comedy,97,Smart TV,3,Yes
+STRM-90852,2024-07-20,Ad-Supported Basic,Documentary,37,Smart TV,4,No
+STRM-90853,2024-10-19,Standard HD,Documentary,23,Tablet,3,No
+STRM-90854,2024-11-10,Premium 4K,Action Thriller,158,Laptop Browser,5,Yes
+STRM-90855,2024-12-23,Ad-Supported Basic,Sci-Fi,25,Mobile Phone,4,No
+STRM-90856,2024-05-31,Ad-Supported Basic,Comedy,135,Gaming Console,5,Yes
+STRM-90857,2024-10-30,Premium 4K,Action Thriller,48,Gaming Console,4,Yes
+STRM-90858,2024-10-17,Ad-Supported Basic,Crime Drama,139,Gaming Console,3,Yes
+STRM-90859,2024-04-11,Premium 4K,Animation,92,Mobile Phone,3,Yes
+STRM-90860,2024-01-30,Premium 4K,Documentary,144,Mobile Phone,5,Yes
+STRM-90861,2024-10-10,Standard HD,Comedy,12,Tablet,1,No
+STRM-90862,2024-12-23,Ad-Supported Basic,Crime Drama,62,Tablet,5,Yes
+STRM-90863,2024-08-20,Ad-Supported Basic,Sci-Fi,56,Smart TV,1,Yes
+STRM-90864,2024-04-22,Premium 4K,Animation,44,Mobile Phone,3,No
+STRM-90865,2024-07-06,Standard HD,Comedy,264,Tablet,4,Yes
+STRM-90866,2024-06-09,Ad-Supported Basic,Documentary,204,Gaming Console,4,Yes
+STRM-90867,2024-11-12,Premium 4K,Crime Drama,70,Gaming Console,4,Yes
+STRM-90868,2024-04-03,Ad-Supported Basic,Comedy,12,Smart TV,4,No
+STRM-90869,2024-11-13,Ad-Supported Basic,Action Thriller,24,Smart TV,3,No
+STRM-90870,2024-12-02,Premium 4K,Action Thriller,21,Gaming Console,1,No
+STRM-90871,2024-07-31,Premium 4K,Comedy,31,Gaming Console,4,No
+STRM-90872,2024-03-19,Standard HD,Action Thriller,109,Smart TV,2,Yes
+STRM-90873,2024-04-24,Premium 4K,Action Thriller,69,Smart TV,5,Yes
+STRM-90874,2024-11-11,Premium 4K,Sci-Fi,87,Gaming Console,4,Yes
+STRM-90875,2024-05-04,Ad-Supported Basic,Comedy,15,Mobile Phone,4,No
+STRM-90876,2024-10-24,Standard HD,Animation,10,Mobile Phone,4,No
+STRM-90877,2024-12-03,Premium 4K,Comedy,59,Laptop Browser,4,Yes
+STRM-90878,2024-07-08,Standard HD,Documentary,114,Mobile Phone,3,Yes
+STRM-90879,2024-12-30,Premium 4K,Sci-Fi,18,Tablet,2,No
+STRM-90880,2024-10-16,Standard HD,Documentary,93,Tablet,4,Yes
+STRM-90881,2024-11-23,Premium 4K,Comedy,59,Tablet,4,Yes
+STRM-90882,2024-11-02,Premium 4K,Comedy,14,Mobile Phone,4,No
+STRM-90883,2024-04-08,Premium 4K,Sci-Fi,318,Laptop Browser,4,Yes
+STRM-90884,2024-10-24,Standard HD,Comedy,274,Gaming Console,3,Yes
+STRM-90885,2024-11-24,Premium 4K,Comedy,30,Gaming Console,4,No
+STRM-90886,2024-02-21,Standard HD,Comedy,36,Tablet,4,No
+STRM-90887,2024-02-10,Premium 4K,Documentary,66,Tablet,5,Yes
+STRM-90888,2024-07-15,Premium 4K,Comedy,138,Tablet,3,Yes
+STRM-90889,2024-12-27,Ad-Supported Basic,Crime Drama,14,Smart TV,4,No
+STRM-90890,2024-07-02,Premium 4K,Action Thriller,58,Smart TV,4,Yes
+STRM-90891,2024-11-13,Standard HD,Comedy,134,Mobile Phone,5,Yes
+STRM-90892,2024-11-24,Ad-Supported Basic,Comedy,129,Mobile Phone,4,Yes
+STRM-90893,2024-01-27,Standard HD,Comedy,50,Tablet,3,Yes
+STRM-90894,2024-11-07,Standard HD,Sci-Fi,48,Mobile Phone,4,Yes
+STRM-90895,2024-05-23,Standard HD,Action Thriller,25,Tablet,1,No
+STRM-90896,2024-11-15,Premium 4K,Animation,121,Laptop Browser,4,Yes
+STRM-90897,2024-06-11,Premium 4K,Animation,52,Gaming Console,5,Yes
+STRM-90898,2024-12-24,Standard HD,Animation,148,Gaming Console,4,Yes
+STRM-90899,2024-03-19,Ad-Supported Basic,Documentary,17,Laptop Browser,3,No
+STRM-90900,2024-09-29,Premium 4K,Crime Drama,14,Mobile Phone,5,No
+STRM-90901,2024-02-15,Ad-Supported Basic,Crime Drama,129,Smart TV,3,Yes
+STRM-90902,2024-01-03,Premium 4K,Animation,163,Tablet,4,Yes
+STRM-90903,2024-09-03,Premium 4K,Comedy,77,Mobile Phone,3,Yes
+STRM-90904,2024-07-25,Premium 4K,Sci-Fi,93,Gaming Console,1,Yes
+STRM-90905,2024-02-24,Premium 4K,Documentary,13,Laptop Browser,3,No
+STRM-90906,2024-08-29,Ad-Supported Basic,Comedy,211,Laptop Browser,5,Yes
+STRM-90907,2024-08-13,Ad-Supported Basic,Crime Drama,255,Tablet,5,Yes
+STRM-90908,2024-01-11,Premium 4K,Action Thriller,31,Tablet,3,No
+STRM-90909,2024-10-22,Ad-Supported Basic,Action Thriller,78,Gaming Console,3,Yes
+STRM-90910,2024-02-04,Ad-Supported Basic,Sci-Fi,25,Mobile Phone,4,No
+STRM-90911,2024-11-25,Ad-Supported Basic,Sci-Fi,58,Smart TV,4,Yes
+STRM-90912,2024-01-26,Ad-Supported Basic,Comedy,75,Laptop Browser,2,Yes
+STRM-90913,2024-11-18,Premium 4K,Documentary,12,Gaming Console,4,No
+STRM-90914,2024-07-14,Ad-Supported Basic,Documentary,31,Gaming Console,5,No
+STRM-90915,2024-07-07,Premium 4K,Action Thriller,34,Tablet,2,No
+STRM-90916,2024-02-16,Ad-Supported Basic,Sci-Fi,105,Laptop Browser,5,Yes
+STRM-90917,2024-03-31,Standard HD,Sci-Fi,65,Mobile Phone,5,Yes
+STRM-90918,2024-01-24,Standard HD,Animation,71,Mobile Phone,2,Yes
+STRM-90919,2024-04-05,Premium 4K,Comedy,88,Smart TV,3,Yes
+STRM-90920,2024-05-28,Premium 4K,Action Thriller,59,Laptop Browser,3,Yes
+STRM-90921,2024-09-24,Ad-Supported Basic,Sci-Fi,48,Tablet,5,Yes
+STRM-90922,2024-12-18,Ad-Supported Basic,Crime Drama,40,Smart TV,4,No
+STRM-90923,2024-07-18,Premium 4K,Animation,106,Gaming Console,3,Yes
+STRM-90924,2024-08-31,Premium 4K,Animation,35,Tablet,3,No
+STRM-90925,2024-03-30,Premium 4K,Comedy,77,Mobile Phone,4,Yes
+STRM-90926,2024-10-08,Ad-Supported Basic,Comedy,12,Laptop Browser,4,No
+STRM-90927,2024-03-29,Ad-Supported Basic,Crime Drama,33,Smart TV,4,No
+STRM-90928,2024-11-18,Ad-Supported Basic,Sci-Fi,17,Laptop Browser,2,No
+STRM-90929,2024-03-26,Premium 4K,Animation,109,Tablet,5,Yes
+STRM-90930,2024-02-18,Ad-Supported Basic,Crime Drama,63,Mobile Phone,5,Yes
+STRM-90931,2024-06-19,Standard HD,Documentary,112,Mobile Phone,3,Yes
+STRM-90932,2024-05-26,Ad-Supported Basic,Animation,16,Mobile Phone,3,No
+STRM-90933,2024-09-25,Ad-Supported Basic,Animation,22,Gaming Console,3,No
+STRM-90934,2024-09-04,Standard HD,Crime Drama,105,Laptop Browser,4,Yes
+STRM-90935,2024-04-30,Ad-Supported Basic,Animation,10,Mobile Phone,5,No
+STRM-90936,2024-03-26,Premium 4K,Action Thriller,69,Mobile Phone,3,Yes
+STRM-90937,2024-12-19,Premium 4K,Animation,53,Mobile Phone,4,Yes
+STRM-90938,2024-11-18,Ad-Supported Basic,Sci-Fi,206,Smart TV,5,Yes
+STRM-90939,2024-09-15,Standard HD,Animation,14,Laptop Browser,5,No
+STRM-90940,2024-08-10,Premium 4K,Action Thriller,12,Laptop Browser,3,No
+STRM-90941,2024-05-16,Ad-Supported Basic,Sci-Fi,53,Gaming Console,4,Yes
+STRM-90942,2024-06-14,Premium 4K,Comedy,31,Mobile Phone,4,No
+STRM-90943,2024-12-27,Premium 4K,Documentary,114,Smart TV,4,Yes
+STRM-90944,2024-11-13,Premium 4K,Action Thriller,119,Gaming Console,4,Yes
+STRM-90945,2024-07-26,Premium 4K,Animation,60,Laptop Browser,5,Yes
+STRM-90946,2024-12-05,Premium 4K,Action Thriller,236,Laptop Browser,4,Yes
+STRM-90947,2024-07-26,Ad-Supported Basic,Crime Drama,25,Tablet,5,No
+STRM-90948,2024-08-29,Standard HD,Sci-Fi,194,Gaming Console,3,Yes
+STRM-90949,2024-08-24,Ad-Supported Basic,Crime Drama,17,Gaming Console,4,No
+STRM-90950,2024-07-09,Ad-Supported Basic,Documentary,24,Tablet,5,No
+STRM-90951,2024-06-15,Standard HD,Crime Drama,23,Mobile Phone,4,No
+STRM-90952,2024-05-13,Premium 4K,Sci-Fi,18,Smart TV,4,No
+STRM-90953,2024-07-23,Premium 4K,Documentary,41,Tablet,5,No
+STRM-90954,2024-01-12,Ad-Supported Basic,Sci-Fi,95,Tablet,1,Yes
+STRM-90955,2024-02-25,Standard HD,Sci-Fi,164,Mobile Phone,4,Yes
+STRM-90956,2024-02-04,Ad-Supported Basic,Action Thriller,22,Mobile Phone,5,No
+STRM-90957,2024-04-07,Ad-Supported Basic,Comedy,63,Smart TV,4,Yes
+STRM-90958,2024-04-06,Standard HD,Sci-Fi,56,Gaming Console,4,Yes
+STRM-90959,2024-06-27,Premium 4K,Documentary,34,Tablet,5,No
+STRM-90960,2024-09-13,Premium 4K,Animation,150,Laptop Browser,4,Yes
+STRM-90961,2024-04-12,Ad-Supported Basic,Documentary,78,Gaming Console,1,Yes
+STRM-90962,2024-04-22,Premium 4K,Animation,97,Gaming Console,4,Yes
+STRM-90963,2024-05-28,Ad-Supported Basic,Comedy,66,Smart TV,4,Yes
+STRM-90964,2024-11-12,Ad-Supported Basic,Action Thriller,27,Mobile Phone,5,No
+STRM-90965,2024-11-20,Standard HD,Action Thriller,114,Laptop Browser,4,Yes
+STRM-90966,2024-05-05,Standard HD,Comedy,239,Smart TV,4,Yes
+STRM-90967,2024-04-10,Ad-Supported Basic,Sci-Fi,13,Mobile Phone,5,No
+STRM-90968,2024-11-30,Standard HD,Sci-Fi,102,Gaming Console,4,Yes
+STRM-90969,2024-12-03,Premium 4K,Sci-Fi,42,Tablet,5,No
+STRM-90970,2024-05-25,Premium 4K,Comedy,56,Smart TV,4,Yes
+STRM-90971,2024-09-03,Premium 4K,Action Thriller,40,Smart TV,3,No
+STRM-90972,2024-09-06,Ad-Supported Basic,Documentary,163,Smart TV,5,Yes
+STRM-90973,2024-06-18,Standard HD,Sci-Fi,25,Tablet,5,No
+STRM-90974,2024-08-31,Premium 4K,Documentary,70,Gaming Console,5,Yes
+STRM-90975,2024-05-07,Standard HD,Sci-Fi,134,Mobile Phone,3,Yes
+STRM-90976,2024-08-22,Ad-Supported Basic,Crime Drama,14,Tablet,1,No
+STRM-90977,2024-06-01,Standard HD,Comedy,28,Laptop Browser,4,No
+STRM-90978,2024-07-16,Standard HD,Sci-Fi,168,Gaming Console,4,Yes
+STRM-90979,2024-01-22,Premium 4K,Animation,15,Gaming Console,5,No
+STRM-90980,2024-03-02,Standard HD,Comedy,24,Gaming Console,4,No
+STRM-90981,2024-03-22,Ad-Supported Basic,Comedy,52,Smart TV,3,Yes
+STRM-90982,2024-07-26,Premium 4K,Comedy,192,Smart TV,4,Yes
+STRM-90983,2024-12-01,Standard HD,Animation,135,Laptop Browser,1,Yes
+STRM-90984,2024-08-28,Standard HD,Comedy,177,Laptop Browser,3,Yes
+STRM-90985,2024-01-29,Standard HD,Sci-Fi,103,Mobile Phone,1,Yes
+STRM-90986,2024-05-04,Ad-Supported Basic,Animation,214,Smart TV,3,Yes
+STRM-90987,2024-02-02,Ad-Supported Basic,Documentary,37,Gaming Console,5,No
+STRM-90988,2024-09-24,Ad-Supported Basic,Animation,20,Laptop Browser,4,No
+STRM-90989,2024-02-12,Ad-Supported Basic,Animation,61,Laptop Browser,3,Yes
+STRM-90990,2024-06-24,Premium 4K,Sci-Fi,161,Tablet,5,Yes
+STRM-90991,2024-12-29,Standard HD,Animation,110,Gaming Console,3,Yes
+STRM-90992,2024-10-28,Premium 4K,Comedy,25,Gaming Console,3,No
+STRM-90993,2024-11-16,Standard HD,Sci-Fi,151,Smart TV,4,Yes
+STRM-90994,2024-03-21,Standard HD,Sci-Fi,18,Tablet,2,No
+STRM-90995,2024-08-24,Ad-Supported Basic,Animation,12,Mobile Phone,1,No
+STRM-90996,2024-11-17,Standard HD,Documentary,19,Gaming Console,4,No
+STRM-90997,2024-04-02,Premium 4K,Documentary,10,Gaming Console,3,No
+STRM-90998,2024-01-02,Standard HD,Action Thriller,20,Smart TV,4,No
+STRM-90999,2024-01-16,Ad-Supported Basic,Action Thriller,194,Gaming Console,4,Yes
+STRM-91000,2024-12-03,Premium 4K,Animation,87,Gaming Console,4,Yes
+STRM-91001,2024-05-29,Premium 4K,Animation,32,Laptop Browser,5,No
+STRM-91002,2024-05-20,Standard HD,Crime Drama,109,Smart TV,1,Yes
+STRM-91003,2024-12-08,Premium 4K,Action Thriller,43,Gaming Console,4,No
+STRM-91004,2024-07-22,Standard HD,Action Thriller,11,Tablet,4,No
+STRM-91005,2024-11-17,Standard HD,Sci-Fi,33,Tablet,1,No
+STRM-91006,2024-04-30,Standard HD,Comedy,44,Smart TV,5,No
+STRM-91007,2024-02-06,Premium 4K,Documentary,44,Laptop Browser,4,No
+STRM-91008,2024-12-05,Ad-Supported Basic,Comedy,94,Laptop Browser,5,Yes
+STRM-91009,2024-06-11,Standard HD,Animation,27,Tablet,5,No
+STRM-91010,2024-07-03,Ad-Supported Basic,Comedy,26,Laptop Browser,4,No
+STRM-91011,2024-02-20,Ad-Supported Basic,Animation,66,Gaming Console,4,Yes
+STRM-91012,2024-12-08,Ad-Supported Basic,Crime Drama,32,Tablet,4,No
+STRM-91013,2024-03-14,Premium 4K,Crime Drama,17,Laptop Browser,5,No
+STRM-91014,2024-10-21,Ad-Supported Basic,Action Thriller,18,Gaming Console,3,No
+STRM-91015,2024-05-09,Standard HD,Action Thriller,44,Mobile Phone,5,No
+STRM-91016,2024-03-09,Standard HD,Crime Drama,75,Gaming Console,5,Yes
+STRM-91017,2024-03-30,Standard HD,Action Thriller,29,Tablet,3,No
+STRM-91018,2024-06-20,Ad-Supported Basic,Animation,140,Gaming Console,3,Yes
+STRM-91019,2024-10-17,Ad-Supported Basic,Comedy,206,Mobile Phone,3,Yes
+STRM-91020,2024-12-22,Standard HD,Animation,24,Smart TV,4,No
+STRM-91021,2024-09-28,Premium 4K,Sci-Fi,19,Tablet,2,No
+STRM-91022,2024-01-09,Standard HD,Comedy,64,Gaming Console,3,Yes
+STRM-91023,2024-11-28,Standard HD,Documentary,12,Smart TV,4,No
+STRM-91024,2024-09-25,Premium 4K,Sci-Fi,119,Laptop Browser,4,Yes
+STRM-91025,2024-06-27,Standard HD,Action Thriller,60,Tablet,4,Yes
+STRM-91026,2024-08-10,Ad-Supported Basic,Sci-Fi,147,Laptop Browser,4,Yes
+STRM-91027,2024-12-18,Premium 4K,Comedy,13,Smart TV,4,No
+STRM-91028,2024-07-25,Premium 4K,Sci-Fi,63,Gaming Console,3,Yes
+STRM-91029,2024-08-06,Ad-Supported Basic,Sci-Fi,54,Tablet,4,Yes
+STRM-91030,2024-10-10,Standard HD,Documentary,36,Gaming Console,5,No
+STRM-91031,2024-07-26,Ad-Supported Basic,Comedy,111,Laptop Browser,3,Yes
+STRM-91032,2024-02-16,Standard HD,Crime Drama,60,Mobile Phone,5,Yes
+STRM-91033,2024-10-29,Ad-Supported Basic,Documentary,10,Mobile Phone,3,No
+STRM-91034,2024-04-04,Standard HD,Crime Drama,26,Smart TV,5,No
+STRM-91035,2024-02-20,Ad-Supported Basic,Documentary,60,Gaming Console,4,Yes
+STRM-91036,2024-09-23,Premium 4K,Crime Drama,15,Tablet,3,No
+STRM-91037,2024-01-29,Ad-Supported Basic,Sci-Fi,81,Smart TV,3,Yes
+STRM-91038,2024-03-11,Ad-Supported Basic,Crime Drama,13,Gaming Console,1,No
+STRM-91039,2024-03-29,Ad-Supported Basic,Action Thriller,39,Laptop Browser,3,No
+STRM-91040,2024-07-13,Ad-Supported Basic,Action Thriller,140,Tablet,4,Yes
+STRM-91041,2024-11-02,Standard HD,Documentary,31,Gaming Console,5,No
+STRM-91042,2024-08-04,Premium 4K,Documentary,47,Smart TV,2,Yes
+STRM-91043,2024-04-06,Premium 4K,Action Thriller,159,Gaming Console,5,Yes
+STRM-91044,2024-09-17,Standard HD,Animation,25,Mobile Phone,3,No
+STRM-91045,2024-07-20,Ad-Supported Basic,Crime Drama,18,Gaming Console,4,No
+STRM-91046,2024-08-18,Ad-Supported Basic,Sci-Fi,282,Smart TV,5,Yes
+STRM-91047,2024-03-21,Standard HD,Comedy,57,Tablet,5,Yes
+STRM-91048,2024-08-27,Premium 4K,Comedy,67,Tablet,4,Yes
+STRM-91049,2024-12-04,Standard HD,Sci-Fi,30,Tablet,4,No
+STRM-91050,2024-10-10,Premium 4K,Action Thriller,115,Mobile Phone,3,Yes
+STRM-91051,2024-12-02,Ad-Supported Basic,Sci-Fi,121,Laptop Browser,4,Yes
+STRM-91052,2024-01-04,Premium 4K,Documentary,73,Gaming Console,5,Yes
+STRM-91053,2024-09-19,Standard HD,Crime Drama,10,Smart TV,5,No
+STRM-91054,2024-11-18,Ad-Supported Basic,Documentary,44,Smart TV,3,No
+STRM-91055,2024-09-21,Ad-Supported Basic,Documentary,60,Laptop Browser,3,Yes
+STRM-91056,2024-09-21,Premium 4K,Comedy,14,Tablet,3,No
+STRM-91057,2024-08-05,Ad-Supported Basic,Action Thriller,134,Mobile Phone,4,Yes
+STRM-91058,2024-07-20,Ad-Supported Basic,Comedy,302,Gaming Console,5,Yes
+STRM-91059,2024-11-16,Ad-Supported Basic,Documentary,23,Gaming Console,3,No
+STRM-91060,2024-06-19,Ad-Supported Basic,Animation,88,Gaming Console,3,Yes
+STRM-91061,2024-05-07,Premium 4K,Documentary,17,Gaming Console,2,No
+STRM-91062,2024-05-19,Premium 4K,Animation,54,Smart TV,3,Yes
+STRM-91063,2024-09-25,Premium 4K,Sci-Fi,51,Mobile Phone,3,Yes
+STRM-91064,2024-05-03,Standard HD,Animation,46,Gaming Console,4,Yes
+STRM-91065,2024-07-25,Ad-Supported Basic,Action Thriller,12,Laptop Browser,2,No
+STRM-91066,2024-04-19,Premium 4K,Action Thriller,38,Mobile Phone,3,No
+STRM-91067,2024-09-22,Ad-Supported Basic,Animation,255,Mobile Phone,5,Yes
+STRM-91068,2024-08-01,Standard HD,Comedy,142,Laptop Browser,3,Yes
+STRM-91069,2024-03-16,Ad-Supported Basic,Crime Drama,18,Tablet,5,No
+STRM-91070,2024-05-01,Premium 4K,Documentary,30,Tablet,4,No
+STRM-91071,2024-11-13,Premium 4K,Sci-Fi,38,Tablet,3,No
+STRM-91072,2024-12-14,Ad-Supported Basic,Animation,59,Laptop Browser,4,Yes
+STRM-91073,2024-02-15,Ad-Supported Basic,Animation,36,Tablet,4,No
+STRM-91074,2024-06-29,Ad-Supported Basic,Action Thriller,59,Mobile Phone,3,Yes
+STRM-91075,2024-02-10,Premium 4K,Documentary,71,Mobile Phone,5,Yes
+STRM-91076,2024-07-21,Standard HD,Action Thriller,249,Tablet,4,Yes
+STRM-91077,2024-07-20,Premium 4K,Sci-Fi,89,Smart TV,4,Yes
+STRM-91078,2024-11-30,Premium 4K,Crime Drama,31,Mobile Phone,4,No
+STRM-91079,2024-05-30,Ad-Supported Basic,Action Thriller,43,Laptop Browser,3,No
+STRM-91080,2024-10-19,Ad-Supported Basic,Crime Drama,29,Smart TV,3,No
+STRM-91081,2024-01-28,Premium 4K,Action Thriller,89,Smart TV,4,Yes
+STRM-91082,2024-03-22,Ad-Supported Basic,Documentary,11,Tablet,1,No
+STRM-91083,2024-02-14,Ad-Supported Basic,Sci-Fi,34,Laptop Browser,5,No
+STRM-91084,2024-07-16,Standard HD,Sci-Fi,135,Smart TV,4,Yes
+STRM-91085,2024-01-03,Premium 4K,Action Thriller,265,Smart TV,4,Yes
+STRM-91086,2024-10-07,Standard HD,Documentary,35,Smart TV,4,No
+STRM-91087,2024-06-04,Premium 4K,Documentary,40,Laptop Browser,4,No
+STRM-91088,2024-04-06,Ad-Supported Basic,Animation,104,Gaming Console,5,Yes
+STRM-91089,2024-07-07,Standard HD,Comedy,63,Tablet,4,Yes
+STRM-91090,2024-07-01,Standard HD,Sci-Fi,34,Gaming Console,4,No
+STRM-91091,2024-10-22,Ad-Supported Basic,Action Thriller,77,Tablet,3,Yes
+STRM-91092,2024-05-02,Premium 4K,Sci-Fi,29,Laptop Browser,5,No
+STRM-91093,2024-04-30,Standard HD,Crime Drama,101,Tablet,2,Yes
+STRM-91094,2024-07-18,Standard HD,Animation,69,Tablet,3,Yes
+STRM-91095,2024-07-19,Ad-Supported Basic,Crime Drama,17,Tablet,3,No
+STRM-91096,2024-03-08,Premium 4K,Sci-Fi,68,Smart TV,4,Yes
+STRM-91097,2024-08-17,Standard HD,Animation,184,Gaming Console,3,Yes
+STRM-91098,2024-06-30,Premium 4K,Sci-Fi,52,Gaming Console,4,Yes
+STRM-91099,2024-04-01,Premium 4K,Documentary,117,Tablet,4,Yes
+STRM-91100,2024-06-30,Premium 4K,Documentary,12,Tablet,5,No
+STRM-91101,2024-10-12,Premium 4K,Action Thriller,36,Gaming Console,4,No
+STRM-91102,2024-05-16,Standard HD,Comedy,114,Laptop Browser,4,Yes
+STRM-91103,2024-04-30,Standard HD,Action Thriller,22,Smart TV,5,No
+STRM-91104,2024-06-07,Standard HD,Action Thriller,28,Smart TV,4,No
+STRM-91105,2024-11-01,Ad-Supported Basic,Documentary,28,Smart TV,5,No
+STRM-91106,2024-04-17,Ad-Supported Basic,Crime Drama,45,Laptop Browser,5,No
+STRM-91107,2024-06-17,Premium 4K,Animation,28,Smart TV,4,No
+STRM-91108,2024-08-29,Ad-Supported Basic,Sci-Fi,28,Laptop Browser,3,No
+STRM-91109,2024-03-06,Ad-Supported Basic,Crime Drama,78,Tablet,4,Yes
+STRM-91110,2024-11-12,Standard HD,Comedy,19,Laptop Browser,5,No
+STRM-91111,2024-10-05,Premium 4K,Animation,35,Laptop Browser,4,No
+STRM-91112,2024-08-04,Ad-Supported Basic,Sci-Fi,11,Gaming Console,4,No
+STRM-91113,2024-03-08,Premium 4K,Animation,12,Laptop Browser,5,No
+STRM-91114,2024-07-24,Ad-Supported Basic,Crime Drama,80,Smart TV,3,Yes
+STRM-91115,2024-05-13,Ad-Supported Basic,Animation,143,Mobile Phone,5,Yes
+STRM-91116,2024-12-07,Premium 4K,Documentary,28,Tablet,4,No
+STRM-91117,2024-01-07,Ad-Supported Basic,Documentary,45,Laptop Browser,4,No
+STRM-91118,2024-06-16,Premium 4K,Documentary,43,Gaming Console,5,No
+STRM-91119,2024-07-27,Standard HD,Documentary,130,Gaming Console,2,Yes
+STRM-91120,2024-09-10,Standard HD,Crime Drama,240,Mobile Phone,3,Yes
+STRM-91121,2024-03-13,Standard HD,Sci-Fi,38,Laptop Browser,4,No
+STRM-91122,2024-11-04,Standard HD,Action Thriller,154,Laptop Browser,3,Yes
+STRM-91123,2024-03-29,Ad-Supported Basic,Crime Drama,67,Laptop Browser,4,Yes
+STRM-91124,2024-09-19,Ad-Supported Basic,Sci-Fi,28,Tablet,5,No
+STRM-91125,2024-11-23,Standard HD,Documentary,24,Laptop Browser,3,No
+STRM-91126,2024-11-22,Premium 4K,Comedy,25,Mobile Phone,4,No
+STRM-91127,2024-11-05,Ad-Supported Basic,Documentary,55,Mobile Phone,4,Yes
+STRM-91128,2024-01-21,Standard HD,Action Thriller,154,Tablet,3,Yes
+STRM-91129,2024-08-22,Standard HD,Crime Drama,45,Gaming Console,4,No
+STRM-91130,2024-01-06,Premium 4K,Crime Drama,100,Tablet,2,Yes
+STRM-91131,2024-03-17,Premium 4K,Animation,34,Mobile Phone,5,No
+STRM-91132,2024-05-08,Premium 4K,Action Thriller,19,Tablet,3,No
+STRM-91133,2024-08-27,Standard HD,Documentary,32,Mobile Phone,4,No
+STRM-91134,2024-03-14,Ad-Supported Basic,Documentary,15,Mobile Phone,4,No
+STRM-91135,2024-08-30,Premium 4K,Crime Drama,79,Mobile Phone,5,Yes
+STRM-91136,2024-06-06,Standard HD,Animation,23,Mobile Phone,2,No
+STRM-91137,2024-03-20,Standard HD,Animation,19,Smart TV,5,No
+STRM-91138,2024-05-24,Standard HD,Crime Drama,22,Laptop Browser,5,No
+STRM-91139,2024-09-10,Standard HD,Comedy,54,Gaming Console,5,Yes
+STRM-91140,2024-01-06,Standard HD,Action Thriller,62,Tablet,1,Yes
+STRM-91141,2024-01-13,Ad-Supported Basic,Comedy,132,Tablet,5,Yes
+STRM-91142,2024-03-11,Ad-Supported Basic,Comedy,190,Mobile Phone,3,Yes
+STRM-91143,2024-04-07,Standard HD,Action Thriller,126,Laptop Browser,5,Yes
+STRM-91144,2024-12-30,Premium 4K,Documentary,99,Laptop Browser,5,Yes
+STRM-91145,2024-01-27,Standard HD,Crime Drama,12,Tablet,5,No
+STRM-91146,2024-10-22,Standard HD,Action Thriller,16,Laptop Browser,3,No
+STRM-91147,2024-06-03,Standard HD,Action Thriller,79,Smart TV,4,Yes
+STRM-91148,2024-09-01,Ad-Supported Basic,Action Thriller,101,Gaming Console,4,Yes
+STRM-91149,2024-07-26,Ad-Supported Basic,Comedy,56,Gaming Console,4,Yes
+STRM-91150,2024-04-14,Premium 4K,Documentary,14,Smart TV,4,No
+STRM-91151,2024-04-11,Premium 4K,Animation,10,Gaming Console,1,No
+STRM-91152,2024-11-29,Standard HD,Action Thriller,28,Tablet,4,No
+STRM-91153,2024-06-27,Premium 4K,Animation,167,Mobile Phone,4,Yes
+STRM-91154,2024-03-08,Ad-Supported Basic,Animation,105,Smart TV,4,Yes
+STRM-91155,2024-04-11,Premium 4K,Sci-Fi,38,Mobile Phone,4,No
+STRM-91156,2024-10-31,Ad-Supported Basic,Sci-Fi,17,Tablet,4,No
+STRM-91157,2024-05-16,Ad-Supported Basic,Comedy,173,Gaming Console,5,Yes
+STRM-91158,2024-11-27,Premium 4K,Action Thriller,23,Laptop Browser,2,No
+STRM-91159,2024-11-08,Ad-Supported Basic,Sci-Fi,59,Mobile Phone,1,Yes
+STRM-91160,2024-09-19,Standard HD,Animation,78,Laptop Browser,5,Yes
+STRM-91161,2024-12-29,Ad-Supported Basic,Comedy,71,Gaming Console,4,Yes
+STRM-91162,2024-02-02,Standard HD,Sci-Fi,90,Gaming Console,5,Yes
+STRM-91163,2024-06-22,Standard HD,Action Thriller,81,Laptop Browser,5,Yes
+STRM-91164,2024-10-30,Ad-Supported Basic,Animation,28,Laptop Browser,3,No
+STRM-91165,2024-08-19,Standard HD,Documentary,257,Laptop Browser,5,Yes
+STRM-91166,2024-04-25,Ad-Supported Basic,Documentary,21,Laptop Browser,4,No
+STRM-91167,2024-05-11,Ad-Supported Basic,Documentary,126,Mobile Phone,4,Yes
+STRM-91168,2024-07-06,Premium 4K,Action Thriller,358,Mobile Phone,4,Yes
+STRM-91169,2024-01-21,Ad-Supported Basic,Documentary,126,Mobile Phone,3,Yes
+STRM-91170,2024-02-25,Premium 4K,Crime Drama,58,Tablet,4,Yes
+STRM-91171,2024-02-06,Standard HD,Sci-Fi,92,Smart TV,5,Yes
+STRM-91172,2024-12-05,Ad-Supported Basic,Animation,96,Tablet,5,Yes
+STRM-91173,2024-03-24,Premium 4K,Animation,50,Laptop Browser,4,Yes
+STRM-91174,2024-12-02,Ad-Supported Basic,Animation,14,Gaming Console,5,No
+STRM-91175,2024-07-12,Standard HD,Crime Drama,98,Mobile Phone,3,Yes
+STRM-91176,2024-08-02,Ad-Supported Basic,Sci-Fi,36,Laptop Browser,3,No
+STRM-91177,2024-01-01,Premium 4K,Documentary,206,Tablet,4,Yes
+STRM-91178,2024-10-16,Standard HD,Comedy,31,Gaming Console,3,No
+STRM-91179,2024-01-28,Standard HD,Sci-Fi,115,Laptop Browser,5,Yes
+STRM-91180,2024-11-02,Standard HD,Documentary,75,Gaming Console,3,Yes
+STRM-91181,2024-02-05,Standard HD,Sci-Fi,165,Laptop Browser,4,Yes
+STRM-91182,2024-04-01,Ad-Supported Basic,Sci-Fi,22,Gaming Console,5,No
+STRM-91183,2024-01-09,Standard HD,Sci-Fi,23,Tablet,4,No
+STRM-91184,2024-10-12,Premium 4K,Action Thriller,12,Gaming Console,5,No
+STRM-91185,2024-01-19,Standard HD,Documentary,22,Gaming Console,5,No
+STRM-91186,2024-12-05,Premium 4K,Documentary,69,Smart TV,4,Yes
+STRM-91187,2024-05-04,Premium 4K,Action Thriller,52,Smart TV,4,Yes
+STRM-91188,2024-10-13,Ad-Supported Basic,Crime Drama,65,Gaming Console,4,Yes
+STRM-91189,2024-09-13,Ad-Supported Basic,Action Thriller,24,Mobile Phone,4,No
+STRM-91190,2024-03-05,Premium 4K,Sci-Fi,56,Tablet,2,Yes
+STRM-91191,2024-08-11,Ad-Supported Basic,Action Thriller,24,Smart TV,4,No
+STRM-91192,2024-05-01,Premium 4K,Sci-Fi,45,Gaming Console,4,No
+STRM-91193,2024-12-30,Ad-Supported Basic,Comedy,70,Mobile Phone,4,Yes
+STRM-91194,2024-03-04,Standard HD,Animation,35,Gaming Console,4,No
+STRM-91195,2024-01-26,Standard HD,Crime Drama,42,Smart TV,4,No
+STRM-91196,2024-11-22,Standard HD,Documentary,21,Smart TV,3,No
+STRM-91197,2024-10-11,Standard HD,Crime Drama,112,Smart TV,3,Yes
+STRM-91198,2024-10-25,Ad-Supported Basic,Documentary,40,Gaming Console,3,No
+STRM-91199,2024-03-19,Standard HD,Sci-Fi,30,Gaming Console,4,No
+STRM-91200,2024-11-25,Premium 4K,Comedy,30,Gaming Console,4,No
+STRM-91201,2024-01-14,Premium 4K,Action Thriller,104,Gaming Console,4,Yes
+STRM-91202,2024-08-22,Standard HD,Sci-Fi,84,Mobile Phone,4,Yes
+STRM-91203,2024-04-06,Ad-Supported Basic,Action Thriller,39,Gaming Console,2,No
+STRM-91204,2024-05-15,Standard HD,Action Thriller,57,Tablet,1,Yes
+STRM-91205,2024-01-10,Ad-Supported Basic,Documentary,78,Tablet,3,Yes
+STRM-91206,2024-10-29,Premium 4K,Documentary,323,Tablet,4,Yes
+STRM-91207,2024-05-25,Ad-Supported Basic,Comedy,37,Tablet,2,No
+STRM-91208,2024-09-10,Standard HD,Animation,34,Gaming Console,3,No
+STRM-91209,2024-06-26,Standard HD,Animation,17,Laptop Browser,4,No
+STRM-91210,2024-02-29,Premium 4K,Crime Drama,32,Laptop Browser,3,No
+STRM-91211,2024-04-12,Standard HD,Comedy,15,Tablet,4,No
+STRM-91212,2024-04-13,Ad-Supported Basic,Sci-Fi,286,Tablet,3,Yes
+STRM-91213,2024-08-27,Ad-Supported Basic,Crime Drama,73,Laptop Browser,3,Yes
+STRM-91214,2024-12-13,Premium 4K,Comedy,81,Laptop Browser,4,Yes
+STRM-91215,2024-07-20,Ad-Supported Basic,Animation,13,Smart TV,4,No
+STRM-91216,2024-10-17,Ad-Supported Basic,Animation,14,Smart TV,4,No
+STRM-91217,2024-05-12,Ad-Supported Basic,Crime Drama,61,Gaming Console,3,Yes
+STRM-91218,2024-09-26,Premium 4K,Action Thriller,57,Tablet,5,Yes
+STRM-91219,2024-09-13,Standard HD,Animation,24,Tablet,4,No
+STRM-91220,2024-07-03,Ad-Supported Basic,Animation,23,Laptop Browser,3,No
+STRM-91221,2024-12-29,Ad-Supported Basic,Crime Drama,61,Laptop Browser,4,Yes
+STRM-91222,2024-04-21,Standard HD,Action Thriller,15,Laptop Browser,4,No
+STRM-91223,2024-09-23,Premium 4K,Sci-Fi,80,Laptop Browser,4,Yes
+STRM-91224,2024-06-11,Premium 4K,Documentary,24,Gaming Console,4,No
+STRM-91225,2024-09-13,Ad-Supported Basic,Sci-Fi,104,Smart TV,5,Yes
+STRM-91226,2024-03-10,Standard HD,Action Thriller,92,Laptop Browser,2,Yes
+STRM-91227,2024-11-05,Ad-Supported Basic,Documentary,112,Laptop Browser,4,Yes
+STRM-91228,2024-06-09,Ad-Supported Basic,Documentary,165,Smart TV,5,Yes
+STRM-91229,2024-01-10,Ad-Supported Basic,Animation,64,Laptop Browser,3,Yes
+STRM-91230,2024-03-31,Premium 4K,Sci-Fi,29,Laptop Browser,5,No
+STRM-91231,2024-05-31,Ad-Supported Basic,Action Thriller,79,Mobile Phone,4,Yes
+STRM-91232,2024-01-07,Standard HD,Crime Drama,113,Gaming Console,4,Yes
+STRM-91233,2024-09-30,Premium 4K,Documentary,46,Gaming Console,5,Yes
+STRM-91234,2024-05-12,Premium 4K,Action Thriller,32,Gaming Console,3,No
+STRM-91235,2024-09-02,Standard HD,Animation,109,Mobile Phone,2,Yes
+STRM-91236,2024-11-15,Premium 4K,Comedy,48,Mobile Phone,4,Yes
+STRM-91237,2024-08-19,Standard HD,Documentary,31,Tablet,5,No
+STRM-91238,2024-04-08,Premium 4K,Documentary,10,Smart TV,3,No
+STRM-91239,2024-02-01,Ad-Supported Basic,Action Thriller,117,Smart TV,3,Yes
+STRM-91240,2024-09-23,Premium 4K,Comedy,62,Laptop Browser,4,Yes
+STRM-91241,2024-01-25,Standard HD,Action Thriller,138,Tablet,4,Yes
+STRM-91242,2024-06-03,Standard HD,Action Thriller,41,Mobile Phone,4,No
+STRM-91243,2024-11-26,Premium 4K,Action Thriller,86,Smart TV,4,Yes
+STRM-91244,2024-03-23,Ad-Supported Basic,Animation,65,Gaming Console,5,Yes
+STRM-91245,2024-06-11,Premium 4K,Crime Drama,14,Laptop Browser,5,No
+STRM-91246,2024-09-01,Ad-Supported Basic,Action Thriller,122,Gaming Console,1,Yes
+STRM-91247,2024-11-11,Premium 4K,Sci-Fi,145,Gaming Console,4,Yes
+STRM-91248,2024-07-07,Ad-Supported Basic,Documentary,88,Mobile Phone,4,Yes
+STRM-91249,2024-02-21,Standard HD,Crime Drama,54,Gaming Console,4,Yes
+STRM-91250,2024-07-17,Ad-Supported Basic,Sci-Fi,13,Mobile Phone,4,No
+STRM-91251,2024-04-20,Standard HD,Documentary,145,Smart TV,2,Yes
+STRM-91252,2024-07-01,Ad-Supported Basic,Animation,90,Smart TV,4,Yes
+STRM-91253,2024-04-05,Premium 4K,Sci-Fi,31,Smart TV,3,No
+STRM-91254,2024-05-14,Ad-Supported Basic,Action Thriller,118,Gaming Console,4,Yes
+STRM-91255,2024-11-12,Premium 4K,Crime Drama,43,Tablet,5,No
+STRM-91256,2024-03-27,Premium 4K,Comedy,30,Smart TV,1,No
+STRM-91257,2024-10-24,Standard HD,Animation,70,Laptop Browser,5,Yes
+STRM-91258,2024-03-05,Premium 4K,Crime Drama,103,Mobile Phone,4,Yes
+STRM-91259,2024-12-01,Ad-Supported Basic,Crime Drama,29,Laptop Browser,4,No
+STRM-91260,2024-07-05,Ad-Supported Basic,Sci-Fi,99,Mobile Phone,3,Yes
+STRM-91261,2024-12-07,Standard HD,Documentary,32,Tablet,4,No
+STRM-91262,2024-02-25,Standard HD,Sci-Fi,127,Smart TV,2,Yes
+STRM-91263,2024-09-06,Ad-Supported Basic,Sci-Fi,190,Smart TV,2,Yes
+STRM-91264,2024-04-21,Premium 4K,Crime Drama,14,Smart TV,4,No
+STRM-91265,2024-03-12,Ad-Supported Basic,Crime Drama,24,Laptop Browser,4,No
+STRM-91266,2024-05-17,Ad-Supported Basic,Documentary,181,Laptop Browser,4,Yes
+STRM-91267,2024-09-25,Premium 4K,Action Thriller,186,Mobile Phone,4,Yes
+STRM-91268,2024-06-13,Premium 4K,Crime Drama,91,Gaming Console,5,Yes
+STRM-91269,2024-08-31,Ad-Supported Basic,Comedy,34,Tablet,4,No
+STRM-91270,2024-05-19,Premium 4K,Animation,100,Laptop Browser,5,Yes
+STRM-91271,2024-03-20,Premium 4K,Sci-Fi,211,Laptop Browser,5,Yes
+STRM-91272,2024-05-16,Premium 4K,Comedy,71,Tablet,3,Yes
+STRM-91273,2024-05-18,Ad-Supported Basic,Animation,60,Tablet,4,Yes
+STRM-91274,2024-05-21,Premium 4K,Action Thriller,103,Gaming Console,3,Yes
+STRM-91275,2024-07-09,Ad-Supported Basic,Sci-Fi,61,Smart TV,3,Yes
+STRM-91276,2024-07-21,Ad-Supported Basic,Action Thriller,71,Smart TV,4,Yes
+STRM-91277,2024-01-15,Premium 4K,Crime Drama,52,Tablet,5,Yes
+STRM-91278,2024-06-16,Standard HD,Documentary,41,Laptop Browser,4,No
+STRM-91279,2024-11-06,Premium 4K,Action Thriller,15,Mobile Phone,3,No
+STRM-91280,2024-05-15,Standard HD,Sci-Fi,51,Mobile Phone,4,Yes
+STRM-91281,2024-04-05,Standard HD,Animation,59,Laptop Browser,4,Yes
+STRM-91282,2024-06-19,Premium 4K,Sci-Fi,75,Tablet,4,Yes
+STRM-91283,2024-07-20,Standard HD,Documentary,11,Smart TV,5,No
+STRM-91284,2024-05-24,Standard HD,Crime Drama,131,Gaming Console,5,Yes
+STRM-91285,2024-10-08,Premium 4K,Comedy,20,Gaming Console,4,No
+STRM-91286,2024-10-15,Ad-Supported Basic,Crime Drama,30,Laptop Browser,4,No
+STRM-91287,2024-05-21,Premium 4K,Sci-Fi,28,Mobile Phone,4,No
+STRM-91288,2024-12-07,Standard HD,Sci-Fi,107,Tablet,4,Yes
+STRM-91289,2024-06-21,Standard HD,Animation,68,Tablet,4,Yes
+STRM-91290,2024-10-19,Standard HD,Action Thriller,151,Mobile Phone,4,Yes
+STRM-91291,2024-12-12,Standard HD,Animation,17,Mobile Phone,3,No
+STRM-91292,2024-06-29,Premium 4K,Crime Drama,39,Laptop Browser,4,No
+STRM-91293,2024-12-07,Ad-Supported Basic,Action Thriller,62,Tablet,1,Yes
+STRM-91294,2024-02-17,Ad-Supported Basic,Animation,28,Tablet,4,No
+STRM-91295,2024-05-04,Ad-Supported Basic,Action Thriller,26,Smart TV,3,No
+STRM-91296,2024-05-09,Standard HD,Action Thriller,80,Gaming Console,3,Yes
+STRM-91297,2024-07-04,Standard HD,Action Thriller,29,Gaming Console,3,No
+STRM-91298,2024-10-26,Ad-Supported Basic,Action Thriller,180,Mobile Phone,3,Yes
+STRM-91299,2024-05-31,Standard HD,Action Thriller,215,Smart TV,3,Yes
+STRM-91300,2024-12-27,Standard HD,Comedy,118,Smart TV,3,Yes
+STRM-91301,2024-01-14,Standard HD,Animation,20,Tablet,5,No
+STRM-91302,2024-04-15,Ad-Supported Basic,Comedy,14,Mobile Phone,4,No
+STRM-91303,2024-03-18,Premium 4K,Action Thriller,62,Gaming Console,2,Yes
+STRM-91304,2024-07-08,Ad-Supported Basic,Animation,14,Smart TV,3,No
+STRM-91305,2024-10-30,Ad-Supported Basic,Comedy,131,Laptop Browser,3,Yes
+STRM-91306,2024-12-19,Ad-Supported Basic,Documentary,15,Mobile Phone,2,No
+STRM-91307,2024-06-15,Standard HD,Sci-Fi,64,Smart TV,5,Yes
+STRM-91308,2024-11-18,Standard HD,Crime Drama,100,Tablet,1,Yes
+STRM-91309,2024-02-21,Standard HD,Documentary,41,Mobile Phone,3,No
+STRM-91310,2024-05-31,Ad-Supported Basic,Action Thriller,10,Gaming Console,2,No
+STRM-91311,2024-05-23,Ad-Supported Basic,Documentary,14,Mobile Phone,3,No
+STRM-91312,2024-02-16,Standard HD,Documentary,10,Tablet,5,No
+STRM-91313,2024-03-01,Standard HD,Sci-Fi,74,Smart TV,4,Yes
+STRM-91314,2024-02-14,Standard HD,Animation,184,Tablet,4,Yes
+STRM-91315,2024-07-22,Premium 4K,Crime Drama,87,Laptop Browser,3,Yes
+STRM-91316,2024-06-18,Ad-Supported Basic,Action Thriller,142,Gaming Console,4,Yes
+STRM-91317,2024-09-12,Premium 4K,Crime Drama,82,Mobile Phone,5,Yes
+STRM-91318,2024-09-06,Standard HD,Sci-Fi,226,Smart TV,5,Yes
+STRM-91319,2024-12-17,Standard HD,Comedy,55,Laptop Browser,4,Yes
+STRM-91320,2024-10-22,Ad-Supported Basic,Crime Drama,100,Laptop Browser,4,Yes
+STRM-91321,2024-05-28,Standard HD,Documentary,182,Tablet,4,Yes
+STRM-91322,2024-12-28,Standard HD,Animation,172,Mobile Phone,1,Yes
+STRM-91323,2024-01-19,Standard HD,Animation,31,Laptop Browser,4,No
+STRM-91324,2024-01-01,Ad-Supported Basic,Documentary,93,Laptop Browser,4,Yes
+STRM-91325,2024-01-18,Standard HD,Documentary,138,Gaming Console,3,Yes
+STRM-91326,2024-01-12,Standard HD,Sci-Fi,69,Mobile Phone,5,Yes
+STRM-91327,2024-01-06,Premium 4K,Documentary,27,Mobile Phone,5,No
+STRM-91328,2024-01-15,Ad-Supported Basic,Sci-Fi,93,Gaming Console,5,Yes
+STRM-91329,2024-04-02,Premium 4K,Crime Drama,28,Mobile Phone,4,No
+STRM-91330,2024-12-20,Premium 4K,Comedy,241,Gaming Console,2,Yes
+STRM-91331,2024-10-15,Ad-Supported Basic,Sci-Fi,130,Mobile Phone,5,Yes
+STRM-91332,2024-09-03,Standard HD,Crime Drama,50,Tablet,5,Yes
+STRM-91333,2024-07-24,Standard HD,Animation,170,Smart TV,4,Yes
+STRM-91334,2024-12-12,Premium 4K,Action Thriller,232,Tablet,5,Yes
+STRM-91335,2024-04-14,Premium 4K,Action Thriller,23,Smart TV,4,No
+STRM-91336,2024-03-31,Ad-Supported Basic,Animation,130,Mobile Phone,4,Yes
+STRM-91337,2024-11-13,Ad-Supported Basic,Documentary,16,Laptop Browser,5,No
+STRM-91338,2024-07-04,Premium 4K,Crime Drama,58,Gaming Console,4,Yes
+STRM-91339,2024-07-09,Premium 4K,Animation,34,Gaming Console,4,No
+STRM-91340,2024-07-25,Premium 4K,Action Thriller,55,Smart TV,5,Yes
+STRM-91341,2024-05-14,Standard HD,Crime Drama,73,Mobile Phone,5,Yes
+STRM-91342,2024-03-14,Ad-Supported Basic,Comedy,29,Gaming Console,4,No
+STRM-91343,2024-01-28,Standard HD,Sci-Fi,13,Laptop Browser,3,No
+STRM-91344,2024-05-29,Standard HD,Sci-Fi,44,Gaming Console,3,No
+STRM-91345,2024-02-13,Ad-Supported Basic,Comedy,26,Gaming Console,5,No
+STRM-91346,2024-08-21,Standard HD,Sci-Fi,20,Mobile Phone,3,No
+STRM-91347,2024-03-12,Standard HD,Sci-Fi,25,Tablet,3,No
+STRM-91348,2024-03-22,Ad-Supported Basic,Action Thriller,12,Laptop Browser,4,No
+STRM-91349,2024-09-02,Standard HD,Crime Drama,45,Laptop Browser,1,No
+STRM-91350,2024-09-27,Ad-Supported Basic,Animation,49,Smart TV,5,Yes
+STRM-91351,2024-11-04,Standard HD,Sci-Fi,10,Laptop Browser,4,No
+STRM-91352,2024-09-02,Ad-Supported Basic,Crime Drama,33,Smart TV,4,No
+STRM-91353,2024-10-07,Premium 4K,Documentary,22,Mobile Phone,4,No
+STRM-91354,2024-01-14,Standard HD,Sci-Fi,12,Mobile Phone,4,No
+STRM-91355,2024-07-21,Premium 4K,Comedy,147,Mobile Phone,3,Yes
+STRM-91356,2024-01-14,Ad-Supported Basic,Animation,15,Mobile Phone,5,No
+STRM-91357,2024-10-28,Premium 4K,Action Thriller,144,Smart TV,4,Yes
+STRM-91358,2024-02-24,Ad-Supported Basic,Action Thriller,63,Gaming Console,4,Yes
+STRM-91359,2024-08-25,Ad-Supported Basic,Action Thriller,48,Gaming Console,4,Yes
+STRM-91360,2024-10-17,Ad-Supported Basic,Sci-Fi,17,Gaming Console,4,No
+STRM-91361,2024-07-12,Premium 4K,Sci-Fi,31,Gaming Console,4,No
+STRM-91362,2024-09-28,Standard HD,Animation,100,Mobile Phone,4,Yes
+STRM-91363,2024-07-16,Ad-Supported Basic,Comedy,74,Laptop Browser,4,Yes
+STRM-91364,2024-01-26,Premium 4K,Documentary,53,Laptop Browser,3,Yes
+STRM-91365,2024-10-06,Premium 4K,Crime Drama,121,Laptop Browser,3,Yes
+STRM-91366,2024-05-08,Ad-Supported Basic,Sci-Fi,20,Tablet,5,No
+STRM-91367,2024-12-20,Ad-Supported Basic,Documentary,12,Gaming Console,5,No
+STRM-91368,2024-08-28,Premium 4K,Documentary,59,Tablet,4,Yes
+STRM-91369,2024-08-10,Premium 4K,Documentary,324,Laptop Browser,1,Yes
+STRM-91370,2024-12-01,Ad-Supported Basic,Animation,58,Laptop Browser,4,Yes
+STRM-91371,2024-08-21,Ad-Supported Basic,Sci-Fi,11,Laptop Browser,4,No
+STRM-91372,2024-07-31,Premium 4K,Comedy,61,Smart TV,4,Yes
+STRM-91373,2024-03-20,Premium 4K,Documentary,24,Tablet,5,No
+STRM-91374,2024-11-21,Premium 4K,Action Thriller,70,Laptop Browser,2,Yes
+STRM-91375,2024-04-06,Premium 4K,Documentary,120,Mobile Phone,5,Yes
+STRM-91376,2024-12-08,Premium 4K,Action Thriller,19,Mobile Phone,5,No
+STRM-91377,2024-12-18,Ad-Supported Basic,Animation,97,Gaming Console,3,Yes
+STRM-91378,2024-12-06,Ad-Supported Basic,Crime Drama,94,Gaming Console,5,Yes
+STRM-91379,2024-09-03,Premium 4K,Animation,33,Laptop Browser,3,No
+STRM-91380,2024-06-23,Premium 4K,Animation,121,Mobile Phone,4,Yes
+STRM-91381,2024-10-29,Standard HD,Sci-Fi,20,Laptop Browser,3,No
+STRM-91382,2024-03-02,Ad-Supported Basic,Comedy,160,Laptop Browser,2,Yes
+STRM-91383,2024-05-17,Premium 4K,Comedy,54,Smart TV,5,Yes
+STRM-91384,2024-11-13,Standard HD,Crime Drama,47,Mobile Phone,5,Yes
+STRM-91385,2024-02-12,Standard HD,Comedy,75,Mobile Phone,4,Yes
+STRM-91386,2024-04-12,Standard HD,Animation,21,Smart TV,1,No
+STRM-91387,2024-03-15,Standard HD,Sci-Fi,23,Mobile Phone,4,No
+STRM-91388,2024-12-10,Premium 4K,Animation,19,Laptop Browser,1,No
+STRM-91389,2024-09-07,Ad-Supported Basic,Sci-Fi,15,Smart TV,4,No
+STRM-91390,2024-07-25,Premium 4K,Crime Drama,34,Gaming Console,4,No
+STRM-91391,2024-04-15,Standard HD,Crime Drama,22,Laptop Browser,4,No
+STRM-91392,2024-11-26,Premium 4K,Action Thriller,21,Mobile Phone,3,No
+STRM-91393,2024-09-28,Ad-Supported Basic,Sci-Fi,120,Gaming Console,4,Yes
+STRM-91394,2024-03-01,Premium 4K,Action Thriller,20,Gaming Console,2,No
+STRM-91395,2024-09-18,Ad-Supported Basic,Sci-Fi,43,Mobile Phone,3,No
+STRM-91396,2024-05-05,Premium 4K,Comedy,51,Mobile Phone,3,Yes
+STRM-91397,2024-11-20,Ad-Supported Basic,Action Thriller,178,Smart TV,4,Yes
+STRM-91398,2024-02-16,Premium 4K,Crime Drama,13,Gaming Console,4,No
+STRM-91399,2024-02-10,Standard HD,Action Thriller,93,Tablet,4,Yes
+STRM-91400,2024-03-05,Premium 4K,Sci-Fi,89,Laptop Browser,2,Yes
+STRM-91401,2024-09-01,Premium 4K,Sci-Fi,112,Tablet,3,Yes
+STRM-91402,2024-01-26,Ad-Supported Basic,Sci-Fi,107,Gaming Console,1,Yes
+STRM-91403,2024-02-07,Standard HD,Comedy,19,Smart TV,5,No
+STRM-91404,2024-07-13,Standard HD,Action Thriller,146,Gaming Console,2,Yes
+STRM-91405,2024-08-17,Standard HD,Comedy,79,Tablet,2,Yes
+STRM-91406,2024-08-23,Ad-Supported Basic,Animation,83,Gaming Console,5,Yes
+STRM-91407,2024-03-20,Standard HD,Animation,15,Smart TV,4,No
+STRM-91408,2024-04-08,Premium 4K,Crime Drama,12,Laptop Browser,3,No
+STRM-91409,2024-03-29,Ad-Supported Basic,Sci-Fi,40,Laptop Browser,4,No
+STRM-91410,2024-12-30,Premium 4K,Comedy,14,Mobile Phone,5,No
+STRM-91411,2024-10-14,Ad-Supported Basic,Sci-Fi,15,Laptop Browser,4,No
+STRM-91412,2024-05-25,Ad-Supported Basic,Crime Drama,13,Mobile Phone,5,No
+STRM-91413,2024-08-29,Ad-Supported Basic,Sci-Fi,69,Tablet,3,Yes
+STRM-91414,2024-10-29,Premium 4K,Crime Drama,197,Tablet,2,Yes
+STRM-91415,2024-12-28,Ad-Supported Basic,Crime Drama,122,Tablet,5,Yes
+STRM-91416,2024-07-31,Standard HD,Sci-Fi,30,Gaming Console,4,No
+STRM-91417,2024-09-23,Standard HD,Sci-Fi,205,Tablet,5,Yes
+STRM-91418,2024-03-23,Premium 4K,Documentary,20,Smart TV,3,No
+STRM-91419,2024-04-29,Ad-Supported Basic,Comedy,84,Laptop Browser,4,Yes
+STRM-91420,2024-11-16,Ad-Supported Basic,Animation,22,Laptop Browser,4,No
+STRM-91421,2024-01-15,Standard HD,Action Thriller,92,Laptop Browser,4,Yes
+STRM-91422,2024-10-16,Standard HD,Sci-Fi,291,Tablet,5,Yes
+STRM-91423,2024-10-14,Ad-Supported Basic,Documentary,11,Mobile Phone,5,No
+STRM-91424,2024-01-07,Standard HD,Sci-Fi,18,Smart TV,5,No
+STRM-91425,2024-07-28,Premium 4K,Crime Drama,242,Tablet,4,Yes
+STRM-91426,2024-01-01,Standard HD,Comedy,79,Laptop Browser,4,Yes
+STRM-91427,2024-09-03,Standard HD,Action Thriller,76,Laptop Browser,5,Yes
+STRM-91428,2024-03-08,Ad-Supported Basic,Action Thriller,80,Mobile Phone,1,Yes
+STRM-91429,2024-02-25,Premium 4K,Documentary,41,Tablet,5,No
+STRM-91430,2024-07-30,Standard HD,Documentary,206,Smart TV,4,Yes
+STRM-91431,2024-01-04,Premium 4K,Documentary,40,Mobile Phone,3,No
+STRM-91432,2024-08-24,Premium 4K,Action Thriller,37,Tablet,4,No
+STRM-91433,2024-05-13,Standard HD,Sci-Fi,53,Gaming Console,5,Yes
+STRM-91434,2024-10-17,Premium 4K,Animation,66,Gaming Console,3,Yes
+STRM-91435,2024-12-16,Premium 4K,Crime Drama,77,Smart TV,2,Yes
+STRM-91436,2024-11-20,Standard HD,Comedy,87,Gaming Console,5,Yes
+STRM-91437,2024-04-23,Standard HD,Comedy,20,Mobile Phone,5,No
+STRM-91438,2024-02-15,Ad-Supported Basic,Sci-Fi,21,Smart TV,4,No
+STRM-91439,2024-10-10,Premium 4K,Documentary,36,Smart TV,4,No
+STRM-91440,2024-03-18,Premium 4K,Comedy,60,Smart TV,3,Yes
+STRM-91441,2024-09-13,Ad-Supported Basic,Action Thriller,52,Laptop Browser,5,Yes
+STRM-91442,2024-01-10,Standard HD,Crime Drama,27,Gaming Console,4,No
+STRM-91443,2024-07-19,Premium 4K,Crime Drama,29,Gaming Console,4,No
+STRM-91444,2024-09-01,Premium 4K,Action Thriller,108,Laptop Browser,3,Yes
+STRM-91445,2024-11-24,Premium 4K,Sci-Fi,41,Gaming Console,3,No
+STRM-91446,2024-09-23,Standard HD,Comedy,58,Smart TV,4,Yes
+STRM-91447,2024-03-29,Standard HD,Comedy,129,Gaming Console,5,Yes
+STRM-91448,2024-01-20,Standard HD,Documentary,36,Smart TV,4,No
+STRM-91449,2024-06-18,Standard HD,Animation,26,Tablet,5,No
+STRM-91450,2024-11-12,Standard HD,Comedy,30,Gaming Console,4,No
+STRM-91451,2024-01-23,Ad-Supported Basic,Crime Drama,81,Laptop Browser,5,Yes
+STRM-91452,2024-09-11,Ad-Supported Basic,Sci-Fi,38,Gaming Console,4,No
+STRM-91453,2024-03-08,Ad-Supported Basic,Sci-Fi,94,Tablet,3,Yes
+STRM-91454,2024-02-16,Ad-Supported Basic,Comedy,22,Smart TV,2,No
+STRM-91455,2024-12-15,Premium 4K,Documentary,119,Tablet,5,Yes
+STRM-91456,2024-08-11,Ad-Supported Basic,Crime Drama,108,Laptop Browser,4,Yes
+STRM-91457,2024-04-09,Premium 4K,Documentary,12,Tablet,5,No
+STRM-91458,2024-02-25,Premium 4K,Sci-Fi,51,Laptop Browser,4,Yes
+STRM-91459,2024-11-16,Standard HD,Documentary,144,Laptop Browser,4,Yes
+STRM-91460,2024-12-04,Ad-Supported Basic,Animation,187,Smart TV,5,Yes
+STRM-91461,2024-06-08,Standard HD,Sci-Fi,70,Gaming Console,3,Yes
+STRM-91462,2024-07-23,Standard HD,Documentary,87,Gaming Console,4,Yes
+STRM-91463,2024-01-29,Premium 4K,Animation,224,Smart TV,2,Yes
+STRM-91464,2024-10-08,Standard HD,Sci-Fi,104,Mobile Phone,2,Yes
+STRM-91465,2024-07-18,Premium 4K,Sci-Fi,55,Gaming Console,2,Yes
+STRM-91466,2024-07-31,Premium 4K,Documentary,47,Mobile Phone,4,Yes
+STRM-91467,2024-02-16,Premium 4K,Action Thriller,115,Mobile Phone,5,Yes
+STRM-91468,2024-01-23,Ad-Supported Basic,Animation,21,Smart TV,5,No
+STRM-91469,2024-06-29,Ad-Supported Basic,Sci-Fi,95,Mobile Phone,1,Yes
+STRM-91470,2024-02-13,Standard HD,Documentary,52,Gaming Console,4,Yes
+STRM-91471,2024-05-04,Standard HD,Sci-Fi,176,Gaming Console,5,Yes
+STRM-91472,2024-03-26,Premium 4K,Comedy,22,Smart TV,5,No
+STRM-91473,2024-01-01,Premium 4K,Sci-Fi,215,Smart TV,3,Yes
+STRM-91474,2024-06-04,Standard HD,Comedy,232,Gaming Console,3,Yes
+STRM-91475,2024-02-18,Premium 4K,Documentary,165,Laptop Browser,3,Yes
+STRM-91476,2024-09-12,Ad-Supported Basic,Sci-Fi,102,Smart TV,5,Yes
+STRM-91477,2024-11-16,Standard HD,Action Thriller,137,Mobile Phone,3,Yes
+STRM-91478,2024-05-17,Standard HD,Documentary,22,Smart TV,5,No
+STRM-91479,2024-01-24,Premium 4K,Action Thriller,94,Gaming Console,3,Yes
+STRM-91480,2024-07-07,Ad-Supported Basic,Crime Drama,10,Mobile Phone,5,No
+STRM-91481,2024-03-02,Ad-Supported Basic,Documentary,73,Mobile Phone,4,Yes
+STRM-91482,2024-11-23,Standard HD,Crime Drama,43,Smart TV,4,No
+STRM-91483,2024-03-26,Premium 4K,Action Thriller,71,Smart TV,3,Yes
+STRM-91484,2024-01-09,Ad-Supported Basic,Documentary,225,Smart TV,4,Yes
+STRM-91485,2024-06-20,Ad-Supported Basic,Comedy,47,Smart TV,5,Yes
+STRM-91486,2024-09-09,Standard HD,Animation,228,Tablet,4,Yes
+STRM-91487,2024-11-11,Ad-Supported Basic,Sci-Fi,34,Mobile Phone,1,No
+STRM-91488,2024-02-28,Ad-Supported Basic,Documentary,127,Tablet,2,Yes
+STRM-91489,2024-08-10,Ad-Supported Basic,Comedy,42,Laptop Browser,4,No
+STRM-91490,2024-10-28,Standard HD,Crime Drama,97,Laptop Browser,3,Yes
+STRM-91491,2024-06-24,Premium 4K,Action Thriller,31,Gaming Console,2,No
+STRM-91492,2024-11-25,Standard HD,Comedy,137,Laptop Browser,4,Yes
+STRM-91493,2024-12-12,Standard HD,Action Thriller,71,Mobile Phone,4,Yes
+STRM-91494,2024-02-14,Premium 4K,Crime Drama,202,Gaming Console,3,Yes
+STRM-91495,2024-07-12,Premium 4K,Animation,65,Laptop Browser,3,Yes
+STRM-91496,2024-01-13,Premium 4K,Animation,56,Gaming Console,2,Yes
+STRM-91497,2024-08-20,Standard HD,Crime Drama,17,Gaming Console,5,No
+STRM-91498,2024-10-08,Premium 4K,Animation,89,Smart TV,5,Yes
+STRM-91499,2024-09-18,Premium 4K,Sci-Fi,213,Mobile Phone,5,Yes

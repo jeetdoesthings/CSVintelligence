@@ -1,0 +1,1501 @@
+order_id,order_date,customer_segment,region,category,product_name,units_sold,unit_price,discount_percent,revenue,cost,profit,payment_method
+ORD-2024000,2024-04-16,Consumer,Middle East,Apparel,Leather Oxford Shoes,8,103,5,782,382,400,Bank Wire
+ORD-2024001,2024-12-25,Small Business,Middle East,Apparel,Leather Oxford Shoes,8,105,20,672,465,207,Apple Pay
+ORD-2024002,2024-10-03,Small Business,Western Europe,Home & Office,Electric Standing Desk,1,310,20,248,138,110,Credit Card
+ORD-2024003,2024-07-06,Small Business,Western Europe,Apparel,Athletic Joggers,3,95,15,242,144,98,Bank Wire
+ORD-2024004,2024-06-15,Enterprise,Middle East,Electronics,Dell UltraSharp 32,2,799,15,1358,802,556,PayPal
+ORD-2024005,2024-12-05,Mid-Market,Middle East,Electronics,Sony WH-1000XM5,7,711,10,4479,3033,1446,Apple Pay
+ORD-2024006,2024-02-23,Mid-Market,Latin America,Home & Office,Monitor Arm Mount,4,295,5,1121,721,400,PayPal
+ORD-2024007,2024-12-16,Mid-Market,Latin America,Home & Office,Electric Standing Desk,8,345,15,2346,1082,1264,Apple Pay
+ORD-2024008,2024-02-22,Consumer,Western Europe,Electronics,Logitech MX Master 3S,8,645,15,4386,2639,1747,Credit Card
+ORD-2024009,2024-12-10,Enterprise,Middle East,Electronics,Logitech MX Master 3S,7,662,0,4634,2315,2319,Apple Pay
+ORD-2024010,2024-06-11,Enterprise,Asia-Pacific,Apparel,Athletic Joggers,3,110,20,264,179,85,PayPal
+ORD-2024011,2024-09-24,Small Business,North America,Electronics,iPad Pro 12.9,2,577,20,923,583,340,Apple Pay
+ORD-2024012,2024-08-14,Enterprise,Asia-Pacific,Home & Office,LED Desk Lamp,5,396,10,1782,1140,642,PayPal
+ORD-2024013,2024-07-25,Enterprise,Asia-Pacific,Apparel,Athletic Joggers,3,81,0,243,128,115,Apple Pay
+ORD-2024014,2024-08-18,Consumer,Middle East,Fitness,Yoga Mat Pro,4,171,10,615,383,232,Apple Pay
+ORD-2024015,2024-05-13,Mid-Market,Middle East,Home & Office,Electric Standing Desk,4,386,10,1389,737,652,Bank Wire
+ORD-2024016,2024-10-09,Enterprise,North America,Fitness,Adjustable Dumbbell Set,9,164,0,1476,776,700,PayPal
+ORD-2024017,2024-06-13,Mid-Market,North America,Fitness,Smart Fitness Tracker,1,125,15,106,54,52,Bank Wire
+ORD-2024018,2024-04-22,Small Business,North America,Home & Office,Monitor Arm Mount,1,304,15,258,132,126,PayPal
+ORD-2024019,2024-03-21,Enterprise,Middle East,Apparel,Merino Wool Sweater,1,117,15,99,45,54,Credit Card
+ORD-2024020,2024-05-05,Consumer,North America,Fitness,Adjustable Dumbbell Set,2,148,5,281,195,86,Apple Pay
+ORD-2024021,2024-05-02,Small Business,Asia-Pacific,Apparel,Leather Oxford Shoes,1,108,20,86,52,34,PayPal
+ORD-2024022,2024-05-03,Enterprise,North America,Home & Office,LED Desk Lamp,6,361,10,1949,1164,785,Bank Wire
+ORD-2024023,2024-05-26,Consumer,Western Europe,Fitness,Smart Fitness Tracker,4,155,15,527,361,166,Apple Pay
+ORD-2024024,2024-05-08,Small Business,Western Europe,Fitness,Smart Fitness Tracker,9,125,5,1068,549,519,Apple Pay
+ORD-2024025,2024-02-29,Small Business,North America,Fitness,Yoga Mat Pro,1,132,15,112,66,46,Apple Pay
+ORD-2024026,2024-04-08,Enterprise,North America,Apparel,Athletic Joggers,3,108,10,291,193,98,PayPal
+ORD-2024027,2024-04-22,Consumer,Latin America,Fitness,Adjustable Dumbbell Set,8,162,15,1101,655,446,Apple Pay
+ORD-2024028,2024-12-14,Enterprise,Asia-Pacific,Home & Office,Ergonomic Desk Chair,2,292,5,554,316,238,Bank Wire
+ORD-2024029,2024-06-09,Small Business,North America,Fitness,Adjustable Dumbbell Set,4,132,20,422,208,214,Apple Pay
+ORD-2024030,2024-05-07,Enterprise,Asia-Pacific,Fitness,Resistance Bands Set,1,149,10,134,72,62,Bank Wire
+ORD-2024031,2024-09-20,Consumer,Middle East,Home & Office,Electric Standing Desk,2,316,0,632,375,257,Apple Pay
+ORD-2024032,2024-10-30,Enterprise,Latin America,Electronics,Logitech MX Master 3S,3,701,0,2103,969,1134,Apple Pay
+ORD-2024033,2024-01-06,Mid-Market,Middle East,Fitness,Yoga Mat Pro,3,160,20,384,261,123,Credit Card
+ORD-2024034,2024-04-25,Small Business,Asia-Pacific,Home & Office,Ergonomic Desk Chair,5,296,0,1480,783,697,Apple Pay
+ORD-2024035,2024-02-23,Consumer,Western Europe,Home & Office,Ergonomic Desk Chair,3,344,5,980,591,389,PayPal
+ORD-2024036,2024-09-29,Mid-Market,Asia-Pacific,Apparel,Waterproof Shell Jacket,8,107,10,770,482,288,Bank Wire
+ORD-2024037,2024-11-01,Consumer,Western Europe,Electronics,Sony WH-1000XM5,9,711,15,5439,3142,2297,Credit Card
+ORD-2024038,2024-09-20,Enterprise,Latin America,Fitness,Adjustable Dumbbell Set,3,137,15,349,207,142,Apple Pay
+ORD-2024039,2024-07-04,Enterprise,Asia-Pacific,Apparel,Athletic Joggers,6,103,0,618,283,335,PayPal
+ORD-2024040,2024-04-10,Small Business,Asia-Pacific,Apparel,Waterproof Shell Jacket,1,112,15,95,47,48,Credit Card
+ORD-2024041,2024-12-15,Small Business,Middle East,Apparel,Leather Oxford Shoes,3,104,15,265,128,137,PayPal
+ORD-2024042,2024-04-29,Enterprise,Asia-Pacific,Fitness,Yoga Mat Pro,3,143,5,407,185,222,Credit Card
+ORD-2024043,2024-05-08,Small Business,North America,Home & Office,LED Desk Lamp,1,328,0,328,201,127,Credit Card
+ORD-2024044,2024-12-14,Mid-Market,Middle East,Electronics,Logitech MX Master 3S,7,564,5,3750,2021,1729,Credit Card
+ORD-2024045,2024-08-07,Mid-Market,Middle East,Home & Office,Ergonomic Desk Chair,5,284,15,1207,596,611,Apple Pay
+ORD-2024046,2024-04-09,Consumer,Middle East,Home & Office,Electric Standing Desk,1,331,20,264,145,119,PayPal
+ORD-2024047,2024-06-28,Mid-Market,Latin America,Home & Office,Ergonomic Desk Chair,3,336,0,1008,589,419,Credit Card
+ORD-2024048,2024-06-08,Enterprise,Western Europe,Fitness,Resistance Bands Set,4,151,5,573,339,234,Credit Card
+ORD-2024049,2024-04-10,Consumer,Asia-Pacific,Electronics,Logitech MX Master 3S,3,765,5,2180,1093,1087,Credit Card
+ORD-2024050,2024-08-29,Enterprise,Western Europe,Electronics,iPad Pro 12.9,3,640,5,1824,966,858,PayPal
+ORD-2024051,2024-04-14,Consumer,Western Europe,Home & Office,Electric Standing Desk,7,287,20,1607,863,744,Bank Wire
+ORD-2024052,2024-09-05,Enterprise,North America,Electronics,iPad Pro 12.9,4,598,0,2392,1416,976,Bank Wire
+ORD-2024053,2024-04-05,Mid-Market,Latin America,Electronics,Dell UltraSharp 32,8,777,20,4972,2533,2439,Bank Wire
+ORD-2024054,2024-10-12,Enterprise,Asia-Pacific,Electronics,MacBook Pro 16,1,691,15,587,385,202,PayPal
+ORD-2024055,2024-04-09,Enterprise,Asia-Pacific,Electronics,Dell UltraSharp 32,9,772,0,6948,3681,3267,PayPal
+ORD-2024056,2024-05-23,Consumer,Latin America,Apparel,Leather Oxford Shoes,5,84,15,357,189,168,Bank Wire
+ORD-2024057,2024-05-23,Consumer,Middle East,Electronics,iPad Pro 12.9,9,582,20,4190,2403,1787,Bank Wire
+ORD-2024058,2024-06-11,Enterprise,Western Europe,Home & Office,LED Desk Lamp,7,341,10,2148,1029,1119,Apple Pay
+ORD-2024059,2024-09-09,Small Business,Western Europe,Electronics,Sony WH-1000XM5,6,574,20,2755,1393,1362,Credit Card
+ORD-2024060,2024-01-05,Mid-Market,Western Europe,Home & Office,LED Desk Lamp,5,301,20,1204,653,551,Apple Pay
+ORD-2024061,2024-10-18,Small Business,Middle East,Electronics,MacBook Pro 16,6,736,10,3974,2560,1414,PayPal
+ORD-2024062,2024-01-19,Mid-Market,Western Europe,Apparel,Athletic Joggers,7,97,20,543,245,298,Apple Pay
+ORD-2024063,2024-11-12,Small Business,Latin America,Home & Office,Electric Standing Desk,9,367,10,2972,1770,1202,PayPal
+ORD-2024064,2024-11-07,Enterprise,North America,Electronics,iPad Pro 12.9,1,610,5,579,262,317,Apple Pay
+ORD-2024065,2024-07-31,Small Business,Middle East,Electronics,Logitech MX Master 3S,5,618,10,2781,1925,856,PayPal
+ORD-2024066,2024-05-22,Mid-Market,North America,Apparel,Merino Wool Sweater,1,104,10,93,62,31,Credit Card
+ORD-2024067,2024-09-28,Small Business,Western Europe,Apparel,Leather Oxford Shoes,8,95,15,646,344,302,PayPal
+ORD-2024068,2024-07-04,Small Business,Western Europe,Fitness,Resistance Bands Set,2,133,20,212,147,65,Apple Pay
+ORD-2024069,2024-07-30,Enterprise,North America,Apparel,Waterproof Shell Jacket,3,112,5,319,176,143,Credit Card
+ORD-2024070,2024-11-07,Mid-Market,Western Europe,Apparel,Merino Wool Sweater,2,101,20,161,73,88,Credit Card
+ORD-2024071,2024-08-26,Small Business,Western Europe,Home & Office,Ergonomic Desk Chair,1,320,5,304,165,139,PayPal
+ORD-2024072,2024-04-07,Enterprise,North America,Apparel,Athletic Joggers,9,96,0,864,391,473,Bank Wire
+ORD-2024073,2024-12-16,Enterprise,North America,Home & Office,Monitor Arm Mount,5,399,20,1596,951,645,Credit Card
+ORD-2024074,2024-05-24,Consumer,Western Europe,Electronics,Sony WH-1000XM5,5,669,0,3345,2303,1042,Credit Card
+ORD-2024075,2024-10-14,Enterprise,North America,Fitness,Yoga Mat Pro,2,139,5,264,151,113,PayPal
+ORD-2024076,2024-09-24,Mid-Market,Asia-Pacific,Home & Office,LED Desk Lamp,1,342,20,273,128,145,Bank Wire
+ORD-2024077,2024-03-06,Enterprise,Middle East,Electronics,MacBook Pro 16,3,787,15,2006,1394,612,PayPal
+ORD-2024078,2024-11-03,Consumer,Asia-Pacific,Home & Office,Electric Standing Desk,9,337,15,2578,1352,1226,PayPal
+ORD-2024079,2024-05-17,Enterprise,Middle East,Apparel,Merino Wool Sweater,8,112,0,896,461,435,Apple Pay
+ORD-2024080,2024-07-23,Mid-Market,Middle East,Electronics,Sony WH-1000XM5,3,692,10,1868,905,963,Apple Pay
+ORD-2024081,2024-10-07,Small Business,Latin America,Fitness,Resistance Bands Set,3,167,10,450,277,173,PayPal
+ORD-2024082,2024-10-03,Consumer,Asia-Pacific,Electronics,Sony WH-1000XM5,5,642,5,3049,1506,1543,Credit Card
+ORD-2024083,2024-01-12,Enterprise,Middle East,Home & Office,Ergonomic Desk Chair,2,288,5,547,340,207,Credit Card
+ORD-2024084,2024-08-26,Mid-Market,North America,Home & Office,Ergonomic Desk Chair,8,383,20,2451,1104,1347,Apple Pay
+ORD-2024085,2024-06-28,Enterprise,Asia-Pacific,Electronics,MacBook Pro 16,8,678,5,5152,3297,1855,PayPal
+ORD-2024086,2024-01-14,Mid-Market,Middle East,Fitness,Yoga Mat Pro,8,126,10,907,611,296,PayPal
+ORD-2024087,2024-09-30,Enterprise,Latin America,Apparel,Athletic Joggers,6,100,0,600,380,220,Apple Pay
+ORD-2024088,2024-08-18,Enterprise,North America,Home & Office,LED Desk Lamp,6,313,15,1596,811,785,Credit Card
+ORD-2024089,2024-03-07,Mid-Market,Latin America,Fitness,Adjustable Dumbbell Set,9,146,15,1116,652,464,PayPal
+ORD-2024090,2024-03-23,Small Business,North America,Apparel,Leather Oxford Shoes,9,93,15,711,434,277,PayPal
+ORD-2024091,2024-08-16,Enterprise,Asia-Pacific,Apparel,Leather Oxford Shoes,9,89,20,640,312,328,Bank Wire
+ORD-2024092,2024-11-13,Mid-Market,Asia-Pacific,Fitness,Resistance Bands Set,8,169,10,1216,706,510,Apple Pay
+ORD-2024093,2024-08-07,Small Business,Western Europe,Electronics,iPad Pro 12.9,4,553,0,2212,1266,946,PayPal
+ORD-2024094,2024-11-30,Mid-Market,North America,Apparel,Waterproof Shell Jacket,8,98,20,627,402,225,PayPal
+ORD-2024095,2024-07-30,Consumer,Latin America,Home & Office,Electric Standing Desk,1,366,15,311,148,163,PayPal
+ORD-2024096,2024-05-18,Mid-Market,Middle East,Home & Office,Monitor Arm Mount,4,313,10,1126,521,605,PayPal
+ORD-2024097,2024-05-17,Consumer,Middle East,Fitness,Yoga Mat Pro,2,137,5,260,122,138,Bank Wire
+ORD-2024098,2024-02-07,Enterprise,North America,Electronics,MacBook Pro 16,7,759,0,5313,3520,1793,Apple Pay
+ORD-2024099,2024-05-16,Small Business,Middle East,Fitness,Yoga Mat Pro,2,129,10,232,158,74,Apple Pay
+ORD-2024100,2024-09-23,Small Business,Middle East,Home & Office,Monitor Arm Mount,9,368,15,2815,1381,1434,Credit Card
+ORD-2024101,2024-03-18,Consumer,Asia-Pacific,Electronics,Logitech MX Master 3S,4,634,5,2409,1320,1089,Apple Pay
+ORD-2024102,2024-12-18,Enterprise,Asia-Pacific,Fitness,Smart Fitness Tracker,7,143,0,1001,508,493,Credit Card
+ORD-2024103,2024-11-04,Mid-Market,Western Europe,Apparel,Athletic Joggers,8,89,10,640,357,283,Bank Wire
+ORD-2024104,2024-01-15,Small Business,Western Europe,Apparel,Athletic Joggers,1,101,10,90,58,32,PayPal
+ORD-2024105,2024-10-15,Enterprise,Middle East,Electronics,MacBook Pro 16,4,700,5,2660,1525,1135,PayPal
+ORD-2024106,2024-08-03,Enterprise,Latin America,Electronics,Logitech MX Master 3S,4,655,20,2096,1226,870,Credit Card
+ORD-2024107,2024-05-09,Enterprise,Latin America,Apparel,Leather Oxford Shoes,3,107,15,272,171,101,Bank Wire
+ORD-2024108,2024-11-25,Mid-Market,Asia-Pacific,Electronics,iPad Pro 12.9,8,704,5,5350,3674,1676,Apple Pay
+ORD-2024109,2024-04-20,Enterprise,Western Europe,Home & Office,Ergonomic Desk Chair,8,383,15,2604,1238,1366,Apple Pay
+ORD-2024110,2024-05-06,Small Business,Middle East,Fitness,Adjustable Dumbbell Set,1,151,5,143,66,77,Bank Wire
+ORD-2024111,2024-09-13,Consumer,Asia-Pacific,Electronics,MacBook Pro 16,5,808,15,3434,1652,1782,Credit Card
+ORD-2024112,2024-11-04,Consumer,Middle East,Electronics,Dell UltraSharp 32,9,605,0,5445,2456,2989,Credit Card
+ORD-2024113,2024-03-30,Enterprise,Latin America,Apparel,Athletic Joggers,6,93,5,530,302,228,Bank Wire
+ORD-2024114,2024-09-07,Small Business,Asia-Pacific,Electronics,Dell UltraSharp 32,3,617,0,1851,1063,788,PayPal
+ORD-2024115,2024-03-03,Enterprise,North America,Electronics,MacBook Pro 16,6,609,5,3471,2137,1334,Bank Wire
+ORD-2024116,2024-05-27,Enterprise,North America,Electronics,iPad Pro 12.9,6,776,20,3724,1847,1877,Bank Wire
+ORD-2024117,2024-07-29,Consumer,Asia-Pacific,Electronics,Logitech MX Master 3S,1,562,10,505,235,270,PayPal
+ORD-2024118,2024-04-22,Mid-Market,Western Europe,Apparel,Athletic Joggers,2,99,10,178,87,91,Credit Card
+ORD-2024119,2024-09-22,Small Business,Asia-Pacific,Fitness,Adjustable Dumbbell Set,3,155,15,395,256,139,Bank Wire
+ORD-2024120,2024-12-14,Consumer,Western Europe,Fitness,Resistance Bands Set,8,120,10,864,438,426,Bank Wire
+ORD-2024121,2024-08-16,Consumer,North America,Apparel,Merino Wool Sweater,3,114,15,290,147,143,PayPal
+ORD-2024122,2024-06-13,Small Business,Asia-Pacific,Apparel,Leather Oxford Shoes,6,88,5,501,227,274,Bank Wire
+ORD-2024123,2024-02-05,Small Business,Asia-Pacific,Electronics,Logitech MX Master 3S,2,784,20,1254,671,583,PayPal
+ORD-2024124,2024-04-28,Consumer,Asia-Pacific,Apparel,Waterproof Shell Jacket,4,104,0,416,232,184,Apple Pay
+ORD-2024125,2024-12-29,Mid-Market,Western Europe,Apparel,Leather Oxford Shoes,8,85,10,612,412,200,Apple Pay
+ORD-2024126,2024-07-27,Consumer,Western Europe,Fitness,Adjustable Dumbbell Set,9,149,20,1072,590,482,Credit Card
+ORD-2024127,2024-01-04,Mid-Market,Asia-Pacific,Home & Office,Electric Standing Desk,2,306,10,550,360,190,Apple Pay
+ORD-2024128,2024-02-03,Enterprise,Latin America,Electronics,Sony WH-1000XM5,1,657,5,624,393,231,Credit Card
+ORD-2024129,2024-11-08,Consumer,Middle East,Home & Office,Electric Standing Desk,6,365,5,2080,1248,832,Credit Card
+ORD-2024130,2024-07-08,Enterprise,Middle East,Electronics,Sony WH-1000XM5,2,595,10,1071,531,540,Credit Card
+ORD-2024131,2024-05-28,Enterprise,Western Europe,Fitness,Smart Fitness Tracker,8,143,15,972,612,360,Bank Wire
+ORD-2024132,2024-04-20,Consumer,Western Europe,Fitness,Smart Fitness Tracker,8,171,20,1094,624,470,PayPal
+ORD-2024133,2024-08-14,Consumer,Latin America,Fitness,Smart Fitness Tracker,4,121,10,435,260,175,PayPal
+ORD-2024134,2024-03-13,Enterprise,Western Europe,Electronics,Sony WH-1000XM5,9,643,0,5787,3321,2466,Bank Wire
+ORD-2024135,2024-10-17,Consumer,North America,Fitness,Yoga Mat Pro,3,123,15,313,195,118,PayPal
+ORD-2024136,2024-04-10,Consumer,Latin America,Home & Office,Electric Standing Desk,1,289,5,274,170,104,Credit Card
+ORD-2024137,2024-05-28,Small Business,Asia-Pacific,Apparel,Leather Oxford Shoes,1,105,0,105,70,35,Apple Pay
+ORD-2024138,2024-12-30,Enterprise,Western Europe,Apparel,Athletic Joggers,7,118,5,784,464,320,PayPal
+ORD-2024139,2024-05-16,Consumer,Middle East,Apparel,Waterproof Shell Jacket,3,115,5,327,181,146,Credit Card
+ORD-2024140,2024-04-12,Consumer,Latin America,Home & Office,LED Desk Lamp,1,355,10,319,188,131,Credit Card
+ORD-2024141,2024-07-01,Consumer,Middle East,Home & Office,LED Desk Lamp,7,280,0,1960,1145,815,PayPal
+ORD-2024142,2024-01-16,Enterprise,Western Europe,Electronics,Logitech MX Master 3S,2,558,5,1060,739,321,Bank Wire
+ORD-2024143,2024-04-05,Mid-Market,Middle East,Apparel,Merino Wool Sweater,3,83,15,211,97,114,Credit Card
+ORD-2024144,2024-09-28,Enterprise,Latin America,Electronics,Logitech MX Master 3S,8,623,0,4984,3200,1784,Credit Card
+ORD-2024145,2024-03-05,Enterprise,Latin America,Apparel,Athletic Joggers,1,84,5,79,41,38,PayPal
+ORD-2024146,2024-03-13,Enterprise,North America,Electronics,MacBook Pro 16,1,654,15,555,280,275,PayPal
+ORD-2024147,2024-07-16,Consumer,Middle East,Electronics,Logitech MX Master 3S,7,781,10,4920,3325,1595,PayPal
+ORD-2024148,2024-03-12,Consumer,Latin America,Electronics,iPad Pro 12.9,4,770,20,2464,1620,844,PayPal
+ORD-2024149,2024-08-05,Enterprise,Western Europe,Home & Office,LED Desk Lamp,9,295,10,2389,1568,821,Credit Card
+ORD-2024150,2024-01-20,Consumer,North America,Electronics,MacBook Pro 16,1,597,5,567,328,239,PayPal
+ORD-2024151,2024-08-14,Small Business,Asia-Pacific,Home & Office,Ergonomic Desk Chair,6,351,20,1684,983,701,Credit Card
+ORD-2024152,2024-09-23,Mid-Market,Middle East,Fitness,Yoga Mat Pro,9,140,10,1134,547,587,Credit Card
+ORD-2024153,2024-06-18,Small Business,Western Europe,Apparel,Merino Wool Sweater,9,93,0,837,491,346,Bank Wire
+ORD-2024154,2024-02-07,Consumer,Latin America,Home & Office,Monitor Arm Mount,8,361,5,2743,1599,1144,Credit Card
+ORD-2024155,2024-03-21,Small Business,Middle East,Fitness,Resistance Bands Set,2,146,20,233,157,76,Bank Wire
+ORD-2024156,2024-12-12,Small Business,Western Europe,Fitness,Resistance Bands Set,1,168,10,151,100,51,Apple Pay
+ORD-2024157,2024-06-17,Small Business,Asia-Pacific,Electronics,Dell UltraSharp 32,9,794,15,6074,3672,2402,PayPal
+ORD-2024158,2024-02-14,Consumer,Middle East,Fitness,Smart Fitness Tracker,9,120,5,1026,494,532,Bank Wire
+ORD-2024159,2024-07-24,Mid-Market,Latin America,Electronics,Sony WH-1000XM5,7,602,20,3371,2036,1335,Credit Card
+ORD-2024160,2024-12-09,Small Business,Western Europe,Electronics,MacBook Pro 16,3,585,10,1579,1010,569,PayPal
+ORD-2024161,2024-11-30,Small Business,Latin America,Electronics,Sony WH-1000XM5,5,579,15,2460,1213,1247,Apple Pay
+ORD-2024162,2024-01-17,Small Business,Asia-Pacific,Home & Office,Monitor Arm Mount,6,362,0,2172,1008,1164,Apple Pay
+ORD-2024163,2024-07-10,Mid-Market,Western Europe,Apparel,Waterproof Shell Jacket,4,105,15,357,228,129,Bank Wire
+ORD-2024164,2024-03-19,Mid-Market,North America,Electronics,Dell UltraSharp 32,3,618,5,1761,862,899,PayPal
+ORD-2024165,2024-02-08,Consumer,North America,Electronics,iPad Pro 12.9,7,767,10,4832,2441,2391,PayPal
+ORD-2024166,2024-01-27,Mid-Market,Latin America,Apparel,Waterproof Shell Jacket,3,116,15,295,135,160,Credit Card
+ORD-2024167,2024-09-18,Small Business,Asia-Pacific,Electronics,Logitech MX Master 3S,3,623,10,1682,888,794,PayPal
+ORD-2024168,2024-06-11,Enterprise,Western Europe,Fitness,Yoga Mat Pro,1,155,15,131,77,54,Apple Pay
+ORD-2024169,2024-05-24,Mid-Market,Latin America,Fitness,Smart Fitness Tracker,5,127,10,571,377,194,Apple Pay
+ORD-2024170,2024-06-29,Small Business,Middle East,Apparel,Athletic Joggers,8,115,10,828,410,418,Bank Wire
+ORD-2024171,2024-08-15,Small Business,Latin America,Electronics,MacBook Pro 16,9,604,0,5436,2664,2772,PayPal
+ORD-2024172,2024-12-09,Mid-Market,Middle East,Home & Office,Ergonomic Desk Chair,8,311,20,1990,969,1021,Credit Card
+ORD-2024173,2024-04-04,Mid-Market,Western Europe,Home & Office,Electric Standing Desk,6,309,20,1483,948,535,Apple Pay
+ORD-2024174,2024-06-27,Mid-Market,Asia-Pacific,Home & Office,Ergonomic Desk Chair,8,290,15,1972,1373,599,Apple Pay
+ORD-2024175,2024-06-09,Small Business,Latin America,Apparel,Leather Oxford Shoes,8,81,15,550,257,293,Credit Card
+ORD-2024176,2024-03-17,Mid-Market,Middle East,Electronics,MacBook Pro 16,4,645,5,2451,1701,750,PayPal
+ORD-2024177,2024-04-15,Consumer,Western Europe,Home & Office,Electric Standing Desk,7,357,10,2249,1081,1168,Bank Wire
+ORD-2024178,2024-08-10,Consumer,North America,Home & Office,Ergonomic Desk Chair,9,362,5,3095,1876,1219,Apple Pay
+ORD-2024179,2024-01-07,Consumer,Asia-Pacific,Home & Office,LED Desk Lamp,4,342,5,1299,839,460,Bank Wire
+ORD-2024180,2024-12-27,Small Business,North America,Apparel,Athletic Joggers,2,83,15,141,69,72,Credit Card
+ORD-2024181,2024-08-25,Consumer,Asia-Pacific,Apparel,Waterproof Shell Jacket,4,109,20,348,225,123,Bank Wire
+ORD-2024182,2024-07-29,Mid-Market,Latin America,Fitness,Smart Fitness Tracker,6,137,0,822,471,351,Apple Pay
+ORD-2024183,2024-04-02,Enterprise,Asia-Pacific,Home & Office,LED Desk Lamp,6,275,0,1650,1089,561,Credit Card
+ORD-2024184,2024-01-24,Enterprise,Western Europe,Home & Office,Ergonomic Desk Chair,4,352,15,1196,649,547,Apple Pay
+ORD-2024185,2024-04-05,Enterprise,Western Europe,Fitness,Resistance Bands Set,9,143,20,1029,564,465,Apple Pay
+ORD-2024186,2024-09-18,Small Business,Western Europe,Home & Office,LED Desk Lamp,7,307,10,1934,1007,927,Credit Card
+ORD-2024187,2024-02-09,Mid-Market,Middle East,Fitness,Smart Fitness Tracker,5,160,10,720,463,257,Apple Pay
+ORD-2024188,2024-01-14,Small Business,Western Europe,Fitness,Yoga Mat Pro,2,129,20,206,96,110,Credit Card
+ORD-2024189,2024-04-20,Enterprise,Latin America,Home & Office,Electric Standing Desk,8,346,15,2352,1407,945,PayPal
+ORD-2024190,2024-01-28,Enterprise,North America,Electronics,Dell UltraSharp 32,2,775,20,1240,658,582,Apple Pay
+ORD-2024191,2024-10-29,Enterprise,Latin America,Fitness,Resistance Bands Set,3,143,5,407,228,179,Apple Pay
+ORD-2024192,2024-10-02,Enterprise,North America,Home & Office,Ergonomic Desk Chair,8,350,0,2800,1436,1364,PayPal
+ORD-2024193,2024-06-23,Consumer,North America,Fitness,Resistance Bands Set,5,148,0,740,489,251,Apple Pay
+ORD-2024194,2024-11-29,Consumer,Latin America,Fitness,Resistance Bands Set,2,125,20,200,136,64,Credit Card
+ORD-2024195,2024-02-28,Enterprise,Middle East,Electronics,Dell UltraSharp 32,5,579,10,2605,1199,1406,PayPal
+ORD-2024196,2024-09-07,Small Business,Western Europe,Fitness,Adjustable Dumbbell Set,2,137,20,219,146,73,Bank Wire
+ORD-2024197,2024-10-20,Mid-Market,Asia-Pacific,Fitness,Smart Fitness Tracker,4,126,20,403,195,208,PayPal
+ORD-2024198,2024-05-08,Enterprise,Western Europe,Home & Office,Monitor Arm Mount,7,358,20,2004,1384,620,Bank Wire
+ORD-2024199,2024-04-23,Consumer,Western Europe,Home & Office,Ergonomic Desk Chair,2,351,0,702,321,381,Apple Pay
+ORD-2024200,2024-05-26,Enterprise,North America,Electronics,iPad Pro 12.9,5,725,0,3625,1727,1898,Apple Pay
+ORD-2024201,2024-06-17,Enterprise,North America,Home & Office,Electric Standing Desk,9,383,0,3447,1629,1818,Bank Wire
+ORD-2024202,2024-04-11,Mid-Market,Latin America,Electronics,Dell UltraSharp 32,4,726,5,2758,1766,992,Credit Card
+ORD-2024203,2024-05-08,Consumer,Middle East,Apparel,Athletic Joggers,8,92,0,736,391,345,Credit Card
+ORD-2024204,2024-11-11,Consumer,Middle East,Fitness,Yoga Mat Pro,9,152,0,1368,767,601,PayPal
+ORD-2024205,2024-04-19,Small Business,Asia-Pacific,Home & Office,LED Desk Lamp,2,331,10,595,348,247,Apple Pay
+ORD-2024206,2024-08-08,Enterprise,Latin America,Fitness,Yoga Mat Pro,9,140,5,1197,696,501,Bank Wire
+ORD-2024207,2024-12-08,Small Business,Asia-Pacific,Fitness,Resistance Bands Set,6,160,15,816,562,254,Credit Card
+ORD-2024208,2024-10-07,Small Business,Middle East,Electronics,Dell UltraSharp 32,4,793,15,2696,1843,853,PayPal
+ORD-2024209,2024-02-21,Small Business,Middle East,Apparel,Waterproof Shell Jacket,3,102,5,290,174,116,PayPal
+ORD-2024210,2024-03-30,Small Business,Middle East,Home & Office,Ergonomic Desk Chair,9,338,15,2585,1280,1305,Credit Card
+ORD-2024211,2024-10-24,Mid-Market,North America,Apparel,Athletic Joggers,8,117,15,795,375,420,PayPal
+ORD-2024212,2024-02-16,Mid-Market,Middle East,Electronics,iPad Pro 12.9,7,718,20,4020,2697,1323,Credit Card
+ORD-2024213,2024-04-30,Small Business,Western Europe,Home & Office,Ergonomic Desk Chair,8,370,0,2960,1507,1453,Credit Card
+ORD-2024214,2024-02-29,Small Business,Asia-Pacific,Fitness,Yoga Mat Pro,7,156,5,1037,665,372,PayPal
+ORD-2024215,2024-02-18,Consumer,Middle East,Electronics,Sony WH-1000XM5,3,778,0,2334,1176,1158,Credit Card
+ORD-2024216,2024-06-08,Consumer,Middle East,Home & Office,Monitor Arm Mount,9,322,20,2318,1076,1242,Credit Card
+ORD-2024217,2024-03-25,Consumer,Asia-Pacific,Home & Office,Monitor Arm Mount,2,323,20,516,324,192,Credit Card
+ORD-2024218,2024-01-19,Mid-Market,Latin America,Apparel,Athletic Joggers,4,108,5,410,277,133,Credit Card
+ORD-2024219,2024-06-12,Enterprise,Middle East,Home & Office,Monitor Arm Mount,3,323,0,969,490,479,Credit Card
+ORD-2024220,2024-11-11,Enterprise,Middle East,Apparel,Leather Oxford Shoes,2,106,15,180,91,89,Credit Card
+ORD-2024221,2024-10-26,Consumer,Western Europe,Fitness,Yoga Mat Pro,3,129,5,367,256,111,PayPal
+ORD-2024222,2024-10-12,Mid-Market,Asia-Pacific,Home & Office,Ergonomic Desk Chair,4,279,15,948,447,501,Credit Card
+ORD-2024223,2024-07-26,Consumer,North America,Electronics,Logitech MX Master 3S,9,766,15,5859,3145,2714,Apple Pay
+ORD-2024224,2024-01-30,Small Business,Asia-Pacific,Fitness,Resistance Bands Set,7,141,20,789,500,289,Apple Pay
+ORD-2024225,2024-05-28,Mid-Market,North America,Fitness,Adjustable Dumbbell Set,4,153,5,581,375,206,Apple Pay
+ORD-2024226,2024-08-13,Mid-Market,Latin America,Electronics,Logitech MX Master 3S,4,631,5,2397,1283,1114,Credit Card
+ORD-2024227,2024-11-26,Enterprise,Asia-Pacific,Electronics,Sony WH-1000XM5,3,655,5,1866,1119,747,Bank Wire
+ORD-2024228,2024-12-07,Consumer,Asia-Pacific,Home & Office,LED Desk Lamp,5,322,15,1368,933,435,PayPal
+ORD-2024229,2024-06-06,Consumer,Middle East,Home & Office,Electric Standing Desk,8,340,10,2448,1585,863,Apple Pay
+ORD-2024230,2024-03-06,Consumer,Middle East,Home & Office,Ergonomic Desk Chair,2,300,15,510,302,208,PayPal
+ORD-2024231,2024-11-05,Enterprise,North America,Electronics,Sony WH-1000XM5,1,792,0,792,476,316,PayPal
+ORD-2024232,2024-01-25,Consumer,Latin America,Home & Office,Ergonomic Desk Chair,5,287,20,1148,524,624,Credit Card
+ORD-2024233,2024-01-12,Small Business,Middle East,Apparel,Leather Oxford Shoes,4,97,15,329,218,111,Apple Pay
+ORD-2024234,2024-05-30,Small Business,Western Europe,Electronics,Dell UltraSharp 32,3,652,20,1564,1009,555,PayPal
+ORD-2024235,2024-09-09,Mid-Market,Asia-Pacific,Electronics,Sony WH-1000XM5,8,629,10,4528,2230,2298,Credit Card
+ORD-2024236,2024-03-20,Consumer,Asia-Pacific,Electronics,iPad Pro 12.9,1,684,0,684,347,337,Apple Pay
+ORD-2024237,2024-05-03,Small Business,Latin America,Fitness,Adjustable Dumbbell Set,6,142,20,681,457,224,PayPal
+ORD-2024238,2024-06-03,Consumer,Asia-Pacific,Fitness,Adjustable Dumbbell Set,6,165,20,792,433,359,Credit Card
+ORD-2024239,2024-08-06,Mid-Market,Western Europe,Home & Office,LED Desk Lamp,5,274,20,1096,701,395,PayPal
+ORD-2024240,2024-01-13,Enterprise,Middle East,Fitness,Smart Fitness Tracker,5,165,20,660,458,202,PayPal
+ORD-2024241,2024-07-06,Enterprise,Latin America,Electronics,Logitech MX Master 3S,5,772,20,3088,1766,1322,Apple Pay
+ORD-2024242,2024-08-19,Mid-Market,Latin America,Home & Office,Monitor Arm Mount,3,320,15,816,542,274,PayPal
+ORD-2024243,2024-04-14,Enterprise,Middle East,Electronics,Sony WH-1000XM5,1,723,0,723,449,274,Apple Pay
+ORD-2024244,2024-08-29,Mid-Market,North America,Fitness,Adjustable Dumbbell Set,8,144,10,1036,594,442,Apple Pay
+ORD-2024245,2024-12-08,Consumer,North America,Apparel,Waterproof Shell Jacket,8,114,20,729,462,267,Credit Card
+ORD-2024246,2024-03-27,Small Business,Middle East,Apparel,Merino Wool Sweater,1,83,10,74,33,41,Credit Card
+ORD-2024247,2024-08-15,Consumer,Western Europe,Fitness,Adjustable Dumbbell Set,4,162,10,583,289,294,Bank Wire
+ORD-2024248,2024-12-17,Mid-Market,Middle East,Home & Office,Ergonomic Desk Chair,8,305,15,2074,1399,675,Apple Pay
+ORD-2024249,2024-02-18,Enterprise,North America,Fitness,Resistance Bands Set,4,153,0,612,373,239,PayPal
+ORD-2024250,2024-05-28,Mid-Market,Western Europe,Apparel,Waterproof Shell Jacket,4,91,5,345,207,138,Credit Card
+ORD-2024251,2024-01-11,Mid-Market,Latin America,Fitness,Smart Fitness Tracker,1,170,0,170,92,78,Bank Wire
+ORD-2024252,2024-04-23,Enterprise,Western Europe,Home & Office,Monitor Arm Mount,6,307,15,1565,751,814,Apple Pay
+ORD-2024253,2024-05-01,Small Business,North America,Apparel,Waterproof Shell Jacket,7,114,15,678,460,218,PayPal
+ORD-2024254,2024-10-28,Mid-Market,Middle East,Electronics,Logitech MX Master 3S,8,697,15,4739,2196,2543,Apple Pay
+ORD-2024255,2024-01-22,Enterprise,Asia-Pacific,Home & Office,Electric Standing Desk,2,285,20,456,287,169,Bank Wire
+ORD-2024256,2024-03-28,Consumer,Asia-Pacific,Home & Office,LED Desk Lamp,6,341,20,1636,1040,596,Bank Wire
+ORD-2024257,2024-01-30,Consumer,Asia-Pacific,Apparel,Waterproof Shell Jacket,7,102,0,714,457,257,Bank Wire
+ORD-2024258,2024-03-12,Small Business,Western Europe,Fitness,Yoga Mat Pro,1,160,10,144,100,44,Apple Pay
+ORD-2024259,2024-01-10,Mid-Market,Western Europe,Apparel,Leather Oxford Shoes,5,108,10,486,241,245,Credit Card
+ORD-2024260,2024-03-26,Small Business,North America,Fitness,Adjustable Dumbbell Set,6,165,0,990,682,308,Credit Card
+ORD-2024261,2024-03-10,Consumer,Asia-Pacific,Fitness,Smart Fitness Tracker,8,147,5,1117,605,512,Credit Card
+ORD-2024262,2024-08-14,Small Business,Western Europe,Fitness,Resistance Bands Set,5,156,20,624,285,339,PayPal
+ORD-2024263,2024-01-20,Enterprise,North America,Fitness,Resistance Bands Set,1,151,15,128,73,55,Bank Wire
+ORD-2024264,2024-09-10,Consumer,Western Europe,Fitness,Adjustable Dumbbell Set,8,156,5,1185,711,474,Apple Pay
+ORD-2024265,2024-07-29,Consumer,North America,Fitness,Smart Fitness Tracker,6,157,15,800,516,284,PayPal
+ORD-2024266,2024-06-21,Small Business,Asia-Pacific,Electronics,iPad Pro 12.9,4,584,0,2336,1304,1032,PayPal
+ORD-2024267,2024-09-07,Consumer,North America,Apparel,Leather Oxford Shoes,9,116,20,835,411,424,PayPal
+ORD-2024268,2024-07-16,Consumer,Asia-Pacific,Fitness,Resistance Bands Set,7,151,20,845,419,426,Credit Card
+ORD-2024269,2024-04-16,Enterprise,Asia-Pacific,Home & Office,Electric Standing Desk,1,346,20,276,172,104,Bank Wire
+ORD-2024270,2024-02-04,Consumer,Middle East,Electronics,Dell UltraSharp 32,3,650,20,1560,889,671,Credit Card
+ORD-2024271,2024-03-10,Small Business,Middle East,Home & Office,Monitor Arm Mount,4,278,5,1056,715,341,Apple Pay
+ORD-2024272,2024-06-22,Mid-Market,North America,Electronics,iPad Pro 12.9,9,747,0,6723,4633,2090,PayPal
+ORD-2024273,2024-12-07,Mid-Market,Western Europe,Fitness,Resistance Bands Set,7,132,15,785,507,278,PayPal
+ORD-2024274,2024-07-23,Enterprise,Western Europe,Fitness,Resistance Bands Set,6,122,20,585,388,197,Bank Wire
+ORD-2024275,2024-01-21,Consumer,Western Europe,Fitness,Yoga Mat Pro,4,136,10,489,262,227,Bank Wire
+ORD-2024276,2024-05-22,Small Business,Asia-Pacific,Apparel,Waterproof Shell Jacket,7,95,5,631,350,281,Apple Pay
+ORD-2024277,2024-01-21,Mid-Market,Middle East,Home & Office,Ergonomic Desk Chair,2,290,5,551,274,277,Credit Card
+ORD-2024278,2024-06-09,Enterprise,North America,Apparel,Athletic Joggers,2,108,5,205,96,109,PayPal
+ORD-2024279,2024-03-01,Small Business,North America,Apparel,Merino Wool Sweater,2,96,10,172,80,92,PayPal
+ORD-2024280,2024-07-16,Mid-Market,Western Europe,Electronics,MacBook Pro 16,2,678,20,1084,526,558,PayPal
+ORD-2024281,2024-04-07,Mid-Market,Western Europe,Fitness,Adjustable Dumbbell Set,3,155,15,395,183,212,Apple Pay
+ORD-2024282,2024-04-08,Mid-Market,Asia-Pacific,Home & Office,Monitor Arm Mount,3,372,20,892,438,454,Bank Wire
+ORD-2024283,2024-05-22,Mid-Market,Latin America,Fitness,Yoga Mat Pro,8,126,15,856,571,285,Bank Wire
+ORD-2024284,2024-01-26,Small Business,Western Europe,Electronics,MacBook Pro 16,1,559,0,559,264,295,Bank Wire
+ORD-2024285,2024-08-14,Mid-Market,North America,Fitness,Resistance Bands Set,6,139,0,834,458,376,Bank Wire
+ORD-2024286,2024-09-24,Consumer,Asia-Pacific,Apparel,Merino Wool Sweater,8,91,15,618,395,223,Credit Card
+ORD-2024287,2024-11-11,Mid-Market,Western Europe,Electronics,MacBook Pro 16,4,697,5,2648,1401,1247,Bank Wire
+ORD-2024288,2024-12-28,Mid-Market,Asia-Pacific,Electronics,Dell UltraSharp 32,8,684,15,4651,2327,2324,Apple Pay
+ORD-2024289,2024-04-16,Small Business,Latin America,Fitness,Adjustable Dumbbell Set,5,143,10,643,431,212,Apple Pay
+ORD-2024290,2024-04-18,Consumer,North America,Apparel,Waterproof Shell Jacket,7,85,20,476,252,224,Apple Pay
+ORD-2024291,2024-05-07,Consumer,Asia-Pacific,Home & Office,Electric Standing Desk,5,343,0,1715,784,931,Apple Pay
+ORD-2024292,2024-07-07,Consumer,Middle East,Home & Office,Electric Standing Desk,9,376,5,3214,1535,1679,Apple Pay
+ORD-2024293,2024-12-29,Mid-Market,Asia-Pacific,Fitness,Adjustable Dumbbell Set,9,139,5,1188,777,411,Apple Pay
+ORD-2024294,2024-10-03,Small Business,Western Europe,Fitness,Yoga Mat Pro,8,123,0,984,501,483,Apple Pay
+ORD-2024295,2024-12-03,Consumer,Asia-Pacific,Home & Office,Ergonomic Desk Chair,9,327,0,2943,1943,1000,Bank Wire
+ORD-2024296,2024-10-15,Consumer,Asia-Pacific,Home & Office,LED Desk Lamp,4,366,5,1390,738,652,Apple Pay
+ORD-2024297,2024-05-03,Small Business,North America,Fitness,Resistance Bands Set,1,165,10,148,92,56,Credit Card
+ORD-2024298,2024-11-08,Consumer,Middle East,Apparel,Waterproof Shell Jacket,5,96,15,408,279,129,Apple Pay
+ORD-2024299,2024-11-28,Small Business,Asia-Pacific,Electronics,MacBook Pro 16,2,721,10,1297,583,714,Bank Wire
+ORD-2024300,2024-11-23,Enterprise,Latin America,Apparel,Waterproof Shell Jacket,3,96,10,259,143,116,Credit Card
+ORD-2024301,2024-08-02,Mid-Market,Western Europe,Fitness,Resistance Bands Set,6,167,10,901,624,277,Bank Wire
+ORD-2024302,2024-06-21,Small Business,North America,Home & Office,LED Desk Lamp,7,351,0,2457,1292,1165,Bank Wire
+ORD-2024303,2024-04-29,Consumer,Asia-Pacific,Electronics,iPad Pro 12.9,6,583,15,2973,1409,1564,PayPal
+ORD-2024304,2024-05-21,Enterprise,Latin America,Electronics,MacBook Pro 16,5,629,10,2830,1790,1040,Credit Card
+ORD-2024305,2024-09-20,Small Business,Latin America,Fitness,Smart Fitness Tracker,2,156,0,312,217,95,Bank Wire
+ORD-2024306,2024-06-06,Mid-Market,Middle East,Apparel,Leather Oxford Shoes,3,90,5,256,151,105,Credit Card
+ORD-2024307,2024-06-20,Consumer,Middle East,Electronics,iPad Pro 12.9,1,744,0,744,503,241,Apple Pay
+ORD-2024308,2024-03-05,Small Business,Western Europe,Apparel,Merino Wool Sweater,8,100,15,680,460,220,PayPal
+ORD-2024309,2024-01-26,Consumer,North America,Apparel,Athletic Joggers,4,97,20,310,188,122,Apple Pay
+ORD-2024310,2024-11-06,Small Business,Asia-Pacific,Electronics,Logitech MX Master 3S,7,586,15,3486,1903,1583,Credit Card
+ORD-2024311,2024-06-10,Mid-Market,Latin America,Apparel,Waterproof Shell Jacket,7,118,0,826,372,454,Credit Card
+ORD-2024312,2024-05-15,Consumer,Western Europe,Fitness,Yoga Mat Pro,3,134,0,402,226,176,Credit Card
+ORD-2024313,2024-08-24,Small Business,Asia-Pacific,Electronics,Dell UltraSharp 32,4,606,20,1939,1132,807,Credit Card
+ORD-2024314,2024-12-18,Small Business,Asia-Pacific,Home & Office,Ergonomic Desk Chair,7,374,0,2618,1321,1297,PayPal
+ORD-2024315,2024-12-09,Enterprise,North America,Apparel,Waterproof Shell Jacket,5,91,0,455,217,238,Bank Wire
+ORD-2024316,2024-07-10,Consumer,North America,Apparel,Athletic Joggers,3,97,20,232,127,105,Apple Pay
+ORD-2024317,2024-04-18,Enterprise,Middle East,Apparel,Leather Oxford Shoes,1,112,15,95,62,33,Apple Pay
+ORD-2024318,2024-08-02,Consumer,Middle East,Electronics,Dell UltraSharp 32,1,709,5,673,346,327,Apple Pay
+ORD-2024319,2024-05-26,Mid-Market,Latin America,Home & Office,Ergonomic Desk Chair,8,368,0,2944,1622,1322,Bank Wire
+ORD-2024320,2024-10-11,Consumer,Western Europe,Apparel,Merino Wool Sweater,9,105,10,850,508,342,PayPal
+ORD-2024321,2024-07-19,Mid-Market,Asia-Pacific,Home & Office,Electric Standing Desk,9,291,10,2357,1487,870,Bank Wire
+ORD-2024322,2024-12-15,Mid-Market,Middle East,Electronics,Sony WH-1000XM5,8,765,0,6120,3399,2721,Bank Wire
+ORD-2024323,2024-12-22,Consumer,Middle East,Apparel,Merino Wool Sweater,5,111,0,555,350,205,Credit Card
+ORD-2024324,2024-04-16,Mid-Market,Middle East,Home & Office,Monitor Arm Mount,2,323,20,516,267,249,Credit Card
+ORD-2024325,2024-12-19,Small Business,Latin America,Home & Office,Electric Standing Desk,3,329,15,838,569,269,Bank Wire
+ORD-2024326,2024-06-08,Small Business,Asia-Pacific,Apparel,Leather Oxford Shoes,9,81,15,619,385,234,Bank Wire
+ORD-2024327,2024-01-07,Enterprise,Latin America,Home & Office,Monitor Arm Mount,4,277,0,1108,594,514,Apple Pay
+ORD-2024328,2024-05-05,Small Business,Western Europe,Apparel,Merino Wool Sweater,1,84,20,67,39,28,Apple Pay
+ORD-2024329,2024-11-16,Mid-Market,Latin America,Fitness,Resistance Bands Set,4,128,5,486,277,209,Apple Pay
+ORD-2024330,2024-02-14,Consumer,Asia-Pacific,Fitness,Smart Fitness Tracker,4,124,10,446,243,203,PayPal
+ORD-2024331,2024-09-01,Enterprise,Asia-Pacific,Apparel,Waterproof Shell Jacket,5,112,20,448,308,140,Credit Card
+ORD-2024332,2024-07-19,Mid-Market,Latin America,Apparel,Athletic Joggers,1,84,10,75,51,24,Apple Pay
+ORD-2024333,2024-06-13,Enterprise,Latin America,Electronics,Logitech MX Master 3S,9,696,5,5950,2927,3023,Credit Card
+ORD-2024334,2024-02-11,Consumer,Asia-Pacific,Apparel,Athletic Joggers,2,90,10,162,80,82,Credit Card
+ORD-2024335,2024-10-26,Enterprise,Latin America,Home & Office,LED Desk Lamp,7,341,0,2387,1420,967,Apple Pay
+ORD-2024336,2024-12-19,Consumer,Middle East,Electronics,Dell UltraSharp 32,4,656,0,2624,1662,962,PayPal
+ORD-2024337,2024-09-06,Small Business,North America,Fitness,Yoga Mat Pro,3,130,20,312,151,161,Credit Card
+ORD-2024338,2024-05-26,Mid-Market,Latin America,Electronics,Logitech MX Master 3S,5,708,20,2832,1598,1234,PayPal
+ORD-2024339,2024-07-02,Enterprise,Latin America,Electronics,Dell UltraSharp 32,4,673,5,2557,1754,803,Credit Card
+ORD-2024340,2024-04-17,Small Business,Western Europe,Apparel,Athletic Joggers,4,113,5,429,245,184,Bank Wire
+ORD-2024341,2024-09-05,Small Business,Asia-Pacific,Electronics,Dell UltraSharp 32,3,702,10,1895,1276,619,Bank Wire
+ORD-2024342,2024-08-26,Consumer,Asia-Pacific,Home & Office,Monitor Arm Mount,4,375,10,1350,675,675,Credit Card
+ORD-2024343,2024-12-02,Enterprise,Middle East,Fitness,Resistance Bands Set,1,135,10,121,63,58,Bank Wire
+ORD-2024344,2024-07-07,Consumer,Middle East,Apparel,Merino Wool Sweater,7,81,20,453,207,246,Bank Wire
+ORD-2024345,2024-05-05,Small Business,Western Europe,Home & Office,Electric Standing Desk,5,317,5,1505,802,703,Bank Wire
+ORD-2024346,2024-10-29,Mid-Market,North America,Fitness,Yoga Mat Pro,3,174,5,495,325,170,Bank Wire
+ORD-2024347,2024-10-18,Enterprise,Asia-Pacific,Home & Office,LED Desk Lamp,9,353,20,2541,1147,1394,Apple Pay
+ORD-2024348,2024-09-13,Consumer,North America,Electronics,iPad Pro 12.9,4,734,0,2936,1851,1085,PayPal
+ORD-2024349,2024-03-12,Consumer,Asia-Pacific,Fitness,Resistance Bands Set,3,154,20,369,253,116,PayPal
+ORD-2024350,2024-12-23,Consumer,Asia-Pacific,Electronics,Logitech MX Master 3S,2,572,5,1086,704,382,Apple Pay
+ORD-2024351,2024-01-13,Mid-Market,Western Europe,Home & Office,Monitor Arm Mount,8,309,15,2101,1398,703,Bank Wire
+ORD-2024352,2024-08-08,Mid-Market,Asia-Pacific,Fitness,Smart Fitness Tracker,7,145,0,1015,596,419,PayPal
+ORD-2024353,2024-02-22,Consumer,Middle East,Electronics,Logitech MX Master 3S,3,720,0,2160,1360,800,Apple Pay
+ORD-2024354,2024-02-23,Small Business,Western Europe,Home & Office,Electric Standing Desk,4,353,5,1341,684,657,Apple Pay
+ORD-2024355,2024-11-30,Small Business,Middle East,Home & Office,Monitor Arm Mount,6,344,15,1754,851,903,Bank Wire
+ORD-2024356,2024-10-16,Consumer,Latin America,Fitness,Yoga Mat Pro,2,165,10,297,153,144,Credit Card
+ORD-2024357,2024-12-14,Mid-Market,North America,Apparel,Merino Wool Sweater,2,91,0,182,84,98,PayPal
+ORD-2024358,2024-11-15,Small Business,Middle East,Fitness,Adjustable Dumbbell Set,9,139,10,1125,665,460,PayPal
+ORD-2024359,2024-11-02,Mid-Market,Latin America,Fitness,Resistance Bands Set,3,169,15,430,266,164,Credit Card
+ORD-2024360,2024-11-11,Enterprise,Western Europe,Home & Office,LED Desk Lamp,9,362,5,3095,1500,1595,Credit Card
+ORD-2024361,2024-01-24,Enterprise,Middle East,Electronics,Dell UltraSharp 32,1,728,0,728,381,347,Credit Card
+ORD-2024362,2024-10-19,Small Business,Asia-Pacific,Fitness,Smart Fitness Tracker,1,139,15,118,78,40,Bank Wire
+ORD-2024363,2024-08-14,Small Business,Western Europe,Apparel,Leather Oxford Shoes,9,82,0,738,366,372,Credit Card
+ORD-2024364,2024-05-16,Small Business,Western Europe,Electronics,iPad Pro 12.9,9,778,0,7002,4544,2458,Bank Wire
+ORD-2024365,2024-08-03,Enterprise,Western Europe,Electronics,Logitech MX Master 3S,8,721,5,5479,3475,2004,PayPal
+ORD-2024366,2024-11-05,Small Business,Middle East,Fitness,Resistance Bands Set,6,151,20,724,377,347,Bank Wire
+ORD-2024367,2024-02-23,Mid-Market,North America,Electronics,MacBook Pro 16,5,622,20,2488,1547,941,Credit Card
+ORD-2024368,2024-05-17,Small Business,North America,Electronics,Sony WH-1000XM5,3,680,0,2040,1380,660,Apple Pay
+ORD-2024369,2024-08-15,Enterprise,Asia-Pacific,Fitness,Adjustable Dumbbell Set,6,161,15,821,424,397,Credit Card
+ORD-2024370,2024-10-09,Small Business,Western Europe,Fitness,Resistance Bands Set,6,119,10,642,350,292,Credit Card
+ORD-2024371,2024-02-02,Enterprise,Middle East,Home & Office,Ergonomic Desk Chair,7,338,15,2011,1227,784,Apple Pay
+ORD-2024372,2024-05-14,Enterprise,Asia-Pacific,Fitness,Resistance Bands Set,4,166,0,664,389,275,Apple Pay
+ORD-2024373,2024-02-28,Mid-Market,Middle East,Electronics,MacBook Pro 16,4,786,20,2515,1275,1240,PayPal
+ORD-2024374,2024-05-03,Consumer,Middle East,Home & Office,Monitor Arm Mount,7,357,15,2124,1464,660,Credit Card
+ORD-2024375,2024-11-26,Mid-Market,Latin America,Apparel,Merino Wool Sweater,6,94,10,507,320,187,Bank Wire
+ORD-2024376,2024-10-27,Enterprise,Western Europe,Home & Office,Ergonomic Desk Chair,3,290,20,696,404,292,Apple Pay
+ORD-2024377,2024-11-16,Consumer,Latin America,Apparel,Athletic Joggers,1,116,15,98,57,41,Bank Wire
+ORD-2024378,2024-01-05,Enterprise,Western Europe,Electronics,Sony WH-1000XM5,4,716,10,2577,1188,1389,Credit Card
+ORD-2024379,2024-01-15,Mid-Market,Asia-Pacific,Home & Office,Electric Standing Desk,5,395,5,1876,1100,776,PayPal
+ORD-2024380,2024-08-22,Small Business,Middle East,Electronics,Dell UltraSharp 32,1,588,10,529,342,187,Bank Wire
+ORD-2024381,2024-06-17,Mid-Market,Latin America,Apparel,Leather Oxford Shoes,4,116,10,417,289,128,Credit Card
+ORD-2024382,2024-09-30,Enterprise,Middle East,Fitness,Smart Fitness Tracker,3,128,5,364,253,111,Apple Pay
+ORD-2024383,2024-05-04,Consumer,Middle East,Fitness,Smart Fitness Tracker,2,158,10,284,164,120,PayPal
+ORD-2024384,2024-01-08,Mid-Market,Middle East,Home & Office,LED Desk Lamp,4,303,0,1212,684,528,Credit Card
+ORD-2024385,2024-04-02,Mid-Market,Western Europe,Apparel,Leather Oxford Shoes,6,103,20,494,223,271,Credit Card
+ORD-2024386,2024-09-11,Mid-Market,Latin America,Fitness,Resistance Bands Set,5,131,15,556,274,282,Bank Wire
+ORD-2024387,2024-04-10,Mid-Market,Asia-Pacific,Fitness,Resistance Bands Set,9,141,15,1078,663,415,PayPal
+ORD-2024388,2024-05-08,Mid-Market,Asia-Pacific,Fitness,Adjustable Dumbbell Set,9,161,0,1449,882,567,Apple Pay
+ORD-2024389,2024-12-24,Enterprise,Asia-Pacific,Electronics,Dell UltraSharp 32,1,757,15,643,351,292,Credit Card
+ORD-2024390,2024-04-23,Enterprise,Latin America,Apparel,Waterproof Shell Jacket,1,88,20,70,48,22,Bank Wire
+ORD-2024391,2024-04-14,Enterprise,Asia-Pacific,Home & Office,LED Desk Lamp,5,276,0,1380,672,708,Apple Pay
+ORD-2024392,2024-07-15,Small Business,Middle East,Electronics,MacBook Pro 16,8,703,10,5061,2690,2371,Bank Wire
+ORD-2024393,2024-10-29,Consumer,Latin America,Apparel,Merino Wool Sweater,7,116,20,649,360,289,Apple Pay
+ORD-2024394,2024-08-29,Consumer,Latin America,Apparel,Waterproof Shell Jacket,4,88,0,352,184,168,Apple Pay
+ORD-2024395,2024-11-19,Mid-Market,Latin America,Apparel,Waterproof Shell Jacket,3,100,10,270,127,143,Bank Wire
+ORD-2024396,2024-01-24,Small Business,Middle East,Fitness,Smart Fitness Tracker,8,155,10,1116,646,470,Credit Card
+ORD-2024397,2024-12-30,Consumer,Latin America,Apparel,Merino Wool Sweater,5,95,20,380,243,137,Credit Card
+ORD-2024398,2024-11-21,Mid-Market,Latin America,Electronics,MacBook Pro 16,5,740,20,2960,1556,1404,Bank Wire
+ORD-2024399,2024-11-27,Small Business,Latin America,Fitness,Smart Fitness Tracker,6,159,15,810,514,296,Credit Card
+ORD-2024400,2024-07-08,Mid-Market,Western Europe,Electronics,Sony WH-1000XM5,5,737,10,3316,1717,1599,Credit Card
+ORD-2024401,2024-08-15,Consumer,Asia-Pacific,Home & Office,Monitor Arm Mount,7,300,20,1680,983,697,Apple Pay
+ORD-2024402,2024-02-01,Mid-Market,Western Europe,Electronics,Dell UltraSharp 32,2,755,0,1510,780,730,Apple Pay
+ORD-2024403,2024-11-19,Enterprise,North America,Home & Office,Electric Standing Desk,4,352,10,1267,810,457,PayPal
+ORD-2024404,2024-10-18,Consumer,North America,Electronics,MacBook Pro 16,1,795,5,755,471,284,Apple Pay
+ORD-2024405,2024-06-15,Consumer,North America,Apparel,Athletic Joggers,9,91,10,737,341,396,Credit Card
+ORD-2024406,2024-01-03,Enterprise,Latin America,Electronics,iPad Pro 12.9,1,734,15,623,384,239,Credit Card
+ORD-2024407,2024-09-27,Enterprise,North America,Apparel,Leather Oxford Shoes,4,110,15,374,204,170,Bank Wire
+ORD-2024408,2024-03-18,Small Business,Asia-Pacific,Apparel,Leather Oxford Shoes,1,117,20,93,44,49,Apple Pay
+ORD-2024409,2024-06-16,Mid-Market,Asia-Pacific,Apparel,Merino Wool Sweater,3,97,20,232,146,86,PayPal
+ORD-2024410,2024-07-22,Consumer,Asia-Pacific,Fitness,Adjustable Dumbbell Set,9,127,15,971,588,383,PayPal
+ORD-2024411,2024-11-23,Enterprise,Asia-Pacific,Fitness,Yoga Mat Pro,7,136,10,856,567,289,Bank Wire
+ORD-2024412,2024-11-23,Small Business,Western Europe,Apparel,Athletic Joggers,1,101,20,80,42,38,Bank Wire
+ORD-2024413,2024-02-26,Enterprise,North America,Fitness,Adjustable Dumbbell Set,5,122,10,549,295,254,PayPal
+ORD-2024414,2024-07-15,Mid-Market,Asia-Pacific,Fitness,Adjustable Dumbbell Set,2,130,15,221,153,68,Apple Pay
+ORD-2024415,2024-11-05,Small Business,Asia-Pacific,Home & Office,LED Desk Lamp,8,398,5,3024,2072,952,Credit Card
+ORD-2024416,2024-01-17,Mid-Market,Middle East,Electronics,Sony WH-1000XM5,2,804,20,1286,893,393,Credit Card
+ORD-2024417,2024-08-06,Small Business,Western Europe,Electronics,Sony WH-1000XM5,1,655,10,589,354,235,PayPal
+ORD-2024418,2024-10-06,Small Business,Western Europe,Electronics,Dell UltraSharp 32,6,804,10,4341,2599,1742,Bank Wire
+ORD-2024419,2024-05-27,Enterprise,Asia-Pacific,Electronics,iPad Pro 12.9,3,714,5,2034,1051,983,PayPal
+ORD-2024420,2024-03-13,Mid-Market,Asia-Pacific,Home & Office,LED Desk Lamp,1,358,0,358,208,150,Bank Wire
+ORD-2024421,2024-03-05,Small Business,Middle East,Fitness,Yoga Mat Pro,3,124,5,353,212,141,Bank Wire
+ORD-2024422,2024-09-04,Consumer,Middle East,Home & Office,LED Desk Lamp,6,352,0,2112,977,1135,Credit Card
+ORD-2024423,2024-10-31,Consumer,Latin America,Electronics,Logitech MX Master 3S,9,669,0,6021,3041,2980,Credit Card
+ORD-2024424,2024-10-09,Mid-Market,North America,Electronics,Sony WH-1000XM5,6,637,15,3248,2069,1179,Bank Wire
+ORD-2024425,2024-03-13,Enterprise,Latin America,Electronics,iPad Pro 12.9,3,705,0,2115,1240,875,Credit Card
+ORD-2024426,2024-06-16,Enterprise,Latin America,Home & Office,Electric Standing Desk,7,297,15,1767,801,966,Bank Wire
+ORD-2024427,2024-10-16,Consumer,Middle East,Electronics,MacBook Pro 16,8,644,5,4894,3098,1796,PayPal
+ORD-2024428,2024-10-30,Mid-Market,Western Europe,Electronics,Dell UltraSharp 32,7,770,10,4851,2781,2070,Bank Wire
+ORD-2024429,2024-11-16,Mid-Market,Western Europe,Electronics,Dell UltraSharp 32,7,744,10,4687,3012,1675,Credit Card
+ORD-2024430,2024-10-21,Enterprise,Asia-Pacific,Electronics,Logitech MX Master 3S,1,777,0,777,523,254,Credit Card
+ORD-2024431,2024-09-14,Enterprise,Asia-Pacific,Home & Office,Monitor Arm Mount,6,326,15,1662,970,692,Bank Wire
+ORD-2024432,2024-03-03,Mid-Market,Western Europe,Electronics,iPad Pro 12.9,6,756,5,4309,1962,2347,Apple Pay
+ORD-2024433,2024-11-05,Consumer,Middle East,Home & Office,Monitor Arm Mount,8,390,0,3120,2000,1120,PayPal
+ORD-2024434,2024-04-11,Enterprise,North America,Home & Office,Electric Standing Desk,6,286,20,1372,641,731,PayPal
+ORD-2024435,2024-04-18,Consumer,Western Europe,Fitness,Adjustable Dumbbell Set,4,143,15,486,253,233,Apple Pay
+ORD-2024436,2024-08-21,Small Business,Asia-Pacific,Fitness,Resistance Bands Set,7,133,20,744,400,344,Apple Pay
+ORD-2024437,2024-10-28,Consumer,Middle East,Fitness,Adjustable Dumbbell Set,7,172,15,1023,622,401,Credit Card
+ORD-2024438,2024-07-31,Enterprise,North America,Home & Office,Electric Standing Desk,9,281,20,2023,1164,859,PayPal
+ORD-2024439,2024-03-16,Consumer,Western Europe,Electronics,Logitech MX Master 3S,7,672,0,4704,2132,2572,Credit Card
+ORD-2024440,2024-02-15,Small Business,Middle East,Electronics,Logitech MX Master 3S,4,612,20,1958,962,996,Apple Pay
+ORD-2024441,2024-04-17,Mid-Market,Middle East,Electronics,Sony WH-1000XM5,2,629,0,1258,674,584,PayPal
+ORD-2024442,2024-05-01,Consumer,Western Europe,Apparel,Leather Oxford Shoes,3,89,0,267,134,133,Bank Wire
+ORD-2024443,2024-05-31,Mid-Market,Asia-Pacific,Home & Office,LED Desk Lamp,8,398,0,3184,1763,1421,PayPal
+ORD-2024444,2024-06-23,Mid-Market,Asia-Pacific,Electronics,Dell UltraSharp 32,1,605,5,574,317,257,PayPal
+ORD-2024445,2024-08-26,Small Business,Middle East,Electronics,Sony WH-1000XM5,1,681,20,544,290,254,Apple Pay
+ORD-2024446,2024-09-25,Consumer,North America,Fitness,Yoga Mat Pro,5,161,10,724,362,362,Credit Card
+ORD-2024447,2024-03-02,Enterprise,North America,Apparel,Merino Wool Sweater,1,113,10,101,57,44,Bank Wire
+ORD-2024448,2024-10-08,Small Business,Asia-Pacific,Electronics,Logitech MX Master 3S,9,742,0,6678,3899,2779,Credit Card
+ORD-2024449,2024-12-29,Consumer,North America,Electronics,MacBook Pro 16,3,626,20,1502,744,758,PayPal
+ORD-2024450,2024-06-29,Consumer,Asia-Pacific,Electronics,Logitech MX Master 3S,9,761,10,6164,3206,2958,PayPal
+ORD-2024451,2024-07-03,Consumer,Latin America,Fitness,Resistance Bands Set,8,173,15,1176,689,487,Credit Card
+ORD-2024452,2024-02-14,Enterprise,Western Europe,Electronics,Sony WH-1000XM5,6,665,20,3192,1882,1310,Credit Card
+ORD-2024453,2024-07-24,Mid-Market,Asia-Pacific,Apparel,Athletic Joggers,8,83,15,564,319,245,Apple Pay
+ORD-2024454,2024-12-12,Small Business,Asia-Pacific,Apparel,Waterproof Shell Jacket,2,105,0,210,114,96,Bank Wire
+ORD-2024455,2024-07-25,Small Business,Middle East,Fitness,Yoga Mat Pro,9,151,0,1359,809,550,Credit Card
+ORD-2024456,2024-07-27,Small Business,Western Europe,Fitness,Adjustable Dumbbell Set,3,156,15,397,252,145,Bank Wire
+ORD-2024457,2024-08-02,Mid-Market,Latin America,Fitness,Adjustable Dumbbell Set,3,143,5,407,273,134,Credit Card
+ORD-2024458,2024-09-25,Mid-Market,Latin America,Electronics,Sony WH-1000XM5,6,652,10,3520,1747,1773,Credit Card
+ORD-2024459,2024-10-26,Mid-Market,Latin America,Apparel,Waterproof Shell Jacket,1,102,5,96,52,44,PayPal
+ORD-2024460,2024-03-02,Small Business,North America,Apparel,Waterproof Shell Jacket,6,101,10,545,373,172,PayPal
+ORD-2024461,2024-06-04,Small Business,Middle East,Electronics,MacBook Pro 16,5,733,20,2932,1799,1133,Bank Wire
+ORD-2024462,2024-07-25,Consumer,Middle East,Home & Office,Electric Standing Desk,4,331,15,1125,723,402,Apple Pay
+ORD-2024463,2024-09-13,Small Business,Latin America,Fitness,Adjustable Dumbbell Set,5,133,20,532,356,176,Bank Wire
+ORD-2024464,2024-10-28,Small Business,Latin America,Apparel,Merino Wool Sweater,2,110,0,220,148,72,Bank Wire
+ORD-2024465,2024-04-13,Consumer,Middle East,Fitness,Resistance Bands Set,6,124,10,669,436,233,Credit Card
+ORD-2024466,2024-05-19,Small Business,Asia-Pacific,Fitness,Yoga Mat Pro,3,174,10,469,278,191,Apple Pay
+ORD-2024467,2024-07-05,Consumer,North America,Electronics,Logitech MX Master 3S,5,756,10,3402,1542,1860,Apple Pay
+ORD-2024468,2024-06-14,Mid-Market,Asia-Pacific,Fitness,Adjustable Dumbbell Set,8,153,15,1040,478,562,Bank Wire
+ORD-2024469,2024-01-03,Consumer,Western Europe,Fitness,Smart Fitness Tracker,5,167,5,793,434,359,Apple Pay
+ORD-2024470,2024-03-14,Consumer,Asia-Pacific,Electronics,Logitech MX Master 3S,9,612,10,4957,3306,1651,Bank Wire
+ORD-2024471,2024-07-09,Enterprise,Latin America,Home & Office,Electric Standing Desk,5,399,15,1695,972,723,PayPal
+ORD-2024472,2024-01-14,Mid-Market,Latin America,Electronics,Sony WH-1000XM5,2,646,5,1227,585,642,Bank Wire
+ORD-2024473,2024-02-28,Consumer,Middle East,Electronics,iPad Pro 12.9,9,721,5,6164,3628,2536,Credit Card
+ORD-2024474,2024-05-22,Enterprise,Latin America,Fitness,Smart Fitness Tracker,8,158,5,1200,740,460,Credit Card
+ORD-2024475,2024-04-21,Small Business,Western Europe,Home & Office,Electric Standing Desk,1,350,10,315,177,138,Apple Pay
+ORD-2024476,2024-07-02,Small Business,Asia-Pacific,Home & Office,Monitor Arm Mount,2,345,5,655,445,210,PayPal
+ORD-2024477,2024-10-25,Small Business,Latin America,Apparel,Leather Oxford Shoes,6,107,20,513,285,228,PayPal
+ORD-2024478,2024-05-23,Consumer,Latin America,Electronics,iPad Pro 12.9,7,682,10,4296,2884,1412,Apple Pay
+ORD-2024479,2024-06-27,Consumer,North America,Apparel,Merino Wool Sweater,4,88,0,352,213,139,Bank Wire
+ORD-2024480,2024-08-18,Small Business,Latin America,Electronics,Logitech MX Master 3S,5,806,0,4030,2487,1543,PayPal
+ORD-2024481,2024-01-11,Mid-Market,Asia-Pacific,Home & Office,Ergonomic Desk Chair,2,281,15,477,234,243,Bank Wire
+ORD-2024482,2024-02-21,Small Business,Western Europe,Fitness,Yoga Mat Pro,5,148,20,592,378,214,Apple Pay
+ORD-2024483,2024-12-25,Small Business,Latin America,Fitness,Resistance Bands Set,8,131,15,890,584,306,Apple Pay
+ORD-2024484,2024-02-05,Enterprise,Middle East,Electronics,iPad Pro 12.9,5,596,15,2533,1232,1301,Apple Pay
+ORD-2024485,2024-01-11,Consumer,Western Europe,Home & Office,LED Desk Lamp,5,333,5,1581,911,670,PayPal
+ORD-2024486,2024-11-11,Small Business,Latin America,Fitness,Smart Fitness Tracker,7,123,5,817,535,282,PayPal
+ORD-2024487,2024-03-29,Mid-Market,North America,Electronics,Sony WH-1000XM5,2,725,0,1450,965,485,Bank Wire
+ORD-2024488,2024-02-01,Enterprise,Middle East,Apparel,Athletic Joggers,9,116,5,991,494,497,PayPal
+ORD-2024489,2024-02-07,Small Business,Latin America,Electronics,MacBook Pro 16,3,723,0,2169,1442,727,PayPal
+ORD-2024490,2024-12-10,Consumer,Latin America,Fitness,Smart Fitness Tracker,8,129,0,1032,675,357,PayPal
+ORD-2024491,2024-12-11,Small Business,North America,Apparel,Merino Wool Sweater,6,89,0,534,339,195,Bank Wire
+ORD-2024492,2024-08-09,Enterprise,Latin America,Home & Office,LED Desk Lamp,3,299,20,717,395,322,Apple Pay
+ORD-2024493,2024-07-18,Mid-Market,Middle East,Home & Office,Monitor Arm Mount,7,345,0,2415,1561,854,Apple Pay
+ORD-2024494,2024-07-05,Small Business,Asia-Pacific,Apparel,Waterproof Shell Jacket,1,108,20,86,55,31,PayPal
+ORD-2024495,2024-09-10,Consumer,North America,Fitness,Adjustable Dumbbell Set,5,167,15,709,319,390,Bank Wire
+ORD-2024496,2024-07-23,Small Business,North America,Home & Office,Electric Standing Desk,1,291,0,291,171,120,Credit Card
+ORD-2024497,2024-04-18,Consumer,Western Europe,Electronics,Sony WH-1000XM5,7,628,10,3956,2015,1941,Bank Wire
+ORD-2024498,2024-07-07,Small Business,North America,Electronics,Logitech MX Master 3S,7,679,5,4515,2610,1905,PayPal
+ORD-2024499,2024-08-25,Enterprise,Western Europe,Apparel,Merino Wool Sweater,2,87,20,139,89,50,Apple Pay
+ORD-2024500,2024-05-22,Small Business,Asia-Pacific,Apparel,Merino Wool Sweater,9,98,15,749,430,319,Bank Wire
+ORD-2024501,2024-11-03,Enterprise,North America,Fitness,Resistance Bands Set,9,165,0,1485,963,522,Bank Wire
+ORD-2024502,2024-09-27,Small Business,North America,Home & Office,Monitor Arm Mount,1,370,0,370,222,148,Apple Pay
+ORD-2024503,2024-04-16,Enterprise,Latin America,Apparel,Waterproof Shell Jacket,8,88,10,633,403,230,Bank Wire
+ORD-2024504,2024-08-08,Small Business,North America,Apparel,Merino Wool Sweater,5,102,5,484,256,228,Credit Card
+ORD-2024505,2024-08-14,Enterprise,North America,Fitness,Smart Fitness Tracker,3,138,0,414,220,194,PayPal
+ORD-2024506,2024-06-04,Consumer,Asia-Pacific,Apparel,Leather Oxford Shoes,1,105,15,89,58,31,Bank Wire
+ORD-2024507,2024-08-01,Small Business,Latin America,Electronics,Dell UltraSharp 32,1,625,5,593,334,259,PayPal
+ORD-2024508,2024-09-03,Small Business,North America,Fitness,Adjustable Dumbbell Set,3,136,10,367,178,189,Apple Pay
+ORD-2024509,2024-07-28,Mid-Market,North America,Apparel,Leather Oxford Shoes,8,101,15,686,340,346,Apple Pay
+ORD-2024510,2024-05-16,Consumer,Latin America,Home & Office,Monitor Arm Mount,8,348,20,2227,1250,977,PayPal
+ORD-2024511,2024-10-08,Enterprise,Western Europe,Apparel,Waterproof Shell Jacket,4,109,5,414,204,210,Apple Pay
+ORD-2024512,2024-04-22,Consumer,Western Europe,Electronics,Dell UltraSharp 32,3,607,20,1456,746,710,Bank Wire
+ORD-2024513,2024-05-19,Small Business,Western Europe,Home & Office,LED Desk Lamp,7,309,0,2163,1211,952,PayPal
+ORD-2024514,2024-12-05,Enterprise,Western Europe,Home & Office,LED Desk Lamp,1,377,20,301,190,111,Credit Card
+ORD-2024515,2024-09-06,Consumer,Middle East,Fitness,Yoga Mat Pro,4,160,0,640,314,326,Credit Card
+ORD-2024516,2024-04-21,Consumer,North America,Home & Office,Ergonomic Desk Chair,7,356,5,2367,1127,1240,Bank Wire
+ORD-2024517,2024-08-29,Small Business,Asia-Pacific,Home & Office,Monitor Arm Mount,9,392,10,3175,2064,1111,Credit Card
+ORD-2024518,2024-02-06,Consumer,Middle East,Home & Office,Ergonomic Desk Chair,8,283,20,1811,917,894,Bank Wire
+ORD-2024519,2024-07-06,Small Business,North America,Fitness,Yoga Mat Pro,3,155,15,395,199,196,Bank Wire
+ORD-2024520,2024-08-07,Small Business,Asia-Pacific,Home & Office,Ergonomic Desk Chair,9,276,5,2359,1315,1044,Bank Wire
+ORD-2024521,2024-03-16,Enterprise,Latin America,Home & Office,LED Desk Lamp,1,330,20,264,159,105,Credit Card
+ORD-2024522,2024-11-30,Enterprise,Western Europe,Electronics,Sony WH-1000XM5,1,572,10,514,276,238,Apple Pay
+ORD-2024523,2024-03-30,Enterprise,North America,Home & Office,LED Desk Lamp,1,378,20,302,199,103,PayPal
+ORD-2024524,2024-11-05,Consumer,Middle East,Home & Office,LED Desk Lamp,1,307,10,276,125,151,Credit Card
+ORD-2024525,2024-08-04,Consumer,North America,Home & Office,Electric Standing Desk,2,276,20,441,232,209,PayPal
+ORD-2024526,2024-09-29,Mid-Market,Western Europe,Home & Office,LED Desk Lamp,9,363,20,2613,1322,1291,Apple Pay
+ORD-2024527,2024-08-26,Consumer,Asia-Pacific,Apparel,Athletic Joggers,3,83,10,224,113,111,Bank Wire
+ORD-2024528,2024-11-12,Small Business,Latin America,Fitness,Yoga Mat Pro,1,169,5,160,76,84,Apple Pay
+ORD-2024529,2024-08-26,Small Business,Western Europe,Fitness,Adjustable Dumbbell Set,4,150,15,510,345,165,Apple Pay
+ORD-2024530,2024-08-24,Small Business,Latin America,Electronics,Sony WH-1000XM5,2,697,10,1254,646,608,Bank Wire
+ORD-2024531,2024-04-12,Consumer,Latin America,Electronics,Sony WH-1000XM5,9,626,5,5352,2829,2523,PayPal
+ORD-2024532,2024-02-29,Consumer,Middle East,Electronics,Logitech MX Master 3S,2,766,20,1225,752,473,PayPal
+ORD-2024533,2024-04-17,Enterprise,Western Europe,Home & Office,Monitor Arm Mount,4,370,5,1406,929,477,Apple Pay
+ORD-2024534,2024-07-20,Enterprise,North America,Home & Office,Monitor Arm Mount,4,299,10,1076,634,442,PayPal
+ORD-2024535,2024-12-02,Small Business,North America,Apparel,Athletic Joggers,9,88,10,712,488,224,Apple Pay
+ORD-2024536,2024-09-07,Enterprise,Asia-Pacific,Home & Office,Monitor Arm Mount,3,399,15,1017,625,392,Credit Card
+ORD-2024537,2024-11-24,Enterprise,Asia-Pacific,Home & Office,Ergonomic Desk Chair,7,280,20,1568,792,776,Bank Wire
+ORD-2024538,2024-08-24,Small Business,North America,Fitness,Resistance Bands Set,8,142,0,1136,737,399,PayPal
+ORD-2024539,2024-11-29,Enterprise,North America,Electronics,Sony WH-1000XM5,3,709,5,2020,947,1073,Bank Wire
+ORD-2024540,2024-06-21,Mid-Market,Middle East,Apparel,Merino Wool Sweater,7,85,5,565,385,180,PayPal
+ORD-2024541,2024-09-28,Consumer,Asia-Pacific,Home & Office,Electric Standing Desk,1,273,10,245,112,133,PayPal
+ORD-2024542,2024-08-26,Small Business,North America,Fitness,Yoga Mat Pro,4,173,5,657,305,352,Bank Wire
+ORD-2024543,2024-05-20,Small Business,Latin America,Apparel,Athletic Joggers,1,89,0,89,45,44,Credit Card
+ORD-2024544,2024-10-18,Small Business,Western Europe,Fitness,Adjustable Dumbbell Set,6,137,15,698,364,334,Bank Wire
+ORD-2024545,2024-06-28,Consumer,Western Europe,Fitness,Yoga Mat Pro,5,159,15,675,420,255,Apple Pay
+ORD-2024546,2024-03-04,Enterprise,Western Europe,Apparel,Merino Wool Sweater,5,109,15,463,271,192,Credit Card
+ORD-2024547,2024-08-11,Mid-Market,Latin America,Home & Office,LED Desk Lamp,2,279,15,474,282,192,Bank Wire
+ORD-2024548,2024-11-13,Consumer,Middle East,Apparel,Waterproof Shell Jacket,6,90,15,459,309,150,Apple Pay
+ORD-2024549,2024-03-10,Mid-Market,Asia-Pacific,Electronics,Dell UltraSharp 32,4,727,0,2908,1411,1497,Apple Pay
+ORD-2024550,2024-12-08,Enterprise,Western Europe,Fitness,Yoga Mat Pro,5,123,15,522,270,252,PayPal
+ORD-2024551,2024-04-04,Mid-Market,North America,Electronics,Sony WH-1000XM5,7,582,5,3870,2509,1361,Apple Pay
+ORD-2024552,2024-12-04,Enterprise,Middle East,Apparel,Merino Wool Sweater,5,109,10,490,270,220,PayPal
+ORD-2024553,2024-05-23,Small Business,North America,Home & Office,Monitor Arm Mount,7,391,10,2463,1280,1183,Bank Wire
+ORD-2024554,2024-11-01,Consumer,Latin America,Apparel,Merino Wool Sweater,1,114,15,96,47,49,Bank Wire
+ORD-2024555,2024-04-15,Consumer,Western Europe,Fitness,Adjustable Dumbbell Set,8,147,10,1058,509,549,Apple Pay
+ORD-2024556,2024-07-13,Enterprise,Asia-Pacific,Home & Office,LED Desk Lamp,3,358,0,1074,736,338,Credit Card
+ORD-2024557,2024-01-30,Mid-Market,Latin America,Fitness,Yoga Mat Pro,4,134,0,536,243,293,PayPal
+ORD-2024558,2024-12-26,Enterprise,North America,Fitness,Yoga Mat Pro,6,131,20,628,384,244,Credit Card
+ORD-2024559,2024-12-28,Mid-Market,Latin America,Home & Office,Ergonomic Desk Chair,9,399,5,3411,2041,1370,Apple Pay
+ORD-2024560,2024-07-19,Mid-Market,Latin America,Fitness,Adjustable Dumbbell Set,9,133,15,1017,580,437,PayPal
+ORD-2024561,2024-06-07,Small Business,Latin America,Electronics,Dell UltraSharp 32,9,803,20,5781,3766,2015,Credit Card
+ORD-2024562,2024-10-06,Consumer,Middle East,Fitness,Resistance Bands Set,5,122,20,488,292,196,PayPal
+ORD-2024563,2024-05-29,Small Business,Western Europe,Home & Office,Monitor Arm Mount,8,381,20,2438,1275,1163,PayPal
+ORD-2024564,2024-08-04,Small Business,Middle East,Apparel,Leather Oxford Shoes,1,112,15,95,65,30,Bank Wire
+ORD-2024565,2024-07-05,Consumer,Middle East,Apparel,Leather Oxford Shoes,5,105,10,472,282,190,Bank Wire
+ORD-2024566,2024-12-02,Small Business,Latin America,Home & Office,Electric Standing Desk,7,343,15,2040,1389,651,PayPal
+ORD-2024567,2024-04-18,Enterprise,Western Europe,Apparel,Leather Oxford Shoes,4,105,10,378,198,180,Bank Wire
+ORD-2024568,2024-03-23,Enterprise,Asia-Pacific,Electronics,Logitech MX Master 3S,6,576,20,2764,1905,859,Bank Wire
+ORD-2024569,2024-04-04,Mid-Market,Middle East,Electronics,MacBook Pro 16,6,725,20,3480,1904,1576,Credit Card
+ORD-2024570,2024-12-08,Small Business,North America,Fitness,Smart Fitness Tracker,7,174,10,1096,638,458,PayPal
+ORD-2024571,2024-07-11,Mid-Market,Latin America,Fitness,Smart Fitness Tracker,5,136,0,680,389,291,Apple Pay
+ORD-2024572,2024-06-09,Small Business,Middle East,Home & Office,Monitor Arm Mount,3,366,20,878,522,356,Apple Pay
+ORD-2024573,2024-06-15,Enterprise,Latin America,Fitness,Adjustable Dumbbell Set,4,142,10,511,323,188,Credit Card
+ORD-2024574,2024-03-26,Small Business,Middle East,Apparel,Merino Wool Sweater,4,99,20,316,209,107,Bank Wire
+ORD-2024575,2024-08-27,Mid-Market,Western Europe,Fitness,Resistance Bands Set,3,145,10,391,203,188,Credit Card
+ORD-2024576,2024-02-08,Small Business,Asia-Pacific,Fitness,Resistance Bands Set,3,151,10,407,248,159,Bank Wire
+ORD-2024577,2024-10-01,Consumer,Western Europe,Apparel,Waterproof Shell Jacket,6,90,0,540,325,215,Credit Card
+ORD-2024578,2024-09-19,Small Business,Asia-Pacific,Apparel,Leather Oxford Shoes,7,98,0,686,428,258,PayPal
+ORD-2024579,2024-04-26,Consumer,Asia-Pacific,Home & Office,Monitor Arm Mount,5,274,0,1370,950,420,Credit Card
+ORD-2024580,2024-04-27,Small Business,North America,Home & Office,Electric Standing Desk,4,322,0,1288,797,491,PayPal
+ORD-2024581,2024-10-05,Consumer,North America,Apparel,Leather Oxford Shoes,2,102,0,204,111,93,PayPal
+ORD-2024582,2024-09-26,Small Business,North America,Electronics,Dell UltraSharp 32,3,723,0,2169,1033,1136,PayPal
+ORD-2024583,2024-03-19,Enterprise,Middle East,Home & Office,Monitor Arm Mount,8,398,5,3024,1824,1200,Credit Card
+ORD-2024584,2024-11-15,Mid-Market,Latin America,Fitness,Yoga Mat Pro,7,142,0,994,684,310,Credit Card
+ORD-2024585,2024-11-01,Consumer,North America,Home & Office,Electric Standing Desk,6,383,0,2298,1106,1192,Credit Card
+ORD-2024586,2024-05-11,Enterprise,Latin America,Fitness,Yoga Mat Pro,6,122,0,732,337,395,PayPal
+ORD-2024587,2024-09-09,Small Business,Asia-Pacific,Electronics,Logitech MX Master 3S,8,761,5,5783,3368,2415,Bank Wire
+ORD-2024588,2024-06-04,Mid-Market,North America,Apparel,Leather Oxford Shoes,3,86,10,232,125,107,Credit Card
+ORD-2024589,2024-01-30,Small Business,North America,Electronics,Sony WH-1000XM5,6,676,15,3447,2340,1107,Apple Pay
+ORD-2024590,2024-09-09,Consumer,Middle East,Home & Office,Electric Standing Desk,1,313,5,297,205,92,Credit Card
+ORD-2024591,2024-05-31,Small Business,Latin America,Home & Office,Electric Standing Desk,6,332,5,1892,1126,766,Credit Card
+ORD-2024592,2024-08-16,Enterprise,Western Europe,Home & Office,Ergonomic Desk Chair,6,351,0,2106,1407,699,Apple Pay
+ORD-2024593,2024-07-08,Consumer,North America,Apparel,Merino Wool Sweater,5,97,15,412,187,225,Apple Pay
+ORD-2024594,2024-06-19,Consumer,Asia-Pacific,Home & Office,Electric Standing Desk,2,321,20,513,346,167,Apple Pay
+ORD-2024595,2024-03-08,Consumer,Western Europe,Apparel,Athletic Joggers,2,90,5,171,111,60,PayPal
+ORD-2024596,2024-07-03,Enterprise,Western Europe,Home & Office,Monitor Arm Mount,5,325,15,1381,764,617,Bank Wire
+ORD-2024597,2024-05-29,Mid-Market,North America,Apparel,Merino Wool Sweater,5,103,5,489,254,235,Bank Wire
+ORD-2024598,2024-05-02,Consumer,Western Europe,Home & Office,LED Desk Lamp,3,295,15,752,384,368,Bank Wire
+ORD-2024599,2024-05-26,Enterprise,Middle East,Home & Office,Monitor Arm Mount,3,320,5,912,443,469,Apple Pay
+ORD-2024600,2024-05-15,Enterprise,Asia-Pacific,Apparel,Merino Wool Sweater,7,100,10,630,421,209,Apple Pay
+ORD-2024601,2024-11-22,Enterprise,Middle East,Home & Office,Ergonomic Desk Chair,7,277,0,1939,1310,629,Credit Card
+ORD-2024602,2024-07-26,Mid-Market,North America,Electronics,iPad Pro 12.9,8,629,0,5032,3443,1589,Credit Card
+ORD-2024603,2024-11-29,Mid-Market,Western Europe,Electronics,iPad Pro 12.9,9,595,10,4819,3000,1819,Credit Card
+ORD-2024604,2024-05-20,Mid-Market,Western Europe,Apparel,Merino Wool Sweater,2,106,0,212,98,114,Apple Pay
+ORD-2024605,2024-08-07,Small Business,North America,Apparel,Leather Oxford Shoes,1,81,0,81,38,43,Bank Wire
+ORD-2024606,2024-07-15,Enterprise,Middle East,Home & Office,Monitor Arm Mount,9,278,5,2376,1542,834,PayPal
+ORD-2024607,2024-06-23,Mid-Market,Middle East,Home & Office,LED Desk Lamp,2,352,10,633,418,215,Bank Wire
+ORD-2024608,2024-08-03,Small Business,Middle East,Electronics,Sony WH-1000XM5,9,716,10,5799,4027,1772,Bank Wire
+ORD-2024609,2024-03-16,Mid-Market,Asia-Pacific,Fitness,Yoga Mat Pro,7,134,15,797,473,324,Bank Wire
+ORD-2024610,2024-05-05,Enterprise,Latin America,Fitness,Smart Fitness Tracker,1,172,10,154,74,80,Bank Wire
+ORD-2024611,2024-12-08,Mid-Market,Middle East,Fitness,Resistance Bands Set,6,122,15,622,384,238,Apple Pay
+ORD-2024612,2024-08-19,Mid-Market,Middle East,Electronics,iPad Pro 12.9,5,810,0,4050,2181,1869,Bank Wire
+ORD-2024613,2024-12-17,Consumer,Asia-Pacific,Fitness,Smart Fitness Tracker,2,151,0,302,185,117,Bank Wire
+ORD-2024614,2024-03-28,Small Business,Middle East,Apparel,Athletic Joggers,3,112,10,302,162,140,PayPal
+ORD-2024615,2024-12-12,Mid-Market,Asia-Pacific,Fitness,Resistance Bands Set,9,160,0,1440,934,506,PayPal
+ORD-2024616,2024-06-25,Enterprise,Middle East,Fitness,Resistance Bands Set,7,136,20,761,354,407,Apple Pay
+ORD-2024617,2024-10-23,Mid-Market,North America,Electronics,Sony WH-1000XM5,6,788,20,3782,2396,1386,Credit Card
+ORD-2024618,2024-09-15,Small Business,Western Europe,Apparel,Waterproof Shell Jacket,7,102,0,714,337,377,PayPal
+ORD-2024619,2024-12-09,Enterprise,Latin America,Fitness,Adjustable Dumbbell Set,3,169,15,430,223,207,Credit Card
+ORD-2024620,2024-12-10,Mid-Market,Asia-Pacific,Fitness,Yoga Mat Pro,2,154,10,277,167,110,PayPal
+ORD-2024621,2024-12-01,Mid-Market,North America,Apparel,Merino Wool Sweater,8,90,5,684,382,302,Credit Card
+ORD-2024622,2024-12-17,Mid-Market,Western Europe,Home & Office,Ergonomic Desk Chair,9,282,5,2411,1550,861,Credit Card
+ORD-2024623,2024-08-31,Small Business,Latin America,Fitness,Yoga Mat Pro,9,152,15,1162,711,451,Credit Card
+ORD-2024624,2024-07-27,Small Business,Western Europe,Electronics,MacBook Pro 16,3,697,20,1672,944,728,Apple Pay
+ORD-2024625,2024-01-13,Enterprise,Western Europe,Apparel,Waterproof Shell Jacket,4,118,5,448,224,224,Credit Card
+ORD-2024626,2024-04-26,Mid-Market,North America,Fitness,Smart Fitness Tracker,3,169,5,481,319,162,Apple Pay
+ORD-2024627,2024-03-13,Mid-Market,Middle East,Electronics,iPad Pro 12.9,4,685,15,2329,1170,1159,Apple Pay
+ORD-2024628,2024-06-05,Consumer,Middle East,Fitness,Smart Fitness Tracker,3,168,0,504,245,259,Apple Pay
+ORD-2024629,2024-05-09,Enterprise,North America,Fitness,Smart Fitness Tracker,9,159,15,1216,610,606,PayPal
+ORD-2024630,2024-03-15,Mid-Market,Asia-Pacific,Apparel,Waterproof Shell Jacket,6,92,20,441,224,217,Bank Wire
+ORD-2024631,2024-01-15,Small Business,North America,Fitness,Smart Fitness Tracker,9,137,10,1109,733,376,Credit Card
+ORD-2024632,2024-01-30,Consumer,Latin America,Apparel,Waterproof Shell Jacket,3,110,10,297,152,145,Apple Pay
+ORD-2024633,2024-09-29,Mid-Market,Asia-Pacific,Fitness,Resistance Bands Set,7,167,5,1110,575,535,PayPal
+ORD-2024634,2024-12-02,Mid-Market,Middle East,Fitness,Yoga Mat Pro,8,131,10,943,496,447,Apple Pay
+ORD-2024635,2024-03-30,Mid-Market,Middle East,Apparel,Athletic Joggers,5,106,10,477,311,166,Apple Pay
+ORD-2024636,2024-04-18,Consumer,Asia-Pacific,Fitness,Resistance Bands Set,1,152,15,129,78,51,Bank Wire
+ORD-2024637,2024-08-06,Enterprise,Asia-Pacific,Home & Office,Ergonomic Desk Chair,6,283,0,1698,1112,586,PayPal
+ORD-2024638,2024-06-13,Consumer,Western Europe,Electronics,MacBook Pro 16,9,632,0,5688,3214,2474,Credit Card
+ORD-2024639,2024-06-23,Small Business,Asia-Pacific,Fitness,Resistance Bands Set,3,165,20,396,269,127,Bank Wire
+ORD-2024640,2024-12-03,Consumer,Latin America,Electronics,iPad Pro 12.9,2,632,5,1200,554,646,PayPal
+ORD-2024641,2024-09-03,Small Business,Western Europe,Apparel,Athletic Joggers,8,107,20,684,358,326,Apple Pay
+ORD-2024642,2024-09-12,Small Business,Middle East,Fitness,Resistance Bands Set,4,149,0,596,276,320,Bank Wire
+ORD-2024643,2024-04-07,Enterprise,North America,Fitness,Yoga Mat Pro,2,143,20,228,104,124,Apple Pay
+ORD-2024644,2024-07-27,Mid-Market,Asia-Pacific,Electronics,MacBook Pro 16,5,724,20,2896,1642,1254,Credit Card
+ORD-2024645,2024-11-01,Small Business,Middle East,Electronics,Dell UltraSharp 32,1,588,5,558,257,301,Apple Pay
+ORD-2024646,2024-11-20,Consumer,North America,Electronics,Sony WH-1000XM5,5,791,10,3559,1650,1909,Apple Pay
+ORD-2024647,2024-11-17,Enterprise,Western Europe,Electronics,Logitech MX Master 3S,9,696,5,5950,2927,3023,PayPal
+ORD-2024648,2024-11-22,Mid-Market,North America,Apparel,Waterproof Shell Jacket,1,89,0,89,42,47,Apple Pay
+ORD-2024649,2024-02-28,Consumer,Asia-Pacific,Electronics,Sony WH-1000XM5,1,739,0,739,470,269,Apple Pay
+ORD-2024650,2024-12-27,Consumer,Western Europe,Home & Office,Electric Standing Desk,8,276,20,1766,830,936,PayPal
+ORD-2024651,2024-10-21,Consumer,Middle East,Electronics,MacBook Pro 16,1,776,10,698,319,379,PayPal
+ORD-2024652,2024-09-04,Consumer,Asia-Pacific,Home & Office,Monitor Arm Mount,2,398,5,756,441,315,PayPal
+ORD-2024653,2024-10-11,Consumer,Western Europe,Electronics,iPad Pro 12.9,5,691,0,3455,1560,1895,Apple Pay
+ORD-2024654,2024-05-07,Mid-Market,Asia-Pacific,Home & Office,LED Desk Lamp,4,377,0,1508,1037,471,Credit Card
+ORD-2024655,2024-11-14,Mid-Market,Asia-Pacific,Fitness,Resistance Bands Set,9,135,10,1093,591,502,Credit Card
+ORD-2024656,2024-02-11,Mid-Market,Latin America,Home & Office,LED Desk Lamp,2,379,5,720,377,343,Credit Card
+ORD-2024657,2024-04-19,Consumer,North America,Home & Office,Electric Standing Desk,8,287,10,2066,1098,968,PayPal
+ORD-2024658,2024-11-03,Enterprise,Middle East,Apparel,Waterproof Shell Jacket,5,101,20,404,199,205,Credit Card
+ORD-2024659,2024-03-01,Small Business,Middle East,Apparel,Merino Wool Sweater,6,81,15,413,265,148,PayPal
+ORD-2024660,2024-07-05,Enterprise,North America,Fitness,Smart Fitness Tracker,7,173,20,968,504,464,Bank Wire
+ORD-2024661,2024-07-24,Small Business,Middle East,Home & Office,Electric Standing Desk,7,347,5,2307,1134,1173,Credit Card
+ORD-2024662,2024-05-29,Mid-Market,Latin America,Electronics,Logitech MX Master 3S,9,720,20,5184,2853,2331,Bank Wire
+ORD-2024663,2024-10-05,Enterprise,Middle East,Home & Office,Electric Standing Desk,7,307,15,1826,1264,562,Credit Card
+ORD-2024664,2024-07-10,Consumer,Middle East,Apparel,Leather Oxford Shoes,9,107,5,914,585,329,Credit Card
+ORD-2024665,2024-02-04,Mid-Market,Middle East,Fitness,Smart Fitness Tracker,3,129,5,367,206,161,Credit Card
+ORD-2024666,2024-02-01,Mid-Market,Asia-Pacific,Apparel,Athletic Joggers,2,115,0,230,122,108,PayPal
+ORD-2024667,2024-03-30,Consumer,Western Europe,Fitness,Resistance Bands Set,2,157,20,251,136,115,Credit Card
+ORD-2024668,2024-06-18,Consumer,Asia-Pacific,Electronics,Sony WH-1000XM5,3,719,0,2157,1254,903,PayPal
+ORD-2024669,2024-07-05,Small Business,North America,Apparel,Leather Oxford Shoes,2,98,15,166,96,70,Credit Card
+ORD-2024670,2024-07-21,Mid-Market,Latin America,Apparel,Merino Wool Sweater,9,103,10,834,393,441,Credit Card
+ORD-2024671,2024-08-16,Small Business,North America,Electronics,MacBook Pro 16,9,554,0,4986,2549,2437,Apple Pay
+ORD-2024672,2024-04-26,Enterprise,North America,Electronics,iPad Pro 12.9,2,803,5,1525,968,557,Credit Card
+ORD-2024673,2024-03-14,Small Business,Middle East,Home & Office,LED Desk Lamp,1,297,15,252,171,81,PayPal
+ORD-2024674,2024-08-10,Enterprise,North America,Electronics,MacBook Pro 16,4,800,15,2720,1620,1100,Bank Wire
+ORD-2024675,2024-03-19,Enterprise,North America,Apparel,Leather Oxford Shoes,5,113,5,536,364,172,Credit Card
+ORD-2024676,2024-12-03,Enterprise,Latin America,Home & Office,Electric Standing Desk,5,296,0,1480,1002,478,Credit Card
+ORD-2024677,2024-07-02,Enterprise,Latin America,Fitness,Adjustable Dumbbell Set,3,143,5,407,220,187,Apple Pay
+ORD-2024678,2024-07-07,Small Business,Latin America,Fitness,Adjustable Dumbbell Set,6,141,0,846,384,462,PayPal
+ORD-2024679,2024-06-05,Small Business,Western Europe,Fitness,Resistance Bands Set,7,138,15,821,407,414,Credit Card
+ORD-2024680,2024-11-29,Mid-Market,Western Europe,Home & Office,LED Desk Lamp,7,334,0,2338,1334,1004,Bank Wire
+ORD-2024681,2024-01-02,Enterprise,Latin America,Apparel,Leather Oxford Shoes,1,114,15,96,56,40,PayPal
+ORD-2024682,2024-10-08,Small Business,Western Europe,Fitness,Yoga Mat Pro,5,130,15,552,255,297,PayPal
+ORD-2024683,2024-10-30,Mid-Market,North America,Electronics,Logitech MX Master 3S,2,592,10,1065,729,336,Bank Wire
+ORD-2024684,2024-04-09,Small Business,Western Europe,Fitness,Resistance Bands Set,3,138,20,331,191,140,Credit Card
+ORD-2024685,2024-06-28,Small Business,Western Europe,Fitness,Resistance Bands Set,6,152,10,820,408,412,Apple Pay
+ORD-2024686,2024-02-22,Consumer,Latin America,Fitness,Smart Fitness Tracker,5,162,10,729,452,277,Bank Wire
+ORD-2024687,2024-01-23,Enterprise,Western Europe,Fitness,Smart Fitness Tracker,5,148,10,666,332,334,Credit Card
+ORD-2024688,2024-09-23,Enterprise,Middle East,Home & Office,Ergonomic Desk Chair,6,381,20,1828,1021,807,PayPal
+ORD-2024689,2024-10-20,Small Business,Western Europe,Apparel,Waterproof Shell Jacket,7,90,0,630,412,218,Credit Card
+ORD-2024690,2024-09-24,Enterprise,Asia-Pacific,Electronics,Dell UltraSharp 32,7,708,20,3964,2484,1480,Credit Card
+ORD-2024691,2024-07-15,Mid-Market,Latin America,Home & Office,Ergonomic Desk Chair,3,390,0,1170,737,433,PayPal
+ORD-2024692,2024-05-19,Consumer,Asia-Pacific,Fitness,Adjustable Dumbbell Set,9,141,5,1205,643,562,Credit Card
+ORD-2024693,2024-04-21,Small Business,Middle East,Fitness,Yoga Mat Pro,8,162,5,1231,688,543,PayPal
+ORD-2024694,2024-12-07,Enterprise,Western Europe,Fitness,Yoga Mat Pro,5,126,15,535,364,171,Bank Wire
+ORD-2024695,2024-10-20,Mid-Market,Western Europe,Electronics,MacBook Pro 16,6,776,15,3957,2623,1334,PayPal
+ORD-2024696,2024-08-29,Consumer,North America,Home & Office,Electric Standing Desk,6,334,5,1903,1176,727,Credit Card
+ORD-2024697,2024-02-08,Enterprise,Middle East,Fitness,Yoga Mat Pro,8,145,5,1102,516,586,Credit Card
+ORD-2024698,2024-10-24,Small Business,Latin America,Fitness,Resistance Bands Set,9,162,5,1385,822,563,Bank Wire
+ORD-2024699,2024-08-19,Small Business,North America,Apparel,Waterproof Shell Jacket,7,85,0,595,393,202,PayPal
+ORD-2024700,2024-03-24,Mid-Market,Middle East,Apparel,Merino Wool Sweater,3,113,20,271,160,111,PayPal
+ORD-2024701,2024-06-20,Mid-Market,Middle East,Home & Office,Monitor Arm Mount,5,284,15,1207,842,365,PayPal
+ORD-2024702,2024-01-13,Enterprise,Latin America,Home & Office,Electric Standing Desk,8,338,5,2568,1560,1008,Credit Card
+ORD-2024703,2024-09-07,Consumer,Western Europe,Home & Office,LED Desk Lamp,6,293,15,1494,1017,477,Credit Card
+ORD-2024704,2024-01-05,Small Business,North America,Electronics,Sony WH-1000XM5,6,617,20,2961,1495,1466,Apple Pay
+ORD-2024705,2024-03-16,Consumer,Western Europe,Apparel,Waterproof Shell Jacket,2,81,15,137,79,58,Credit Card
+ORD-2024706,2024-10-08,Consumer,Western Europe,Home & Office,Monitor Arm Mount,8,316,15,2148,1397,751,Bank Wire
+ORD-2024707,2024-11-25,Consumer,Middle East,Electronics,Logitech MX Master 3S,4,714,20,2284,1208,1076,Bank Wire
+ORD-2024708,2024-12-20,Small Business,Latin America,Home & Office,Monitor Arm Mount,4,368,0,1472,739,733,Apple Pay
+ORD-2024709,2024-08-08,Consumer,Middle East,Home & Office,Ergonomic Desk Chair,5,331,20,1324,742,582,Bank Wire
+ORD-2024710,2024-07-07,Small Business,Asia-Pacific,Fitness,Adjustable Dumbbell Set,4,165,20,528,279,249,Apple Pay
+ORD-2024711,2024-12-18,Small Business,Middle East,Fitness,Yoga Mat Pro,9,149,15,1139,623,516,Apple Pay
+ORD-2024712,2024-08-13,Mid-Market,Western Europe,Apparel,Merino Wool Sweater,7,116,5,771,416,355,PayPal
+ORD-2024713,2024-03-11,Enterprise,Middle East,Home & Office,Monitor Arm Mount,8,352,20,2252,1536,716,PayPal
+ORD-2024714,2024-03-23,Enterprise,Middle East,Apparel,Merino Wool Sweater,6,91,15,464,319,145,Bank Wire
+ORD-2024715,2024-08-02,Enterprise,Latin America,Home & Office,Monitor Arm Mount,2,374,10,673,410,263,Credit Card
+ORD-2024716,2024-03-03,Mid-Market,Asia-Pacific,Home & Office,LED Desk Lamp,9,313,0,2817,1685,1132,Credit Card
+ORD-2024717,2024-01-28,Consumer,Western Europe,Electronics,Logitech MX Master 3S,4,630,5,2394,1298,1096,Apple Pay
+ORD-2024718,2024-12-09,Consumer,Asia-Pacific,Home & Office,Ergonomic Desk Chair,3,345,5,983,589,394,PayPal
+ORD-2024719,2024-02-28,Enterprise,Latin America,Apparel,Waterproof Shell Jacket,9,102,5,872,596,276,Apple Pay
+ORD-2024720,2024-04-07,Consumer,Asia-Pacific,Apparel,Waterproof Shell Jacket,7,115,15,684,369,315,Credit Card
+ORD-2024721,2024-07-13,Small Business,Asia-Pacific,Apparel,Merino Wool Sweater,6,106,5,604,402,202,Bank Wire
+ORD-2024722,2024-11-07,Consumer,Latin America,Fitness,Adjustable Dumbbell Set,4,168,5,638,418,220,Credit Card
+ORD-2024723,2024-06-13,Small Business,Latin America,Fitness,Smart Fitness Tracker,5,135,5,641,422,219,Bank Wire
+ORD-2024724,2024-03-02,Mid-Market,Western Europe,Home & Office,Ergonomic Desk Chair,4,310,15,1054,730,324,Apple Pay
+ORD-2024725,2024-03-08,Enterprise,Latin America,Apparel,Merino Wool Sweater,2,111,5,210,118,92,Credit Card
+ORD-2024726,2024-01-10,Mid-Market,Western Europe,Electronics,Logitech MX Master 3S,6,643,10,3472,2015,1457,Credit Card
+ORD-2024727,2024-07-31,Mid-Market,Middle East,Fitness,Adjustable Dumbbell Set,1,120,20,96,43,53,PayPal
+ORD-2024728,2024-06-14,Small Business,Middle East,Apparel,Leather Oxford Shoes,3,110,0,330,157,173,Apple Pay
+ORD-2024729,2024-10-18,Enterprise,Asia-Pacific,Electronics,Logitech MX Master 3S,6,788,5,4491,2568,1923,Apple Pay
+ORD-2024730,2024-06-30,Small Business,Latin America,Apparel,Leather Oxford Shoes,9,117,20,842,500,342,PayPal
+ORD-2024731,2024-12-18,Small Business,Asia-Pacific,Electronics,Logitech MX Master 3S,1,705,5,669,397,272,Credit Card
+ORD-2024732,2024-08-24,Consumer,North America,Fitness,Smart Fitness Tracker,6,122,15,622,329,293,Credit Card
+ORD-2024733,2024-03-27,Enterprise,Asia-Pacific,Home & Office,Ergonomic Desk Chair,9,272,5,2325,1591,734,Apple Pay
+ORD-2024734,2024-11-10,Mid-Market,Western Europe,Apparel,Waterproof Shell Jacket,4,110,10,396,203,193,Bank Wire
+ORD-2024735,2024-11-20,Enterprise,Asia-Pacific,Home & Office,Monitor Arm Mount,7,382,10,2406,1225,1181,Bank Wire
+ORD-2024736,2024-07-15,Small Business,Middle East,Fitness,Resistance Bands Set,4,152,0,608,314,294,Apple Pay
+ORD-2024737,2024-02-26,Mid-Market,Western Europe,Home & Office,Ergonomic Desk Chair,3,350,0,1050,696,354,Bank Wire
+ORD-2024738,2024-11-30,Enterprise,North America,Apparel,Athletic Joggers,9,110,15,841,545,296,PayPal
+ORD-2024739,2024-05-27,Small Business,Middle East,Apparel,Athletic Joggers,1,87,20,69,39,30,Bank Wire
+ORD-2024740,2024-05-25,Mid-Market,Latin America,Apparel,Athletic Joggers,2,105,0,210,124,86,Apple Pay
+ORD-2024741,2024-02-07,Consumer,Western Europe,Fitness,Yoga Mat Pro,9,167,10,1352,932,420,Credit Card
+ORD-2024742,2024-07-22,Consumer,Latin America,Home & Office,Monitor Arm Mount,2,339,15,576,292,284,Bank Wire
+ORD-2024743,2024-05-14,Enterprise,North America,Fitness,Smart Fitness Tracker,9,121,5,1034,548,486,PayPal
+ORD-2024744,2024-12-24,Small Business,Latin America,Home & Office,Electric Standing Desk,2,371,15,630,438,192,Apple Pay
+ORD-2024745,2024-09-08,Consumer,North America,Apparel,Waterproof Shell Jacket,7,99,5,658,306,352,PayPal
+ORD-2024746,2024-02-13,Mid-Market,Asia-Pacific,Electronics,Sony WH-1000XM5,6,771,5,4394,2317,2077,Bank Wire
+ORD-2024747,2024-03-07,Consumer,Western Europe,Home & Office,Electric Standing Desk,1,351,5,333,160,173,Bank Wire
+ORD-2024748,2024-07-29,Mid-Market,Latin America,Fitness,Adjustable Dumbbell Set,5,159,0,795,400,395,Bank Wire
+ORD-2024749,2024-09-15,Consumer,Asia-Pacific,Electronics,iPad Pro 12.9,4,615,10,2214,1143,1071,Apple Pay
+ORD-2024750,2024-11-29,Mid-Market,Latin America,Electronics,Logitech MX Master 3S,6,731,0,4386,2040,2346,Credit Card
+ORD-2024751,2024-03-06,Small Business,Middle East,Home & Office,Ergonomic Desk Chair,4,294,10,1058,678,380,Bank Wire
+ORD-2024752,2024-08-03,Consumer,Asia-Pacific,Apparel,Athletic Joggers,5,107,20,428,216,212,Credit Card
+ORD-2024753,2024-12-18,Small Business,Middle East,Electronics,iPad Pro 12.9,9,747,20,5378,2422,2956,Apple Pay
+ORD-2024754,2024-11-22,Mid-Market,Asia-Pacific,Electronics,Sony WH-1000XM5,5,700,5,3325,2090,1235,Bank Wire
+ORD-2024755,2024-11-22,Enterprise,Asia-Pacific,Fitness,Smart Fitness Tracker,2,171,15,290,153,137,PayPal
+ORD-2024756,2024-02-08,Consumer,Latin America,Fitness,Adjustable Dumbbell Set,1,144,20,115,60,55,PayPal
+ORD-2024757,2024-08-01,Small Business,Western Europe,Home & Office,Electric Standing Desk,4,286,15,972,446,526,Apple Pay
+ORD-2024758,2024-10-04,Enterprise,Latin America,Electronics,MacBook Pro 16,2,689,5,1309,798,511,Credit Card
+ORD-2024759,2024-06-18,Consumer,Western Europe,Electronics,Dell UltraSharp 32,2,609,10,1096,627,469,PayPal
+ORD-2024760,2024-11-10,Small Business,North America,Home & Office,Ergonomic Desk Chair,5,355,20,1420,684,736,Apple Pay
+ORD-2024761,2024-11-09,Mid-Market,Asia-Pacific,Fitness,Adjustable Dumbbell Set,7,126,20,705,340,365,Credit Card
+ORD-2024762,2024-08-11,Enterprise,Western Europe,Apparel,Leather Oxford Shoes,3,108,20,259,172,87,PayPal
+ORD-2024763,2024-01-03,Mid-Market,Latin America,Apparel,Athletic Joggers,8,91,15,618,379,239,PayPal
+ORD-2024764,2024-01-21,Enterprise,Asia-Pacific,Home & Office,LED Desk Lamp,7,396,5,2633,1227,1406,Bank Wire
+ORD-2024765,2024-04-08,Enterprise,Asia-Pacific,Apparel,Waterproof Shell Jacket,3,105,0,315,213,102,PayPal
+ORD-2024766,2024-07-28,Mid-Market,Asia-Pacific,Fitness,Smart Fitness Tracker,5,167,5,793,449,344,Credit Card
+ORD-2024767,2024-06-12,Small Business,Western Europe,Apparel,Waterproof Shell Jacket,6,116,0,696,483,213,Credit Card
+ORD-2024768,2024-12-11,Enterprise,Middle East,Home & Office,Electric Standing Desk,6,311,5,1772,937,835,PayPal
+ORD-2024769,2024-09-15,Small Business,North America,Apparel,Athletic Joggers,4,107,20,342,192,150,Bank Wire
+ORD-2024770,2024-06-03,Mid-Market,Western Europe,Apparel,Merino Wool Sweater,6,99,10,534,258,276,Credit Card
+ORD-2024771,2024-07-17,Enterprise,North America,Apparel,Leather Oxford Shoes,6,84,10,453,275,178,Credit Card
+ORD-2024772,2024-02-27,Small Business,Latin America,Fitness,Resistance Bands Set,2,138,0,276,130,146,PayPal
+ORD-2024773,2024-12-30,Small Business,Latin America,Home & Office,Ergonomic Desk Chair,6,323,0,1938,1279,659,Apple Pay
+ORD-2024774,2024-03-13,Enterprise,Middle East,Home & Office,Monitor Arm Mount,9,348,20,2505,1143,1362,Bank Wire
+ORD-2024775,2024-11-23,Small Business,Latin America,Electronics,Dell UltraSharp 32,7,731,5,4861,2437,2424,Apple Pay
+ORD-2024776,2024-11-17,Mid-Market,Western Europe,Electronics,Dell UltraSharp 32,9,749,10,6066,4189,1877,PayPal
+ORD-2024777,2024-05-04,Mid-Market,North America,Home & Office,Monitor Arm Mount,3,349,5,994,600,394,PayPal
+ORD-2024778,2024-01-02,Consumer,Western Europe,Home & Office,Electric Standing Desk,6,367,15,1871,1141,730,Credit Card
+ORD-2024779,2024-08-24,Small Business,Middle East,Apparel,Merino Wool Sweater,9,87,10,704,355,349,Apple Pay
+ORD-2024780,2024-01-24,Enterprise,Western Europe,Fitness,Adjustable Dumbbell Set,3,173,15,441,298,143,Apple Pay
+ORD-2024781,2024-07-25,Mid-Market,Asia-Pacific,Apparel,Merino Wool Sweater,9,94,0,846,540,306,Bank Wire
+ORD-2024782,2024-03-15,Consumer,Middle East,Fitness,Smart Fitness Tracker,2,174,0,348,187,161,Bank Wire
+ORD-2024783,2024-01-07,Small Business,Asia-Pacific,Apparel,Athletic Joggers,1,114,20,91,62,29,PayPal
+ORD-2024784,2024-04-26,Mid-Market,Latin America,Electronics,iPad Pro 12.9,4,601,20,1923,1010,913,Apple Pay
+ORD-2024785,2024-08-04,Enterprise,Latin America,Apparel,Leather Oxford Shoes,3,110,10,297,143,154,Bank Wire
+ORD-2024786,2024-12-21,Enterprise,Middle East,Electronics,iPad Pro 12.9,4,575,15,1955,1281,674,PayPal
+ORD-2024787,2024-03-06,Mid-Market,Western Europe,Fitness,Adjustable Dumbbell Set,5,131,15,556,337,219,Bank Wire
+ORD-2024788,2024-12-01,Enterprise,Middle East,Electronics,Sony WH-1000XM5,3,768,0,2304,1131,1173,Apple Pay
+ORD-2024789,2024-04-08,Enterprise,Asia-Pacific,Fitness,Yoga Mat Pro,7,126,10,793,515,278,Bank Wire
+ORD-2024790,2024-03-22,Enterprise,Asia-Pacific,Electronics,Dell UltraSharp 32,4,716,15,2434,1284,1150,Credit Card
+ORD-2024791,2024-12-02,Consumer,Western Europe,Home & Office,Electric Standing Desk,5,383,0,1915,1160,755,Apple Pay
+ORD-2024792,2024-07-03,Mid-Market,North America,Fitness,Yoga Mat Pro,2,159,5,302,138,164,Credit Card
+ORD-2024793,2024-06-20,Enterprise,Western Europe,Fitness,Yoga Mat Pro,7,132,10,831,458,373,PayPal
+ORD-2024794,2024-07-28,Mid-Market,Middle East,Home & Office,Monitor Arm Mount,4,376,0,1504,979,525,Credit Card
+ORD-2024795,2024-02-21,Small Business,North America,Fitness,Smart Fitness Tracker,5,123,5,584,378,206,PayPal
+ORD-2024796,2024-02-01,Mid-Market,North America,Electronics,Logitech MX Master 3S,1,630,5,598,309,289,Bank Wire
+ORD-2024797,2024-03-02,Mid-Market,Middle East,Home & Office,Ergonomic Desk Chair,3,352,0,1056,662,394,Bank Wire
+ORD-2024798,2024-09-02,Mid-Market,North America,Fitness,Smart Fitness Tracker,9,155,15,1185,766,419,Apple Pay
+ORD-2024799,2024-04-15,Mid-Market,Middle East,Home & Office,Ergonomic Desk Chair,8,294,0,2352,1501,851,PayPal
+ORD-2024800,2024-01-03,Enterprise,Asia-Pacific,Apparel,Athletic Joggers,9,111,20,799,428,371,Apple Pay
+ORD-2024801,2024-01-11,Small Business,Western Europe,Home & Office,Ergonomic Desk Chair,7,388,5,2580,1254,1326,Apple Pay
+ORD-2024802,2024-06-29,Mid-Market,Latin America,Fitness,Yoga Mat Pro,2,138,20,220,116,104,Apple Pay
+ORD-2024803,2024-10-02,Consumer,North America,Home & Office,Ergonomic Desk Chair,8,382,20,2444,1309,1135,Apple Pay
+ORD-2024804,2024-01-26,Small Business,Asia-Pacific,Fitness,Smart Fitness Tracker,3,148,5,421,268,153,Apple Pay
+ORD-2024805,2024-04-06,Enterprise,Asia-Pacific,Electronics,MacBook Pro 16,7,652,15,3879,2086,1793,PayPal
+ORD-2024806,2024-10-08,Enterprise,Middle East,Fitness,Adjustable Dumbbell Set,5,133,20,532,243,289,Bank Wire
+ORD-2024807,2024-08-29,Mid-Market,Asia-Pacific,Apparel,Merino Wool Sweater,5,104,20,416,290,126,PayPal
+ORD-2024808,2024-05-13,Mid-Market,North America,Fitness,Adjustable Dumbbell Set,2,144,5,273,162,111,Apple Pay
+ORD-2024809,2024-07-04,Consumer,North America,Fitness,Yoga Mat Pro,6,165,5,940,548,392,Bank Wire
+ORD-2024810,2024-04-13,Consumer,Asia-Pacific,Home & Office,Electric Standing Desk,2,391,20,625,351,274,Credit Card
+ORD-2024811,2024-02-21,Consumer,North America,Apparel,Athletic Joggers,2,113,5,214,134,80,PayPal
+ORD-2024812,2024-04-29,Consumer,Asia-Pacific,Apparel,Waterproof Shell Jacket,6,94,0,564,354,210,PayPal
+ORD-2024813,2024-05-12,Small Business,Latin America,Apparel,Merino Wool Sweater,3,90,15,229,147,82,Bank Wire
+ORD-2024814,2024-01-12,Mid-Market,Middle East,Fitness,Smart Fitness Tracker,9,137,20,986,544,442,Apple Pay
+ORD-2024815,2024-11-09,Consumer,Latin America,Apparel,Waterproof Shell Jacket,3,104,15,265,132,133,Credit Card
+ORD-2024816,2024-07-10,Enterprise,Western Europe,Apparel,Leather Oxford Shoes,3,93,5,265,164,101,Bank Wire
+ORD-2024817,2024-11-29,Consumer,Middle East,Fitness,Yoga Mat Pro,9,120,20,864,523,341,PayPal
+ORD-2024818,2024-11-16,Enterprise,Middle East,Home & Office,Ergonomic Desk Chair,5,380,10,1710,943,767,Apple Pay
+ORD-2024819,2024-01-17,Enterprise,Latin America,Fitness,Resistance Bands Set,8,138,10,993,651,342,Apple Pay
+ORD-2024820,2024-03-25,Enterprise,Middle East,Home & Office,Monitor Arm Mount,5,278,0,1390,756,634,Bank Wire
+ORD-2024821,2024-01-31,Small Business,Asia-Pacific,Electronics,Logitech MX Master 3S,7,619,0,4333,1965,2368,PayPal
+ORD-2024822,2024-06-28,Mid-Market,Middle East,Apparel,Merino Wool Sweater,5,98,20,392,183,209,PayPal
+ORD-2024823,2024-01-26,Small Business,North America,Electronics,Sony WH-1000XM5,6,636,10,3434,2101,1333,Bank Wire
+ORD-2024824,2024-02-17,Small Business,Asia-Pacific,Electronics,Logitech MX Master 3S,9,574,10,4649,2694,1955,Credit Card
+ORD-2024825,2024-06-23,Enterprise,Middle East,Home & Office,Electric Standing Desk,6,376,20,1804,1233,571,Credit Card
+ORD-2024826,2024-08-03,Small Business,North America,Fitness,Resistance Bands Set,2,156,5,296,152,144,Credit Card
+ORD-2024827,2024-09-12,Mid-Market,North America,Electronics,Sony WH-1000XM5,8,573,15,3896,1878,2018,PayPal
+ORD-2024828,2024-07-06,Enterprise,Western Europe,Apparel,Leather Oxford Shoes,2,107,0,214,130,84,PayPal
+ORD-2024829,2024-10-31,Small Business,Western Europe,Fitness,Adjustable Dumbbell Set,2,167,5,317,146,171,Bank Wire
+ORD-2024830,2024-01-29,Mid-Market,Western Europe,Fitness,Smart Fitness Tracker,7,166,0,1162,545,617,Credit Card
+ORD-2024831,2024-07-04,Enterprise,Asia-Pacific,Electronics,MacBook Pro 16,4,704,20,2252,1290,962,Credit Card
+ORD-2024832,2024-01-18,Consumer,North America,Home & Office,LED Desk Lamp,9,314,20,2260,1427,833,Bank Wire
+ORD-2024833,2024-04-10,Small Business,Asia-Pacific,Apparel,Waterproof Shell Jacket,2,93,15,158,109,49,Apple Pay
+ORD-2024834,2024-08-05,Small Business,Asia-Pacific,Electronics,Dell UltraSharp 32,1,561,10,504,295,209,Apple Pay
+ORD-2024835,2024-01-21,Enterprise,Asia-Pacific,Home & Office,Monitor Arm Mount,2,314,0,628,311,317,PayPal
+ORD-2024836,2024-03-06,Enterprise,Latin America,Fitness,Smart Fitness Tracker,9,158,20,1137,579,558,Apple Pay
+ORD-2024837,2024-09-13,Consumer,North America,Home & Office,LED Desk Lamp,5,298,5,1415,843,572,Credit Card
+ORD-2024838,2024-07-17,Mid-Market,Western Europe,Home & Office,Ergonomic Desk Chair,8,296,20,1894,912,982,Credit Card
+ORD-2024839,2024-01-24,Small Business,Latin America,Home & Office,Monitor Arm Mount,6,366,10,1976,1345,631,PayPal
+ORD-2024840,2024-05-16,Mid-Market,Middle East,Home & Office,Electric Standing Desk,3,398,15,1014,641,373,PayPal
+ORD-2024841,2024-12-20,Small Business,Middle East,Apparel,Waterproof Shell Jacket,1,110,15,93,58,35,Bank Wire
+ORD-2024842,2024-06-13,Enterprise,Asia-Pacific,Fitness,Smart Fitness Tracker,2,129,15,219,99,120,Bank Wire
+ORD-2024843,2024-10-05,Mid-Market,Western Europe,Fitness,Resistance Bands Set,3,145,5,413,197,216,Credit Card
+ORD-2024844,2024-02-19,Consumer,Western Europe,Apparel,Merino Wool Sweater,6,96,0,576,395,181,Bank Wire
+ORD-2024845,2024-03-18,Enterprise,Asia-Pacific,Fitness,Resistance Bands Set,8,129,0,1032,656,376,Bank Wire
+ORD-2024846,2024-11-01,Small Business,Middle East,Apparel,Athletic Joggers,7,94,15,559,260,299,Apple Pay
+ORD-2024847,2024-04-10,Consumer,Asia-Pacific,Electronics,MacBook Pro 16,5,589,0,2945,1663,1282,Credit Card
+ORD-2024848,2024-08-13,Consumer,Asia-Pacific,Fitness,Adjustable Dumbbell Set,6,148,10,799,535,264,Apple Pay
+ORD-2024849,2024-12-02,Consumer,Western Europe,Electronics,Sony WH-1000XM5,7,581,15,3456,1763,1693,Apple Pay
+ORD-2024850,2024-09-18,Small Business,Asia-Pacific,Home & Office,Electric Standing Desk,2,283,5,537,375,162,Bank Wire
+ORD-2024851,2024-02-13,Mid-Market,North America,Apparel,Waterproof Shell Jacket,9,117,15,895,403,492,Credit Card
+ORD-2024852,2024-04-25,Consumer,Western Europe,Home & Office,LED Desk Lamp,2,312,15,530,245,285,PayPal
+ORD-2024853,2024-04-09,Small Business,Middle East,Home & Office,Ergonomic Desk Chair,5,285,5,1353,660,693,Bank Wire
+ORD-2024854,2024-10-19,Enterprise,Western Europe,Apparel,Athletic Joggers,2,94,15,159,103,56,Bank Wire
+ORD-2024855,2024-05-11,Mid-Market,Middle East,Fitness,Smart Fitness Tracker,2,138,0,276,164,112,Apple Pay
+ORD-2024856,2024-09-06,Consumer,Latin America,Electronics,Dell UltraSharp 32,4,593,15,2016,1235,781,Bank Wire
+ORD-2024857,2024-10-16,Consumer,Middle East,Apparel,Athletic Joggers,3,108,10,291,175,116,Apple Pay
+ORD-2024858,2024-03-18,Small Business,North America,Electronics,Sony WH-1000XM5,9,673,10,5451,2477,2974,Bank Wire
+ORD-2024859,2024-10-10,Consumer,Asia-Pacific,Fitness,Smart Fitness Tracker,5,156,0,780,523,257,Bank Wire
+ORD-2024860,2024-04-14,Enterprise,Asia-Pacific,Home & Office,Electric Standing Desk,2,379,5,720,333,387,PayPal
+ORD-2024861,2024-08-09,Enterprise,Latin America,Apparel,Athletic Joggers,2,116,5,220,123,97,PayPal
+ORD-2024862,2024-12-18,Mid-Market,Middle East,Home & Office,Monitor Arm Mount,6,296,20,1420,838,582,Bank Wire
+ORD-2024863,2024-02-09,Enterprise,Latin America,Electronics,Dell UltraSharp 32,5,579,0,2895,1364,1531,Credit Card
+ORD-2024864,2024-07-17,Mid-Market,Asia-Pacific,Fitness,Smart Fitness Tracker,5,174,5,826,553,273,Apple Pay
+ORD-2024865,2024-10-04,Mid-Market,Western Europe,Home & Office,LED Desk Lamp,8,274,10,1972,1270,702,PayPal
+ORD-2024866,2024-12-13,Consumer,Middle East,Fitness,Yoga Mat Pro,8,139,15,945,625,320,Credit Card
+ORD-2024867,2024-08-08,Mid-Market,Latin America,Apparel,Waterproof Shell Jacket,9,93,0,837,528,309,Credit Card
+ORD-2024868,2024-09-18,Mid-Market,Middle East,Home & Office,Ergonomic Desk Chair,8,362,20,2316,1358,958,Credit Card
+ORD-2024869,2024-08-20,Enterprise,Western Europe,Apparel,Waterproof Shell Jacket,3,106,5,302,139,163,Credit Card
+ORD-2024870,2024-02-22,Consumer,Latin America,Electronics,Dell UltraSharp 32,7,585,0,4095,2037,2058,Apple Pay
+ORD-2024871,2024-06-28,Enterprise,Asia-Pacific,Electronics,iPad Pro 12.9,6,766,15,3906,2563,1343,Bank Wire
+ORD-2024872,2024-08-12,Small Business,Asia-Pacific,Home & Office,Ergonomic Desk Chair,7,338,10,2129,1261,868,PayPal
+ORD-2024873,2024-08-20,Small Business,Western Europe,Home & Office,Monitor Arm Mount,2,392,15,666,440,226,Apple Pay
+ORD-2024874,2024-04-02,Consumer,Middle East,Electronics,Sony WH-1000XM5,2,703,10,1265,769,496,Apple Pay
+ORD-2024875,2024-05-19,Mid-Market,Latin America,Apparel,Merino Wool Sweater,5,93,10,418,243,175,Bank Wire
+ORD-2024876,2024-12-28,Small Business,Middle East,Electronics,Logitech MX Master 3S,6,708,15,3610,2247,1363,Bank Wire
+ORD-2024877,2024-04-18,Mid-Market,Asia-Pacific,Apparel,Athletic Joggers,7,91,5,605,336,269,Apple Pay
+ORD-2024878,2024-12-02,Enterprise,Asia-Pacific,Electronics,iPad Pro 12.9,8,667,5,5069,2839,2230,Apple Pay
+ORD-2024879,2024-01-20,Mid-Market,Middle East,Apparel,Waterproof Shell Jacket,1,105,20,84,44,40,Apple Pay
+ORD-2024880,2024-11-27,Small Business,Latin America,Home & Office,LED Desk Lamp,7,322,0,2254,1189,1065,Apple Pay
+ORD-2024881,2024-08-11,Consumer,North America,Fitness,Resistance Bands Set,6,174,10,939,454,485,PayPal
+ORD-2024882,2024-07-28,Mid-Market,North America,Home & Office,Monitor Arm Mount,8,372,5,2827,1399,1428,Bank Wire
+ORD-2024883,2024-04-01,Small Business,North America,Apparel,Waterproof Shell Jacket,6,102,20,489,266,223,PayPal
+ORD-2024884,2024-06-27,Small Business,Asia-Pacific,Apparel,Merino Wool Sweater,7,86,5,571,395,176,Apple Pay
+ORD-2024885,2024-08-29,Mid-Market,Latin America,Electronics,Dell UltraSharp 32,7,577,0,4039,2545,1494,Bank Wire
+ORD-2024886,2024-02-13,Enterprise,Western Europe,Home & Office,Monitor Arm Mount,1,393,10,353,230,123,PayPal
+ORD-2024887,2024-11-13,Consumer,Asia-Pacific,Electronics,iPad Pro 12.9,1,751,5,713,400,313,PayPal
+ORD-2024888,2024-12-22,Small Business,Western Europe,Apparel,Merino Wool Sweater,1,85,15,72,34,38,Bank Wire
+ORD-2024889,2024-11-15,Consumer,Middle East,Apparel,Waterproof Shell Jacket,3,117,5,333,190,143,Bank Wire
+ORD-2024890,2024-08-24,Enterprise,North America,Apparel,Leather Oxford Shoes,7,96,0,672,367,305,Credit Card
+ORD-2024891,2024-05-06,Consumer,North America,Electronics,iPad Pro 12.9,1,802,0,802,558,244,Apple Pay
+ORD-2024892,2024-08-15,Consumer,Latin America,Apparel,Merino Wool Sweater,9,91,10,737,457,280,Bank Wire
+ORD-2024893,2024-10-16,Small Business,North America,Fitness,Resistance Bands Set,7,124,20,694,352,342,Credit Card
+ORD-2024894,2024-02-03,Consumer,North America,Apparel,Waterproof Shell Jacket,7,104,20,582,377,205,Apple Pay
+ORD-2024895,2024-05-03,Enterprise,Middle East,Apparel,Merino Wool Sweater,3,83,20,199,132,67,Credit Card
+ORD-2024896,2024-03-11,Mid-Market,Middle East,Home & Office,LED Desk Lamp,9,304,10,2462,1654,808,Bank Wire
+ORD-2024897,2024-11-21,Mid-Market,Latin America,Home & Office,LED Desk Lamp,1,343,20,274,141,133,Bank Wire
+ORD-2024898,2024-07-11,Consumer,North America,Electronics,MacBook Pro 16,3,615,5,1752,982,770,Credit Card
+ORD-2024899,2024-02-21,Small Business,Middle East,Electronics,Logitech MX Master 3S,3,750,10,2025,1191,834,PayPal
+ORD-2024900,2024-11-04,Mid-Market,Middle East,Electronics,iPad Pro 12.9,1,636,0,636,350,286,PayPal
+ORD-2024901,2024-05-28,Mid-Market,Latin America,Electronics,iPad Pro 12.9,6,652,0,3912,2491,1421,Bank Wire
+ORD-2024902,2024-05-28,Enterprise,Latin America,Fitness,Adjustable Dumbbell Set,8,134,15,911,620,291,Bank Wire
+ORD-2024903,2024-03-19,Mid-Market,North America,Electronics,Dell UltraSharp 32,6,575,5,3277,1833,1444,Credit Card
+ORD-2024904,2024-08-05,Enterprise,North America,Apparel,Merino Wool Sweater,9,98,10,793,432,361,Bank Wire
+ORD-2024905,2024-06-20,Small Business,Latin America,Electronics,Dell UltraSharp 32,1,668,20,534,319,215,Apple Pay
+ORD-2024906,2024-08-13,Enterprise,North America,Fitness,Smart Fitness Tracker,6,169,15,861,453,408,Bank Wire
+ORD-2024907,2024-10-19,Enterprise,North America,Apparel,Waterproof Shell Jacket,6,106,5,604,381,223,Apple Pay
+ORD-2024908,2024-02-20,Small Business,Western Europe,Electronics,Logitech MX Master 3S,8,581,20,3718,2279,1439,Bank Wire
+ORD-2024909,2024-02-05,Mid-Market,Latin America,Home & Office,Ergonomic Desk Chair,6,360,5,2052,1304,748,Bank Wire
+ORD-2024910,2024-10-15,Consumer,Latin America,Apparel,Leather Oxford Shoes,2,116,0,232,156,76,Bank Wire
+ORD-2024911,2024-08-17,Small Business,Western Europe,Electronics,MacBook Pro 16,3,709,10,1914,904,1010,Bank Wire
+ORD-2024912,2024-05-17,Small Business,Latin America,Apparel,Merino Wool Sweater,6,106,5,604,336,268,Bank Wire
+ORD-2024913,2024-03-28,Enterprise,Latin America,Home & Office,Electric Standing Desk,2,302,5,573,332,241,Bank Wire
+ORD-2024914,2024-03-05,Enterprise,Western Europe,Home & Office,Electric Standing Desk,2,317,10,570,305,265,Apple Pay
+ORD-2024915,2024-10-04,Consumer,Latin America,Electronics,Logitech MX Master 3S,4,592,0,2368,1448,920,Apple Pay
+ORD-2024916,2024-11-06,Consumer,Latin America,Electronics,Dell UltraSharp 32,8,688,5,5228,2409,2819,PayPal
+ORD-2024917,2024-06-11,Consumer,North America,Home & Office,Ergonomic Desk Chair,5,339,5,1610,866,744,Bank Wire
+ORD-2024918,2024-07-22,Consumer,Western Europe,Apparel,Leather Oxford Shoes,3,94,20,225,146,79,PayPal
+ORD-2024919,2024-01-22,Enterprise,Asia-Pacific,Electronics,iPad Pro 12.9,2,773,0,1546,1055,491,Credit Card
+ORD-2024920,2024-02-14,Small Business,Latin America,Apparel,Leather Oxford Shoes,4,99,5,376,246,130,Bank Wire
+ORD-2024921,2024-05-05,Small Business,Asia-Pacific,Apparel,Merino Wool Sweater,7,98,0,686,460,226,Bank Wire
+ORD-2024922,2024-12-02,Enterprise,Middle East,Apparel,Waterproof Shell Jacket,6,93,20,446,261,185,PayPal
+ORD-2024923,2024-03-22,Small Business,Latin America,Home & Office,LED Desk Lamp,9,325,15,2486,1531,955,Credit Card
+ORD-2024924,2024-12-09,Enterprise,Western Europe,Electronics,Logitech MX Master 3S,2,589,5,1119,535,584,Apple Pay
+ORD-2024925,2024-11-16,Mid-Market,Middle East,Apparel,Merino Wool Sweater,5,97,10,436,240,196,Credit Card
+ORD-2024926,2024-03-11,Consumer,North America,Home & Office,Electric Standing Desk,8,272,0,2176,1074,1102,PayPal
+ORD-2024927,2024-10-31,Small Business,North America,Apparel,Waterproof Shell Jacket,1,86,20,68,35,33,Credit Card
+ORD-2024928,2024-06-12,Mid-Market,Western Europe,Home & Office,Ergonomic Desk Chair,4,350,5,1330,694,636,Credit Card
+ORD-2024929,2024-11-02,Small Business,Latin America,Fitness,Resistance Bands Set,8,127,20,812,457,355,PayPal
+ORD-2024930,2024-10-21,Enterprise,Western Europe,Home & Office,Electric Standing Desk,5,336,15,1428,740,688,Apple Pay
+ORD-2024931,2024-04-19,Mid-Market,North America,Home & Office,LED Desk Lamp,1,342,20,273,145,128,Apple Pay
+ORD-2024932,2024-03-20,Enterprise,North America,Electronics,Logitech MX Master 3S,1,618,20,494,234,260,Credit Card
+ORD-2024933,2024-10-24,Small Business,Asia-Pacific,Home & Office,Ergonomic Desk Chair,3,340,0,1020,647,373,PayPal
+ORD-2024934,2024-07-15,Consumer,Middle East,Fitness,Adjustable Dumbbell Set,6,121,0,726,447,279,Apple Pay
+ORD-2024935,2024-05-11,Enterprise,Middle East,Electronics,Sony WH-1000XM5,4,794,0,3176,1903,1273,PayPal
+ORD-2024936,2024-02-12,Mid-Market,Western Europe,Apparel,Leather Oxford Shoes,6,88,5,501,232,269,Apple Pay
+ORD-2024937,2024-09-01,Enterprise,Latin America,Home & Office,Monitor Arm Mount,8,391,20,2502,1368,1134,Apple Pay
+ORD-2024938,2024-05-26,Mid-Market,Middle East,Fitness,Yoga Mat Pro,6,153,20,734,383,351,Apple Pay
+ORD-2024939,2024-11-25,Mid-Market,North America,Electronics,Sony WH-1000XM5,2,574,0,1148,611,537,Bank Wire
+ORD-2024940,2024-11-21,Enterprise,Latin America,Home & Office,LED Desk Lamp,4,301,0,1204,749,455,Bank Wire
+ORD-2024941,2024-06-01,Small Business,Asia-Pacific,Electronics,Logitech MX Master 3S,8,716,5,5441,2756,2685,Credit Card
+ORD-2024942,2024-06-17,Mid-Market,Western Europe,Apparel,Athletic Joggers,4,92,20,294,155,139,PayPal
+ORD-2024943,2024-06-17,Enterprise,Latin America,Fitness,Adjustable Dumbbell Set,5,137,5,650,431,219,Credit Card
+ORD-2024944,2024-04-14,Small Business,Western Europe,Fitness,Yoga Mat Pro,1,130,15,110,62,48,PayPal
+ORD-2024945,2024-06-11,Enterprise,Latin America,Apparel,Athletic Joggers,2,105,0,210,141,69,PayPal
+ORD-2024946,2024-11-05,Enterprise,Western Europe,Fitness,Smart Fitness Tracker,8,119,5,904,502,402,Bank Wire
+ORD-2024947,2024-08-10,Small Business,Latin America,Electronics,Dell UltraSharp 32,3,620,0,1860,964,896,PayPal
+ORD-2024948,2024-06-13,Small Business,Middle East,Apparel,Merino Wool Sweater,4,88,10,316,201,115,Apple Pay
+ORD-2024949,2024-08-27,Small Business,Latin America,Apparel,Leather Oxford Shoes,5,113,15,480,289,191,Credit Card
+ORD-2024950,2024-11-24,Small Business,Latin America,Electronics,MacBook Pro 16,6,722,15,3682,1803,1879,Apple Pay
+ORD-2024951,2024-01-28,Enterprise,Middle East,Apparel,Merino Wool Sweater,5,95,20,380,248,132,Credit Card
+ORD-2024952,2024-12-17,Consumer,Latin America,Home & Office,Ergonomic Desk Chair,1,369,20,295,185,110,Bank Wire
+ORD-2024953,2024-08-11,Enterprise,Western Europe,Fitness,Resistance Bands Set,8,124,20,793,519,274,Apple Pay
+ORD-2024954,2024-06-25,Enterprise,Asia-Pacific,Home & Office,Monitor Arm Mount,1,340,0,340,235,105,Apple Pay
+ORD-2024955,2024-10-05,Mid-Market,Latin America,Apparel,Waterproof Shell Jacket,1,113,15,96,45,51,Apple Pay
+ORD-2024956,2024-03-15,Mid-Market,North America,Home & Office,Electric Standing Desk,9,317,0,2853,1763,1090,PayPal
+ORD-2024957,2024-03-13,Mid-Market,North America,Fitness,Adjustable Dumbbell Set,2,145,20,232,129,103,Credit Card
+ORD-2024958,2024-11-12,Small Business,Middle East,Fitness,Resistance Bands Set,1,132,15,112,66,46,Credit Card
+ORD-2024959,2024-04-20,Enterprise,Western Europe,Home & Office,LED Desk Lamp,1,276,10,248,135,113,Credit Card
+ORD-2024960,2024-12-14,Small Business,North America,Apparel,Athletic Joggers,3,112,15,285,176,109,Credit Card
+ORD-2024961,2024-06-15,Enterprise,Western Europe,Apparel,Merino Wool Sweater,2,107,10,192,127,65,Credit Card
+ORD-2024962,2024-11-15,Consumer,Asia-Pacific,Electronics,iPad Pro 12.9,4,611,15,2077,1358,719,Bank Wire
+ORD-2024963,2024-11-06,Small Business,Middle East,Apparel,Merino Wool Sweater,4,95,15,323,146,177,Credit Card
+ORD-2024964,2024-12-30,Mid-Market,Latin America,Home & Office,Monitor Arm Mount,2,399,20,638,424,214,Credit Card
+ORD-2024965,2024-11-15,Consumer,North America,Fitness,Adjustable Dumbbell Set,9,127,0,1143,711,432,Apple Pay
+ORD-2024966,2024-11-23,Enterprise,North America,Electronics,MacBook Pro 16,5,689,10,3100,1757,1343,Credit Card
+ORD-2024967,2024-10-15,Small Business,Western Europe,Home & Office,Electric Standing Desk,2,303,0,606,333,273,Credit Card
+ORD-2024968,2024-06-20,Consumer,Western Europe,Fitness,Smart Fitness Tracker,8,144,10,1036,566,470,PayPal
+ORD-2024969,2024-11-23,Consumer,Asia-Pacific,Apparel,Waterproof Shell Jacket,7,104,20,582,335,247,Credit Card
+ORD-2024970,2024-12-11,Enterprise,North America,Fitness,Resistance Bands Set,1,119,15,101,56,45,Apple Pay
+ORD-2024971,2024-08-24,Small Business,Asia-Pacific,Home & Office,Monitor Arm Mount,8,339,5,2576,1214,1362,Apple Pay
+ORD-2024972,2024-01-17,Enterprise,Latin America,Electronics,iPad Pro 12.9,5,769,5,3652,2240,1412,Bank Wire
+ORD-2024973,2024-11-25,Mid-Market,Middle East,Electronics,iPad Pro 12.9,6,620,5,3534,2177,1357,PayPal
+ORD-2024974,2024-02-06,Mid-Market,Latin America,Fitness,Adjustable Dumbbell Set,7,124,10,781,388,393,Apple Pay
+ORD-2024975,2024-08-18,Consumer,Latin America,Electronics,iPad Pro 12.9,7,788,20,4412,2527,1885,PayPal
+ORD-2024976,2024-08-09,Mid-Market,Western Europe,Fitness,Smart Fitness Tracker,1,122,0,122,69,53,PayPal
+ORD-2024977,2024-03-12,Mid-Market,Western Europe,Apparel,Waterproof Shell Jacket,6,100,5,570,387,183,Credit Card
+ORD-2024978,2024-05-10,Mid-Market,Middle East,Electronics,MacBook Pro 16,3,586,15,1494,689,805,Credit Card
+ORD-2024979,2024-12-18,Enterprise,Middle East,Apparel,Athletic Joggers,4,105,15,357,246,111,PayPal
+ORD-2024980,2024-09-27,Consumer,Asia-Pacific,Home & Office,Monitor Arm Mount,6,312,20,1497,949,548,PayPal
+ORD-2024981,2024-03-13,Enterprise,Latin America,Home & Office,Electric Standing Desk,5,382,15,1623,842,781,Credit Card
+ORD-2024982,2024-10-01,Consumer,Latin America,Electronics,Dell UltraSharp 32,5,747,10,3361,1597,1764,Credit Card
+ORD-2024983,2024-12-21,Small Business,Western Europe,Fitness,Yoga Mat Pro,1,173,20,138,89,49,Credit Card
+ORD-2024984,2024-11-18,Consumer,North America,Fitness,Yoga Mat Pro,2,140,0,280,143,137,Apple Pay
+ORD-2024985,2024-06-30,Mid-Market,North America,Apparel,Athletic Joggers,1,87,10,78,45,33,Credit Card
+ORD-2024986,2024-02-25,Consumer,Western Europe,Electronics,Dell UltraSharp 32,7,687,0,4809,3286,1523,PayPal
+ORD-2024987,2024-08-18,Mid-Market,Latin America,Electronics,Dell UltraSharp 32,8,787,20,5036,2907,2129,PayPal
+ORD-2024988,2024-11-20,Consumer,Asia-Pacific,Electronics,iPad Pro 12.9,9,578,10,4681,2748,1933,Bank Wire
+ORD-2024989,2024-12-30,Small Business,Asia-Pacific,Home & Office,Ergonomic Desk Chair,6,304,20,1459,969,490,Apple Pay
+ORD-2024990,2024-12-14,Small Business,Asia-Pacific,Electronics,Sony WH-1000XM5,7,564,0,3948,2652,1296,Apple Pay
+ORD-2024991,2024-09-26,Mid-Market,Asia-Pacific,Fitness,Adjustable Dumbbell Set,9,143,15,1093,637,456,Bank Wire
+ORD-2024992,2024-01-04,Enterprise,Western Europe,Electronics,Dell UltraSharp 32,9,790,5,6754,4608,2146,Bank Wire
+ORD-2024993,2024-02-25,Small Business,North America,Home & Office,LED Desk Lamp,5,328,10,1476,784,692,Credit Card
+ORD-2024994,2024-02-25,Mid-Market,Middle East,Home & Office,Electric Standing Desk,6,282,10,1522,831,691,PayPal
+ORD-2024995,2024-10-18,Enterprise,Western Europe,Fitness,Smart Fitness Tracker,2,127,5,241,134,107,PayPal
+ORD-2024996,2024-09-13,Enterprise,Latin America,Electronics,Logitech MX Master 3S,1,710,0,710,329,381,Bank Wire
+ORD-2024997,2024-10-23,Consumer,Middle East,Fitness,Adjustable Dumbbell Set,9,149,0,1341,921,420,Credit Card
+ORD-2024998,2024-10-07,Enterprise,North America,Fitness,Adjustable Dumbbell Set,1,127,5,120,80,40,Bank Wire
+ORD-2024999,2024-01-02,Mid-Market,Middle East,Fitness,Smart Fitness Tracker,9,126,15,963,503,460,Credit Card
+ORD-2025000,2024-05-10,Small Business,Latin America,Electronics,MacBook Pro 16,9,677,0,6093,2789,3304,PayPal
+ORD-2025001,2024-05-18,Small Business,North America,Home & Office,LED Desk Lamp,7,272,20,1523,1055,468,Apple Pay
+ORD-2025002,2024-03-28,Small Business,North America,Home & Office,Electric Standing Desk,9,303,0,2727,1641,1086,Apple Pay
+ORD-2025003,2024-03-14,Mid-Market,Asia-Pacific,Electronics,Dell UltraSharp 32,9,601,10,4868,2821,2047,PayPal
+ORD-2025004,2024-11-03,Consumer,Latin America,Electronics,Sony WH-1000XM5,7,802,10,5052,3465,1587,Apple Pay
+ORD-2025005,2024-11-26,Enterprise,North America,Home & Office,Electric Standing Desk,3,330,20,792,496,296,Bank Wire
+ORD-2025006,2024-05-11,Consumer,North America,Apparel,Merino Wool Sweater,5,87,15,369,228,141,Credit Card
+ORD-2025007,2024-06-04,Consumer,Western Europe,Electronics,Sony WH-1000XM5,1,722,10,649,429,220,Credit Card
+ORD-2025008,2024-05-16,Enterprise,Middle East,Fitness,Yoga Mat Pro,2,148,10,266,147,119,Credit Card
+ORD-2025009,2024-05-20,Mid-Market,Asia-Pacific,Electronics,MacBook Pro 16,3,730,10,1971,1099,872,Apple Pay
+ORD-2025010,2024-09-14,Consumer,Middle East,Home & Office,Electric Standing Desk,2,351,0,702,472,230,Bank Wire
+ORD-2025011,2024-04-16,Enterprise,Latin America,Electronics,Logitech MX Master 3S,3,585,5,1667,1036,631,Credit Card
+ORD-2025012,2024-09-24,Consumer,North America,Electronics,Sony WH-1000XM5,7,674,20,3774,2250,1524,Bank Wire
+ORD-2025013,2024-07-01,Small Business,Western Europe,Fitness,Smart Fitness Tracker,9,152,5,1299,725,574,Credit Card
+ORD-2025014,2024-01-21,Consumer,Middle East,Fitness,Adjustable Dumbbell Set,4,149,15,506,265,241,Credit Card
+ORD-2025015,2024-08-19,Small Business,Western Europe,Fitness,Resistance Bands Set,5,129,15,548,303,245,Bank Wire
+ORD-2025016,2024-03-14,Small Business,North America,Electronics,iPad Pro 12.9,8,735,0,5880,3322,2558,Credit Card
+ORD-2025017,2024-01-01,Small Business,Asia-Pacific,Home & Office,LED Desk Lamp,3,338,10,912,462,450,Credit Card
+ORD-2025018,2024-12-11,Mid-Market,Middle East,Fitness,Adjustable Dumbbell Set,4,144,5,547,334,213,PayPal
+ORD-2025019,2024-05-30,Enterprise,Middle East,Fitness,Smart Fitness Tracker,4,155,10,558,278,280,PayPal
+ORD-2025020,2024-03-28,Mid-Market,Asia-Pacific,Electronics,Sony WH-1000XM5,9,576,15,4406,3066,1340,Apple Pay
+ORD-2025021,2024-11-29,Mid-Market,North America,Electronics,Dell UltraSharp 32,1,790,15,671,364,307,Credit Card
+ORD-2025022,2024-11-02,Consumer,Latin America,Home & Office,Ergonomic Desk Chair,6,361,0,2166,1417,749,PayPal
+ORD-2025023,2024-02-15,Small Business,North America,Apparel,Leather Oxford Shoes,1,99,5,94,45,49,Credit Card
+ORD-2025024,2024-02-21,Consumer,Asia-Pacific,Apparel,Merino Wool Sweater,2,108,10,194,111,83,Apple Pay
+ORD-2025025,2024-09-04,Enterprise,Western Europe,Electronics,MacBook Pro 16,5,801,20,3204,2088,1116,Apple Pay
+ORD-2025026,2024-05-30,Enterprise,Middle East,Apparel,Waterproof Shell Jacket,2,88,20,140,65,75,Credit Card
+ORD-2025027,2024-05-11,Small Business,Middle East,Electronics,iPad Pro 12.9,2,805,0,1610,776,834,PayPal
+ORD-2025028,2024-02-08,Small Business,North America,Home & Office,Electric Standing Desk,6,385,0,2310,1576,734,Apple Pay
+ORD-2025029,2024-09-04,Consumer,Middle East,Fitness,Adjustable Dumbbell Set,7,146,15,868,509,359,Credit Card
+ORD-2025030,2024-04-24,Small Business,Asia-Pacific,Home & Office,Ergonomic Desk Chair,9,356,5,3043,1639,1404,Bank Wire
+ORD-2025031,2024-05-20,Small Business,Western Europe,Home & Office,Ergonomic Desk Chair,2,305,20,488,234,254,Bank Wire
+ORD-2025032,2024-03-25,Small Business,North America,Home & Office,LED Desk Lamp,7,297,5,1975,1298,677,Credit Card
+ORD-2025033,2024-08-25,Consumer,Western Europe,Electronics,MacBook Pro 16,4,809,5,3074,2122,952,Credit Card
+ORD-2025034,2024-03-24,Mid-Market,Latin America,Fitness,Adjustable Dumbbell Set,3,124,5,353,194,159,Apple Pay
+ORD-2025035,2024-04-30,Consumer,North America,Fitness,Resistance Bands Set,1,149,15,126,73,53,PayPal
+ORD-2025036,2024-03-11,Enterprise,Asia-Pacific,Fitness,Resistance Bands Set,1,135,20,108,72,36,Apple Pay
+ORD-2025037,2024-07-06,Mid-Market,North America,Fitness,Resistance Bands Set,6,124,15,632,370,262,PayPal
+ORD-2025038,2024-12-13,Consumer,Latin America,Electronics,Sony WH-1000XM5,4,743,10,2674,1466,1208,Credit Card
+ORD-2025039,2024-10-27,Enterprise,Asia-Pacific,Electronics,MacBook Pro 16,8,610,20,3904,2266,1638,Credit Card
+ORD-2025040,2024-01-05,Consumer,North America,Fitness,Yoga Mat Pro,2,174,0,348,242,106,Credit Card
+ORD-2025041,2024-11-20,Enterprise,Western Europe,Fitness,Smart Fitness Tracker,7,156,5,1037,670,367,Bank Wire
+ORD-2025042,2024-08-18,Enterprise,Middle East,Electronics,Sony WH-1000XM5,6,761,10,4109,2152,1957,Apple Pay
+ORD-2025043,2024-05-23,Enterprise,Latin America,Electronics,Dell UltraSharp 32,1,793,10,713,398,315,Apple Pay
+ORD-2025044,2024-09-15,Enterprise,Latin America,Fitness,Adjustable Dumbbell Set,3,138,5,393,213,180,Credit Card
+ORD-2025045,2024-02-08,Enterprise,Western Europe,Electronics,Sony WH-1000XM5,4,563,5,2139,1436,703,Credit Card
+ORD-2025046,2024-02-23,Enterprise,Western Europe,Home & Office,LED Desk Lamp,9,396,0,3564,1994,1570,Apple Pay
+ORD-2025047,2024-04-09,Consumer,North America,Electronics,Logitech MX Master 3S,1,635,5,603,388,215,PayPal
+ORD-2025048,2024-05-15,Enterprise,Asia-Pacific,Electronics,Dell UltraSharp 32,1,748,15,635,303,332,Bank Wire
+ORD-2025049,2024-01-07,Mid-Market,Asia-Pacific,Electronics,MacBook Pro 16,7,714,20,3998,2097,1901,PayPal
+ORD-2025050,2024-07-31,Small Business,Asia-Pacific,Electronics,MacBook Pro 16,2,769,20,1230,658,572,Credit Card
+ORD-2025051,2024-06-02,Mid-Market,Asia-Pacific,Fitness,Adjustable Dumbbell Set,1,173,20,138,71,67,Apple Pay
+ORD-2025052,2024-01-15,Consumer,Latin America,Apparel,Athletic Joggers,8,108,5,820,522,298,Credit Card
+ORD-2025053,2024-11-25,Enterprise,North America,Fitness,Yoga Mat Pro,9,126,10,1020,610,410,Bank Wire
+ORD-2025054,2024-12-30,Consumer,Asia-Pacific,Electronics,MacBook Pro 16,4,621,20,1987,1389,598,Credit Card
+ORD-2025055,2024-12-04,Consumer,Latin America,Home & Office,LED Desk Lamp,6,369,10,1992,904,1088,Credit Card
+ORD-2025056,2024-11-05,Mid-Market,Latin America,Electronics,Logitech MX Master 3S,5,590,5,2802,1360,1442,Credit Card
+ORD-2025057,2024-01-19,Small Business,Western Europe,Electronics,Dell UltraSharp 32,1,553,20,442,301,141,PayPal
+ORD-2025058,2024-07-01,Enterprise,Asia-Pacific,Fitness,Smart Fitness Tracker,3,149,15,379,261,118,Credit Card
+ORD-2025059,2024-03-30,Enterprise,Middle East,Home & Office,Electric Standing Desk,3,357,15,910,446,464,PayPal
+ORD-2025060,2024-10-07,Small Business,Asia-Pacific,Apparel,Leather Oxford Shoes,4,108,5,410,278,132,Apple Pay
+ORD-2025061,2024-08-20,Small Business,North America,Electronics,iPad Pro 12.9,6,616,20,2956,1825,1131,Credit Card
+ORD-2025062,2024-03-20,Small Business,Western Europe,Electronics,Sony WH-1000XM5,8,702,10,5054,3175,1879,Credit Card
+ORD-2025063,2024-02-24,Small Business,Western Europe,Apparel,Merino Wool Sweater,3,84,20,201,133,68,Credit Card
+ORD-2025064,2024-07-20,Consumer,Western Europe,Fitness,Adjustable Dumbbell Set,3,154,10,415,232,183,PayPal
+ORD-2025065,2024-06-20,Enterprise,Latin America,Home & Office,Electric Standing Desk,8,309,10,2224,1474,750,Credit Card
+ORD-2025066,2024-02-02,Consumer,North America,Electronics,Logitech MX Master 3S,4,709,10,2552,1612,940,Bank Wire
+ORD-2025067,2024-09-10,Small Business,North America,Fitness,Yoga Mat Pro,1,121,20,96,66,30,Credit Card
+ORD-2025068,2024-06-07,Enterprise,Middle East,Apparel,Leather Oxford Shoes,2,90,10,162,82,80,Bank Wire
+ORD-2025069,2024-08-12,Mid-Market,Latin America,Electronics,Dell UltraSharp 32,9,612,20,4406,2628,1778,PayPal
+ORD-2025070,2024-07-09,Consumer,Asia-Pacific,Electronics,Logitech MX Master 3S,2,651,5,1236,728,508,Bank Wire
+ORD-2025071,2024-11-12,Consumer,Asia-Pacific,Home & Office,Monitor Arm Mount,9,322,15,2463,1362,1101,Apple Pay
+ORD-2025072,2024-06-23,Consumer,Middle East,Home & Office,Electric Standing Desk,1,298,0,298,169,129,Credit Card
+ORD-2025073,2024-06-11,Enterprise,Western Europe,Home & Office,LED Desk Lamp,2,359,20,574,346,228,Bank Wire
+ORD-2025074,2024-10-27,Consumer,Western Europe,Home & Office,Monitor Arm Mount,4,287,5,1090,680,410,Bank Wire
+ORD-2025075,2024-06-13,Consumer,Asia-Pacific,Fitness,Resistance Bands Set,2,150,20,240,147,93,Bank Wire
+ORD-2025076,2024-03-20,Consumer,Western Europe,Apparel,Athletic Joggers,8,104,15,707,490,217,PayPal
+ORD-2025077,2024-05-14,Consumer,Latin America,Home & Office,Electric Standing Desk,2,379,10,682,434,248,Apple Pay
+ORD-2025078,2024-04-19,Consumer,Western Europe,Apparel,Merino Wool Sweater,2,97,15,164,89,75,PayPal
+ORD-2025079,2024-01-17,Mid-Market,Asia-Pacific,Home & Office,Electric Standing Desk,8,385,20,2464,1615,849,Apple Pay
+ORD-2025080,2024-04-10,Consumer,Western Europe,Apparel,Athletic Joggers,1,99,10,89,49,40,PayPal
+ORD-2025081,2024-01-21,Mid-Market,Middle East,Apparel,Leather Oxford Shoes,4,96,0,384,194,190,Bank Wire
+ORD-2025082,2024-08-30,Enterprise,Latin America,Apparel,Merino Wool Sweater,8,91,15,618,354,264,Bank Wire
+ORD-2025083,2024-01-15,Consumer,Asia-Pacific,Fitness,Yoga Mat Pro,1,157,0,157,80,77,Credit Card
+ORD-2025084,2024-12-14,Consumer,Middle East,Home & Office,LED Desk Lamp,4,285,15,969,671,298,PayPal
+ORD-2025085,2024-02-05,Enterprise,Asia-Pacific,Fitness,Smart Fitness Tracker,3,166,10,448,271,177,Apple Pay
+ORD-2025086,2024-04-18,Enterprise,Latin America,Electronics,iPad Pro 12.9,8,562,0,4496,2160,2336,Bank Wire
+ORD-2025087,2024-07-25,Mid-Market,Middle East,Electronics,Logitech MX Master 3S,8,647,5,4917,3008,1909,Credit Card
+ORD-2025088,2024-08-23,Small Business,North America,Electronics,MacBook Pro 16,7,725,5,4821,3314,1507,Bank Wire
+ORD-2025089,2024-09-11,Mid-Market,Asia-Pacific,Home & Office,LED Desk Lamp,2,384,10,691,317,374,Bank Wire
+ORD-2025090,2024-11-19,Consumer,Latin America,Fitness,Adjustable Dumbbell Set,5,120,20,480,266,214,PayPal
+ORD-2025091,2024-06-06,Enterprise,Asia-Pacific,Electronics,Dell UltraSharp 32,3,788,10,2127,1443,684,Credit Card
+ORD-2025092,2024-12-27,Enterprise,Middle East,Electronics,MacBook Pro 16,6,604,20,2899,1850,1049,Bank Wire
+ORD-2025093,2024-09-25,Small Business,Latin America,Fitness,Resistance Bands Set,3,135,20,324,156,168,PayPal
+ORD-2025094,2024-01-02,Consumer,Latin America,Home & Office,Ergonomic Desk Chair,2,286,5,543,329,214,Bank Wire
+ORD-2025095,2024-07-30,Mid-Market,North America,Fitness,Smart Fitness Tracker,9,159,5,1359,728,631,Credit Card
+ORD-2025096,2024-10-30,Consumer,North America,Home & Office,Monitor Arm Mount,4,304,10,1094,507,587,PayPal
+ORD-2025097,2024-06-11,Small Business,Middle East,Fitness,Adjustable Dumbbell Set,6,141,5,803,522,281,PayPal
+ORD-2025098,2024-07-20,Mid-Market,Middle East,Home & Office,Monitor Arm Mount,7,379,15,2255,1346,909,Credit Card
+ORD-2025099,2024-12-05,Enterprise,Western Europe,Fitness,Smart Fitness Tracker,8,165,10,1188,639,549,PayPal
+ORD-2025100,2024-01-21,Enterprise,North America,Apparel,Waterproof Shell Jacket,3,91,5,259,151,108,Bank Wire
+ORD-2025101,2024-01-26,Mid-Market,Western Europe,Electronics,MacBook Pro 16,3,669,20,1605,1006,599,Bank Wire
+ORD-2025102,2024-09-05,Mid-Market,Asia-Pacific,Electronics,iPad Pro 12.9,3,598,15,1524,934,590,Apple Pay
+ORD-2025103,2024-03-26,Enterprise,Latin America,Electronics,Dell UltraSharp 32,7,716,15,4260,2378,1882,Bank Wire
+ORD-2025104,2024-04-14,Small Business,Middle East,Apparel,Merino Wool Sweater,2,99,0,198,129,69,Apple Pay
+ORD-2025105,2024-10-16,Consumer,Western Europe,Home & Office,LED Desk Lamp,1,365,20,292,155,137,Credit Card
+ORD-2025106,2024-11-30,Small Business,Western Europe,Home & Office,Electric Standing Desk,9,312,0,2808,1809,999,PayPal
+ORD-2025107,2024-11-02,Small Business,Latin America,Fitness,Adjustable Dumbbell Set,1,142,5,134,67,67,PayPal
+ORD-2025108,2024-08-08,Mid-Market,Latin America,Home & Office,Ergonomic Desk Chair,6,289,20,1387,940,447,PayPal
+ORD-2025109,2024-08-22,Small Business,North America,Electronics,iPad Pro 12.9,9,564,15,4314,2923,1391,PayPal
+ORD-2025110,2024-11-17,Small Business,Western Europe,Apparel,Merino Wool Sweater,5,106,5,503,264,239,Bank Wire
+ORD-2025111,2024-03-06,Consumer,Latin America,Home & Office,Ergonomic Desk Chair,7,312,10,1965,968,997,Credit Card
+ORD-2025112,2024-05-18,Enterprise,Middle East,Fitness,Yoga Mat Pro,7,155,0,1085,579,506,PayPal
+ORD-2025113,2024-03-01,Enterprise,Western Europe,Electronics,Dell UltraSharp 32,4,613,0,2452,1451,1001,PayPal
+ORD-2025114,2024-12-07,Small Business,Latin America,Electronics,Logitech MX Master 3S,5,633,20,2532,1749,783,PayPal
+ORD-2025115,2024-08-21,Enterprise,Western Europe,Apparel,Waterproof Shell Jacket,3,82,0,246,154,92,PayPal
+ORD-2025116,2024-03-29,Consumer,Asia-Pacific,Apparel,Athletic Joggers,3,106,15,270,128,142,Apple Pay
+ORD-2025117,2024-04-08,Small Business,Asia-Pacific,Fitness,Resistance Bands Set,2,140,10,252,156,96,Bank Wire
+ORD-2025118,2024-04-04,Enterprise,Western Europe,Electronics,Dell UltraSharp 32,1,677,10,609,290,319,Credit Card
+ORD-2025119,2024-09-30,Small Business,Latin America,Apparel,Merino Wool Sweater,8,89,15,605,409,196,Credit Card
+ORD-2025120,2024-12-06,Consumer,Asia-Pacific,Fitness,Adjustable Dumbbell Set,8,124,0,992,446,546,Credit Card
+ORD-2025121,2024-04-29,Enterprise,Latin America,Electronics,Sony WH-1000XM5,7,605,20,3388,1965,1423,PayPal
+ORD-2025122,2024-10-19,Mid-Market,North America,Apparel,Leather Oxford Shoes,2,88,0,176,94,82,Apple Pay
+ORD-2025123,2024-08-03,Small Business,Middle East,Fitness,Adjustable Dumbbell Set,6,119,0,714,488,226,Credit Card
+ORD-2025124,2024-01-01,Mid-Market,Western Europe,Home & Office,Ergonomic Desk Chair,9,311,5,2659,1735,924,Bank Wire
+ORD-2025125,2024-09-08,Enterprise,Middle East,Fitness,Resistance Bands Set,1,139,5,132,77,55,PayPal
+ORD-2025126,2024-11-12,Mid-Market,Middle East,Apparel,Leather Oxford Shoes,6,86,20,412,277,135,Credit Card
+ORD-2025127,2024-02-28,Mid-Market,North America,Home & Office,LED Desk Lamp,6,326,15,1662,832,830,Credit Card
+ORD-2025128,2024-09-12,Enterprise,Middle East,Apparel,Merino Wool Sweater,5,107,20,428,203,225,PayPal
+ORD-2025129,2024-04-23,Mid-Market,North America,Home & Office,LED Desk Lamp,8,275,20,1760,991,769,Bank Wire
+ORD-2025130,2024-10-17,Enterprise,Middle East,Electronics,Dell UltraSharp 32,4,758,15,2577,1790,787,PayPal
+ORD-2025131,2024-06-02,Enterprise,Latin America,Home & Office,Monitor Arm Mount,8,295,0,2360,1255,1105,Credit Card
+ORD-2025132,2024-05-19,Mid-Market,Asia-Pacific,Fitness,Yoga Mat Pro,3,119,15,303,164,139,Apple Pay
+ORD-2025133,2024-07-21,Mid-Market,Western Europe,Electronics,iPad Pro 12.9,7,587,20,3287,1906,1381,Apple Pay
+ORD-2025134,2024-08-24,Enterprise,North America,Home & Office,LED Desk Lamp,1,294,0,294,134,160,Bank Wire
+ORD-2025135,2024-05-18,Consumer,Western Europe,Apparel,Waterproof Shell Jacket,5,117,5,555,358,197,Apple Pay
+ORD-2025136,2024-05-19,Small Business,Middle East,Electronics,Logitech MX Master 3S,3,801,5,2282,1145,1137,Credit Card
+ORD-2025137,2024-05-07,Mid-Market,North America,Apparel,Waterproof Shell Jacket,6,88,15,448,267,181,PayPal
+ORD-2025138,2024-04-24,Small Business,Asia-Pacific,Home & Office,LED Desk Lamp,3,350,10,945,489,456,Credit Card
+ORD-2025139,2024-09-08,Mid-Market,Asia-Pacific,Home & Office,Electric Standing Desk,7,320,0,2240,1426,814,Apple Pay
+ORD-2025140,2024-10-06,Consumer,Latin America,Apparel,Athletic Joggers,8,101,20,646,301,345,Bank Wire
+ORD-2025141,2024-02-09,Small Business,Middle East,Electronics,iPad Pro 12.9,7,581,20,3253,2116,1137,Credit Card
+ORD-2025142,2024-09-16,Consumer,Middle East,Home & Office,Electric Standing Desk,8,293,0,2344,1325,1019,Credit Card
+ORD-2025143,2024-08-06,Enterprise,Latin America,Home & Office,LED Desk Lamp,7,273,0,1911,1219,692,Bank Wire
+ORD-2025144,2024-11-04,Small Business,Western Europe,Home & Office,Monitor Arm Mount,4,381,0,1524,760,764,PayPal
+ORD-2025145,2024-06-05,Enterprise,North America,Apparel,Athletic Joggers,6,100,0,600,391,209,Credit Card
+ORD-2025146,2024-12-13,Enterprise,Middle East,Fitness,Resistance Bands Set,6,173,0,1038,627,411,PayPal
+ORD-2025147,2024-10-12,Small Business,Middle East,Apparel,Merino Wool Sweater,9,109,10,882,500,382,PayPal
+ORD-2025148,2024-08-14,Small Business,Asia-Pacific,Home & Office,LED Desk Lamp,7,326,5,2167,1150,1017,Apple Pay
+ORD-2025149,2024-08-09,Enterprise,Latin America,Apparel,Athletic Joggers,6,117,20,561,335,226,Bank Wire
+ORD-2025150,2024-10-06,Mid-Market,Middle East,Home & Office,LED Desk Lamp,3,367,10,990,640,350,Bank Wire
+ORD-2025151,2024-10-30,Enterprise,Asia-Pacific,Fitness,Yoga Mat Pro,5,146,5,693,459,234,Credit Card
+ORD-2025152,2024-05-13,Small Business,Middle East,Home & Office,Electric Standing Desk,7,326,5,2167,1251,916,PayPal
+ORD-2025153,2024-10-26,Consumer,Latin America,Apparel,Merino Wool Sweater,3,97,15,247,170,77,Bank Wire
+ORD-2025154,2024-05-10,Small Business,Asia-Pacific,Fitness,Resistance Bands Set,5,145,15,616,312,304,Bank Wire
+ORD-2025155,2024-06-16,Small Business,Western Europe,Home & Office,LED Desk Lamp,3,361,20,866,456,410,Credit Card
+ORD-2025156,2024-02-01,Small Business,Middle East,Electronics,Dell UltraSharp 32,8,661,20,4230,2379,1851,Apple Pay
+ORD-2025157,2024-07-25,Consumer,Latin America,Apparel,Athletic Joggers,5,82,15,348,192,156,Credit Card
+ORD-2025158,2024-05-21,Mid-Market,North America,Fitness,Yoga Mat Pro,8,136,0,1088,703,385,Bank Wire
+ORD-2025159,2024-08-30,Consumer,North America,Apparel,Leather Oxford Shoes,7,115,0,805,402,403,Apple Pay
+ORD-2025160,2024-02-09,Consumer,Middle East,Electronics,Logitech MX Master 3S,1,690,10,621,427,194,Credit Card
+ORD-2025161,2024-12-01,Consumer,Asia-Pacific,Apparel,Athletic Joggers,3,81,0,243,110,133,Apple Pay
+ORD-2025162,2024-08-19,Small Business,Middle East,Fitness,Resistance Bands Set,6,155,20,744,363,381,Credit Card
+ORD-2025163,2024-01-09,Small Business,Middle East,Home & Office,Ergonomic Desk Chair,8,391,20,2502,1148,1354,Credit Card
+ORD-2025164,2024-03-16,Enterprise,Middle East,Apparel,Leather Oxford Shoes,4,111,0,444,251,193,Credit Card
+ORD-2025165,2024-06-10,Small Business,North America,Home & Office,LED Desk Lamp,4,326,0,1304,642,662,Credit Card
+ORD-2025166,2024-04-04,Consumer,Asia-Pacific,Apparel,Leather Oxford Shoes,6,115,20,552,343,209,PayPal
+ORD-2025167,2024-05-04,Small Business,Middle East,Electronics,MacBook Pro 16,1,600,5,570,320,250,Bank Wire
+ORD-2025168,2024-02-17,Small Business,Middle East,Home & Office,LED Desk Lamp,9,333,10,2697,1521,1176,Credit Card
+ORD-2025169,2024-04-28,Mid-Market,Latin America,Electronics,Dell UltraSharp 32,5,724,5,3439,1966,1473,Apple Pay
+ORD-2025170,2024-05-28,Enterprise,Latin America,Electronics,Dell UltraSharp 32,8,804,20,5145,2816,2329,Bank Wire
+ORD-2025171,2024-04-01,Mid-Market,North America,Electronics,Logitech MX Master 3S,4,801,5,3043,2037,1006,Apple Pay
+ORD-2025172,2024-01-07,Small Business,Asia-Pacific,Fitness,Adjustable Dumbbell Set,4,147,15,499,324,175,Bank Wire
+ORD-2025173,2024-05-22,Small Business,Latin America,Fitness,Adjustable Dumbbell Set,1,142,5,134,83,51,Bank Wire
+ORD-2025174,2024-04-02,Consumer,Latin America,Home & Office,LED Desk Lamp,9,293,0,2637,1619,1018,Apple Pay
+ORD-2025175,2024-09-16,Consumer,Asia-Pacific,Fitness,Smart Fitness Tracker,5,136,0,680,467,213,Credit Card
+ORD-2025176,2024-01-02,Consumer,Latin America,Home & Office,Electric Standing Desk,3,399,10,1077,573,504,Apple Pay
+ORD-2025177,2024-01-26,Small Business,Latin America,Electronics,MacBook Pro 16,2,752,0,1504,716,788,Bank Wire
+ORD-2025178,2024-04-14,Enterprise,Western Europe,Electronics,MacBook Pro 16,5,692,10,3114,2060,1054,Bank Wire
+ORD-2025179,2024-10-27,Consumer,Middle East,Home & Office,Monitor Arm Mount,5,280,0,1400,812,588,Bank Wire
+ORD-2025180,2024-10-08,Consumer,Middle East,Apparel,Waterproof Shell Jacket,7,112,15,666,380,286,PayPal
+ORD-2025181,2024-11-25,Small Business,North America,Apparel,Athletic Joggers,4,94,20,300,166,134,PayPal
+ORD-2025182,2024-01-27,Mid-Market,Latin America,Home & Office,LED Desk Lamp,5,285,15,1211,599,612,Credit Card
+ORD-2025183,2024-02-29,Small Business,Western Europe,Apparel,Athletic Joggers,2,111,0,222,147,75,Bank Wire
+ORD-2025184,2024-06-14,Mid-Market,Western Europe,Fitness,Smart Fitness Tracker,3,164,10,442,303,139,Bank Wire
+ORD-2025185,2024-10-06,Consumer,Western Europe,Apparel,Athletic Joggers,5,101,0,505,294,211,PayPal
+ORD-2025186,2024-09-06,Small Business,North America,Fitness,Adjustable Dumbbell Set,5,130,10,585,403,182,Apple Pay
+ORD-2025187,2024-09-09,Enterprise,Western Europe,Home & Office,Electric Standing Desk,4,340,5,1292,631,661,Credit Card
+ORD-2025188,2024-10-01,Mid-Market,Asia-Pacific,Home & Office,LED Desk Lamp,5,335,5,1591,721,870,Credit Card
+ORD-2025189,2024-01-28,Mid-Market,Western Europe,Apparel,Athletic Joggers,4,101,10,363,168,195,Apple Pay
+ORD-2025190,2024-12-02,Small Business,Asia-Pacific,Apparel,Waterproof Shell Jacket,3,86,15,219,153,66,Bank Wire
+ORD-2025191,2024-11-01,Mid-Market,North America,Apparel,Leather Oxford Shoes,3,92,20,220,132,88,Credit Card
+ORD-2025192,2024-05-09,Small Business,North America,Fitness,Yoga Mat Pro,6,152,10,820,381,439,Apple Pay
+ORD-2025193,2024-12-13,Enterprise,Asia-Pacific,Fitness,Resistance Bands Set,9,165,0,1485,908,577,Apple Pay
+ORD-2025194,2024-11-30,Small Business,Asia-Pacific,Electronics,Logitech MX Master 3S,6,570,20,2736,1782,954,Apple Pay
+ORD-2025195,2024-12-27,Consumer,Middle East,Home & Office,Electric Standing Desk,3,380,0,1140,522,618,Apple Pay
+ORD-2025196,2024-12-09,Enterprise,Latin America,Electronics,MacBook Pro 16,5,734,15,3119,1706,1413,Apple Pay
+ORD-2025197,2024-08-31,Enterprise,Asia-Pacific,Fitness,Resistance Bands Set,8,138,15,938,521,417,Bank Wire
+ORD-2025198,2024-11-24,Small Business,Latin America,Fitness,Yoga Mat Pro,7,145,5,964,453,511,Apple Pay
+ORD-2025199,2024-01-23,Consumer,Latin America,Electronics,Logitech MX Master 3S,2,743,15,1263,727,536,Apple Pay
+ORD-2025200,2024-09-05,Consumer,Middle East,Fitness,Smart Fitness Tracker,3,153,20,367,183,184,Credit Card
+ORD-2025201,2024-03-07,Mid-Market,Asia-Pacific,Home & Office,Monitor Arm Mount,4,321,0,1284,711,573,Bank Wire
+ORD-2025202,2024-12-13,Mid-Market,Middle East,Apparel,Waterproof Shell Jacket,9,90,10,729,474,255,Credit Card
+ORD-2025203,2024-02-16,Mid-Market,Middle East,Electronics,Logitech MX Master 3S,5,772,10,3474,2046,1428,Apple Pay
+ORD-2025204,2024-12-11,Small Business,Middle East,Fitness,Smart Fitness Tracker,5,131,15,556,299,257,PayPal
+ORD-2025205,2024-12-30,Enterprise,Western Europe,Fitness,Resistance Bands Set,3,144,20,345,165,180,Bank Wire
+ORD-2025206,2024-01-16,Enterprise,Western Europe,Electronics,Dell UltraSharp 32,1,684,5,649,408,241,Apple Pay
+ORD-2025207,2024-04-20,Small Business,Western Europe,Fitness,Resistance Bands Set,2,126,20,201,128,73,Apple Pay
+ORD-2025208,2024-02-19,Consumer,Latin America,Fitness,Yoga Mat Pro,6,157,15,800,442,358,Credit Card
+ORD-2025209,2024-10-27,Small Business,Latin America,Electronics,Sony WH-1000XM5,7,657,10,4139,1900,2239,Apple Pay
+ORD-2025210,2024-01-07,Small Business,Latin America,Electronics,MacBook Pro 16,3,614,5,1749,969,780,Apple Pay
+ORD-2025211,2024-11-27,Enterprise,North America,Electronics,Logitech MX Master 3S,8,739,5,5616,3851,1765,Bank Wire
+ORD-2025212,2024-04-13,Enterprise,Middle East,Fitness,Smart Fitness Tracker,5,121,15,514,269,245,Apple Pay
+ORD-2025213,2024-04-09,Mid-Market,North America,Home & Office,Ergonomic Desk Chair,2,295,5,560,344,216,Credit Card
+ORD-2025214,2024-06-25,Enterprise,Western Europe,Fitness,Adjustable Dumbbell Set,6,146,0,876,545,331,Apple Pay
+ORD-2025215,2024-08-07,Consumer,Middle East,Home & Office,Electric Standing Desk,9,330,10,2673,1748,925,Apple Pay
+ORD-2025216,2024-01-14,Mid-Market,Latin America,Home & Office,Electric Standing Desk,5,325,10,1462,823,639,Credit Card
+ORD-2025217,2024-11-28,Consumer,Asia-Pacific,Apparel,Waterproof Shell Jacket,2,80,10,144,84,60,Bank Wire
+ORD-2025218,2024-04-04,Consumer,Western Europe,Apparel,Athletic Joggers,1,116,0,116,53,63,PayPal
+ORD-2025219,2024-08-17,Mid-Market,Latin America,Apparel,Leather Oxford Shoes,6,107,15,545,258,287,Apple Pay
+ORD-2025220,2024-02-25,Consumer,Asia-Pacific,Home & Office,Electric Standing Desk,7,348,0,2436,1127,1309,Credit Card
+ORD-2025221,2024-05-20,Enterprise,Latin America,Apparel,Merino Wool Sweater,4,109,10,392,228,164,PayPal
+ORD-2025222,2024-10-08,Enterprise,Latin America,Home & Office,Ergonomic Desk Chair,2,365,5,693,315,378,PayPal
+ORD-2025223,2024-09-24,Enterprise,North America,Apparel,Merino Wool Sweater,1,108,15,91,52,39,Bank Wire
+ORD-2025224,2024-06-14,Small Business,North America,Apparel,Merino Wool Sweater,1,80,0,80,38,42,Apple Pay
+ORD-2025225,2024-04-12,Small Business,Middle East,Apparel,Leather Oxford Shoes,2,84,5,159,97,62,Apple Pay
+ORD-2025226,2024-08-23,Mid-Market,North America,Fitness,Adjustable Dumbbell Set,4,140,10,504,266,238,Bank Wire
+ORD-2025227,2024-05-12,Mid-Market,Asia-Pacific,Fitness,Adjustable Dumbbell Set,4,134,20,428,210,218,PayPal
+ORD-2025228,2024-03-08,Enterprise,Middle East,Apparel,Waterproof Shell Jacket,2,105,20,168,84,84,PayPal
+ORD-2025229,2024-08-10,Consumer,Latin America,Apparel,Waterproof Shell Jacket,9,105,20,756,445,311,Credit Card
+ORD-2025230,2024-06-14,Consumer,North America,Electronics,Logitech MX Master 3S,6,569,0,3414,2115,1299,Bank Wire
+ORD-2025231,2024-04-09,Enterprise,Latin America,Electronics,Logitech MX Master 3S,6,731,15,3728,1922,1806,Credit Card
+ORD-2025232,2024-09-12,Consumer,Asia-Pacific,Electronics,Sony WH-1000XM5,3,797,5,2271,1312,959,Bank Wire
+ORD-2025233,2024-05-11,Small Business,Asia-Pacific,Electronics,Logitech MX Master 3S,7,714,15,4248,2922,1326,Credit Card
+ORD-2025234,2024-03-19,Mid-Market,Latin America,Electronics,Logitech MX Master 3S,1,665,5,631,372,259,Apple Pay
+ORD-2025235,2024-11-10,Enterprise,Latin America,Electronics,MacBook Pro 16,5,703,0,3515,1655,1860,Credit Card
+ORD-2025236,2024-07-05,Mid-Market,Asia-Pacific,Electronics,Logitech MX Master 3S,6,763,10,4120,2532,1588,Bank Wire
+ORD-2025237,2024-03-08,Consumer,Latin America,Apparel,Athletic Joggers,4,84,10,302,164,138,Apple Pay
+ORD-2025238,2024-06-26,Consumer,Middle East,Fitness,Yoga Mat Pro,4,158,10,568,373,195,Apple Pay
+ORD-2025239,2024-09-02,Small Business,Western Europe,Home & Office,Ergonomic Desk Chair,1,361,15,306,153,153,Apple Pay
+ORD-2025240,2024-09-30,Mid-Market,Middle East,Home & Office,Monitor Arm Mount,2,325,0,650,297,353,PayPal
+ORD-2025241,2024-02-03,Mid-Market,Latin America,Electronics,iPad Pro 12.9,8,765,10,5508,2534,2974,PayPal
+ORD-2025242,2024-12-17,Enterprise,North America,Fitness,Smart Fitness Tracker,6,158,10,853,580,273,Credit Card
+ORD-2025243,2024-01-16,Small Business,Latin America,Fitness,Resistance Bands Set,8,145,5,1102,571,531,Apple Pay
+ORD-2025244,2024-10-16,Consumer,North America,Apparel,Athletic Joggers,1,109,20,87,41,46,Bank Wire
+ORD-2025245,2024-09-24,Small Business,Western Europe,Fitness,Resistance Bands Set,7,121,0,847,424,423,Bank Wire
+ORD-2025246,2024-08-14,Mid-Market,Middle East,Home & Office,Monitor Arm Mount,1,328,20,262,126,136,Credit Card
+ORD-2025247,2024-08-30,Small Business,Latin America,Home & Office,Ergonomic Desk Chair,5,320,15,1360,636,724,PayPal
+ORD-2025248,2024-04-25,Enterprise,Middle East,Home & Office,Monitor Arm Mount,9,283,15,2164,1391,773,PayPal
+ORD-2025249,2024-10-24,Consumer,Asia-Pacific,Fitness,Smart Fitness Tracker,7,126,5,837,571,266,Credit Card
+ORD-2025250,2024-11-11,Enterprise,North America,Electronics,Logitech MX Master 3S,7,735,15,4373,2558,1815,Bank Wire
+ORD-2025251,2024-12-09,Small Business,Asia-Pacific,Fitness,Adjustable Dumbbell Set,3,155,15,395,202,193,Credit Card
+ORD-2025252,2024-06-08,Consumer,North America,Home & Office,Electric Standing Desk,1,386,10,347,192,155,Bank Wire
+ORD-2025253,2024-01-17,Enterprise,Latin America,Home & Office,Monitor Arm Mount,4,367,15,1247,639,608,Apple Pay
+ORD-2025254,2024-08-29,Consumer,Western Europe,Electronics,Dell UltraSharp 32,2,796,5,1512,755,757,Credit Card
+ORD-2025255,2024-04-11,Small Business,Middle East,Home & Office,Electric Standing Desk,3,325,0,975,454,521,PayPal
+ORD-2025256,2024-08-23,Mid-Market,North America,Home & Office,LED Desk Lamp,2,289,0,578,352,226,Apple Pay
+ORD-2025257,2024-09-17,Consumer,Western Europe,Apparel,Merino Wool Sweater,9,105,20,756,445,311,PayPal
+ORD-2025258,2024-02-09,Mid-Market,Asia-Pacific,Home & Office,Electric Standing Desk,1,394,20,315,163,152,Bank Wire
+ORD-2025259,2024-11-04,Enterprise,North America,Apparel,Leather Oxford Shoes,4,91,20,291,133,158,PayPal
+ORD-2025260,2024-01-03,Small Business,Middle East,Apparel,Merino Wool Sweater,5,89,10,400,273,127,Credit Card
+ORD-2025261,2024-12-26,Enterprise,North America,Fitness,Smart Fitness Tracker,6,129,5,735,415,320,Apple Pay
+ORD-2025262,2024-11-28,Enterprise,Middle East,Apparel,Merino Wool Sweater,1,111,15,94,42,52,Apple Pay
+ORD-2025263,2024-05-13,Mid-Market,North America,Home & Office,Monitor Arm Mount,8,366,15,2488,1214,1274,PayPal
+ORD-2025264,2024-04-21,Mid-Market,Latin America,Electronics,Sony WH-1000XM5,3,657,5,1872,1170,702,PayPal
+ORD-2025265,2024-11-20,Mid-Market,Latin America,Apparel,Athletic Joggers,9,111,10,899,546,353,Bank Wire
+ORD-2025266,2024-11-21,Consumer,Asia-Pacific,Fitness,Yoga Mat Pro,8,163,15,1108,524,584,Bank Wire
+ORD-2025267,2024-06-30,Small Business,Middle East,Fitness,Adjustable Dumbbell Set,3,147,10,396,266,130,Apple Pay
+ORD-2025268,2024-09-15,Mid-Market,North America,Apparel,Merino Wool Sweater,3,109,10,294,186,108,Bank Wire
+ORD-2025269,2024-12-17,Consumer,Latin America,Fitness,Yoga Mat Pro,5,142,5,674,420,254,Bank Wire
+ORD-2025270,2024-05-25,Enterprise,Latin America,Apparel,Waterproof Shell Jacket,5,88,0,440,289,151,Apple Pay
+ORD-2025271,2024-01-30,Enterprise,Latin America,Fitness,Smart Fitness Tracker,3,161,10,434,302,132,Apple Pay
+ORD-2025272,2024-09-15,Consumer,Middle East,Home & Office,Monitor Arm Mount,8,375,10,2700,1415,1285,Credit Card
+ORD-2025273,2024-03-12,Mid-Market,Western Europe,Electronics,Sony WH-1000XM5,5,749,20,2996,1955,1041,Apple Pay
+ORD-2025274,2024-11-21,Consumer,North America,Fitness,Resistance Bands Set,4,171,0,684,467,217,Credit Card
+ORD-2025275,2024-02-25,Small Business,Latin America,Fitness,Adjustable Dumbbell Set,4,163,20,521,305,216,PayPal
+ORD-2025276,2024-11-21,Enterprise,North America,Electronics,Logitech MX Master 3S,6,693,15,3534,1677,1857,Apple Pay
+ORD-2025277,2024-03-12,Consumer,Asia-Pacific,Electronics,Logitech MX Master 3S,8,746,5,5669,3250,2419,PayPal
+ORD-2025278,2024-10-19,Small Business,Latin America,Electronics,Dell UltraSharp 32,6,737,0,4422,2396,2026,Apple Pay
+ORD-2025279,2024-11-14,Small Business,Asia-Pacific,Fitness,Adjustable Dumbbell Set,1,172,20,137,86,51,PayPal
+ORD-2025280,2024-03-22,Enterprise,Western Europe,Apparel,Waterproof Shell Jacket,3,87,0,261,181,80,Bank Wire
+ORD-2025281,2024-12-12,Consumer,North America,Apparel,Waterproof Shell Jacket,9,94,20,676,411,265,Credit Card
+ORD-2025282,2024-02-25,Small Business,Asia-Pacific,Home & Office,Electric Standing Desk,9,332,10,2689,1249,1440,Bank Wire
+ORD-2025283,2024-06-29,Enterprise,North America,Apparel,Leather Oxford Shoes,6,113,10,610,327,283,Bank Wire
+ORD-2025284,2024-02-22,Small Business,Western Europe,Apparel,Merino Wool Sweater,9,112,15,856,423,433,PayPal
+ORD-2025285,2024-07-29,Consumer,Asia-Pacific,Electronics,Sony WH-1000XM5,9,661,15,5056,2362,2694,PayPal
+ORD-2025286,2024-04-15,Small Business,Middle East,Apparel,Waterproof Shell Jacket,7,88,20,492,317,175,Bank Wire
+ORD-2025287,2024-04-19,Consumer,Asia-Pacific,Home & Office,Monitor Arm Mount,2,279,0,558,275,283,Credit Card
+ORD-2025288,2024-03-11,Consumer,North America,Apparel,Athletic Joggers,4,114,10,410,252,158,PayPal
+ORD-2025289,2024-04-10,Mid-Market,Middle East,Apparel,Merino Wool Sweater,7,84,0,588,376,212,PayPal
+ORD-2025290,2024-09-15,Mid-Market,Asia-Pacific,Electronics,iPad Pro 12.9,3,698,0,2094,1105,989,Credit Card
+ORD-2025291,2024-12-21,Enterprise,North America,Home & Office,Electric Standing Desk,5,348,15,1479,723,756,Credit Card
+ORD-2025292,2024-05-14,Mid-Market,North America,Fitness,Adjustable Dumbbell Set,3,162,20,388,175,213,Apple Pay
+ORD-2025293,2024-01-25,Enterprise,North America,Apparel,Waterproof Shell Jacket,5,118,20,472,312,160,PayPal
+ORD-2025294,2024-02-26,Mid-Market,Middle East,Fitness,Yoga Mat Pro,9,135,0,1215,626,589,PayPal
+ORD-2025295,2024-10-30,Mid-Market,Latin America,Electronics,iPad Pro 12.9,6,579,15,2952,1338,1614,Apple Pay
+ORD-2025296,2024-01-14,Enterprise,Western Europe,Electronics,Sony WH-1000XM5,4,758,10,2728,1469,1259,Credit Card
+ORD-2025297,2024-01-21,Consumer,North America,Fitness,Yoga Mat Pro,1,174,5,165,102,63,Credit Card
+ORD-2025298,2024-12-11,Small Business,Latin America,Fitness,Adjustable Dumbbell Set,4,133,10,478,301,177,Credit Card
+ORD-2025299,2024-10-30,Small Business,Middle East,Electronics,Logitech MX Master 3S,1,606,10,545,356,189,Apple Pay
+ORD-2025300,2024-12-03,Enterprise,North America,Apparel,Athletic Joggers,3,91,5,259,117,142,Apple Pay
+ORD-2025301,2024-07-17,Mid-Market,North America,Apparel,Waterproof Shell Jacket,4,84,15,285,163,122,Apple Pay
+ORD-2025302,2024-08-07,Mid-Market,Middle East,Apparel,Merino Wool Sweater,5,102,5,484,226,258,PayPal
+ORD-2025303,2024-02-23,Mid-Market,Asia-Pacific,Electronics,Logitech MX Master 3S,1,650,5,617,283,334,Bank Wire
+ORD-2025304,2024-02-17,Enterprise,Asia-Pacific,Electronics,iPad Pro 12.9,2,734,0,1468,740,728,Apple Pay
+ORD-2025305,2024-04-25,Enterprise,Western Europe,Home & Office,Ergonomic Desk Chair,7,378,20,2116,1144,972,Credit Card
+ORD-2025306,2024-12-22,Mid-Market,Latin America,Fitness,Resistance Bands Set,9,172,5,1470,1004,466,Credit Card
+ORD-2025307,2024-10-15,Small Business,Asia-Pacific,Electronics,Dell UltraSharp 32,3,709,0,2127,975,1152,Bank Wire
+ORD-2025308,2024-08-07,Small Business,Latin America,Electronics,Dell UltraSharp 32,2,563,20,900,437,463,PayPal
+ORD-2025309,2024-01-19,Small Business,Latin America,Home & Office,Electric Standing Desk,1,393,5,373,196,177,PayPal
+ORD-2025310,2024-04-03,Enterprise,Middle East,Home & Office,Ergonomic Desk Chair,5,372,5,1767,1163,604,Apple Pay
+ORD-2025311,2024-03-31,Mid-Market,Middle East,Electronics,iPad Pro 12.9,1,666,15,566,324,242,Bank Wire
+ORD-2025312,2024-02-24,Consumer,North America,Apparel,Waterproof Shell Jacket,2,88,15,149,81,68,PayPal
+ORD-2025313,2024-01-10,Mid-Market,North America,Home & Office,Electric Standing Desk,3,300,20,720,396,324,Bank Wire
+ORD-2025314,2024-01-18,Enterprise,Middle East,Electronics,Dell UltraSharp 32,6,570,10,3078,1697,1381,PayPal
+ORD-2025315,2024-03-06,Mid-Market,Middle East,Fitness,Resistance Bands Set,8,131,5,995,546,449,Credit Card
+ORD-2025316,2024-11-13,Enterprise,Western Europe,Apparel,Waterproof Shell Jacket,8,87,15,591,268,323,Bank Wire
+ORD-2025317,2024-03-01,Consumer,Western Europe,Fitness,Adjustable Dumbbell Set,9,162,5,1385,631,754,Apple Pay
+ORD-2025318,2024-02-14,Small Business,Western Europe,Home & Office,LED Desk Lamp,8,323,10,2325,1611,714,PayPal
+ORD-2025319,2024-10-06,Enterprise,Western Europe,Electronics,Logitech MX Master 3S,7,662,10,4170,2282,1888,Credit Card
+ORD-2025320,2024-06-24,Consumer,Asia-Pacific,Electronics,Dell UltraSharp 32,6,613,15,3126,1707,1419,Bank Wire
+ORD-2025321,2024-03-06,Consumer,Western Europe,Fitness,Adjustable Dumbbell Set,7,134,20,750,513,237,Credit Card
+ORD-2025322,2024-10-06,Consumer,Western Europe,Home & Office,LED Desk Lamp,8,336,5,2553,1208,1345,Bank Wire
+ORD-2025323,2024-02-04,Consumer,Middle East,Home & Office,Electric Standing Desk,1,398,20,318,159,159,Bank Wire
+ORD-2025324,2024-04-26,Consumer,Western Europe,Electronics,iPad Pro 12.9,8,698,5,5304,3583,1721,Bank Wire
+ORD-2025325,2024-01-21,Mid-Market,Western Europe,Home & Office,LED Desk Lamp,9,304,10,2462,1328,1134,Apple Pay
+ORD-2025326,2024-02-13,Enterprise,Western Europe,Home & Office,Ergonomic Desk Chair,1,362,20,289,171,118,PayPal
+ORD-2025327,2024-10-08,Consumer,Middle East,Electronics,Dell UltraSharp 32,6,656,5,3739,2568,1171,PayPal
+ORD-2025328,2024-04-04,Mid-Market,Latin America,Apparel,Athletic Joggers,7,108,15,642,339,303,Apple Pay
+ORD-2025329,2024-08-11,Mid-Market,Asia-Pacific,Fitness,Adjustable Dumbbell Set,3,119,0,357,170,187,Bank Wire
+ORD-2025330,2024-01-03,Mid-Market,Middle East,Electronics,Sony WH-1000XM5,3,612,15,1560,746,814,Credit Card
+ORD-2025331,2024-04-25,Consumer,North America,Fitness,Smart Fitness Tracker,4,156,10,561,300,261,PayPal
+ORD-2025332,2024-08-25,Enterprise,Latin America,Fitness,Yoga Mat Pro,8,150,5,1140,575,565,Credit Card
+ORD-2025333,2024-06-26,Enterprise,Western Europe,Home & Office,Monitor Arm Mount,5,274,10,1233,638,595,Apple Pay
+ORD-2025334,2024-08-24,Mid-Market,Latin America,Electronics,Dell UltraSharp 32,2,755,20,1208,835,373,Apple Pay
+ORD-2025335,2024-05-23,Mid-Market,Western Europe,Fitness,Adjustable Dumbbell Set,4,126,10,453,299,154,Apple Pay
+ORD-2025336,2024-03-20,Mid-Market,Asia-Pacific,Home & Office,Ergonomic Desk Chair,7,337,0,2359,1245,1114,PayPal
+ORD-2025337,2024-06-20,Small Business,Latin America,Apparel,Leather Oxford Shoes,9,112,5,957,514,443,PayPal
+ORD-2025338,2024-07-17,Enterprise,Middle East,Apparel,Athletic Joggers,5,105,5,498,285,213,Apple Pay
+ORD-2025339,2024-11-13,Consumer,Latin America,Apparel,Leather Oxford Shoes,1,83,0,83,49,34,Credit Card
+ORD-2025340,2024-04-28,Small Business,North America,Apparel,Athletic Joggers,9,108,10,874,440,434,Bank Wire
+ORD-2025341,2024-12-20,Small Business,Middle East,Fitness,Yoga Mat Pro,8,161,10,1159,600,559,Credit Card
+ORD-2025342,2024-07-28,Consumer,Asia-Pacific,Apparel,Leather Oxford Shoes,8,90,15,612,336,276,Bank Wire
+ORD-2025343,2024-11-09,Small Business,Middle East,Fitness,Adjustable Dumbbell Set,4,171,15,581,275,306,Credit Card
+ORD-2025344,2024-10-14,Small Business,Asia-Pacific,Fitness,Adjustable Dumbbell Set,1,120,0,120,76,44,Apple Pay
+ORD-2025345,2024-01-30,Enterprise,Middle East,Home & Office,Monitor Arm Mount,4,345,0,1380,943,437,Credit Card
+ORD-2025346,2024-11-29,Enterprise,Latin America,Apparel,Athletic Joggers,9,88,15,673,381,292,Credit Card
+ORD-2025347,2024-05-14,Consumer,Western Europe,Fitness,Adjustable Dumbbell Set,4,119,0,476,227,249,PayPal
+ORD-2025348,2024-04-15,Small Business,Asia-Pacific,Home & Office,Monitor Arm Mount,5,361,15,1534,698,836,PayPal
+ORD-2025349,2024-04-05,Consumer,Latin America,Fitness,Yoga Mat Pro,5,156,10,702,487,215,Bank Wire
+ORD-2025350,2024-01-16,Enterprise,Latin America,Home & Office,Electric Standing Desk,1,356,15,302,148,154,PayPal
+ORD-2025351,2024-09-25,Mid-Market,Latin America,Home & Office,Ergonomic Desk Chair,1,373,0,373,235,138,Apple Pay
+ORD-2025352,2024-04-15,Mid-Market,Western Europe,Fitness,Smart Fitness Tracker,5,157,15,667,367,300,Credit Card
+ORD-2025353,2024-08-07,Mid-Market,North America,Electronics,Dell UltraSharp 32,7,787,5,5233,2427,2806,Bank Wire
+ORD-2025354,2024-05-09,Mid-Market,Middle East,Home & Office,LED Desk Lamp,8,315,20,2016,1335,681,Credit Card
+ORD-2025355,2024-04-12,Mid-Market,Latin America,Fitness,Adjustable Dumbbell Set,9,155,20,1116,557,559,Credit Card
+ORD-2025356,2024-01-18,Mid-Market,Latin America,Electronics,Dell UltraSharp 32,9,620,5,5301,2732,2569,Bank Wire
+ORD-2025357,2024-10-15,Consumer,Western Europe,Electronics,iPad Pro 12.9,8,696,0,5568,3650,1918,PayPal
+ORD-2025358,2024-10-22,Small Business,Middle East,Apparel,Waterproof Shell Jacket,3,106,5,302,156,146,Bank Wire
+ORD-2025359,2024-11-29,Small Business,Middle East,Apparel,Leather Oxford Shoes,8,111,15,754,480,274,Apple Pay
+ORD-2025360,2024-10-08,Enterprise,Western Europe,Fitness,Adjustable Dumbbell Set,9,121,15,925,512,413,PayPal
+ORD-2025361,2024-07-03,Mid-Market,Middle East,Apparel,Leather Oxford Shoes,6,117,0,702,315,387,Apple Pay
+ORD-2025362,2024-06-14,Small Business,North America,Home & Office,Monitor Arm Mount,8,349,0,2792,1360,1432,PayPal
+ORD-2025363,2024-01-15,Small Business,North America,Home & Office,Monitor Arm Mount,2,310,20,496,331,165,Apple Pay
+ORD-2025364,2024-12-12,Mid-Market,North America,Electronics,Logitech MX Master 3S,3,703,5,2003,1401,602,Credit Card
+ORD-2025365,2024-06-09,Small Business,Latin America,Fitness,Smart Fitness Tracker,1,173,5,164,73,91,Bank Wire
+ORD-2025366,2024-02-14,Mid-Market,Western Europe,Apparel,Athletic Joggers,7,112,0,784,391,393,Apple Pay
+ORD-2025367,2024-11-30,Enterprise,Latin America,Fitness,Resistance Bands Set,8,137,5,1041,601,440,PayPal
+ORD-2025368,2024-10-08,Consumer,Asia-Pacific,Electronics,Sony WH-1000XM5,4,759,15,2580,1366,1214,PayPal
+ORD-2025369,2024-07-29,Small Business,North America,Electronics,Logitech MX Master 3S,2,700,5,1330,781,549,PayPal
+ORD-2025370,2024-11-12,Enterprise,Middle East,Fitness,Resistance Bands Set,5,137,5,650,451,199,PayPal
+ORD-2025371,2024-07-17,Enterprise,North America,Apparel,Athletic Joggers,4,98,5,372,244,128,Bank Wire
+ORD-2025372,2024-10-06,Small Business,Asia-Pacific,Apparel,Athletic Joggers,4,106,0,424,283,141,Apple Pay
+ORD-2025373,2024-12-15,Consumer,North America,Apparel,Leather Oxford Shoes,1,98,20,78,52,26,Credit Card
+ORD-2025374,2024-07-07,Enterprise,Western Europe,Electronics,MacBook Pro 16,8,731,15,4970,2460,2510,Apple Pay
+ORD-2025375,2024-06-07,Consumer,Asia-Pacific,Home & Office,LED Desk Lamp,9,392,10,3175,2034,1141,Apple Pay
+ORD-2025376,2024-10-28,Enterprise,Latin America,Electronics,Dell UltraSharp 32,2,683,10,1229,681,548,Apple Pay
+ORD-2025377,2024-04-03,Mid-Market,Middle East,Home & Office,Ergonomic Desk Chair,8,391,15,2658,1201,1457,PayPal
+ORD-2025378,2024-03-27,Enterprise,North America,Apparel,Athletic Joggers,6,91,20,436,303,133,Apple Pay
+ORD-2025379,2024-08-07,Mid-Market,North America,Home & Office,Ergonomic Desk Chair,3,386,0,1158,744,414,Credit Card
+ORD-2025380,2024-04-17,Enterprise,Middle East,Fitness,Yoga Mat Pro,1,131,5,124,75,49,Bank Wire
+ORD-2025381,2024-02-08,Consumer,Middle East,Apparel,Waterproof Shell Jacket,3,118,20,283,159,124,Credit Card
+ORD-2025382,2024-06-12,Small Business,Latin America,Apparel,Merino Wool Sweater,2,93,5,176,119,57,Credit Card
+ORD-2025383,2024-11-04,Consumer,Latin America,Electronics,Sony WH-1000XM5,2,612,20,979,600,379,PayPal
+ORD-2025384,2024-10-29,Mid-Market,Latin America,Fitness,Adjustable Dumbbell Set,7,171,20,957,476,481,PayPal
+ORD-2025385,2024-08-18,Consumer,Asia-Pacific,Home & Office,Monitor Arm Mount,4,353,10,1270,653,617,PayPal
+ORD-2025386,2024-01-24,Small Business,North America,Home & Office,Monitor Arm Mount,6,350,0,2100,1163,937,Bank Wire
+ORD-2025387,2024-05-03,Small Business,Latin America,Home & Office,Ergonomic Desk Chair,9,397,15,3037,1657,1380,PayPal
+ORD-2025388,2024-12-02,Enterprise,North America,Apparel,Merino Wool Sweater,2,117,5,222,127,95,Bank Wire
+ORD-2025389,2024-04-14,Consumer,Latin America,Electronics,iPad Pro 12.9,3,635,0,1905,1077,828,Credit Card
+ORD-2025390,2024-03-18,Enterprise,Asia-Pacific,Apparel,Waterproof Shell Jacket,2,87,5,165,105,60,Bank Wire
+ORD-2025391,2024-01-02,Consumer,Latin America,Fitness,Adjustable Dumbbell Set,1,157,10,141,66,75,Credit Card
+ORD-2025392,2024-02-25,Mid-Market,Western Europe,Home & Office,Monitor Arm Mount,6,354,5,2017,1024,993,Credit Card
+ORD-2025393,2024-09-16,Small Business,North America,Apparel,Leather Oxford Shoes,9,85,15,650,402,248,Bank Wire
+ORD-2025394,2024-05-15,Enterprise,Western Europe,Fitness,Smart Fitness Tracker,7,167,20,935,566,369,PayPal
+ORD-2025395,2024-04-29,Consumer,Western Europe,Fitness,Resistance Bands Set,9,166,20,1195,803,392,Bank Wire
+ORD-2025396,2024-09-08,Enterprise,Latin America,Electronics,iPad Pro 12.9,6,612,0,3672,1772,1900,Bank Wire
+ORD-2025397,2024-03-23,Small Business,Western Europe,Fitness,Adjustable Dumbbell Set,6,170,0,1020,565,455,Credit Card
+ORD-2025398,2024-09-12,Mid-Market,North America,Home & Office,Monitor Arm Mount,3,301,20,722,368,354,Bank Wire
+ORD-2025399,2024-03-15,Consumer,Western Europe,Apparel,Merino Wool Sweater,8,97,5,737,456,281,Bank Wire
+ORD-2025400,2024-08-19,Consumer,North America,Home & Office,Monitor Arm Mount,7,335,10,2110,1000,1110,Apple Pay
+ORD-2025401,2024-05-25,Enterprise,North America,Apparel,Merino Wool Sweater,5,92,15,391,242,149,Apple Pay
+ORD-2025402,2024-06-29,Small Business,Asia-Pacific,Fitness,Adjustable Dumbbell Set,5,161,10,724,370,354,PayPal
+ORD-2025403,2024-02-20,Small Business,Asia-Pacific,Apparel,Athletic Joggers,5,117,10,526,321,205,Bank Wire
+ORD-2025404,2024-02-18,Small Business,Middle East,Fitness,Adjustable Dumbbell Set,6,157,5,894,601,293,PayPal
+ORD-2025405,2024-12-05,Enterprise,Middle East,Apparel,Merino Wool Sweater,1,107,5,101,63,38,Apple Pay
+ORD-2025406,2024-01-02,Enterprise,Middle East,Electronics,Logitech MX Master 3S,9,727,5,6215,3097,3118,Apple Pay
+ORD-2025407,2024-03-12,Enterprise,Middle East,Fitness,Resistance Bands Set,3,163,20,391,184,207,Credit Card
+ORD-2025408,2024-10-09,Enterprise,North America,Home & Office,Monitor Arm Mount,7,341,20,1909,1100,809,Bank Wire
+ORD-2025409,2024-09-21,Consumer,North America,Fitness,Smart Fitness Tracker,4,161,10,579,403,176,Apple Pay
+ORD-2025410,2024-10-06,Enterprise,Middle East,Home & Office,Electric Standing Desk,5,373,5,1771,1211,560,PayPal
+ORD-2025411,2024-08-22,Consumer,Asia-Pacific,Apparel,Leather Oxford Shoes,1,106,0,106,66,40,Bank Wire
+ORD-2025412,2024-07-09,Small Business,Asia-Pacific,Home & Office,Monitor Arm Mount,5,322,5,1529,825,704,PayPal
+ORD-2025413,2024-05-12,Consumer,Western Europe,Fitness,Smart Fitness Tracker,9,170,5,1453,866,587,Credit Card
+ORD-2025414,2024-12-13,Mid-Market,North America,Home & Office,Ergonomic Desk Chair,7,390,15,2320,1430,890,Credit Card
+ORD-2025415,2024-07-24,Mid-Market,Latin America,Electronics,Logitech MX Master 3S,6,567,10,3061,1619,1442,Apple Pay
+ORD-2025416,2024-09-03,Consumer,Middle East,Home & Office,Electric Standing Desk,4,341,15,1159,534,625,Bank Wire
+ORD-2025417,2024-10-12,Small Business,Asia-Pacific,Apparel,Leather Oxford Shoes,6,83,20,398,251,147,PayPal
+ORD-2025418,2024-03-22,Mid-Market,Middle East,Apparel,Leather Oxford Shoes,9,115,0,1035,566,469,Apple Pay
+ORD-2025419,2024-04-17,Small Business,Western Europe,Apparel,Leather Oxford Shoes,5,107,20,428,251,177,Credit Card
+ORD-2025420,2024-05-01,Mid-Market,North America,Home & Office,Electric Standing Desk,7,279,0,1953,992,961,Bank Wire
+ORD-2025421,2024-11-11,Mid-Market,Western Europe,Fitness,Adjustable Dumbbell Set,8,137,10,986,484,502,Bank Wire
+ORD-2025422,2024-12-08,Small Business,Latin America,Electronics,Sony WH-1000XM5,6,744,0,4464,2167,2297,PayPal
+ORD-2025423,2024-01-16,Mid-Market,North America,Fitness,Resistance Bands Set,8,131,5,995,579,416,Credit Card
+ORD-2025424,2024-06-16,Mid-Market,Asia-Pacific,Apparel,Leather Oxford Shoes,9,97,10,785,475,310,PayPal
+ORD-2025425,2024-04-29,Consumer,Latin America,Home & Office,Monitor Arm Mount,3,394,0,1182,532,650,PayPal
+ORD-2025426,2024-04-09,Mid-Market,Latin America,Home & Office,Ergonomic Desk Chair,6,375,20,1800,974,826,Credit Card
+ORD-2025427,2024-10-25,Consumer,Latin America,Home & Office,Ergonomic Desk Chair,3,294,20,705,360,345,Bank Wire
+ORD-2025428,2024-01-10,Consumer,North America,Fitness,Yoga Mat Pro,6,167,20,801,364,437,Apple Pay
+ORD-2025429,2024-07-06,Enterprise,Middle East,Home & Office,Ergonomic Desk Chair,7,385,0,2695,1758,937,Credit Card
+ORD-2025430,2024-03-14,Mid-Market,Latin America,Fitness,Resistance Bands Set,3,147,0,441,305,136,Credit Card
+ORD-2025431,2024-11-26,Enterprise,Asia-Pacific,Fitness,Smart Fitness Tracker,2,134,10,241,145,96,Bank Wire
+ORD-2025432,2024-07-11,Enterprise,Middle East,Electronics,iPad Pro 12.9,4,629,15,2138,1403,735,PayPal
+ORD-2025433,2024-12-24,Consumer,Latin America,Fitness,Yoga Mat Pro,6,145,5,826,439,387,Credit Card
+ORD-2025434,2024-07-05,Small Business,Middle East,Home & Office,Electric Standing Desk,7,285,20,1596,836,760,Bank Wire
+ORD-2025435,2024-06-10,Enterprise,Asia-Pacific,Electronics,MacBook Pro 16,6,646,10,3488,2006,1482,Bank Wire
+ORD-2025436,2024-05-01,Small Business,Middle East,Fitness,Smart Fitness Tracker,6,153,5,872,425,447,PayPal
+ORD-2025437,2024-04-29,Enterprise,Asia-Pacific,Apparel,Athletic Joggers,9,82,5,701,420,281,Bank Wire
+ORD-2025438,2024-03-14,Mid-Market,Western Europe,Electronics,MacBook Pro 16,2,622,20,995,592,403,Credit Card
+ORD-2025439,2024-12-22,Mid-Market,Middle East,Electronics,Logitech MX Master 3S,9,556,10,4503,2441,2062,Bank Wire
+ORD-2025440,2024-02-19,Mid-Market,Asia-Pacific,Fitness,Adjustable Dumbbell Set,8,157,10,1130,638,492,PayPal
+ORD-2025441,2024-09-05,Consumer,Asia-Pacific,Electronics,iPad Pro 12.9,3,746,20,1790,991,799,Credit Card
+ORD-2025442,2024-07-04,Small Business,Asia-Pacific,Home & Office,Ergonomic Desk Chair,8,391,5,2971,1733,1238,PayPal
+ORD-2025443,2024-07-30,Enterprise,Latin America,Home & Office,LED Desk Lamp,5,362,10,1629,800,829,Apple Pay
+ORD-2025444,2024-04-22,Mid-Market,Asia-Pacific,Home & Office,Ergonomic Desk Chair,4,275,0,1100,641,459,Bank Wire
+ORD-2025445,2024-02-24,Enterprise,Middle East,Fitness,Adjustable Dumbbell Set,5,158,0,790,465,325,Bank Wire
+ORD-2025446,2024-03-09,Enterprise,North America,Electronics,MacBook Pro 16,8,697,15,4739,2397,2342,Apple Pay
+ORD-2025447,2024-07-14,Mid-Market,Asia-Pacific,Fitness,Smart Fitness Tracker,5,142,5,674,449,225,PayPal
+ORD-2025448,2024-07-31,Mid-Market,Middle East,Fitness,Smart Fitness Tracker,6,160,5,912,422,490,Apple Pay
+ORD-2025449,2024-05-25,Enterprise,Middle East,Home & Office,Monitor Arm Mount,9,347,15,2654,1263,1391,Bank Wire
+ORD-2025450,2024-07-19,Small Business,North America,Fitness,Resistance Bands Set,1,136,20,108,71,37,PayPal
+ORD-2025451,2024-11-13,Consumer,Latin America,Apparel,Merino Wool Sweater,7,102,15,606,349,257,Bank Wire
+ORD-2025452,2024-08-10,Small Business,North America,Home & Office,Electric Standing Desk,2,287,10,516,256,260,Bank Wire
+ORD-2025453,2024-07-09,Enterprise,Middle East,Home & Office,Electric Standing Desk,6,347,5,1977,1059,918,Bank Wire
+ORD-2025454,2024-11-07,Enterprise,Latin America,Home & Office,Electric Standing Desk,8,355,15,2414,1163,1251,Apple Pay
+ORD-2025455,2024-01-08,Consumer,Latin America,Apparel,Merino Wool Sweater,9,81,15,619,360,259,PayPal
+ORD-2025456,2024-12-20,Mid-Market,Middle East,Fitness,Adjustable Dumbbell Set,7,145,15,862,522,340,Bank Wire
+ORD-2025457,2024-01-13,Mid-Market,North America,Home & Office,Ergonomic Desk Chair,6,342,15,1744,1081,663,PayPal
+ORD-2025458,2024-07-11,Mid-Market,Middle East,Fitness,Resistance Bands Set,2,141,5,267,148,119,Bank Wire
+ORD-2025459,2024-03-03,Consumer,Middle East,Home & Office,Electric Standing Desk,3,289,20,693,414,279,Apple Pay
+ORD-2025460,2024-11-15,Small Business,Latin America,Fitness,Adjustable Dumbbell Set,2,128,15,217,98,119,PayPal
+ORD-2025461,2024-09-19,Consumer,Latin America,Fitness,Resistance Bands Set,1,165,15,140,81,59,PayPal
+ORD-2025462,2024-07-15,Small Business,Middle East,Apparel,Leather Oxford Shoes,2,94,15,159,99,60,PayPal
+ORD-2025463,2024-02-16,Small Business,North America,Apparel,Athletic Joggers,1,96,0,96,54,42,Apple Pay
+ORD-2025464,2024-02-10,Mid-Market,Western Europe,Home & Office,Monitor Arm Mount,3,330,10,891,552,339,PayPal
+ORD-2025465,2024-09-05,Consumer,Western Europe,Apparel,Athletic Joggers,7,99,15,589,291,298,Bank Wire
+ORD-2025466,2024-08-05,Enterprise,Western Europe,Home & Office,Monitor Arm Mount,1,384,5,364,228,136,Bank Wire
+ORD-2025467,2024-01-23,Mid-Market,North America,Electronics,Sony WH-1000XM5,7,788,10,4964,3136,1828,Credit Card
+ORD-2025468,2024-09-19,Small Business,Asia-Pacific,Fitness,Smart Fitness Tracker,3,158,15,402,199,203,Bank Wire
+ORD-2025469,2024-12-24,Consumer,North America,Home & Office,Ergonomic Desk Chair,8,365,0,2920,1389,1531,PayPal
+ORD-2025470,2024-05-25,Enterprise,North America,Home & Office,Monitor Arm Mount,8,303,15,2060,962,1098,PayPal
+ORD-2025471,2024-11-07,Enterprise,Middle East,Apparel,Waterproof Shell Jacket,7,108,0,756,365,391,Apple Pay
+ORD-2025472,2024-07-17,Enterprise,North America,Home & Office,LED Desk Lamp,5,378,5,1795,1134,661,Apple Pay
+ORD-2025473,2024-08-17,Enterprise,Asia-Pacific,Fitness,Yoga Mat Pro,2,161,5,305,155,150,PayPal
+ORD-2025474,2024-08-26,Small Business,Latin America,Home & Office,Ergonomic Desk Chair,2,358,0,716,339,377,Apple Pay
+ORD-2025475,2024-10-16,Small Business,Asia-Pacific,Home & Office,Electric Standing Desk,8,339,0,2712,1650,1062,Credit Card
+ORD-2025476,2024-10-25,Small Business,Western Europe,Fitness,Adjustable Dumbbell Set,2,139,10,250,142,108,Apple Pay
+ORD-2025477,2024-06-13,Enterprise,Asia-Pacific,Apparel,Leather Oxford Shoes,4,82,20,262,160,102,PayPal
+ORD-2025478,2024-09-05,Enterprise,North America,Fitness,Resistance Bands Set,6,159,5,906,534,372,Credit Card
+ORD-2025479,2024-10-08,Mid-Market,North America,Fitness,Adjustable Dumbbell Set,5,134,10,603,322,281,Credit Card
+ORD-2025480,2024-12-26,Enterprise,Middle East,Home & Office,Monitor Arm Mount,8,366,0,2928,1899,1029,Bank Wire
+ORD-2025481,2024-11-21,Enterprise,Middle East,Electronics,MacBook Pro 16,2,707,0,1414,811,603,Credit Card
+ORD-2025482,2024-06-24,Mid-Market,Asia-Pacific,Electronics,iPad Pro 12.9,6,726,20,3484,2220,1264,Credit Card
+ORD-2025483,2024-05-10,Small Business,Western Europe,Fitness,Yoga Mat Pro,9,158,0,1422,877,545,PayPal
+ORD-2025484,2024-01-21,Consumer,Latin America,Home & Office,Ergonomic Desk Chair,6,337,0,2022,1081,941,Credit Card
+ORD-2025485,2024-04-15,Enterprise,North America,Fitness,Smart Fitness Tracker,1,156,15,132,84,48,Credit Card
+ORD-2025486,2024-06-08,Mid-Market,Middle East,Home & Office,Electric Standing Desk,7,356,15,2118,1040,1078,Apple Pay
+ORD-2025487,2024-05-12,Small Business,Western Europe,Home & Office,LED Desk Lamp,9,287,20,2066,1294,772,Bank Wire
+ORD-2025488,2024-07-10,Enterprise,Middle East,Fitness,Smart Fitness Tracker,4,156,15,530,245,285,Apple Pay
+ORD-2025489,2024-06-02,Small Business,North America,Fitness,Yoga Mat Pro,6,147,0,882,600,282,Credit Card
+ORD-2025490,2024-05-06,Mid-Market,Asia-Pacific,Home & Office,Ergonomic Desk Chair,5,279,20,1116,573,543,PayPal
+ORD-2025491,2024-09-19,Consumer,North America,Fitness,Yoga Mat Pro,6,155,15,790,363,427,Apple Pay
+ORD-2025492,2024-07-15,Consumer,North America,Electronics,Sony WH-1000XM5,6,774,5,4411,2729,1682,Bank Wire
+ORD-2025493,2024-10-23,Enterprise,Western Europe,Home & Office,LED Desk Lamp,5,285,20,1140,592,548,Bank Wire
+ORD-2025494,2024-10-01,Consumer,Latin America,Electronics,MacBook Pro 16,6,799,0,4794,2296,2498,Apple Pay
+ORD-2025495,2024-07-28,Consumer,Latin America,Electronics,Sony WH-1000XM5,3,605,5,1724,804,920,Apple Pay
+ORD-2025496,2024-01-10,Mid-Market,Latin America,Apparel,Merino Wool Sweater,5,92,10,414,272,142,Bank Wire
+ORD-2025497,2024-01-18,Enterprise,Latin America,Home & Office,Electric Standing Desk,3,321,15,818,473,345,Apple Pay
+ORD-2025498,2024-03-06,Enterprise,Latin America,Apparel,Athletic Joggers,2,112,15,190,92,98,Credit Card
+ORD-2025499,2024-03-11,Consumer,Western Europe,Home & Office,Monitor Arm Mount,9,374,0,3366,1967,1399,Apple Pay

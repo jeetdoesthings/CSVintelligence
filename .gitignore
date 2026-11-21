@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.venv
+env/
+venv/
+
+# System / Editor
+.DS_Store
+.idea/
+.vscode/
+*.sw?
+*.log

@@ -1,0 +1,1201 @@
+subscription_id,signup_date,plan_tier,billing_cycle,monthly_recurring_revenue,annual_contract_value,seats_purchased,usage_score,churn_risk,status,region
+SUB-10000,2024-05-21,Professional,Annual,207,2484,12,84,Low,Active,Latin America
+SUB-10001,2024-09-27,Starter,Annual,58,696,4,79,Low,Active,Western Europe
+SUB-10002,2024-04-06,Professional,Monthly,180,2160,24,64,Medium,At Risk,Asia-Pacific
+SUB-10003,2024-09-14,Business,Annual,616,7392,83,61,Medium,Churned,Middle East
+SUB-10004,2024-11-26,Professional,Annual,212,2544,14,38,High,Active,North America
+SUB-10005,2024-06-01,Enterprise,Annual,2455,29460,130,91,Low,Active,Latin America
+SUB-10006,2024-01-18,Starter,Annual,58,696,3,63,Medium,Active,Middle East
+SUB-10007,2024-09-03,Professional,Annual,203,2436,22,57,Medium,Active,North America
+SUB-10008,2024-05-16,Enterprise,Monthly,2721,32652,433,87,Low,Active,Middle East
+SUB-10009,2024-03-09,Business,Monthly,601,7212,55,87,Low,Active,Middle East
+SUB-10010,2024-10-21,Starter,Annual,47,564,1,44,High,Active,Asia-Pacific
+SUB-10011,2024-05-25,Professional,Monthly,220,2640,15,96,Low,Active,North America
+SUB-10012,2024-09-22,Starter,Monthly,59,708,1,58,Medium,At Risk,Middle East
+SUB-10013,2024-07-11,Enterprise,Annual,2195,26340,440,82,Low,Active,North America
+SUB-10014,2024-08-07,Starter,Annual,52,624,1,41,High,Active,Latin America
+SUB-10015,2024-06-13,Enterprise,Annual,2642,31704,394,70,Medium,Active,North America
+SUB-10016,2024-01-05,Business,Monthly,700,8400,29,65,Medium,Active,Western Europe
+SUB-10017,2024-12-23,Business,Annual,557,6684,39,54,Medium,Active,Western Europe
+SUB-10018,2024-12-04,Professional,Monthly,242,2904,6,49,High,Active,North America
+SUB-10019,2024-09-02,Business,Monthly,551,6612,70,38,High,Active,Latin America
+SUB-10020,2024-09-27,Professional,Annual,186,2232,12,43,High,Active,Asia-Pacific
+SUB-10021,2024-07-25,Enterprise,Annual,2169,26028,105,86,Low,Churned,Middle East
+SUB-10022,2024-10-26,Business,Annual,600,7200,34,96,Low,Active,Middle East
+SUB-10023,2024-01-21,Business,Monthly,735,8820,45,80,Low,Active,Asia-Pacific
+SUB-10024,2024-09-15,Business,Annual,622,7464,30,63,Medium,Active,Western Europe
+SUB-10025,2024-02-24,Professional,Annual,190,2280,14,59,Medium,Active,North America
+SUB-10026,2024-02-16,Professional,Monthly,239,2868,13,49,High,Active,Western Europe
+SUB-10027,2024-09-27,Starter,Annual,47,564,3,65,Medium,Active,Latin America
+SUB-10028,2024-12-09,Starter,Annual,50,600,2,87,Low,Active,Latin America
+SUB-10029,2024-09-02,Professional,Annual,217,2604,15,48,High,Active,Western Europe
+SUB-10030,2024-07-16,Professional,Annual,185,2220,13,77,Low,Active,Latin America
+SUB-10031,2024-12-03,Business,Annual,602,7224,52,59,Medium,Active,Middle East
+SUB-10032,2024-07-10,Enterprise,Annual,2351,28212,495,49,High,Active,Middle East
+SUB-10033,2024-12-08,Starter,Monthly,55,660,4,79,Low,Active,Latin America
+SUB-10034,2024-06-25,Professional,Monthly,228,2736,10,61,Medium,Active,North America
+SUB-10035,2024-05-12,Starter,Annual,47,564,3,35,High,Active,North America
+SUB-10036,2024-02-15,Starter,Monthly,47,564,1,50,High,Active,North America
+SUB-10037,2024-03-09,Enterprise,Annual,2646,31752,100,61,Medium,Active,Asia-Pacific
+SUB-10038,2024-03-18,Business,Annual,609,7308,60,73,Low,Active,Middle East
+SUB-10039,2024-10-17,Enterprise,Monthly,2285,27420,467,56,Medium,Active,Latin America
+SUB-10040,2024-10-14,Business,Annual,594,7128,44,67,Medium,Active,Western Europe
+SUB-10041,2024-10-25,Starter,Annual,44,528,4,95,Low,Active,Western Europe
+SUB-10042,2024-11-29,Starter,Monthly,51,612,1,94,Low,Active,Latin America
+SUB-10043,2024-03-27,Professional,Monthly,180,2160,14,92,Low,Active,Middle East
+SUB-10044,2024-03-21,Professional,Annual,244,2928,7,92,Low,Active,Western Europe
+SUB-10045,2024-01-17,Business,Monthly,682,8184,58,84,Low,Active,Asia-Pacific
+SUB-10046,2024-01-18,Starter,Annual,59,708,1,37,High,Active,Asia-Pacific
+SUB-10047,2024-07-13,Professional,Monthly,190,2280,20,80,Low,At Risk,Latin America
+SUB-10048,2024-03-31,Starter,Monthly,58,696,1,93,Low,Active,Latin America
+SUB-10049,2024-10-04,Starter,Monthly,59,708,3,33,High,Active,Asia-Pacific
+SUB-10050,2024-10-24,Starter,Annual,51,612,4,79,Low,Active,Middle East
+SUB-10051,2024-09-29,Professional,Annual,210,2520,7,73,Low,Active,Western Europe
+SUB-10052,2024-04-04,Professional,Annual,198,2376,8,95,Low,Active,Middle East
+SUB-10053,2024-04-29,Professional,Annual,196,2352,7,69,Medium,Active,Western Europe
+SUB-10054,2024-11-19,Business,Monthly,716,8592,97,70,Medium,Active,North America
+SUB-10055,2024-01-10,Professional,Monthly,226,2712,15,32,High,Active,North America
+SUB-10056,2024-07-08,Enterprise,Annual,2858,34296,350,97,Low,Active,Latin America
+SUB-10057,2024-02-06,Starter,Annual,46,552,1,92,Low,At Risk,Asia-Pacific
+SUB-10058,2024-10-11,Starter,Monthly,60,720,1,96,Low,Active,Western Europe
+SUB-10059,2024-08-13,Professional,Monthly,206,2472,18,49,High,Active,Middle East
+SUB-10060,2024-11-28,Business,Monthly,556,6672,52,46,High,Active,Western Europe
+SUB-10061,2024-12-30,Starter,Annual,45,540,3,71,Low,Active,North America
+SUB-10062,2024-08-13,Business,Monthly,712,8544,39,85,Low,Active,Latin America
+SUB-10063,2024-11-27,Starter,Annual,60,720,2,72,Low,Active,Middle East
+SUB-10064,2024-02-01,Professional,Monthly,211,2532,5,76,Low,Active,Western Europe
+SUB-10065,2024-08-31,Business,Monthly,610,7320,79,95,Low,Active,Latin America
+SUB-10066,2024-07-11,Professional,Annual,234,2808,21,60,Medium,Active,Western Europe
+SUB-10067,2024-03-10,Business,Monthly,714,8568,73,73,Low,Active,Middle East
+SUB-10068,2024-10-18,Starter,Monthly,58,696,4,84,Low,Active,Western Europe
+SUB-10069,2024-04-12,Starter,Annual,49,588,1,97,Low,Active,North America
+SUB-10070,2024-05-26,Business,Annual,666,7992,74,50,High,Active,Middle East
+SUB-10071,2024-03-25,Business,Monthly,708,8496,27,84,Low,Active,Western Europe
+SUB-10072,2024-02-21,Professional,Annual,204,2448,7,86,Low,At Risk,Asia-Pacific
+SUB-10073,2024-10-18,Starter,Monthly,59,708,3,81,Low,Active,Asia-Pacific
+SUB-10074,2024-10-24,Professional,Annual,241,2892,19,93,Low,Active,North America
+SUB-10075,2024-06-03,Business,Monthly,732,8784,97,63,Medium,Active,North America
+SUB-10076,2024-08-03,Professional,Monthly,181,2172,7,61,Medium,Active,Western Europe
+SUB-10077,2024-05-17,Professional,Monthly,236,2832,8,87,Low,Active,Western Europe
+SUB-10078,2024-10-20,Professional,Monthly,208,2496,12,30,High,Active,Latin America
+SUB-10079,2024-04-23,Professional,Monthly,247,2964,12,65,Medium,Active,Asia-Pacific
+SUB-10080,2024-09-22,Starter,Monthly,52,624,4,58,Medium,At Risk,Asia-Pacific
+SUB-10081,2024-02-21,Professional,Monthly,238,2856,13,55,Medium,Active,North America
+SUB-10082,2024-09-02,Professional,Monthly,202,2424,5,79,Low,Active,Asia-Pacific
+SUB-10083,2024-10-07,Professional,Annual,194,2328,6,50,High,At Risk,Western Europe
+SUB-10084,2024-05-16,Business,Monthly,632,7584,40,53,Medium,At Risk,Middle East
+SUB-10085,2024-03-27,Professional,Annual,241,2892,16,51,Medium,Active,Western Europe
+SUB-10086,2024-06-10,Professional,Annual,183,2196,6,46,High,Active,Asia-Pacific
+SUB-10087,2024-11-18,Starter,Monthly,45,540,2,55,Medium,Active,Latin America
+SUB-10088,2024-06-29,Professional,Annual,207,2484,14,40,High,Active,Middle East
+SUB-10089,2024-07-29,Professional,Monthly,228,2736,24,85,Low,At Risk,North America
+SUB-10090,2024-12-29,Starter,Annual,58,696,1,61,Medium,Active,Middle East
+SUB-10091,2024-12-30,Professional,Annual,219,2628,5,76,Low,At Risk,Asia-Pacific
+SUB-10092,2024-12-02,Professional,Monthly,209,2508,7,56,Medium,Active,Asia-Pacific
+SUB-10093,2024-06-24,Starter,Monthly,48,576,4,39,High,Active,Middle East
+SUB-10094,2024-04-17,Business,Annual,601,7212,44,86,Low,Active,North America
+SUB-10095,2024-11-10,Business,Annual,586,7032,41,43,High,Active,Asia-Pacific
+SUB-10096,2024-08-03,Professional,Annual,183,2196,8,69,Medium,Active,Middle East
+SUB-10097,2024-08-18,Enterprise,Monthly,2769,33228,471,99,Low,Churned,Latin America
+SUB-10098,2024-06-14,Starter,Monthly,52,624,4,90,Low,At Risk,Asia-Pacific
+SUB-10099,2024-02-27,Professional,Annual,236,2832,19,51,Medium,Active,Western Europe
+SUB-10100,2024-06-01,Professional,Annual,237,2844,11,94,Low,Active,Western Europe
+SUB-10101,2024-11-14,Professional,Annual,225,2700,12,35,High,Active,Middle East
+SUB-10102,2024-07-07,Business,Annual,564,6768,99,91,Low,Active,North America
+SUB-10103,2024-05-27,Starter,Annual,60,720,4,50,High,Active,Asia-Pacific
+SUB-10104,2024-07-27,Professional,Annual,181,2172,16,44,High,Active,Latin America
+SUB-10105,2024-11-16,Professional,Monthly,190,2280,18,62,Medium,At Risk,Western Europe
+SUB-10106,2024-01-04,Professional,Annual,182,2184,13,89,Low,Active,Asia-Pacific
+SUB-10107,2024-10-01,Professional,Monthly,183,2196,9,73,Low,Active,Latin America
+SUB-10108,2024-09-30,Business,Monthly,560,6720,45,77,Low,Active,Latin America
+SUB-10109,2024-08-09,Starter,Monthly,53,636,3,82,Low,Active,Middle East
+SUB-10110,2024-01-07,Business,Monthly,543,6516,59,61,Medium,Active,Middle East
+SUB-10111,2024-10-14,Professional,Monthly,234,2808,17,55,Medium,Active,Asia-Pacific
+SUB-10112,2024-04-26,Starter,Annual,59,708,3,43,High,Active,Western Europe
+SUB-10113,2024-12-17,Professional,Monthly,187,2244,6,34,High,Active,Western Europe
+SUB-10114,2024-08-27,Starter,Monthly,46,552,1,73,Low,Active,North America
+SUB-10115,2024-07-16,Professional,Monthly,226,2712,8,46,High,Active,North America
+SUB-10116,2024-03-01,Enterprise,Annual,2391,28692,382,37,High,Active,Latin America
+SUB-10117,2024-01-13,Enterprise,Annual,2505,30060,494,44,High,Churned,Western Europe
+SUB-10118,2024-06-16,Enterprise,Monthly,2709,32508,292,44,High,Active,North America
+SUB-10119,2024-06-02,Starter,Annual,53,636,3,51,Medium,Active,Western Europe
+SUB-10120,2024-12-03,Business,Monthly,582,6984,69,43,High,Active,Middle East
+SUB-10121,2024-06-09,Enterprise,Monthly,2210,26520,441,96,Low,Active,North America
+SUB-10122,2024-07-12,Enterprise,Monthly,2201,26412,166,59,Medium,Active,Western Europe
+SUB-10123,2024-11-14,Professional,Annual,234,2808,7,32,High,Active,Western Europe
+SUB-10124,2024-10-04,Professional,Annual,229,2748,18,55,Medium,Active,Western Europe
+SUB-10125,2024-12-03,Starter,Monthly,46,552,3,41,High,Active,Middle East
+SUB-10126,2024-07-27,Professional,Monthly,245,2940,16,69,Medium,Active,North America
+SUB-10127,2024-09-21,Starter,Monthly,45,540,1,82,Low,Active,Asia-Pacific
+SUB-10128,2024-08-10,Starter,Annual,54,648,3,46,High,Active,Middle East
+SUB-10129,2024-12-06,Starter,Monthly,46,552,2,91,Low,Active,Western Europe
+SUB-10130,2024-04-29,Starter,Monthly,56,672,3,79,Low,Active,Asia-Pacific
+SUB-10131,2024-04-08,Professional,Annual,240,2880,10,48,High,Active,Latin America
+SUB-10132,2024-09-20,Starter,Annual,55,660,4,86,Low,Active,North America
+SUB-10133,2024-05-19,Starter,Monthly,57,684,2,38,High,Active,Western Europe
+SUB-10134,2024-08-19,Business,Monthly,634,7608,96,61,Medium,Active,Middle East
+SUB-10135,2024-12-07,Enterprise,Monthly,2834,34008,306,95,Low,Active,Western Europe
+SUB-10136,2024-07-26,Professional,Monthly,245,2940,16,65,Medium,Active,Middle East
+SUB-10137,2024-02-24,Professional,Monthly,186,2232,20,73,Low,Active,North America
+SUB-10138,2024-12-08,Starter,Monthly,59,708,3,48,High,At Risk,North America
+SUB-10139,2024-06-13,Business,Monthly,729,8748,73,33,High,Active,Middle East
+SUB-10140,2024-11-02,Starter,Annual,49,588,1,38,High,Active,Latin America
+SUB-10141,2024-02-19,Business,Monthly,669,8028,80,39,High,Active,Western Europe
+SUB-10142,2024-03-07,Professional,Monthly,201,2412,19,94,Low,Active,North America
+SUB-10143,2024-05-18,Professional,Monthly,184,2208,13,83,Low,Active,Latin America
+SUB-10144,2024-01-14,Professional,Annual,215,2580,12,36,High,Active,North America
+SUB-10145,2024-03-05,Starter,Annual,52,624,1,92,Low,Active,North America
+SUB-10146,2024-07-27,Business,Annual,706,8472,28,84,Low,Active,Middle East
+SUB-10147,2024-11-17,Starter,Monthly,56,672,1,39,High,Active,North America
+SUB-10148,2024-06-09,Starter,Annual,45,540,1,35,High,Active,North America
+SUB-10149,2024-07-10,Professional,Monthly,213,2556,7,68,Medium,Active,Western Europe
+SUB-10150,2024-01-15,Business,Monthly,618,7416,98,96,Low,Churned,North America
+SUB-10151,2024-12-19,Professional,Monthly,245,2940,20,76,Low,Active,Asia-Pacific
+SUB-10152,2024-01-30,Professional,Annual,191,2292,12,36,High,Active,Middle East
+SUB-10153,2024-01-02,Professional,Monthly,206,2472,9,54,Medium,Churned,Latin America
+SUB-10154,2024-04-24,Starter,Annual,56,672,2,83,Low,At Risk,Latin America
+SUB-10155,2024-02-28,Business,Monthly,684,8208,48,94,Low,Active,Western Europe
+SUB-10156,2024-06-30,Business,Monthly,704,8448,97,40,High,Active,North America
+SUB-10157,2024-11-26,Starter,Annual,47,564,3,37,High,Active,North America
+SUB-10158,2024-12-06,Starter,Monthly,45,540,4,50,High,Active,Latin America
+SUB-10159,2024-02-08,Starter,Annual,56,672,2,50,High,At Risk,Western Europe
+SUB-10160,2024-11-23,Professional,Annual,213,2556,21,57,Medium,Active,North America
+SUB-10161,2024-12-25,Professional,Annual,225,2700,13,90,Low,Active,North America
+SUB-10162,2024-08-30,Starter,Monthly,53,636,1,65,Medium,Active,Western Europe
+SUB-10163,2024-11-27,Starter,Annual,60,720,4,65,Medium,Active,Western Europe
+SUB-10164,2024-04-18,Starter,Monthly,58,696,1,90,Low,Churned,Middle East
+SUB-10165,2024-04-23,Starter,Annual,55,660,1,40,High,Active,Middle East
+SUB-10166,2024-03-06,Business,Annual,591,7092,39,91,Low,Active,Latin America
+SUB-10167,2024-06-26,Professional,Annual,195,2340,13,41,High,Active,Latin America
+SUB-10168,2024-05-22,Business,Annual,542,6504,83,65,Medium,Active,Western Europe
+SUB-10169,2024-07-29,Business,Annual,733,8796,95,55,Medium,Active,Latin America
+SUB-10170,2024-05-02,Business,Annual,583,6996,65,33,High,Active,Western Europe
+SUB-10171,2024-08-14,Professional,Monthly,180,2160,20,59,Medium,Active,Western Europe
+SUB-10172,2024-12-05,Starter,Annual,57,684,4,49,High,Churned,North America
+SUB-10173,2024-12-15,Professional,Annual,237,2844,11,83,Low,At Risk,Asia-Pacific
+SUB-10174,2024-05-18,Enterprise,Monthly,2885,34620,348,82,Low,Active,Middle East
+SUB-10175,2024-04-28,Starter,Annual,54,648,1,47,High,Active,Middle East
+SUB-10176,2024-03-25,Professional,Monthly,192,2304,17,59,Medium,Active,Middle East
+SUB-10177,2024-10-08,Professional,Annual,196,2352,17,61,Medium,Active,Middle East
+SUB-10178,2024-07-07,Business,Monthly,637,7644,96,50,High,Active,Latin America
+SUB-10179,2024-03-27,Professional,Annual,226,2712,15,63,Medium,Active,Middle East
+SUB-10180,2024-08-28,Professional,Annual,225,2700,9,43,High,Churned,Asia-Pacific
+SUB-10181,2024-05-16,Professional,Monthly,204,2448,23,80,Low,Active,Latin America
+SUB-10182,2024-06-19,Business,Annual,554,6648,38,32,High,At Risk,Middle East
+SUB-10183,2024-11-11,Business,Annual,620,7440,81,77,Low,Active,North America
+SUB-10184,2024-04-06,Starter,Annual,52,624,4,80,Low,Active,Latin America
+SUB-10185,2024-01-21,Business,Annual,595,7140,34,58,Medium,Active,North America
+SUB-10186,2024-10-19,Business,Annual,657,7884,60,51,Medium,At Risk,Asia-Pacific
+SUB-10187,2024-08-18,Professional,Monthly,183,2196,15,54,Medium,Active,Middle East
+SUB-10188,2024-11-08,Business,Monthly,681,8172,45,55,Medium,Active,Middle East
+SUB-10189,2024-06-15,Professional,Monthly,195,2340,17,81,Low,Active,Middle East
+SUB-10190,2024-05-07,Professional,Monthly,203,2436,15,60,Medium,Active,North America
+SUB-10191,2024-03-11,Starter,Monthly,57,684,2,90,Low,Active,Middle East
+SUB-10192,2024-08-07,Starter,Monthly,58,696,3,73,Low,Active,Western Europe
+SUB-10193,2024-10-01,Professional,Annual,229,2748,19,87,Low,Active,North America
+SUB-10194,2024-08-06,Starter,Annual,44,528,2,79,Low,Active,Asia-Pacific
+SUB-10195,2024-12-11,Professional,Monthly,201,2412,14,80,Low,Active,Latin America
+SUB-10196,2024-03-30,Professional,Monthly,242,2904,13,32,High,Active,Western Europe
+SUB-10197,2024-01-15,Starter,Monthly,47,564,4,48,High,At Risk,Middle East
+SUB-10198,2024-02-11,Enterprise,Annual,2719,32628,157,78,Low,Active,Latin America
+SUB-10199,2024-05-21,Professional,Monthly,188,2256,7,46,High,Active,Western Europe
+SUB-10200,2024-05-03,Professional,Annual,204,2448,23,98,Low,Active,Latin America
+SUB-10201,2024-10-11,Professional,Annual,244,2928,6,46,High,Active,Asia-Pacific
+SUB-10202,2024-01-21,Starter,Monthly,56,672,2,52,Medium,Active,North America
+SUB-10203,2024-04-27,Business,Monthly,745,8940,58,78,Low,Active,Middle East
+SUB-10204,2024-04-06,Professional,Monthly,231,2772,15,32,High,Active,North America
+SUB-10205,2024-01-31,Professional,Monthly,236,2832,10,74,Low,Active,Latin America
+SUB-10206,2024-08-11,Starter,Monthly,45,540,1,35,High,Active,North America
+SUB-10207,2024-05-30,Starter,Annual,61,732,2,97,Low,Active,Latin America
+SUB-10208,2024-06-03,Starter,Monthly,51,612,4,96,Low,Active,Asia-Pacific
+SUB-10209,2024-04-22,Professional,Annual,195,2340,13,80,Low,Active,Middle East
+SUB-10210,2024-12-23,Enterprise,Annual,2230,26760,191,32,High,Active,Asia-Pacific
+SUB-10211,2024-10-25,Starter,Annual,58,696,1,37,High,Active,Middle East
+SUB-10212,2024-07-30,Professional,Annual,228,2736,5,73,Low,Active,Latin America
+SUB-10213,2024-05-06,Professional,Monthly,199,2388,6,31,High,Active,Western Europe
+SUB-10214,2024-08-07,Starter,Annual,46,552,1,57,Medium,Churned,Asia-Pacific
+SUB-10215,2024-07-24,Starter,Annual,59,708,3,66,Medium,Active,Western Europe
+SUB-10216,2024-03-16,Business,Annual,664,7968,88,81,Low,Active,North America
+SUB-10217,2024-05-12,Enterprise,Monthly,2873,34476,233,44,High,Active,Middle East
+SUB-10218,2024-03-29,Enterprise,Monthly,2461,29532,446,81,Low,Active,Latin America
+SUB-10219,2024-04-11,Starter,Annual,56,672,3,86,Low,Active,Latin America
+SUB-10220,2024-01-21,Starter,Monthly,53,636,4,99,Low,Active,Latin America
+SUB-10221,2024-04-05,Starter,Monthly,56,672,4,82,Low,Active,Middle East
+SUB-10222,2024-01-22,Starter,Monthly,48,576,2,78,Low,Active,Middle East
+SUB-10223,2024-10-12,Business,Monthly,745,8940,45,33,High,Active,Western Europe
+SUB-10224,2024-03-19,Starter,Monthly,51,612,2,95,Low,Active,Latin America
+SUB-10225,2024-09-16,Starter,Annual,52,624,2,63,Medium,Active,Latin America
+SUB-10226,2024-04-21,Professional,Monthly,246,2952,7,91,Low,Active,Asia-Pacific
+SUB-10227,2024-02-10,Enterprise,Monthly,2312,27744,385,42,High,Active,North America
+SUB-10228,2024-04-19,Business,Annual,596,7152,55,47,High,At Risk,Latin America
+SUB-10229,2024-08-18,Professional,Monthly,181,2172,6,30,High,Active,North America
+SUB-10230,2024-09-21,Starter,Monthly,57,684,1,33,High,Active,Middle East
+SUB-10231,2024-03-07,Enterprise,Monthly,2860,34320,125,90,Low,Active,Western Europe
+SUB-10232,2024-10-18,Professional,Annual,205,2460,8,77,Low,Active,North America
+SUB-10233,2024-08-15,Professional,Annual,221,2652,12,87,Low,Active,Middle East
+SUB-10234,2024-09-10,Professional,Annual,224,2688,12,48,High,Active,Middle East
+SUB-10235,2024-12-20,Starter,Monthly,60,720,2,49,High,Active,Middle East
+SUB-10236,2024-07-25,Starter,Annual,47,564,4,95,Low,Active,North America
+SUB-10237,2024-05-10,Business,Annual,620,7440,95,94,Low,Active,North America
+SUB-10238,2024-12-20,Professional,Annual,202,2424,14,84,Low,Active,Western Europe
+SUB-10239,2024-01-21,Enterprise,Annual,2463,29556,251,52,Medium,At Risk,Western Europe
+SUB-10240,2024-07-17,Professional,Monthly,197,2364,8,42,High,Active,Asia-Pacific
+SUB-10241,2024-11-05,Starter,Annual,60,720,1,46,High,Active,Western Europe
+SUB-10242,2024-02-20,Professional,Annual,197,2364,8,85,Low,Active,Western Europe
+SUB-10243,2024-05-31,Professional,Annual,216,2592,6,42,High,Active,North America
+SUB-10244,2024-03-13,Starter,Annual,57,684,3,67,Medium,Active,North America
+SUB-10245,2024-08-22,Business,Annual,609,7308,27,67,Medium,Churned,Asia-Pacific
+SUB-10246,2024-05-10,Professional,Monthly,218,2616,5,44,High,Active,Asia-Pacific
+SUB-10247,2024-06-06,Starter,Monthly,52,624,2,48,High,Active,Asia-Pacific
+SUB-10248,2024-08-29,Starter,Annual,55,660,1,41,High,Active,Western Europe
+SUB-10249,2024-07-19,Starter,Monthly,60,720,3,39,High,Active,Latin America
+SUB-10250,2024-10-24,Professional,Monthly,218,2616,16,35,High,Active,Western Europe
+SUB-10251,2024-06-25,Business,Monthly,629,7548,41,79,Low,Active,North America
+SUB-10252,2024-09-28,Professional,Monthly,202,2424,12,83,Low,Active,North America
+SUB-10253,2024-08-17,Starter,Annual,49,588,3,44,High,Active,Western Europe
+SUB-10254,2024-04-11,Starter,Monthly,56,672,3,86,Low,Active,Asia-Pacific
+SUB-10255,2024-10-05,Professional,Monthly,216,2592,22,92,Low,Active,Asia-Pacific
+SUB-10256,2024-10-06,Professional,Annual,208,2496,10,43,High,Active,Asia-Pacific
+SUB-10257,2024-03-20,Business,Monthly,737,8844,82,84,Low,Active,Western Europe
+SUB-10258,2024-01-04,Starter,Annual,47,564,2,76,Low,Active,Western Europe
+SUB-10259,2024-08-30,Professional,Monthly,188,2256,20,91,Low,Active,Western Europe
+SUB-10260,2024-10-17,Starter,Monthly,56,672,4,87,Low,Active,Asia-Pacific
+SUB-10261,2024-07-11,Starter,Annual,58,696,4,48,High,Active,Middle East
+SUB-10262,2024-01-08,Business,Annual,702,8424,30,69,Medium,Active,Latin America
+SUB-10263,2024-12-02,Professional,Monthly,216,2592,21,88,Low,Active,North America
+SUB-10264,2024-03-08,Professional,Monthly,234,2808,22,79,Low,Active,Middle East
+SUB-10265,2024-09-30,Professional,Annual,179,2148,17,31,High,Active,North America
+SUB-10266,2024-03-04,Professional,Annual,241,2892,10,93,Low,Active,Western Europe
+SUB-10267,2024-03-27,Starter,Annual,50,600,1,95,Low,Active,North America
+SUB-10268,2024-01-15,Enterprise,Annual,2622,31464,493,41,High,Churned,Latin America
+SUB-10269,2024-06-27,Professional,Annual,197,2364,6,68,Medium,Active,North America
+SUB-10270,2024-09-01,Enterprise,Annual,2821,33852,361,66,Medium,Active,Asia-Pacific
+SUB-10271,2024-08-06,Enterprise,Annual,2793,33516,165,88,Low,Active,Western Europe
+SUB-10272,2024-03-17,Business,Monthly,701,8412,81,51,Medium,Active,Middle East
+SUB-10273,2024-10-24,Professional,Monthly,206,2472,22,74,Low,Active,Middle East
+SUB-10274,2024-02-13,Enterprise,Annual,2350,28200,433,44,High,Active,Latin America
+SUB-10275,2024-05-27,Starter,Annual,54,648,2,40,High,Active,North America
+SUB-10276,2024-08-13,Starter,Annual,47,564,3,53,Medium,Active,Latin America
+SUB-10277,2024-04-26,Business,Monthly,631,7572,55,53,Medium,Active,North America
+SUB-10278,2024-06-20,Business,Annual,579,6948,72,96,Low,Active,Asia-Pacific
+SUB-10279,2024-03-29,Starter,Monthly,58,696,1,36,High,Active,North America
+SUB-10280,2024-04-19,Enterprise,Monthly,2471,29652,283,97,Low,Active,Middle East
+SUB-10281,2024-08-09,Professional,Annual,226,2712,16,74,Low,Active,North America
+SUB-10282,2024-04-09,Professional,Annual,243,2916,8,77,Low,Active,Asia-Pacific
+SUB-10283,2024-03-21,Business,Monthly,653,7836,49,71,Low,Churned,Western Europe
+SUB-10284,2024-07-03,Professional,Monthly,197,2364,10,95,Low,At Risk,Western Europe
+SUB-10285,2024-04-01,Professional,Annual,217,2604,18,85,Low,Active,Western Europe
+SUB-10286,2024-12-07,Business,Annual,550,6600,52,54,Medium,Active,Middle East
+SUB-10287,2024-11-09,Professional,Monthly,208,2496,11,67,Medium,Active,Asia-Pacific
+SUB-10288,2024-06-28,Professional,Monthly,224,2688,16,31,High,Churned,Middle East
+SUB-10289,2024-08-27,Starter,Monthly,57,684,2,63,Medium,At Risk,Asia-Pacific
+SUB-10290,2024-05-11,Starter,Annual,58,696,4,35,High,Active,Middle East
+SUB-10291,2024-10-17,Starter,Annual,47,564,4,60,Medium,Active,North America
+SUB-10292,2024-02-21,Business,Monthly,695,8340,36,78,Low,Active,North America
+SUB-10293,2024-11-27,Starter,Annual,54,648,2,53,Medium,Active,North America
+SUB-10294,2024-11-30,Starter,Monthly,55,660,4,34,High,Active,Asia-Pacific
+SUB-10295,2024-06-13,Professional,Monthly,203,2436,20,57,Medium,Active,Western Europe
+SUB-10296,2024-04-18,Starter,Annual,53,636,4,36,High,Active,Latin America
+SUB-10297,2024-05-16,Professional,Annual,240,2880,13,43,High,Churned,Asia-Pacific
+SUB-10298,2024-03-21,Enterprise,Annual,2677,32124,108,55,Medium,Active,Western Europe
+SUB-10299,2024-04-22,Business,Annual,704,8448,96,86,Low,Active,Western Europe
+SUB-10300,2024-02-12,Professional,Annual,235,2820,9,98,Low,Active,Western Europe
+SUB-10301,2024-04-18,Professional,Monthly,247,2964,20,76,Low,Active,North America
+SUB-10302,2024-09-01,Starter,Monthly,53,636,3,87,Low,Active,Middle East
+SUB-10303,2024-03-28,Starter,Annual,60,720,3,75,Low,Active,North America
+SUB-10304,2024-06-06,Starter,Annual,57,684,2,97,Low,Active,Western Europe
+SUB-10305,2024-06-28,Professional,Annual,217,2604,5,36,High,Active,Latin America
+SUB-10306,2024-09-10,Professional,Annual,193,2316,6,71,Low,Active,Latin America
+SUB-10307,2024-12-27,Business,Monthly,636,7632,77,46,High,Active,Middle East
+SUB-10308,2024-10-09,Professional,Monthly,228,2736,17,32,High,Active,Asia-Pacific
+SUB-10309,2024-02-19,Enterprise,Monthly,2637,31644,390,53,Medium,Active,North America
+SUB-10310,2024-11-17,Business,Annual,733,8796,34,54,Medium,Active,Latin America
+SUB-10311,2024-09-11,Starter,Monthly,56,672,2,54,Medium,Active,Latin America
+SUB-10312,2024-06-24,Business,Monthly,622,7464,67,71,Low,Active,Asia-Pacific
+SUB-10313,2024-01-09,Professional,Monthly,238,2856,8,47,High,Active,Latin America
+SUB-10314,2024-09-10,Enterprise,Monthly,2663,31956,465,57,Medium,Active,North America
+SUB-10315,2024-03-28,Professional,Annual,225,2700,14,56,Medium,Active,North America
+SUB-10316,2024-04-21,Starter,Annual,60,720,2,98,Low,Active,Asia-Pacific
+SUB-10317,2024-11-13,Starter,Monthly,54,648,2,69,Medium,Active,Latin America
+SUB-10318,2024-11-10,Professional,Monthly,199,2388,14,34,High,Active,Latin America
+SUB-10319,2024-01-11,Starter,Monthly,53,636,1,82,Low,Active,Western Europe
+SUB-10320,2024-01-05,Starter,Monthly,51,612,3,60,Medium,Active,Western Europe
+SUB-10321,2024-12-19,Enterprise,Annual,2171,26052,253,91,Low,Active,North America
+SUB-10322,2024-08-03,Starter,Monthly,48,576,2,88,Low,Active,Middle East
+SUB-10323,2024-06-21,Business,Annual,648,7776,64,94,Low,Active,Latin America
+SUB-10324,2024-04-22,Starter,Annual,57,684,1,51,Medium,Active,Western Europe
+SUB-10325,2024-08-02,Professional,Monthly,246,2952,9,99,Low,Active,North America
+SUB-10326,2024-03-17,Starter,Annual,54,648,3,45,High,At Risk,Asia-Pacific
+SUB-10327,2024-02-19,Starter,Annual,50,600,2,42,High,Active,Latin America
+SUB-10328,2024-10-01,Business,Annual,697,8364,77,62,Medium,At Risk,Middle East
+SUB-10329,2024-07-14,Starter,Monthly,52,624,3,81,Low,Active,Asia-Pacific
+SUB-10330,2024-03-01,Professional,Annual,180,2160,6,55,Medium,Active,Asia-Pacific
+SUB-10331,2024-05-14,Business,Monthly,622,7464,96,60,Medium,At Risk,Asia-Pacific
+SUB-10332,2024-04-09,Business,Monthly,677,8124,77,67,Medium,Active,Middle East
+SUB-10333,2024-02-28,Business,Monthly,731,8772,32,93,Low,Active,Asia-Pacific
+SUB-10334,2024-10-23,Professional,Annual,234,2808,17,30,High,Active,Western Europe
+SUB-10335,2024-07-29,Starter,Annual,53,636,3,98,Low,Active,Asia-Pacific
+SUB-10336,2024-12-04,Professional,Annual,214,2568,21,62,Medium,Active,Western Europe
+SUB-10337,2024-06-01,Starter,Monthly,51,612,1,63,Medium,Active,Western Europe
+SUB-10338,2024-01-23,Starter,Annual,45,540,2,67,Medium,Active,Middle East
+SUB-10339,2024-01-15,Starter,Annual,50,600,1,51,Medium,Active,Middle East
+SUB-10340,2024-07-05,Business,Monthly,745,8940,84,36,High,Active,Western Europe
+SUB-10341,2024-05-28,Enterprise,Monthly,2830,33960,399,92,Low,Active,Western Europe
+SUB-10342,2024-01-24,Business,Monthly,606,7272,42,59,Medium,Active,Asia-Pacific
+SUB-10343,2024-04-01,Starter,Monthly,51,612,1,46,High,Active,North America
+SUB-10344,2024-09-21,Professional,Annual,227,2724,15,93,Low,Churned,Latin America
+SUB-10345,2024-09-17,Professional,Monthly,236,2832,20,97,Low,Active,Western Europe
+SUB-10346,2024-06-14,Starter,Annual,45,540,4,65,Medium,Active,North America
+SUB-10347,2024-10-17,Starter,Annual,45,540,3,72,Low,Active,Middle East
+SUB-10348,2024-10-04,Professional,Monthly,247,2964,21,33,High,Active,North America
+SUB-10349,2024-10-08,Starter,Monthly,57,684,1,35,High,Active,Middle East
+SUB-10350,2024-10-13,Professional,Annual,223,2676,15,85,Low,Active,Asia-Pacific
+SUB-10351,2024-08-21,Business,Monthly,574,6888,87,44,High,Active,Asia-Pacific
+SUB-10352,2024-02-12,Business,Annual,620,7440,42,95,Low,Active,North America
+SUB-10353,2024-08-23,Business,Monthly,612,7344,60,67,Medium,Active,Western Europe
+SUB-10354,2024-02-09,Business,Monthly,662,7944,81,81,Low,Active,North America
+SUB-10355,2024-02-28,Starter,Annual,51,612,3,49,High,Active,North America
+SUB-10356,2024-12-16,Professional,Annual,228,2736,7,74,Low,Active,North America
+SUB-10357,2024-11-08,Professional,Annual,195,2340,16,80,Low,At Risk,Western Europe
+SUB-10358,2024-07-02,Enterprise,Monthly,2893,34716,310,49,High,Active,North America
+SUB-10359,2024-04-22,Professional,Annual,247,2964,11,96,Low,Active,North America
+SUB-10360,2024-09-22,Business,Monthly,659,7908,90,38,High,Churned,Asia-Pacific
+SUB-10361,2024-07-14,Professional,Monthly,235,2820,16,64,Medium,Active,Western Europe
+SUB-10362,2024-11-21,Professional,Monthly,214,2568,7,69,Medium,Active,Latin America
+SUB-10363,2024-04-24,Starter,Annual,45,540,4,65,Medium,Active,Asia-Pacific
+SUB-10364,2024-09-07,Enterprise,Monthly,2914,34968,426,30,High,Active,Asia-Pacific
+SUB-10365,2024-04-07,Business,Annual,726,8712,25,74,Low,Active,Asia-Pacific
+SUB-10366,2024-09-13,Starter,Annual,57,684,4,68,Medium,Active,Asia-Pacific
+SUB-10367,2024-09-25,Starter,Annual,56,672,2,47,High,Active,Middle East
+SUB-10368,2024-02-17,Business,Annual,672,8064,55,38,High,Active,Western Europe
+SUB-10369,2024-06-22,Professional,Annual,229,2748,23,42,High,Active,Middle East
+SUB-10370,2024-12-12,Professional,Annual,247,2964,21,83,Low,Active,Western Europe
+SUB-10371,2024-04-25,Starter,Monthly,48,576,3,84,Low,Active,Western Europe
+SUB-10372,2024-10-16,Business,Monthly,745,8940,80,39,High,Active,Latin America
+SUB-10373,2024-11-20,Starter,Monthly,46,552,3,69,Medium,Active,Western Europe
+SUB-10374,2024-02-16,Starter,Annual,58,696,3,65,Medium,At Risk,North America
+SUB-10375,2024-06-27,Starter,Annual,57,684,1,61,Medium,Active,Asia-Pacific
+SUB-10376,2024-01-11,Professional,Annual,192,2304,12,71,Low,Active,North America
+SUB-10377,2024-10-17,Professional,Monthly,200,2400,24,49,High,Active,Latin America
+SUB-10378,2024-05-01,Enterprise,Monthly,2809,33708,161,31,High,Active,Asia-Pacific
+SUB-10379,2024-01-29,Starter,Monthly,54,648,4,41,High,Active,Middle East
+SUB-10380,2024-03-29,Professional,Annual,230,2760,9,39,High,Active,Middle East
+SUB-10381,2024-07-22,Professional,Annual,191,2292,23,95,Low,Active,Asia-Pacific
+SUB-10382,2024-06-18,Professional,Monthly,191,2292,15,80,Low,Active,Middle East
+SUB-10383,2024-03-05,Starter,Annual,58,696,4,61,Medium,Active,Asia-Pacific
+SUB-10384,2024-04-07,Enterprise,Monthly,2472,29664,465,92,Low,Churned,North America
+SUB-10385,2024-03-23,Starter,Monthly,61,732,1,51,Medium,Active,Asia-Pacific
+SUB-10386,2024-05-22,Starter,Annual,52,624,3,31,High,Churned,Latin America
+SUB-10387,2024-08-16,Starter,Monthly,53,636,2,66,Medium,Active,North America
+SUB-10388,2024-06-06,Business,Monthly,607,7284,43,38,High,Active,Latin America
+SUB-10389,2024-01-07,Starter,Annual,56,672,4,37,High,At Risk,Asia-Pacific
+SUB-10390,2024-12-13,Enterprise,Monthly,2868,34416,213,81,Low,Active,North America
+SUB-10391,2024-04-25,Starter,Annual,60,720,1,82,Low,Active,Middle East
+SUB-10392,2024-04-06,Professional,Annual,227,2724,24,77,Low,Active,Asia-Pacific
+SUB-10393,2024-02-17,Starter,Annual,48,576,1,36,High,Active,Western Europe
+SUB-10394,2024-10-16,Professional,Annual,220,2640,12,33,High,At Risk,Middle East
+SUB-10395,2024-08-21,Professional,Annual,218,2616,20,53,Medium,Active,Western Europe
+SUB-10396,2024-07-06,Business,Annual,570,6840,95,35,High,Active,Latin America
+SUB-10397,2024-11-28,Professional,Monthly,209,2508,12,56,Medium,Active,Asia-Pacific
+SUB-10398,2024-05-11,Professional,Annual,240,2880,18,35,High,Active,Asia-Pacific
+SUB-10399,2024-04-02,Enterprise,Annual,2626,31512,469,88,Low,Churned,Asia-Pacific
+SUB-10400,2024-09-04,Starter,Annual,44,528,1,59,Medium,Active,Western Europe
+SUB-10401,2024-07-08,Business,Annual,685,8220,51,42,High,Active,Middle East
+SUB-10402,2024-11-10,Business,Monthly,616,7392,85,62,Medium,Active,Middle East
+SUB-10403,2024-08-29,Starter,Annual,57,684,3,42,High,Active,Asia-Pacific
+SUB-10404,2024-01-07,Starter,Annual,44,528,3,39,High,At Risk,Western Europe
+SUB-10405,2024-10-22,Professional,Monthly,199,2388,19,93,Low,Active,Middle East
+SUB-10406,2024-02-13,Business,Annual,682,8184,68,38,High,Active,Latin America
+SUB-10407,2024-08-21,Professional,Monthly,216,2592,5,60,Medium,Active,Latin America
+SUB-10408,2024-10-21,Starter,Annual,45,540,2,76,Low,Active,Western Europe
+SUB-10409,2024-06-27,Starter,Annual,49,588,2,51,Medium,Active,Asia-Pacific
+SUB-10410,2024-08-11,Professional,Annual,235,2820,12,36,High,Active,Western Europe
+SUB-10411,2024-08-28,Professional,Annual,204,2448,9,86,Low,Active,Asia-Pacific
+SUB-10412,2024-04-21,Starter,Monthly,51,612,1,63,Medium,Churned,North America
+SUB-10413,2024-06-01,Business,Monthly,611,7332,40,58,Medium,Active,Western Europe
+SUB-10414,2024-03-09,Starter,Annual,53,636,2,68,Medium,Active,Western Europe
+SUB-10415,2024-05-05,Starter,Monthly,49,588,4,37,High,At Risk,Asia-Pacific
+SUB-10416,2024-05-05,Starter,Annual,48,576,2,97,Low,Active,Middle East
+SUB-10417,2024-10-04,Professional,Annual,180,2160,21,83,Low,Active,Middle East
+SUB-10418,2024-05-21,Enterprise,Annual,2623,31476,209,81,Low,Active,North America
+SUB-10419,2024-06-13,Professional,Annual,237,2844,6,81,Low,Active,North America
+SUB-10420,2024-02-28,Professional,Monthly,205,2460,17,91,Low,Active,North America
+SUB-10421,2024-03-27,Professional,Annual,226,2712,8,36,High,Active,North America
+SUB-10422,2024-03-26,Starter,Annual,57,684,4,66,Medium,Active,Latin America
+SUB-10423,2024-09-28,Starter,Monthly,45,540,4,73,Low,Active,Western Europe
+SUB-10424,2024-03-02,Starter,Annual,49,588,4,83,Low,Active,Latin America
+SUB-10425,2024-01-07,Professional,Annual,241,2892,9,31,High,Active,Latin America
+SUB-10426,2024-02-21,Business,Monthly,626,7512,83,85,Low,Active,Middle East
+SUB-10427,2024-11-15,Business,Annual,615,7380,83,77,Low,Active,Western Europe
+SUB-10428,2024-08-24,Professional,Annual,214,2568,21,64,Medium,Active,Middle East
+SUB-10429,2024-08-02,Professional,Annual,182,2184,21,48,High,Active,North America
+SUB-10430,2024-04-29,Professional,Monthly,230,2760,12,49,High,At Risk,North America
+SUB-10431,2024-06-28,Business,Monthly,660,7920,50,61,Medium,Active,North America
+SUB-10432,2024-01-18,Professional,Monthly,212,2544,23,41,High,Active,Middle East
+SUB-10433,2024-02-03,Starter,Monthly,46,552,1,84,Low,Active,Western Europe
+SUB-10434,2024-05-22,Professional,Annual,181,2172,18,58,Medium,Active,North America
+SUB-10435,2024-11-19,Business,Monthly,693,8316,61,37,High,Active,Middle East
+SUB-10436,2024-03-18,Starter,Monthly,48,576,4,54,Medium,At Risk,Western Europe
+SUB-10437,2024-09-27,Enterprise,Annual,2926,35112,255,33,High,Active,North America
+SUB-10438,2024-07-23,Enterprise,Annual,2902,34824,481,98,Low,Active,Latin America
+SUB-10439,2024-12-23,Professional,Monthly,233,2796,10,82,Low,Active,Latin America
+SUB-10440,2024-08-02,Professional,Annual,232,2784,23,98,Low,Active,Asia-Pacific
+SUB-10441,2024-08-05,Starter,Monthly,54,648,1,37,High,Active,Latin America
+SUB-10442,2024-06-06,Professional,Annual,193,2316,19,50,High,Active,Asia-Pacific
+SUB-10443,2024-01-28,Professional,Annual,190,2280,9,30,High,Active,Asia-Pacific
+SUB-10444,2024-10-04,Starter,Annual,61,732,2,83,Low,Active,Middle East
+SUB-10445,2024-02-02,Starter,Annual,51,612,3,86,Low,At Risk,Asia-Pacific
+SUB-10446,2024-01-23,Starter,Annual,52,624,4,78,Low,Active,North America
+SUB-10447,2024-08-26,Professional,Monthly,237,2844,6,81,Low,Active,Western Europe
+SUB-10448,2024-08-12,Professional,Annual,204,2448,9,97,Low,Active,Asia-Pacific
+SUB-10449,2024-09-29,Starter,Monthly,45,540,1,84,Low,Active,Western Europe
+SUB-10450,2024-02-24,Professional,Annual,219,2628,6,49,High,Active,Latin America
+SUB-10451,2024-07-10,Business,Monthly,725,8700,92,45,High,Active,Western Europe
+SUB-10452,2024-03-13,Professional,Monthly,189,2268,9,61,Medium,Active,North America
+SUB-10453,2024-02-03,Professional,Monthly,214,2568,16,43,High,Active,Western Europe
+SUB-10454,2024-11-18,Starter,Monthly,55,660,2,77,Low,Active,Western Europe
+SUB-10455,2024-09-12,Professional,Annual,204,2448,19,34,High,Active,Asia-Pacific
+SUB-10456,2024-04-22,Enterprise,Monthly,2297,27564,384,95,Low,Active,Asia-Pacific
+SUB-10457,2024-09-21,Business,Annual,728,8736,53,83,Low,Active,Middle East
+SUB-10458,2024-06-09,Professional,Monthly,214,2568,21,64,Medium,Active,North America
+SUB-10459,2024-07-07,Enterprise,Annual,2184,26208,376,43,High,Active,Latin America
+SUB-10460,2024-10-08,Starter,Annual,45,540,4,67,Medium,Active,Middle East
+SUB-10461,2024-07-01,Business,Annual,739,8868,65,30,High,Active,Middle East
+SUB-10462,2024-07-23,Enterprise,Annual,2424,29088,144,47,High,Active,Asia-Pacific
+SUB-10463,2024-05-01,Starter,Annual,57,684,1,68,Medium,Active,Western Europe
+SUB-10464,2024-03-06,Starter,Monthly,53,636,4,87,Low,Active,Middle East
+SUB-10465,2024-06-06,Business,Annual,548,6576,46,86,Low,Active,Middle East
+SUB-10466,2024-12-26,Starter,Annual,55,660,4,88,Low,Active,North America
+SUB-10467,2024-11-15,Enterprise,Monthly,2618,31416,340,55,Medium,Active,Western Europe
+SUB-10468,2024-01-24,Starter,Monthly,51,612,1,38,High,At Risk,Latin America
+SUB-10469,2024-08-19,Starter,Monthly,50,600,1,82,Low,Active,Latin America
+SUB-10470,2024-09-18,Enterprise,Annual,2982,35784,168,82,Low,Churned,Asia-Pacific
+SUB-10471,2024-03-17,Enterprise,Annual,2515,30180,115,67,Medium,Active,North America
+SUB-10472,2024-01-05,Professional,Annual,225,2700,22,32,High,Active,Latin America
+SUB-10473,2024-01-20,Professional,Annual,223,2676,18,48,High,Active,Asia-Pacific
+SUB-10474,2024-01-10,Enterprise,Annual,2355,28260,255,79,Low,Active,Middle East
+SUB-10475,2024-11-13,Enterprise,Annual,2933,35196,145,90,Low,Active,North America
+SUB-10476,2024-10-18,Enterprise,Monthly,2859,34308,301,92,Low,Active,Middle East
+SUB-10477,2024-08-27,Starter,Annual,50,600,3,70,Medium,Active,Western Europe
+SUB-10478,2024-05-11,Professional,Monthly,202,2424,20,91,Low,Active,North America
+SUB-10479,2024-01-18,Business,Monthly,618,7416,60,65,Medium,Active,North America
+SUB-10480,2024-11-24,Professional,Annual,190,2280,22,82,Low,Active,Western Europe
+SUB-10481,2024-05-21,Business,Monthly,595,7140,79,55,Medium,Active,Middle East
+SUB-10482,2024-05-20,Business,Monthly,657,7884,90,71,Low,Active,Western Europe
+SUB-10483,2024-09-08,Enterprise,Monthly,2802,33624,173,86,Low,Active,Latin America
+SUB-10484,2024-04-13,Starter,Monthly,58,696,2,98,Low,Active,Middle East
+SUB-10485,2024-11-18,Professional,Annual,198,2376,19,39,High,Active,Latin America
+SUB-10486,2024-03-31,Starter,Annual,49,588,1,35,High,Active,Middle East
+SUB-10487,2024-09-30,Starter,Annual,59,708,1,82,Low,Active,Latin America
+SUB-10488,2024-09-14,Professional,Monthly,234,2808,7,84,Low,Active,Asia-Pacific
+SUB-10489,2024-01-27,Business,Annual,587,7044,39,40,High,Active,North America
+SUB-10490,2024-02-11,Starter,Annual,44,528,4,44,High,Active,Western Europe
+SUB-10491,2024-03-16,Starter,Annual,54,648,2,41,High,Active,Latin America
+SUB-10492,2024-03-12,Starter,Annual,48,576,1,38,High,Active,North America
+SUB-10493,2024-02-17,Professional,Annual,245,2940,18,67,Medium,Active,North America
+SUB-10494,2024-05-24,Starter,Annual,60,720,4,85,Low,Active,Western Europe
+SUB-10495,2024-07-11,Professional,Monthly,212,2544,12,49,High,Active,Latin America
+SUB-10496,2024-09-22,Starter,Annual,55,660,3,66,Medium,Active,Western Europe
+SUB-10497,2024-01-12,Professional,Monthly,214,2568,23,88,Low,Active,Western Europe
+SUB-10498,2024-04-29,Starter,Monthly,45,540,2,92,Low,Active,Western Europe
+SUB-10499,2024-09-11,Starter,Annual,52,624,1,37,High,Active,Middle East
+SUB-10500,2024-08-19,Starter,Annual,60,720,1,39,High,Active,Western Europe
+SUB-10501,2024-06-04,Starter,Annual,57,684,2,40,High,Active,Western Europe
+SUB-10502,2024-05-24,Professional,Annual,221,2652,13,82,Low,Active,Latin America
+SUB-10503,2024-02-06,Starter,Monthly,48,576,4,77,Low,At Risk,Asia-Pacific
+SUB-10504,2024-06-16,Starter,Annual,48,576,4,51,Medium,Active,Middle East
+SUB-10505,2024-08-19,Professional,Annual,225,2700,13,92,Low,Active,Western Europe
+SUB-10506,2024-11-19,Professional,Monthly,186,2232,14,72,Low,At Risk,Middle East
+SUB-10507,2024-02-15,Enterprise,Annual,2602,31224,273,86,Low,Active,Western Europe
+SUB-10508,2024-01-13,Professional,Monthly,189,2268,10,66,Medium,Active,Western Europe
+SUB-10509,2024-08-16,Enterprise,Monthly,2565,30780,397,70,Medium,Active,Western Europe
+SUB-10510,2024-02-13,Professional,Monthly,199,2388,6,46,High,Active,Asia-Pacific
+SUB-10511,2024-01-27,Starter,Monthly,44,528,1,30,High,Active,Western Europe
+SUB-10512,2024-04-04,Professional,Annual,186,2232,17,85,Low,Active,Middle East
+SUB-10513,2024-12-12,Professional,Annual,218,2616,22,78,Low,Active,Middle East
+SUB-10514,2024-09-25,Professional,Monthly,216,2592,8,66,Medium,Active,Asia-Pacific
+SUB-10515,2024-09-26,Starter,Annual,52,624,1,66,Medium,Active,Latin America
+SUB-10516,2024-02-18,Starter,Annual,46,552,1,47,High,Active,Asia-Pacific
+SUB-10517,2024-04-20,Business,Annual,580,6960,89,94,Low,Active,Asia-Pacific
+SUB-10518,2024-01-03,Business,Monthly,621,7452,25,85,Low,Active,Western Europe
+SUB-10519,2024-08-31,Professional,Annual,215,2580,6,88,Low,At Risk,Asia-Pacific
+SUB-10520,2024-09-22,Professional,Annual,215,2580,11,54,Medium,Active,Middle East
+SUB-10521,2024-11-10,Starter,Monthly,54,648,3,68,Medium,Active,Asia-Pacific
+SUB-10522,2024-10-09,Starter,Monthly,59,708,1,99,Low,Active,Western Europe
+SUB-10523,2024-02-23,Business,Annual,643,7716,58,87,Low,Active,Western Europe
+SUB-10524,2024-03-25,Professional,Monthly,182,2184,15,81,Low,At Risk,Latin America
+SUB-10525,2024-04-03,Business,Monthly,724,8688,58,63,Medium,Active,Asia-Pacific
+SUB-10526,2024-08-19,Business,Monthly,732,8784,71,32,High,Active,Latin America
+SUB-10527,2024-04-04,Business,Annual,732,8784,81,74,Low,Active,Western Europe
+SUB-10528,2024-03-25,Professional,Monthly,228,2736,19,60,Medium,Active,North America
+SUB-10529,2024-04-14,Starter,Monthly,44,528,1,96,Low,Churned,Asia-Pacific
+SUB-10530,2024-10-06,Enterprise,Annual,2541,30492,409,46,High,Active,North America
+SUB-10531,2024-03-19,Starter,Monthly,47,564,3,49,High,Active,Western Europe
+SUB-10532,2024-01-29,Starter,Annual,60,720,1,51,Medium,At Risk,Western Europe
+SUB-10533,2024-03-27,Starter,Annual,56,672,3,55,Medium,Active,Western Europe
+SUB-10534,2024-12-22,Professional,Monthly,235,2820,7,91,Low,Active,Latin America
+SUB-10535,2024-01-25,Professional,Monthly,218,2616,15,41,High,Churned,Asia-Pacific
+SUB-10536,2024-04-06,Professional,Annual,203,2436,8,92,Low,Active,Asia-Pacific
+SUB-10537,2024-02-23,Starter,Monthly,50,600,4,34,High,Active,Latin America
+SUB-10538,2024-08-06,Business,Monthly,574,6888,89,66,Medium,Active,North America
+SUB-10539,2024-08-20,Professional,Annual,241,2892,18,53,Medium,Active,Asia-Pacific
+SUB-10540,2024-07-29,Starter,Monthly,48,576,4,60,Medium,Active,Western Europe
+SUB-10541,2024-02-09,Business,Annual,544,6528,98,71,Low,Active,North America
+SUB-10542,2024-07-24,Professional,Monthly,234,2808,9,43,High,Active,Latin America
+SUB-10543,2024-08-08,Starter,Annual,49,588,2,37,High,Active,Latin America
+SUB-10544,2024-08-06,Starter,Annual,49,588,3,46,High,Active,North America
+SUB-10545,2024-04-04,Enterprise,Monthly,2580,30960,224,82,Low,Active,Latin America
+SUB-10546,2024-09-09,Starter,Monthly,49,588,2,47,High,Active,Middle East
+SUB-10547,2024-12-23,Enterprise,Monthly,2331,27972,218,65,Medium,Active,Latin America
+SUB-10548,2024-06-27,Professional,Monthly,219,2628,8,53,Medium,Active,Latin America
+SUB-10549,2024-04-05,Professional,Annual,199,2388,14,54,Medium,Active,Asia-Pacific
+SUB-10550,2024-01-28,Starter,Annual,44,528,1,86,Low,Active,Asia-Pacific
+SUB-10551,2024-07-23,Starter,Annual,46,552,4,67,Medium,At Risk,Middle East
+SUB-10552,2024-04-23,Enterprise,Monthly,2441,29292,409,69,Medium,Active,Latin America
+SUB-10553,2024-09-14,Starter,Annual,57,684,2,73,Low,Active,Asia-Pacific
+SUB-10554,2024-11-23,Professional,Monthly,219,2628,20,52,Medium,At Risk,Middle East
+SUB-10555,2024-03-17,Business,Monthly,572,6864,61,90,Low,Active,Middle East
+SUB-10556,2024-11-18,Business,Annual,666,7992,66,52,Medium,Active,North America
+SUB-10557,2024-07-09,Business,Annual,540,6480,55,93,Low,Active,Western Europe
+SUB-10558,2024-09-02,Starter,Annual,49,588,2,87,Low,Active,North America
+SUB-10559,2024-04-13,Professional,Annual,234,2808,17,61,Medium,Active,North America
+SUB-10560,2024-10-21,Professional,Annual,224,2688,7,63,Medium,Active,Latin America
+SUB-10561,2024-12-14,Business,Annual,619,7428,94,63,Medium,Active,Latin America
+SUB-10562,2024-12-03,Business,Monthly,673,8076,83,49,High,Active,Western Europe
+SUB-10563,2024-12-13,Professional,Annual,231,2772,5,39,High,Active,North America
+SUB-10564,2024-07-22,Professional,Annual,246,2952,13,99,Low,Active,Asia-Pacific
+SUB-10565,2024-10-20,Starter,Annual,60,720,2,88,Low,Active,North America
+SUB-10566,2024-04-10,Business,Monthly,655,7860,29,98,Low,Active,Middle East
+SUB-10567,2024-01-11,Professional,Annual,224,2688,14,91,Low,Active,Western Europe
+SUB-10568,2024-10-12,Business,Annual,642,7704,27,73,Low,Active,North America
+SUB-10569,2024-02-24,Starter,Annual,51,612,2,80,Low,Active,Asia-Pacific
+SUB-10570,2024-04-22,Starter,Annual,58,696,1,93,Low,Active,Asia-Pacific
+SUB-10571,2024-04-22,Professional,Annual,215,2580,13,39,High,Active,Middle East
+SUB-10572,2024-04-05,Starter,Monthly,52,624,2,43,High,Churned,Asia-Pacific
+SUB-10573,2024-05-26,Enterprise,Annual,2247,26964,110,63,Medium,Churned,Western Europe
+SUB-10574,2024-03-08,Enterprise,Annual,2287,27444,233,85,Low,Active,Latin America
+SUB-10575,2024-08-05,Starter,Monthly,44,528,3,56,Medium,Active,Middle East
+SUB-10576,2024-01-12,Starter,Monthly,47,564,1,87,Low,Active,Asia-Pacific
+SUB-10577,2024-10-29,Enterprise,Monthly,2395,28740,216,32,High,Active,North America
+SUB-10578,2024-03-05,Professional,Annual,182,2184,13,30,High,Active,Asia-Pacific
+SUB-10579,2024-02-04,Professional,Annual,197,2364,24,69,Medium,At Risk,Latin America
+SUB-10580,2024-02-07,Professional,Annual,217,2604,12,33,High,Active,North America
+SUB-10581,2024-01-02,Business,Annual,614,7368,41,55,Medium,Active,Latin America
+SUB-10582,2024-10-18,Starter,Monthly,56,672,3,81,Low,Active,Western Europe
+SUB-10583,2024-09-29,Business,Annual,718,8616,29,51,Medium,Active,Asia-Pacific
+SUB-10584,2024-12-10,Professional,Monthly,202,2424,14,46,High,Active,Middle East
+SUB-10585,2024-01-30,Starter,Monthly,56,672,1,87,Low,Active,Middle East
+SUB-10586,2024-07-21,Starter,Annual,58,696,2,95,Low,Active,Asia-Pacific
+SUB-10587,2024-02-18,Starter,Annual,49,588,4,31,High,Active,Western Europe
+SUB-10588,2024-08-24,Professional,Monthly,180,2160,6,66,Medium,Active,North America
+SUB-10589,2024-02-10,Starter,Monthly,55,660,1,49,High,Active,Latin America
+SUB-10590,2024-03-02,Business,Monthly,562,6744,81,68,Medium,At Risk,Asia-Pacific
+SUB-10591,2024-04-09,Starter,Monthly,52,624,1,65,Medium,Active,Latin America
+SUB-10592,2024-05-08,Business,Annual,588,7056,45,63,Medium,Active,Latin America
+SUB-10593,2024-08-03,Enterprise,Annual,2975,35700,152,94,Low,Active,Latin America
+SUB-10594,2024-10-04,Starter,Annual,52,624,1,94,Low,Active,Middle East
+SUB-10595,2024-12-23,Business,Monthly,604,7248,66,79,Low,Active,Latin America
+SUB-10596,2024-06-09,Starter,Annual,50,600,2,83,Low,Active,Middle East
+SUB-10597,2024-05-12,Starter,Monthly,60,720,1,40,High,Active,Western Europe
+SUB-10598,2024-01-12,Enterprise,Monthly,2663,31956,283,81,Low,Active,Asia-Pacific
+SUB-10599,2024-01-21,Professional,Monthly,180,2160,14,35,High,Active,Latin America
+SUB-10600,2024-10-29,Professional,Annual,246,2952,18,89,Low,Active,Asia-Pacific
+SUB-10601,2024-04-06,Starter,Monthly,52,624,2,79,Low,Active,Western Europe
+SUB-10602,2024-07-28,Professional,Annual,221,2652,13,35,High,Active,Latin America
+SUB-10603,2024-04-23,Professional,Monthly,220,2640,5,38,High,Active,North America
+SUB-10604,2024-06-13,Professional,Annual,216,2592,14,89,Low,Active,Latin America
+SUB-10605,2024-05-19,Starter,Annual,59,708,1,89,Low,Active,Asia-Pacific
+SUB-10606,2024-12-19,Professional,Annual,190,2280,8,72,Low,Churned,Latin America
+SUB-10607,2024-12-29,Business,Monthly,680,8160,27,34,High,Active,Asia-Pacific
+SUB-10608,2024-03-08,Business,Annual,649,7788,52,35,High,Active,Asia-Pacific
+SUB-10609,2024-10-02,Professional,Annual,212,2544,16,40,High,Active,Western Europe
+SUB-10610,2024-04-04,Professional,Annual,189,2268,16,68,Medium,At Risk,North America
+SUB-10611,2024-08-10,Starter,Monthly,49,588,1,68,Medium,Active,Asia-Pacific
+SUB-10612,2024-06-15,Business,Annual,552,6624,44,94,Low,Active,Latin America
+SUB-10613,2024-04-13,Business,Monthly,670,8040,63,76,Low,Active,North America
+SUB-10614,2024-02-13,Starter,Monthly,57,684,3,88,Low,Active,Asia-Pacific
+SUB-10615,2024-11-22,Enterprise,Annual,2242,26904,436,59,Medium,Active,Western Europe
+SUB-10616,2024-12-17,Professional,Annual,180,2160,14,59,Medium,Active,Middle East
+SUB-10617,2024-05-12,Business,Annual,607,7284,63,86,Low,Active,Asia-Pacific
+SUB-10618,2024-02-15,Starter,Monthly,44,528,4,44,High,At Risk,Western Europe
+SUB-10619,2024-02-10,Professional,Annual,248,2976,20,75,Low,Active,North America
+SUB-10620,2024-08-28,Enterprise,Annual,2874,34488,162,68,Medium,Active,North America
+SUB-10621,2024-03-25,Starter,Annual,51,612,3,89,Low,Active,Asia-Pacific
+SUB-10622,2024-03-03,Professional,Annual,182,2184,17,62,Medium,Active,Asia-Pacific
+SUB-10623,2024-03-28,Professional,Monthly,223,2676,17,68,Medium,Active,North America
+SUB-10624,2024-01-31,Professional,Annual,197,2364,20,55,Medium,Active,Middle East
+SUB-10625,2024-02-26,Business,Monthly,728,8736,78,67,Medium,Active,Western Europe
+SUB-10626,2024-11-05,Professional,Annual,185,2220,24,94,Low,Active,Asia-Pacific
+SUB-10627,2024-03-16,Professional,Monthly,237,2844,21,83,Low,At Risk,Middle East
+SUB-10628,2024-08-21,Starter,Annual,60,720,3,50,High,Active,Western Europe
+SUB-10629,2024-06-19,Professional,Annual,215,2580,15,80,Low,Active,Western Europe
+SUB-10630,2024-07-22,Professional,Annual,229,2748,16,43,High,Active,Asia-Pacific
+SUB-10631,2024-03-11,Business,Annual,739,8868,95,72,Low,Churned,Western Europe
+SUB-10632,2024-01-08,Starter,Monthly,52,624,3,57,Medium,Active,Asia-Pacific
+SUB-10633,2024-01-19,Professional,Annual,212,2544,5,32,High,Active,North America
+SUB-10634,2024-02-03,Business,Monthly,661,7932,70,77,Low,Active,Latin America
+SUB-10635,2024-05-30,Starter,Annual,51,612,4,51,Medium,Active,Western Europe
+SUB-10636,2024-10-11,Business,Annual,709,8508,36,38,High,Active,Latin America
+SUB-10637,2024-11-01,Starter,Annual,58,696,1,44,High,Active,Western Europe
+SUB-10638,2024-11-10,Enterprise,Monthly,2238,26856,339,41,High,Active,Middle East
+SUB-10639,2024-04-10,Business,Monthly,617,7404,47,74,Low,Active,Western Europe
+SUB-10640,2024-10-21,Business,Annual,645,7740,80,98,Low,Active,North America
+SUB-10641,2024-10-10,Starter,Annual,48,576,1,97,Low,Active,Western Europe
+SUB-10642,2024-04-16,Enterprise,Monthly,2247,26964,122,46,High,Active,Western Europe
+SUB-10643,2024-02-17,Professional,Annual,204,2448,7,92,Low,Active,Middle East
+SUB-10644,2024-04-27,Professional,Monthly,220,2640,14,57,Medium,Active,Western Europe
+SUB-10645,2024-07-16,Professional,Monthly,224,2688,13,32,High,Active,Asia-Pacific
+SUB-10646,2024-06-20,Professional,Annual,231,2772,13,46,High,Active,Asia-Pacific
+SUB-10647,2024-09-22,Business,Monthly,649,7788,32,37,High,Active,Latin America
+SUB-10648,2024-02-16,Starter,Annual,48,576,4,84,Low,Active,Latin America
+SUB-10649,2024-01-16,Starter,Annual,44,528,4,43,High,Active,North America
+SUB-10650,2024-12-24,Professional,Annual,180,2160,20,31,High,Active,North America
+SUB-10651,2024-08-03,Starter,Annual,50,600,2,59,Medium,Active,North America
+SUB-10652,2024-12-05,Professional,Annual,182,2184,23,76,Low,Active,Latin America
+SUB-10653,2024-04-21,Starter,Monthly,47,564,3,58,Medium,Active,Middle East
+SUB-10654,2024-01-17,Starter,Annual,59,708,3,71,Low,Active,Latin America
+SUB-10655,2024-06-21,Professional,Annual,221,2652,10,58,Medium,Active,Western Europe
+SUB-10656,2024-12-12,Enterprise,Monthly,2554,30648,431,65,Medium,Active,Asia-Pacific
+SUB-10657,2024-04-21,Professional,Monthly,184,2208,11,40,High,Active,Asia-Pacific
+SUB-10658,2024-05-10,Starter,Annual,56,672,2,32,High,Active,Western Europe
+SUB-10659,2024-01-27,Starter,Monthly,56,672,3,31,High,Active,Middle East
+SUB-10660,2024-08-26,Business,Monthly,615,7380,89,90,Low,Active,Western Europe
+SUB-10661,2024-07-24,Starter,Annual,60,720,3,64,Medium,Active,Asia-Pacific
+SUB-10662,2024-01-24,Professional,Annual,219,2628,17,95,Low,Active,Latin America
+SUB-10663,2024-02-28,Starter,Annual,52,624,1,31,High,At Risk,Latin America
+SUB-10664,2024-03-20,Professional,Monthly,242,2904,15,87,Low,Active,Middle East
+SUB-10665,2024-10-03,Starter,Monthly,48,576,2,64,Medium,Active,North America
+SUB-10666,2024-10-25,Professional,Monthly,216,2592,20,44,High,Active,Western Europe
+SUB-10667,2024-09-22,Professional,Monthly,179,2148,24,82,Low,Active,Latin America
+SUB-10668,2024-01-04,Business,Monthly,559,6708,63,45,High,Active,Latin America
+SUB-10669,2024-06-29,Professional,Annual,231,2772,24,37,High,Active,Latin America
+SUB-10670,2024-02-18,Professional,Monthly,217,2604,16,72,Low,Active,Western Europe
+SUB-10671,2024-09-02,Professional,Annual,240,2880,9,88,Low,Active,Latin America
+SUB-10672,2024-12-26,Professional,Monthly,185,2220,13,61,Medium,At Risk,Latin America
+SUB-10673,2024-07-08,Professional,Monthly,211,2532,14,90,Low,Active,North America
+SUB-10674,2024-08-24,Starter,Annual,44,528,4,75,Low,Active,Western Europe
+SUB-10675,2024-07-11,Starter,Monthly,58,696,3,64,Medium,Active,North America
+SUB-10676,2024-04-30,Enterprise,Annual,2774,33288,468,57,Medium,Active,Asia-Pacific
+SUB-10677,2024-10-11,Enterprise,Monthly,2403,28836,277,58,Medium,Active,Western Europe
+SUB-10678,2024-04-07,Starter,Monthly,46,552,4,80,Low,Active,Western Europe
+SUB-10679,2024-03-03,Business,Annual,628,7536,97,90,Low,Active,Western Europe
+SUB-10680,2024-09-08,Professional,Monthly,194,2328,10,81,Low,Active,Asia-Pacific
+SUB-10681,2024-09-02,Starter,Annual,58,696,1,90,Low,Active,Asia-Pacific
+SUB-10682,2024-12-23,Enterprise,Monthly,2529,30348,344,32,High,Active,Asia-Pacific
+SUB-10683,2024-07-17,Professional,Annual,221,2652,12,41,High,Active,North America
+SUB-10684,2024-11-22,Professional,Annual,220,2640,14,64,Medium,Active,Asia-Pacific
+SUB-10685,2024-05-26,Professional,Annual,206,2472,17,31,High,Active,Western Europe
+SUB-10686,2024-06-11,Professional,Annual,192,2304,24,44,High,Active,Asia-Pacific
+SUB-10687,2024-08-08,Professional,Annual,179,2148,21,98,Low,Active,Western Europe
+SUB-10688,2024-06-13,Starter,Annual,59,708,1,68,Medium,Active,Middle East
+SUB-10689,2024-01-31,Business,Monthly,564,6768,31,32,High,Active,Latin America
+SUB-10690,2024-12-22,Professional,Monthly,197,2364,21,95,Low,Active,Asia-Pacific
+SUB-10691,2024-01-15,Starter,Annual,54,648,2,42,High,Active,North America
+SUB-10692,2024-01-30,Business,Annual,584,7008,67,42,High,Active,Western Europe
+SUB-10693,2024-10-21,Business,Monthly,685,8220,58,67,Medium,Active,Western Europe
+SUB-10694,2024-09-22,Business,Monthly,584,7008,87,33,High,Active,Asia-Pacific
+SUB-10695,2024-09-15,Professional,Annual,223,2676,21,45,High,Active,Latin America
+SUB-10696,2024-10-24,Professional,Monthly,196,2352,20,36,High,Active,North America
+SUB-10697,2024-09-19,Professional,Monthly,206,2472,24,56,Medium,Active,Western Europe
+SUB-10698,2024-07-27,Professional,Monthly,211,2532,9,52,Medium,Active,Middle East
+SUB-10699,2024-02-07,Professional,Annual,209,2508,16,64,Medium,Active,North America
+SUB-10700,2024-03-29,Professional,Annual,244,2928,11,30,High,Active,Western Europe
+SUB-10701,2024-11-06,Professional,Annual,207,2484,15,37,High,Active,North America
+SUB-10702,2024-12-16,Starter,Annual,48,576,2,45,High,Active,Middle East
+SUB-10703,2024-09-24,Starter,Monthly,44,528,1,92,Low,Active,Middle East
+SUB-10704,2024-08-27,Professional,Monthly,227,2724,19,87,Low,Active,Asia-Pacific
+SUB-10705,2024-08-09,Starter,Monthly,48,576,4,34,High,Active,Middle East
+SUB-10706,2024-09-13,Starter,Annual,60,720,2,71,Low,Active,Asia-Pacific
+SUB-10707,2024-01-16,Starter,Annual,48,576,2,90,Low,Churned,Latin America
+SUB-10708,2024-05-09,Business,Annual,585,7020,95,64,Medium,Active,North America
+SUB-10709,2024-03-23,Starter,Annual,58,696,1,78,Low,Active,Latin America
+SUB-10710,2024-07-07,Enterprise,Annual,2792,33504,150,71,Low,Active,Asia-Pacific
+SUB-10711,2024-05-26,Business,Monthly,667,8004,35,70,Medium,Active,Middle East
+SUB-10712,2024-11-23,Professional,Annual,222,2664,22,47,High,Active,North America
+SUB-10713,2024-10-24,Starter,Annual,46,552,1,48,High,At Risk,North America
+SUB-10714,2024-05-26,Professional,Monthly,184,2208,10,48,High,Active,North America
+SUB-10715,2024-02-02,Professional,Annual,189,2268,20,52,Medium,Active,Middle East
+SUB-10716,2024-06-22,Starter,Annual,51,612,2,54,Medium,Active,Western Europe
+SUB-10717,2024-03-10,Starter,Monthly,54,648,4,48,High,Churned,Middle East
+SUB-10718,2024-07-24,Starter,Monthly,59,708,3,32,High,Active,Latin America
+SUB-10719,2024-09-14,Starter,Annual,54,648,3,62,Medium,Churned,Latin America
+SUB-10720,2024-01-03,Professional,Annual,185,2220,24,89,Low,Active,North America
+SUB-10721,2024-11-29,Professional,Annual,244,2928,21,86,Low,Active,Western Europe
+SUB-10722,2024-01-05,Professional,Annual,191,2292,6,58,Medium,Active,Latin America
+SUB-10723,2024-02-15,Professional,Annual,230,2760,7,79,Low,Active,Western Europe
+SUB-10724,2024-06-17,Starter,Monthly,56,672,4,79,Low,Active,Asia-Pacific
+SUB-10725,2024-07-26,Starter,Annual,55,660,4,86,Low,Active,Latin America
+SUB-10726,2024-04-06,Business,Annual,747,8964,50,34,High,Active,Asia-Pacific
+SUB-10727,2024-05-28,Professional,Monthly,186,2232,6,81,Low,Active,Western Europe
+SUB-10728,2024-10-30,Business,Annual,649,7788,29,53,Medium,Active,Latin America
+SUB-10729,2024-05-25,Business,Annual,702,8424,33,64,Medium,Active,Western Europe
+SUB-10730,2024-10-27,Starter,Monthly,56,672,4,44,High,Active,Latin America
+SUB-10731,2024-03-13,Starter,Annual,60,720,4,73,Low,Active,Middle East
+SUB-10732,2024-01-25,Business,Annual,577,6924,46,87,Low,Active,North America
+SUB-10733,2024-10-09,Starter,Annual,48,576,1,40,High,Active,North America
+SUB-10734,2024-09-30,Professional,Annual,204,2448,7,71,Low,Active,Middle East
+SUB-10735,2024-10-19,Professional,Annual,248,2976,15,84,Low,Active,Middle East
+SUB-10736,2024-10-28,Professional,Annual,223,2676,20,87,Low,Active,Western Europe
+SUB-10737,2024-05-03,Starter,Annual,46,552,2,73,Low,Active,Asia-Pacific
+SUB-10738,2024-10-07,Starter,Annual,49,588,4,62,Medium,Active,Latin America
+SUB-10739,2024-07-23,Starter,Annual,52,624,4,46,High,Active,North America
+SUB-10740,2024-11-21,Professional,Monthly,228,2736,5,50,High,Active,Asia-Pacific
+SUB-10741,2024-04-12,Starter,Annual,57,684,1,81,Low,Active,North America
+SUB-10742,2024-04-11,Business,Annual,598,7176,53,55,Medium,Churned,Asia-Pacific
+SUB-10743,2024-12-12,Professional,Annual,189,2268,8,36,High,At Risk,Asia-Pacific
+SUB-10744,2024-04-25,Business,Monthly,723,8676,31,96,Low,Active,Latin America
+SUB-10745,2024-06-15,Starter,Annual,59,708,4,89,Low,Active,Middle East
+SUB-10746,2024-06-23,Business,Annual,573,6876,99,73,Low,Active,North America
+SUB-10747,2024-06-26,Starter,Annual,55,660,3,81,Low,Active,Asia-Pacific
+SUB-10748,2024-06-29,Professional,Monthly,247,2964,21,89,Low,Active,North America
+SUB-10749,2024-01-16,Professional,Monthly,222,2664,20,41,High,Active,Latin America
+SUB-10750,2024-10-17,Business,Annual,738,8856,51,66,Medium,Active,Western Europe
+SUB-10751,2024-08-11,Starter,Annual,56,672,3,66,Medium,Active,Asia-Pacific
+SUB-10752,2024-04-02,Professional,Monthly,180,2160,24,76,Low,Active,Middle East
+SUB-10753,2024-12-12,Enterprise,Monthly,2307,27684,350,77,Low,Active,Western Europe
+SUB-10754,2024-09-24,Professional,Monthly,213,2556,12,62,Medium,Active,North America
+SUB-10755,2024-06-17,Starter,Monthly,54,648,4,75,Low,Active,North America
+SUB-10756,2024-10-16,Professional,Annual,217,2604,7,65,Medium,Active,Latin America
+SUB-10757,2024-02-26,Professional,Monthly,191,2292,17,40,High,Active,North America
+SUB-10758,2024-11-23,Business,Annual,719,8628,26,32,High,Churned,Asia-Pacific
+SUB-10759,2024-11-07,Professional,Monthly,203,2436,20,65,Medium,Active,North America
+SUB-10760,2024-03-01,Professional,Annual,244,2928,23,63,Medium,Active,Middle East
+SUB-10761,2024-06-11,Professional,Monthly,182,2184,6,73,Low,Active,Western Europe
+SUB-10762,2024-08-07,Professional,Monthly,189,2268,12,57,Medium,Active,Asia-Pacific
+SUB-10763,2024-02-11,Business,Annual,613,7356,57,51,Medium,Active,Latin America
+SUB-10764,2024-10-03,Business,Annual,668,8016,58,42,High,Active,North America
+SUB-10765,2024-06-16,Professional,Monthly,180,2160,24,35,High,Active,North America
+SUB-10766,2024-05-26,Professional,Annual,242,2904,19,54,Medium,Active,North America
+SUB-10767,2024-06-02,Business,Monthly,549,6588,82,37,High,Active,Western Europe
+SUB-10768,2024-01-11,Starter,Annual,57,684,1,90,Low,Active,Latin America
+SUB-10769,2024-09-16,Professional,Monthly,207,2484,17,95,Low,Active,North America
+SUB-10770,2024-09-19,Business,Monthly,732,8784,91,55,Medium,Active,Latin America
+SUB-10771,2024-03-21,Professional,Monthly,216,2592,13,80,Low,Active,Asia-Pacific
+SUB-10772,2024-07-07,Professional,Monthly,216,2592,7,53,Medium,Active,North America
+SUB-10773,2024-04-20,Professional,Monthly,190,2280,15,62,Medium,Active,North America
+SUB-10774,2024-01-21,Business,Monthly,653,7836,79,63,Medium,Active,Middle East
+SUB-10775,2024-07-08,Professional,Annual,202,2424,17,92,Low,Active,Asia-Pacific
+SUB-10776,2024-10-07,Enterprise,Annual,2786,33432,308,83,Low,Active,Asia-Pacific
+SUB-10777,2024-09-23,Starter,Monthly,48,576,1,68,Medium,Active,Asia-Pacific
+SUB-10778,2024-04-19,Professional,Annual,197,2364,15,33,High,Active,Western Europe
+SUB-10779,2024-06-20,Starter,Annual,50,600,3,97,Low,Active,Latin America
+SUB-10780,2024-04-02,Enterprise,Monthly,2840,34080,459,81,Low,Active,Middle East
+SUB-10781,2024-03-18,Professional,Monthly,196,2352,7,41,High,Active,Middle East
+SUB-10782,2024-01-04,Professional,Annual,241,2892,19,48,High,Active,North America
+SUB-10783,2024-12-16,Enterprise,Annual,2566,30792,332,35,High,Active,Asia-Pacific
+SUB-10784,2024-07-19,Enterprise,Monthly,2805,33660,155,73,Low,Active,North America
+SUB-10785,2024-11-11,Starter,Annual,48,576,1,65,Medium,Active,Western Europe
+SUB-10786,2024-02-17,Professional,Monthly,200,2400,21,92,Low,Active,Western Europe
+SUB-10787,2024-06-17,Professional,Annual,204,2448,10,85,Low,Churned,Latin America
+SUB-10788,2024-02-02,Professional,Monthly,191,2292,11,47,High,Active,Asia-Pacific
+SUB-10789,2024-07-12,Professional,Annual,204,2448,13,59,Medium,Active,Latin America
+SUB-10790,2024-03-09,Business,Annual,669,8028,36,91,Low,Active,Middle East
+SUB-10791,2024-06-15,Professional,Annual,180,2160,17,58,Medium,Active,Middle East
+SUB-10792,2024-02-05,Professional,Annual,246,2952,8,37,High,Active,Latin America
+SUB-10793,2024-01-01,Enterprise,Monthly,2476,29712,111,83,Low,Active,Asia-Pacific
+SUB-10794,2024-12-18,Starter,Monthly,57,684,4,60,Medium,Active,Asia-Pacific
+SUB-10795,2024-04-10,Professional,Annual,231,2772,23,57,Medium,Active,Asia-Pacific
+SUB-10796,2024-03-17,Starter,Monthly,53,636,4,59,Medium,Active,North America
+SUB-10797,2024-07-31,Starter,Monthly,50,600,3,93,Low,Active,Middle East
+SUB-10798,2024-06-04,Starter,Annual,56,672,3,51,Medium,Churned,North America
+SUB-10799,2024-01-31,Starter,Annual,49,588,1,88,Low,Active,Middle East
+SUB-10800,2024-02-28,Starter,Monthly,55,660,3,72,Low,Active,North America
+SUB-10801,2024-08-22,Enterprise,Annual,2855,34260,253,41,High,Active,Middle East
+SUB-10802,2024-11-23,Professional,Annual,208,2496,9,40,High,Active,Latin America
+SUB-10803,2024-09-28,Enterprise,Annual,2290,27480,345,96,Low,Active,Asia-Pacific
+SUB-10804,2024-03-06,Starter,Monthly,44,528,3,35,High,Active,North America
+SUB-10805,2024-11-08,Professional,Monthly,246,2952,15,46,High,Active,Middle East
+SUB-10806,2024-01-06,Enterprise,Monthly,2721,32652,249,81,Low,Active,Western Europe
+SUB-10807,2024-11-04,Professional,Annual,214,2568,9,79,Low,Active,Western Europe
+SUB-10808,2024-10-11,Starter,Annual,57,684,4,73,Low,Active,North America
+SUB-10809,2024-10-20,Business,Annual,587,7044,81,93,Low,Active,North America
+SUB-10810,2024-09-21,Professional,Annual,232,2784,6,60,Medium,Active,Asia-Pacific
+SUB-10811,2024-01-26,Starter,Monthly,49,588,3,62,Medium,Active,Asia-Pacific
+SUB-10812,2024-07-23,Business,Annual,552,6624,37,42,High,Active,North America
+SUB-10813,2024-10-07,Starter,Annual,50,600,1,42,High,Active,Western Europe
+SUB-10814,2024-08-26,Starter,Monthly,54,648,2,73,Low,Active,Latin America
+SUB-10815,2024-12-27,Business,Annual,677,8124,36,67,Medium,Churned,Western Europe
+SUB-10816,2024-09-13,Professional,Annual,215,2580,23,88,Low,Active,Middle East
+SUB-10817,2024-08-19,Professional,Annual,184,2208,23,71,Low,Active,Latin America
+SUB-10818,2024-05-27,Professional,Annual,220,2640,24,42,High,Active,Asia-Pacific
+SUB-10819,2024-04-27,Professional,Annual,246,2952,8,62,Medium,Active,Latin America
+SUB-10820,2024-05-07,Business,Annual,658,7896,64,53,Medium,Active,Asia-Pacific
+SUB-10821,2024-04-23,Professional,Monthly,205,2460,22,49,High,Active,North America
+SUB-10822,2024-03-15,Professional,Annual,233,2796,12,73,Low,At Risk,Asia-Pacific
+SUB-10823,2024-06-16,Professional,Monthly,241,2892,10,97,Low,Active,Middle East
+SUB-10824,2024-04-01,Starter,Monthly,55,660,3,49,High,Active,Middle East
+SUB-10825,2024-05-16,Starter,Monthly,57,684,2,54,Medium,Active,Western Europe
+SUB-10826,2024-12-12,Enterprise,Annual,2692,32304,370,67,Medium,Active,Latin America
+SUB-10827,2024-02-14,Professional,Monthly,248,2976,7,58,Medium,Active,Latin America
+SUB-10828,2024-12-19,Business,Monthly,645,7740,79,69,Medium,Active,Latin America
+SUB-10829,2024-07-30,Starter,Annual,50,600,4,46,High,Active,Middle East
+SUB-10830,2024-04-03,Professional,Monthly,213,2556,22,57,Medium,Active,North America
+SUB-10831,2024-05-21,Business,Annual,663,7956,43,62,Medium,Active,North America
+SUB-10832,2024-09-04,Enterprise,Monthly,2499,29988,431,80,Low,Active,Western Europe
+SUB-10833,2024-03-10,Business,Annual,643,7716,84,82,Low,Active,Middle East
+SUB-10834,2024-11-13,Starter,Annual,58,696,3,94,Low,Churned,Western Europe
+SUB-10835,2024-02-08,Enterprise,Monthly,2920,35040,311,70,Medium,Active,Middle East
+SUB-10836,2024-06-29,Professional,Monthly,241,2892,21,76,Low,Active,North America
+SUB-10837,2024-02-21,Professional,Annual,188,2256,22,63,Medium,Active,Middle East
+SUB-10838,2024-08-07,Starter,Annual,48,576,4,40,High,Active,Asia-Pacific
+SUB-10839,2024-10-17,Starter,Monthly,57,684,3,90,Low,Active,Latin America
+SUB-10840,2024-11-06,Starter,Monthly,53,636,2,98,Low,Active,North America
+SUB-10841,2024-06-24,Professional,Annual,193,2316,9,91,Low,Active,Latin America
+SUB-10842,2024-09-05,Enterprise,Monthly,2344,28128,449,88,Low,Active,Latin America
+SUB-10843,2024-04-18,Business,Monthly,583,6996,98,67,Medium,Active,Asia-Pacific
+SUB-10844,2024-06-18,Business,Annual,676,8112,98,75,Low,Active,Western Europe
+SUB-10845,2024-03-04,Business,Annual,590,7080,31,94,Low,Active,Middle East
+SUB-10846,2024-06-15,Enterprise,Annual,2821,33852,359,42,High,Active,Asia-Pacific
+SUB-10847,2024-10-12,Enterprise,Monthly,2603,31236,468,77,Low,Active,Asia-Pacific
+SUB-10848,2024-06-21,Business,Annual,725,8700,30,93,Low,Active,Middle East
+SUB-10849,2024-09-04,Professional,Annual,198,2376,7,52,Medium,Active,Asia-Pacific
+SUB-10850,2024-03-31,Business,Annual,647,7764,57,73,Low,Active,Western Europe
+SUB-10851,2024-12-26,Business,Monthly,681,8172,50,92,Low,Active,Asia-Pacific
+SUB-10852,2024-12-25,Business,Annual,741,8892,88,82,Low,At Risk,Middle East
+SUB-10853,2024-12-24,Business,Monthly,599,7188,75,70,Medium,Active,Latin America
+SUB-10854,2024-12-19,Professional,Monthly,229,2748,20,34,High,Active,Latin America
+SUB-10855,2024-07-16,Starter,Annual,61,732,1,59,Medium,Active,Asia-Pacific
+SUB-10856,2024-06-23,Business,Monthly,655,7860,60,67,Medium,Active,Middle East
+SUB-10857,2024-11-12,Professional,Annual,180,2160,17,46,High,At Risk,North America
+SUB-10858,2024-03-08,Business,Monthly,580,6960,78,77,Low,Active,Asia-Pacific
+SUB-10859,2024-04-14,Starter,Annual,47,564,4,50,High,Active,Asia-Pacific
+SUB-10860,2024-10-18,Business,Annual,675,8100,57,64,Medium,Active,Western Europe
+SUB-10861,2024-01-02,Business,Monthly,652,7824,32,47,High,Active,Latin America
+SUB-10862,2024-05-31,Enterprise,Annual,2857,34284,155,71,Low,Active,Asia-Pacific
+SUB-10863,2024-08-27,Business,Annual,740,8880,67,91,Low,Active,North America
+SUB-10864,2024-12-27,Starter,Monthly,59,708,2,55,Medium,Active,North America
+SUB-10865,2024-09-22,Professional,Monthly,228,2736,16,30,High,Active,Asia-Pacific
+SUB-10866,2024-03-25,Enterprise,Annual,2633,31596,160,42,High,Active,Latin America
+SUB-10867,2024-08-15,Professional,Annual,183,2196,14,66,Medium,Active,Western Europe
+SUB-10868,2024-07-14,Enterprise,Annual,2188,26256,395,53,Medium,Active,Asia-Pacific
+SUB-10869,2024-02-04,Starter,Monthly,44,528,2,80,Low,Active,Western Europe
+SUB-10870,2024-10-22,Enterprise,Monthly,2230,26760,288,47,High,Active,Western Europe
+SUB-10871,2024-10-18,Starter,Monthly,48,576,2,78,Low,Active,Latin America
+SUB-10872,2024-07-09,Professional,Annual,236,2832,16,55,Medium,Active,Latin America
+SUB-10873,2024-06-27,Business,Monthly,629,7548,46,66,Medium,Active,Asia-Pacific
+SUB-10874,2024-08-12,Starter,Monthly,45,540,3,42,High,Active,Western Europe
+SUB-10875,2024-08-17,Starter,Annual,51,612,4,79,Low,Active,Western Europe
+SUB-10876,2024-02-01,Business,Annual,730,8760,78,57,Medium,Active,Asia-Pacific
+SUB-10877,2024-01-20,Starter,Annual,55,660,2,92,Low,Active,North America
+SUB-10878,2024-09-10,Professional,Annual,206,2472,9,92,Low,Active,Middle East
+SUB-10879,2024-12-12,Starter,Monthly,53,636,4,73,Low,Active,Asia-Pacific
+SUB-10880,2024-09-03,Professional,Annual,223,2676,24,57,Medium,Active,Western Europe
+SUB-10881,2024-01-23,Professional,Annual,224,2688,19,42,High,Active,North America
+SUB-10882,2024-10-22,Starter,Monthly,59,708,4,73,Low,Active,Asia-Pacific
+SUB-10883,2024-05-04,Professional,Annual,233,2796,21,61,Medium,Active,Asia-Pacific
+SUB-10884,2024-01-24,Business,Annual,618,7416,29,53,Medium,Active,Middle East
+SUB-10885,2024-06-27,Professional,Monthly,186,2232,8,71,Low,Churned,Middle East
+SUB-10886,2024-04-04,Professional,Annual,197,2364,19,88,Low,Active,Middle East
+SUB-10887,2024-10-26,Professional,Annual,218,2616,5,48,High,Active,Middle East
+SUB-10888,2024-08-29,Enterprise,Annual,2977,35724,320,88,Low,Active,Middle East
+SUB-10889,2024-03-10,Enterprise,Annual,2217,26604,370,82,Low,Active,Latin America
+SUB-10890,2024-07-09,Starter,Monthly,47,564,2,95,Low,Active,Asia-Pacific
+SUB-10891,2024-06-08,Enterprise,Annual,2490,29880,178,75,Low,Active,Asia-Pacific
+SUB-10892,2024-07-01,Starter,Annual,59,708,1,75,Low,Active,North America
+SUB-10893,2024-12-04,Starter,Annual,46,552,2,65,Medium,Active,Latin America
+SUB-10894,2024-06-14,Professional,Annual,190,2280,24,63,Medium,Active,Latin America
+SUB-10895,2024-12-23,Starter,Annual,57,684,3,71,Low,Active,Latin America
+SUB-10896,2024-11-22,Starter,Monthly,48,576,1,94,Low,Active,Asia-Pacific
+SUB-10897,2024-08-16,Professional,Monthly,229,2748,22,48,High,Active,Western Europe
+SUB-10898,2024-12-27,Enterprise,Annual,2975,35700,373,84,Low,Active,Middle East
+SUB-10899,2024-08-27,Starter,Annual,53,636,2,72,Low,Active,Asia-Pacific
+SUB-10900,2024-02-20,Starter,Monthly,48,576,3,91,Low,Active,North America
+SUB-10901,2024-05-14,Starter,Monthly,45,540,2,39,High,Active,Latin America
+SUB-10902,2024-12-07,Business,Annual,635,7620,32,72,Low,Active,Western Europe
+SUB-10903,2024-09-17,Professional,Annual,230,2760,19,46,High,Active,Asia-Pacific
+SUB-10904,2024-10-17,Business,Annual,674,8088,34,72,Low,Active,Latin America
+SUB-10905,2024-10-11,Starter,Annual,44,528,3,73,Low,At Risk,Western Europe
+SUB-10906,2024-06-05,Professional,Monthly,239,2868,20,72,Low,Active,Western Europe
+SUB-10907,2024-10-13,Business,Annual,585,7020,57,73,Low,Active,Western Europe
+SUB-10908,2024-10-26,Business,Annual,738,8856,71,75,Low,Active,Asia-Pacific
+SUB-10909,2024-01-23,Starter,Annual,44,528,2,82,Low,At Risk,Middle East
+SUB-10910,2024-05-10,Business,Monthly,606,7272,82,38,High,Active,North America
+SUB-10911,2024-08-15,Professional,Annual,191,2292,11,49,High,Active,Western Europe
+SUB-10912,2024-07-16,Starter,Monthly,47,564,1,75,Low,Active,Middle East
+SUB-10913,2024-07-18,Professional,Monthly,201,2412,15,36,High,Active,Latin America
+SUB-10914,2024-01-27,Starter,Monthly,57,684,3,31,High,Active,Asia-Pacific
+SUB-10915,2024-11-22,Starter,Annual,54,648,2,37,High,Active,North America
+SUB-10916,2024-09-07,Professional,Annual,246,2952,15,43,High,Active,North America
+SUB-10917,2024-11-25,Starter,Monthly,60,720,2,61,Medium,Active,Latin America
+SUB-10918,2024-10-12,Professional,Monthly,223,2676,13,69,Medium,Active,North America
+SUB-10919,2024-03-25,Enterprise,Annual,2696,32352,262,59,Medium,At Risk,Western Europe
+SUB-10920,2024-07-19,Professional,Monthly,194,2328,8,52,Medium,Active,Latin America
+SUB-10921,2024-08-06,Enterprise,Monthly,2213,26556,231,95,Low,Active,North America
+SUB-10922,2024-04-16,Starter,Annual,58,696,3,65,Medium,Active,Latin America
+SUB-10923,2024-03-04,Professional,Monthly,231,2772,10,97,Low,Active,Latin America
+SUB-10924,2024-12-27,Enterprise,Annual,2428,29136,403,37,High,Active,North America
+SUB-10925,2024-02-27,Professional,Annual,232,2784,16,36,High,Active,Middle East
+SUB-10926,2024-01-04,Starter,Annual,52,624,3,39,High,Active,Middle East
+SUB-10927,2024-05-28,Starter,Annual,50,600,1,34,High,At Risk,North America
+SUB-10928,2024-03-08,Enterprise,Annual,2896,34752,332,46,High,Active,Western Europe
+SUB-10929,2024-07-17,Professional,Annual,245,2940,19,57,Medium,Active,North America
+SUB-10930,2024-07-17,Starter,Annual,59,708,4,65,Medium,Active,Latin America
+SUB-10931,2024-03-27,Professional,Monthly,197,2364,10,66,Medium,Active,North America
+SUB-10932,2024-08-11,Enterprise,Annual,2210,26520,349,80,Low,Active,Latin America
+SUB-10933,2024-02-12,Business,Annual,725,8700,33,30,High,Churned,Latin America
+SUB-10934,2024-10-29,Starter,Monthly,45,540,4,87,Low,Active,North America
+SUB-10935,2024-11-14,Starter,Annual,61,732,3,37,High,Active,Western Europe
+SUB-10936,2024-02-28,Enterprise,Annual,2424,29088,358,36,High,Active,Western Europe
+SUB-10937,2024-10-22,Starter,Annual,59,708,2,36,High,Active,North America
+SUB-10938,2024-12-20,Enterprise,Annual,2732,32784,190,46,High,Active,North America
+SUB-10939,2024-09-04,Professional,Monthly,204,2448,24,76,Low,Active,Asia-Pacific
+SUB-10940,2024-06-27,Business,Monthly,611,7332,59,38,High,Active,Middle East
+SUB-10941,2024-01-18,Starter,Annual,53,636,3,52,Medium,Active,Latin America
+SUB-10942,2024-02-20,Professional,Annual,188,2256,8,42,High,Active,Asia-Pacific
+SUB-10943,2024-06-18,Enterprise,Monthly,2677,32124,150,33,High,Active,Middle East
+SUB-10944,2024-06-08,Professional,Annual,238,2856,10,75,Low,Active,Western Europe
+SUB-10945,2024-06-07,Starter,Monthly,58,696,4,37,High,Active,Latin America
+SUB-10946,2024-02-01,Starter,Monthly,56,672,2,92,Low,Active,North America
+SUB-10947,2024-10-13,Professional,Annual,227,2724,16,61,Medium,Churned,North America
+SUB-10948,2024-09-18,Business,Monthly,683,8196,80,58,Medium,Active,North America
+SUB-10949,2024-11-07,Professional,Annual,208,2496,13,30,High,Active,Asia-Pacific
+SUB-10950,2024-10-21,Professional,Annual,210,2520,20,36,High,Active,Asia-Pacific
+SUB-10951,2024-01-13,Professional,Monthly,204,2448,6,85,Low,Active,Middle East
+SUB-10952,2024-07-25,Business,Monthly,659,7908,76,78,Low,Active,Asia-Pacific
+SUB-10953,2024-07-22,Enterprise,Annual,2468,29616,416,37,High,Active,Middle East
+SUB-10954,2024-09-10,Starter,Monthly,50,600,4,46,High,Active,Western Europe
+SUB-10955,2024-03-06,Business,Annual,678,8136,64,82,Low,Active,Latin America
+SUB-10956,2024-04-08,Enterprise,Annual,2378,28536,211,51,Medium,Active,Asia-Pacific
+SUB-10957,2024-08-03,Enterprise,Annual,2302,27624,348,41,High,Active,Western Europe
+SUB-10958,2024-04-21,Professional,Annual,202,2424,10,47,High,Active,Latin America
+SUB-10959,2024-04-26,Professional,Annual,214,2568,22,36,High,At Risk,Western Europe
+SUB-10960,2024-05-07,Professional,Monthly,213,2556,19,70,Medium,Active,Latin America
+SUB-10961,2024-06-04,Business,Annual,575,6900,72,66,Medium,Active,North America
+SUB-10962,2024-08-24,Business,Monthly,625,7500,96,54,Medium,Active,Latin America
+SUB-10963,2024-06-11,Professional,Monthly,185,2220,18,81,Low,Active,Middle East
+SUB-10964,2024-01-26,Professional,Monthly,226,2712,15,60,Medium,Active,Middle East
+SUB-10965,2024-01-02,Starter,Annual,49,588,2,85,Low,Active,Western Europe
+SUB-10966,2024-08-30,Professional,Monthly,222,2664,13,44,High,Active,North America
+SUB-10967,2024-10-07,Starter,Annual,55,660,4,62,Medium,Active,Western Europe
+SUB-10968,2024-02-02,Professional,Annual,231,2772,23,45,High,Active,North America
+SUB-10969,2024-08-08,Professional,Monthly,232,2784,13,98,Low,Active,Western Europe
+SUB-10970,2024-08-16,Professional,Monthly,226,2712,7,35,High,Active,North America
+SUB-10971,2024-04-03,Professional,Annual,214,2568,10,40,High,At Risk,Latin America
+SUB-10972,2024-05-14,Professional,Annual,197,2364,15,48,High,Active,Asia-Pacific
+SUB-10973,2024-11-10,Professional,Annual,234,2808,22,65,Medium,Active,Western Europe
+SUB-10974,2024-05-05,Professional,Annual,203,2436,22,36,High,Active,North America
+SUB-10975,2024-11-28,Starter,Annual,54,648,4,57,Medium,Active,Middle East
+SUB-10976,2024-06-01,Business,Annual,614,7368,72,44,High,Active,Asia-Pacific
+SUB-10977,2024-07-25,Starter,Monthly,46,552,3,32,High,Active,North America
+SUB-10978,2024-09-30,Enterprise,Monthly,2853,34236,418,43,High,Active,Middle East
+SUB-10979,2024-02-05,Business,Annual,578,6936,89,72,Low,Active,Western Europe
+SUB-10980,2024-08-28,Professional,Monthly,192,2304,7,80,Low,Active,Middle East
+SUB-10981,2024-01-02,Starter,Monthly,59,708,4,55,Medium,Active,Asia-Pacific
+SUB-10982,2024-08-02,Professional,Annual,240,2880,19,90,Low,Active,North America
+SUB-10983,2024-10-02,Starter,Monthly,57,684,4,71,Low,Active,Asia-Pacific
+SUB-10984,2024-03-06,Starter,Monthly,45,540,1,68,Medium,Active,Asia-Pacific
+SUB-10985,2024-06-07,Business,Monthly,664,7968,36,74,Low,Active,Middle East
+SUB-10986,2024-05-05,Professional,Monthly,182,2184,14,66,Medium,Active,Asia-Pacific
+SUB-10987,2024-03-16,Starter,Annual,54,648,1,74,Low,Active,North America
+SUB-10988,2024-08-17,Business,Annual,717,8604,53,65,Medium,At Risk,Middle East
+SUB-10989,2024-08-06,Enterprise,Annual,2797,33564,436,51,Medium,Active,Asia-Pacific
+SUB-10990,2024-10-04,Professional,Monthly,248,2976,8,84,Low,Active,North America
+SUB-10991,2024-11-18,Business,Annual,563,6756,85,39,High,Active,Middle East
+SUB-10992,2024-07-28,Starter,Annual,56,672,3,93,Low,Active,North America
+SUB-10993,2024-08-18,Professional,Annual,205,2460,13,88,Low,Active,Western Europe
+SUB-10994,2024-11-07,Professional,Monthly,231,2772,23,51,Medium,Active,North America
+SUB-10995,2024-12-26,Business,Annual,599,7188,74,51,Medium,Active,North America
+SUB-10996,2024-03-12,Starter,Annual,56,672,4,98,Low,At Risk,Middle East
+SUB-10997,2024-07-31,Business,Monthly,605,7260,80,66,Medium,Active,North America
+SUB-10998,2024-04-03,Starter,Annual,55,660,2,32,High,Active,Latin America
+SUB-10999,2024-12-19,Business,Monthly,685,8220,95,99,Low,Active,Middle East
+SUB-11000,2024-12-13,Starter,Annual,52,624,4,33,High,Active,Asia-Pacific
+SUB-11001,2024-10-08,Professional,Annual,245,2940,12,64,Medium,Active,North America
+SUB-11002,2024-04-10,Professional,Monthly,240,2880,8,36,High,At Risk,Asia-Pacific
+SUB-11003,2024-02-12,Business,Annual,563,6756,80,68,Medium,Active,Western Europe
+SUB-11004,2024-11-06,Professional,Annual,246,2952,9,92,Low,Active,Latin America
+SUB-11005,2024-07-01,Enterprise,Annual,2320,27840,423,98,Low,Active,Middle East
+SUB-11006,2024-12-30,Business,Monthly,642,7704,98,62,Medium,Active,North America
+SUB-11007,2024-08-06,Starter,Monthly,60,720,3,40,High,Active,Western Europe
+SUB-11008,2024-01-02,Business,Annual,724,8688,69,62,Medium,Active,Middle East
+SUB-11009,2024-02-16,Business,Annual,716,8592,53,47,High,Active,Asia-Pacific
+SUB-11010,2024-08-07,Starter,Monthly,59,708,4,34,High,At Risk,Middle East
+SUB-11011,2024-02-16,Professional,Monthly,192,2304,17,46,High,Active,Middle East
+SUB-11012,2024-05-26,Professional,Annual,216,2592,14,56,Medium,At Risk,Asia-Pacific
+SUB-11013,2024-01-23,Professional,Monthly,239,2868,21,89,Low,Active,Asia-Pacific
+SUB-11014,2024-12-23,Starter,Monthly,48,576,3,93,Low,Active,Western Europe
+SUB-11015,2024-05-19,Professional,Monthly,179,2148,6,65,Medium,Active,North America
+SUB-11016,2024-10-08,Starter,Annual,61,732,4,92,Low,Active,Western Europe
+SUB-11017,2024-07-12,Business,Annual,669,8028,82,51,Medium,Active,Middle East
+SUB-11018,2024-08-15,Starter,Annual,48,576,2,83,Low,Active,North America
+SUB-11019,2024-05-25,Professional,Annual,183,2196,16,60,Medium,Active,Western Europe
+SUB-11020,2024-01-07,Professional,Annual,222,2664,6,80,Low,Active,Middle East
+SUB-11021,2024-06-25,Enterprise,Annual,2389,28668,306,43,High,Active,Western Europe
+SUB-11022,2024-03-27,Starter,Monthly,58,696,3,49,High,Active,Asia-Pacific
+SUB-11023,2024-12-15,Professional,Annual,201,2412,19,93,Low,Active,North America
+SUB-11024,2024-05-25,Business,Annual,669,8028,87,46,High,Active,Middle East
+SUB-11025,2024-11-26,Professional,Monthly,188,2256,20,92,Low,Active,North America
+SUB-11026,2024-08-25,Professional,Monthly,241,2892,17,61,Medium,Active,North America
+SUB-11027,2024-07-31,Professional,Monthly,224,2688,6,72,Low,Active,Middle East
+SUB-11028,2024-06-26,Business,Monthly,657,7884,80,60,Medium,Active,North America
+SUB-11029,2024-10-28,Starter,Monthly,44,528,2,82,Low,Active,Middle East
+SUB-11030,2024-12-12,Enterprise,Annual,2546,30552,297,97,Low,Churned,Middle East
+SUB-11031,2024-07-01,Starter,Annual,46,552,3,65,Medium,Active,Asia-Pacific
+SUB-11032,2024-10-26,Professional,Annual,209,2508,8,35,High,Active,Asia-Pacific
+SUB-11033,2024-01-03,Starter,Monthly,54,648,2,40,High,At Risk,Asia-Pacific
+SUB-11034,2024-11-20,Starter,Monthly,58,696,2,45,High,Active,Latin America
+SUB-11035,2024-02-11,Business,Monthly,737,8844,34,45,High,Active,Asia-Pacific
+SUB-11036,2024-03-02,Starter,Annual,48,576,4,69,Medium,Active,Middle East
+SUB-11037,2024-02-02,Professional,Monthly,247,2964,14,56,Medium,Active,Middle East
+SUB-11038,2024-02-27,Business,Annual,720,8640,96,32,High,Active,Latin America
+SUB-11039,2024-01-18,Business,Monthly,550,6600,64,45,High,Active,Latin America
+SUB-11040,2024-08-14,Starter,Monthly,48,576,4,46,High,Active,Western Europe
+SUB-11041,2024-09-01,Professional,Annual,222,2664,23,95,Low,Active,Middle East
+SUB-11042,2024-10-10,Enterprise,Monthly,2377,28524,260,51,Medium,Active,Latin America
+SUB-11043,2024-05-03,Professional,Annual,219,2628,11,98,Low,Active,Latin America
+SUB-11044,2024-03-20,Starter,Monthly,48,576,4,89,Low,Active,Latin America
+SUB-11045,2024-11-24,Business,Monthly,704,8448,33,73,Low,Active,Latin America
+SUB-11046,2024-11-05,Starter,Monthly,60,720,4,52,Medium,Active,Latin America
+SUB-11047,2024-05-03,Starter,Monthly,55,660,4,86,Low,Churned,Asia-Pacific
+SUB-11048,2024-09-12,Enterprise,Annual,2865,34380,135,79,Low,Active,Western Europe
+SUB-11049,2024-04-27,Business,Monthly,561,6732,74,66,Medium,Active,North America
+SUB-11050,2024-01-07,Starter,Annual,57,684,3,43,High,Active,Western Europe
+SUB-11051,2024-11-09,Enterprise,Monthly,2366,28392,177,52,Medium,Active,Latin America
+SUB-11052,2024-07-11,Professional,Monthly,242,2904,16,33,High,Active,Middle East
+SUB-11053,2024-12-16,Starter,Annual,60,720,3,51,Medium,Active,Latin America
+SUB-11054,2024-06-21,Enterprise,Monthly,2739,32868,411,39,High,Active,North America
+SUB-11055,2024-01-15,Professional,Annual,192,2304,24,84,Low,Active,Latin America
+SUB-11056,2024-04-26,Business,Monthly,671,8052,90,64,Medium,Active,Asia-Pacific
+SUB-11057,2024-01-09,Professional,Monthly,234,2808,22,46,High,Active,Middle East
+SUB-11058,2024-12-21,Starter,Monthly,54,648,3,39,High,Active,Western Europe
+SUB-11059,2024-11-26,Professional,Monthly,243,2916,7,74,Low,Active,North America
+SUB-11060,2024-05-29,Professional,Monthly,206,2472,13,92,Low,Active,North America
+SUB-11061,2024-09-05,Professional,Annual,184,2208,19,75,Low,Active,Latin America
+SUB-11062,2024-04-14,Business,Annual,543,6516,73,48,High,Churned,Latin America
+SUB-11063,2024-09-01,Starter,Monthly,47,564,2,94,Low,Active,Latin America
+SUB-11064,2024-01-27,Starter,Annual,55,660,4,30,High,Active,Western Europe
+SUB-11065,2024-11-10,Starter,Monthly,53,636,1,40,High,Active,Middle East
+SUB-11066,2024-01-04,Business,Annual,573,6876,76,72,Low,Active,Middle East
+SUB-11067,2024-12-07,Professional,Annual,222,2664,11,31,High,Active,Middle East
+SUB-11068,2024-07-17,Professional,Annual,192,2304,13,74,Low,Active,Middle East
+SUB-11069,2024-07-14,Enterprise,Monthly,2419,29028,199,61,Medium,Active,Asia-Pacific
+SUB-11070,2024-03-17,Professional,Monthly,221,2652,6,71,Low,Active,Western Europe
+SUB-11071,2024-02-08,Starter,Annual,44,528,4,57,Medium,Active,Western Europe
+SUB-11072,2024-08-10,Starter,Annual,54,648,4,99,Low,Churned,Middle East
+SUB-11073,2024-01-18,Starter,Annual,58,696,1,94,Low,Active,Latin America
+SUB-11074,2024-02-23,Starter,Monthly,44,528,4,76,Low,Active,Middle East
+SUB-11075,2024-05-23,Enterprise,Annual,2696,32352,177,41,High,Active,Middle East
+SUB-11076,2024-05-25,Enterprise,Monthly,2541,30492,171,44,High,Active,Middle East
+SUB-11077,2024-07-03,Professional,Monthly,214,2568,7,68,Medium,Active,Asia-Pacific
+SUB-11078,2024-05-22,Business,Annual,734,8808,58,45,High,Active,Western Europe
+SUB-11079,2024-03-08,Business,Monthly,642,7704,72,72,Low,Active,Latin America
+SUB-11080,2024-08-06,Starter,Annual,56,672,4,44,High,Active,Middle East
+SUB-11081,2024-02-18,Professional,Monthly,246,2952,13,80,Low,Active,Asia-Pacific
+SUB-11082,2024-12-05,Business,Monthly,607,7284,74,76,Low,At Risk,Western Europe
+SUB-11083,2024-02-21,Enterprise,Annual,2841,34092,484,33,High,Active,Asia-Pacific
+SUB-11084,2024-04-23,Enterprise,Annual,2479,29748,132,57,Medium,Active,Latin America
+SUB-11085,2024-05-16,Professional,Monthly,245,2940,8,46,High,Active,Asia-Pacific
+SUB-11086,2024-06-08,Professional,Monthly,198,2376,6,33,High,Active,Middle East
+SUB-11087,2024-09-04,Starter,Monthly,54,648,2,50,High,Active,Asia-Pacific
+SUB-11088,2024-10-26,Professional,Annual,225,2700,8,94,Low,Active,Latin America
+SUB-11089,2024-12-26,Starter,Monthly,52,624,2,45,High,Active,Western Europe
+SUB-11090,2024-08-21,Business,Annual,619,7428,70,84,Low,Active,North America
+SUB-11091,2024-04-17,Professional,Annual,229,2748,24,35,High,Active,Middle East
+SUB-11092,2024-12-20,Starter,Annual,59,708,3,69,Medium,Active,Western Europe
+SUB-11093,2024-12-14,Business,Annual,713,8556,47,34,High,At Risk,Middle East
+SUB-11094,2024-07-11,Business,Annual,620,7440,62,75,Low,Active,Western Europe
+SUB-11095,2024-10-15,Enterprise,Annual,2688,32256,357,30,High,Active,Latin America
+SUB-11096,2024-02-24,Starter,Monthly,60,720,3,75,Low,Active,Latin America
+SUB-11097,2024-10-24,Starter,Annual,44,528,1,69,Medium,Active,Middle East
+SUB-11098,2024-06-28,Professional,Monthly,201,2412,19,67,Medium,Active,Western Europe
+SUB-11099,2024-02-08,Starter,Annual,55,660,2,61,Medium,Active,Western Europe
+SUB-11100,2024-01-13,Professional,Annual,184,2208,15,37,High,Active,Middle East
+SUB-11101,2024-02-14,Enterprise,Monthly,2801,33612,159,99,Low,Active,Latin America
+SUB-11102,2024-03-04,Starter,Annual,49,588,4,52,Medium,Active,Middle East
+SUB-11103,2024-02-04,Professional,Annual,197,2364,9,33,High,Active,Latin America
+SUB-11104,2024-06-16,Starter,Monthly,52,624,1,71,Low,Active,Asia-Pacific
+SUB-11105,2024-06-23,Business,Annual,620,7440,79,51,Medium,Active,Western Europe
+SUB-11106,2024-12-27,Business,Annual,630,7560,47,42,High,Active,North America
+SUB-11107,2024-02-09,Professional,Annual,203,2436,15,55,Medium,Active,Middle East
+SUB-11108,2024-07-16,Starter,Monthly,44,528,4,70,Medium,Active,Asia-Pacific
+SUB-11109,2024-08-27,Business,Annual,665,7980,35,58,Medium,Churned,Middle East
+SUB-11110,2024-01-02,Starter,Annual,46,552,2,56,Medium,Active,Latin America
+SUB-11111,2024-10-10,Professional,Annual,241,2892,23,58,Medium,Active,Latin America
+SUB-11112,2024-09-16,Professional,Monthly,230,2760,13,66,Medium,Churned,Middle East
+SUB-11113,2024-01-07,Starter,Monthly,54,648,2,60,Medium,Active,Asia-Pacific
+SUB-11114,2024-11-21,Professional,Monthly,206,2472,24,72,Low,At Risk,Asia-Pacific
+SUB-11115,2024-06-27,Professional,Annual,227,2724,19,40,High,Active,Western Europe
+SUB-11116,2024-09-03,Starter,Monthly,53,636,2,88,Low,Active,Middle East
+SUB-11117,2024-08-03,Starter,Monthly,51,612,3,63,Medium,Active,North America
+SUB-11118,2024-05-16,Starter,Monthly,45,540,3,95,Low,Active,Western Europe
+SUB-11119,2024-01-16,Business,Annual,578,6936,88,58,Medium,Churned,Latin America
+SUB-11120,2024-02-20,Business,Annual,724,8688,76,55,Medium,Active,Western Europe
+SUB-11121,2024-10-04,Enterprise,Annual,2528,30336,355,50,High,Active,Middle East
+SUB-11122,2024-01-13,Business,Monthly,721,8652,95,48,High,Active,Asia-Pacific
+SUB-11123,2024-05-02,Starter,Monthly,52,624,3,30,High,Active,Western Europe
+SUB-11124,2024-08-15,Professional,Annual,235,2820,18,32,High,Churned,Western Europe
+SUB-11125,2024-07-24,Starter,Annual,58,696,4,70,Medium,Active,Middle East
+SUB-11126,2024-01-29,Professional,Monthly,197,2364,11,95,Low,Active,Asia-Pacific
+SUB-11127,2024-09-28,Starter,Monthly,58,696,2,51,Medium,Active,Western Europe
+SUB-11128,2024-11-24,Business,Monthly,659,7908,66,64,Medium,Active,Middle East
+SUB-11129,2024-05-18,Business,Monthly,734,8808,85,64,Medium,Active,Latin America
+SUB-11130,2024-08-12,Business,Annual,563,6756,32,50,High,Active,Middle East
+SUB-11131,2024-10-03,Professional,Annual,193,2316,17,58,Medium,Active,Western Europe
+SUB-11132,2024-05-03,Business,Monthly,559,6708,91,42,High,Active,Middle East
+SUB-11133,2024-02-18,Business,Monthly,608,7296,45,43,High,Active,Latin America
+SUB-11134,2024-11-22,Starter,Monthly,45,540,4,93,Low,Active,Western Europe
+SUB-11135,2024-04-08,Professional,Annual,228,2736,12,70,Medium,Churned,Middle East
+SUB-11136,2024-11-27,Professional,Annual,224,2688,19,90,Low,Active,Latin America
+SUB-11137,2024-09-26,Starter,Annual,52,624,1,45,High,Active,Latin America
+SUB-11138,2024-06-20,Professional,Monthly,223,2676,18,36,High,Active,Middle East
+SUB-11139,2024-04-07,Business,Annual,657,7884,29,32,High,Active,Western Europe
+SUB-11140,2024-01-25,Professional,Monthly,240,2880,10,86,Low,Active,North America
+SUB-11141,2024-12-21,Starter,Monthly,58,696,3,44,High,Active,Western Europe
+SUB-11142,2024-08-14,Starter,Annual,45,540,2,60,Medium,Active,Middle East
+SUB-11143,2024-09-06,Professional,Monthly,208,2496,21,65,Medium,Active,Middle East
+SUB-11144,2024-06-29,Starter,Monthly,59,708,1,49,High,Active,Middle East
+SUB-11145,2024-07-11,Professional,Annual,241,2892,18,88,Low,Active,North America
+SUB-11146,2024-07-04,Starter,Monthly,44,528,4,60,Medium,Active,Western Europe
+SUB-11147,2024-04-27,Starter,Annual,47,564,1,60,Medium,Active,Western Europe
+SUB-11148,2024-05-23,Professional,Monthly,197,2364,15,77,Low,Active,North America
+SUB-11149,2024-11-17,Professional,Annual,234,2808,18,54,Medium,Active,Asia-Pacific
+SUB-11150,2024-03-22,Starter,Monthly,46,552,4,96,Low,Active,North America
+SUB-11151,2024-03-16,Business,Annual,699,8388,28,93,Low,Active,Latin America
+SUB-11152,2024-03-28,Professional,Monthly,183,2196,17,57,Medium,Active,North America
+SUB-11153,2024-02-05,Starter,Annual,46,552,2,51,Medium,At Risk,Western Europe
+SUB-11154,2024-06-16,Starter,Annual,45,540,4,74,Low,Active,Asia-Pacific
+SUB-11155,2024-05-02,Business,Monthly,625,7500,48,33,High,Active,Middle East
+SUB-11156,2024-11-07,Starter,Annual,47,564,4,82,Low,Active,Asia-Pacific
+SUB-11157,2024-06-30,Enterprise,Annual,2244,26928,264,37,High,Active,Latin America
+SUB-11158,2024-05-31,Professional,Monthly,223,2676,14,87,Low,Active,Latin America
+SUB-11159,2024-08-11,Business,Monthly,644,7728,25,57,Medium,Active,Latin America
+SUB-11160,2024-08-28,Business,Annual,706,8472,72,87,Low,Active,North America
+SUB-11161,2024-08-28,Professional,Annual,197,2364,6,56,Medium,Active,Western Europe
+SUB-11162,2024-10-19,Starter,Monthly,46,552,3,36,High,Active,Middle East
+SUB-11163,2024-06-05,Business,Monthly,632,7584,63,65,Medium,Active,Latin America
+SUB-11164,2024-11-02,Business,Annual,554,6648,90,73,Low,Active,Latin America
+SUB-11165,2024-09-16,Starter,Annual,47,564,3,51,Medium,Active,Western Europe
+SUB-11166,2024-03-30,Starter,Annual,53,636,2,39,High,Active,North America
+SUB-11167,2024-10-03,Professional,Annual,243,2916,6,86,Low,Active,North America
+SUB-11168,2024-07-13,Starter,Annual,57,684,4,79,Low,Active,Asia-Pacific
+SUB-11169,2024-01-15,Starter,Annual,53,636,1,54,Medium,Active,Western Europe
+SUB-11170,2024-06-02,Enterprise,Annual,2774,33288,374,75,Low,Active,North America
+SUB-11171,2024-08-17,Starter,Annual,48,576,2,85,Low,Active,Middle East
+SUB-11172,2024-01-07,Business,Monthly,737,8844,46,46,High,Active,Western Europe
+SUB-11173,2024-11-11,Starter,Annual,45,540,3,78,Low,At Risk,North America
+SUB-11174,2024-05-20,Professional,Annual,194,2328,20,92,Low,Active,Latin America
+SUB-11175,2024-08-04,Professional,Annual,198,2376,5,53,Medium,Active,Latin America
+SUB-11176,2024-09-27,Starter,Annual,47,564,1,45,High,Active,Western Europe
+SUB-11177,2024-02-11,Business,Monthly,697,8364,78,69,Medium,Churned,Middle East
+SUB-11178,2024-02-16,Starter,Annual,57,684,4,64,Medium,Active,North America
+SUB-11179,2024-12-08,Business,Monthly,703,8436,27,70,Medium,Active,Middle East
+SUB-11180,2024-11-05,Starter,Annual,50,600,1,33,High,Active,Asia-Pacific
+SUB-11181,2024-08-31,Enterprise,Annual,2974,35688,226,73,Low,Active,North America
+SUB-11182,2024-05-09,Professional,Monthly,209,2508,9,30,High,Churned,Western Europe
+SUB-11183,2024-07-27,Starter,Monthly,44,528,2,92,Low,Active,Middle East
+SUB-11184,2024-03-16,Starter,Monthly,60,720,2,66,Medium,Active,Western Europe
+SUB-11185,2024-05-28,Enterprise,Annual,2499,29988,228,30,High,Active,Middle East
+SUB-11186,2024-10-08,Professional,Annual,215,2580,5,52,Medium,Active,Latin America
+SUB-11187,2024-05-08,Starter,Annual,48,576,4,51,Medium,Active,Asia-Pacific
+SUB-11188,2024-08-06,Business,Monthly,637,7644,46,95,Low,Active,Middle East
+SUB-11189,2024-07-22,Professional,Annual,240,2880,6,52,Medium,Active,Latin America
+SUB-11190,2024-03-20,Starter,Monthly,44,528,4,91,Low,Active,Latin America
+SUB-11191,2024-09-08,Starter,Monthly,55,660,4,44,High,Churned,North America
+SUB-11192,2024-04-23,Professional,Annual,240,2880,6,36,High,Churned,Latin America
+SUB-11193,2024-12-30,Professional,Annual,194,2328,16,53,Medium,Active,Latin America
+SUB-11194,2024-03-21,Professional,Monthly,215,2580,9,33,High,Active,Latin America
+SUB-11195,2024-05-13,Starter,Annual,52,624,1,70,Medium,At Risk,Western Europe
+SUB-11196,2024-09-15,Professional,Monthly,211,2532,23,99,Low,Active,Middle East
+SUB-11197,2024-09-24,Business,Annual,739,8868,63,46,High,Active,Asia-Pacific
+SUB-11198,2024-02-04,Professional,Monthly,209,2508,13,58,Medium,Active,Middle East
+SUB-11199,2024-09-11,Starter,Annual,58,696,4,70,Medium,Active,Asia-Pacific

@@ -1,0 +1,801 @@
+order_id,order_date,product,category,region,units_sold,unit_price,discount_percent,revenue,cost,profit,customer_segment
+ORD-2024-1001,2024-01-01,Aluminium Laptop Stand,Accessories,Asia-Pacific,2,69.0,15.0,117.3,79.13,38.17,Small Business
+ORD-2024-1002,2024-01-03,Precision Wireless Mouse,Peripherals,North America,1,39.0,20.0,31.2,18.53,12.67,Enterprise
+ORD-2024-1003,2024-01-03,Desk Mat XL,Accessories,Latin America,3,49.0,0.0,147.0,92.74,54.26,Mid-Market
+ORD-2024-1004,2024-01-03,Travel Backpack 25L,Accessories,North America,4,129.0,5.0,490.2,249.11,241.09,Small Business
+ORD-2024-1005,2024-01-03,Portable Travel Display,Displays,Asia-Pacific,2,260.0,15.0,442.0,241.65,200.35,Enterprise
+ORD-2024-1006,2024-01-04,Graphics Dock eGPU,Computing,Asia-Pacific,1,980.0,5.0,931.0,485.51,445.49,Small Business
+ORD-2024-1007,2024-01-05,Workstation Mini PC,Computing,North America,5,1120.0,0.0,5600.0,4536.91,1063.09,Consumer
+ORD-2024-1008,2024-01-05,Modular Storage Cabinet,Furniture,Latin America,1,310.0,15.0,263.5,179.44,84.06,Enterprise
+ORD-2024-1009,2024-01-06,Modular Storage Cabinet,Furniture,Europe,1,310.0,0.0,310.0,181.71,128.29,Small Business
+ORD-2024-1010,2024-01-06,Aluminium Laptop Stand,Accessories,North America,2,69.0,25.0,103.5,72.83,30.67,Mid-Market
+ORD-2024-1011,2024-01-06,Mechanical Keyboard Pro,Peripherals,Latin America,2,119.0,0.0,238.0,135.52,102.48,Small Business
+ORD-2024-1012,2024-01-07,Portable Travel Display,Displays,Asia-Pacific,3,260.0,10.0,702.0,420.7,281.3,Enterprise
+ORD-2024-1013,2024-01-07,27-inch 4K Monitor,Displays,Latin America,4,420.0,5.0,1596.0,912.68,683.32,Enterprise
+ORD-2024-1014,2024-01-07,Portable Travel Display,Displays,Europe,4,260.0,10.0,936.0,493.91,442.09,Small Business
+ORD-2024-1015,2024-01-07,Developer Laptop 14,Computing,North America,5,1690.0,15.0,7182.5,4295.75,2886.75,Enterprise
+ORD-2024-1016,2024-01-08,4K Webcam Studio,Peripherals,Europe,1,149.0,15.0,126.65,82.36,44.29,Consumer
+ORD-2024-1017,2024-01-09,34-inch Ultrawide Monitor,Displays,Middle East & Africa,3,690.0,10.0,1863.0,1430.83,432.17,Mid-Market
+ORD-2024-1018,2024-01-09,27-inch 4K Monitor,Displays,North America,5,420.0,0.0,2100.0,1092.55,1007.45,Enterprise
+ORD-2024-1019,2024-01-10,Graphics Dock eGPU,Computing,North America,1,980.0,10.0,882.0,475.48,406.52,Enterprise
+ORD-2024-1020,2024-01-10,Braided USB-C Cable,Accessories,Asia-Pacific,1,24.0,5.0,22.8,18.51,4.29,Small Business
+ORD-2024-1021,2024-01-11,Cable Management Kit,Accessories,Europe,1,34.0,5.0,32.3,22.5,9.8,Small Business
+ORD-2024-1022,2024-01-11,Precision Wireless Mouse,Peripherals,Latin America,1,39.0,5.0,37.05,20.87,16.18,Enterprise
+ORD-2024-1023,2024-01-12,27-inch 4K Monitor,Displays,Europe,2,420.0,15.0,714.0,438.63,275.37,Mid-Market
+ORD-2024-1024,2024-01-12,Portable Travel Display,Displays,Asia-Pacific,9,260.0,10.0,2106.0,1563.75,542.25,Mid-Market
+ORD-2024-1025,2024-01-14,Developer Laptop 14,Computing,North America,2,1690.0,10.0,3042.0,2255.2,786.8,Small Business
+ORD-2024-1026,2024-01-15,Mechanical Keyboard Pro,Peripherals,North America,2,119.0,0.0,238.0,179.4,58.6,Small Business
+ORD-2024-1027,2024-01-15,Portable Travel Display,Displays,Asia-Pacific,2,260.0,5.0,494.0,355.27,138.73,Small Business
+ORD-2024-1028,2024-01-16,Portable Travel Display,Displays,Asia-Pacific,4,260.0,10.0,936.0,744.75,191.25,Mid-Market
+ORD-2024-1029,2024-01-16,Braided USB-C Cable,Accessories,Middle East & Africa,3,24.0,25.0,54.0,41.56,12.44,Mid-Market
+ORD-2024-1030,2024-01-18,USB-C Docking Station,Peripherals,North America,4,179.0,10.0,644.4,355.51,288.89,Mid-Market
+ORD-2024-1031,2024-01-19,34-inch Ultrawide Monitor,Displays,Europe,2,690.0,10.0,1242.0,684.42,557.58,Mid-Market
+ORD-2024-1032,2024-01-19,Graphics Dock eGPU,Computing,Asia-Pacific,3,980.0,0.0,2940.0,2319.33,620.67,Enterprise
+ORD-2024-1033,2024-01-20,34-inch Ultrawide Monitor,Displays,Latin America,1,690.0,10.0,621.0,331.86,289.14,Enterprise
+ORD-2024-1034,2024-01-20,Graphics Dock eGPU,Computing,North America,1,980.0,10.0,882.0,698.23,183.77,Enterprise
+ORD-2024-1035,2024-01-21,34-inch Ultrawide Monitor,Displays,Asia-Pacific,1,690.0,5.0,655.5,418.89,236.61,Small Business
+ORD-2024-1036,2024-01-22,Noise-Cancelling Headset,Peripherals,Asia-Pacific,4,229.0,15.0,778.6,416.39,362.21,Small Business
+ORD-2024-1037,2024-01-23,Aluminium Laptop Stand,Accessories,Latin America,1,69.0,10.0,62.1,36.1,26.0,Small Business
+ORD-2024-1038,2024-01-24,Aluminium Laptop Stand,Accessories,Europe,2,69.0,10.0,124.2,97.83,26.37,Enterprise
+ORD-2024-1039,2024-01-25,4K Webcam Studio,Peripherals,Asia-Pacific,4,149.0,0.0,596.0,397.36,198.64,Enterprise
+ORD-2024-1040,2024-01-25,Developer Laptop 14,Computing,Asia-Pacific,1,1690.0,0.0,1690.0,993.06,696.94,Enterprise
+ORD-2024-1041,2024-01-25,Developer Laptop 14,Computing,Asia-Pacific,2,1690.0,5.0,3211.0,1756.07,1454.93,Small Business
+ORD-2024-1042,2024-01-26,Developer Laptop 14,Computing,Europe,3,1690.0,0.0,5070.0,3152.72,1917.28,Enterprise
+ORD-2024-1043,2024-01-26,Mechanical Keyboard Pro,Peripherals,North America,2,119.0,0.0,238.0,188.2,49.8,Enterprise
+ORD-2024-1044,2024-01-27,Portable Travel Display,Displays,Latin America,1,260.0,0.0,260.0,137.31,122.69,Mid-Market
+ORD-2024-1045,2024-01-28,Cable Management Kit,Accessories,Asia-Pacific,3,34.0,0.0,102.0,78.88,23.12,Small Business
+ORD-2024-1046,2024-01-29,Workstation Mini PC,Computing,Middle East & Africa,2,1120.0,20.0,1792.0,1090.93,701.07,Consumer
+ORD-2024-1047,2024-01-29,USB-C Docking Station,Peripherals,Europe,1,179.0,5.0,170.05,104.57,65.48,Mid-Market
+ORD-2024-1048,2024-01-29,Mechanical Keyboard Pro,Peripherals,North America,1,119.0,5.0,113.05,76.06,36.99,Consumer
+ORD-2024-1049,2024-01-31,Cable Management Kit,Accessories,Asia-Pacific,1,34.0,0.0,34.0,27.05,6.95,Consumer
+ORD-2024-1050,2024-01-31,Travel Backpack 25L,Accessories,North America,2,129.0,0.0,258.0,159.77,98.23,Enterprise
+ORD-2024-1051,2024-01-31,Aluminium Laptop Stand,Accessories,North America,2,69.0,5.0,131.1,100.55,30.55,Consumer
+ORD-2024-1052,2024-02-01,34-inch Ultrawide Monitor,Displays,Latin America,1,690.0,0.0,690.0,468.22,221.78,Small Business
+ORD-2024-1053,2024-02-02,34-inch Ultrawide Monitor,Displays,Europe,1,690.0,0.0,690.0,532.68,157.32,Enterprise
+ORD-2024-1054,2024-02-03,USB-C Docking Station,Peripherals,Europe,1,179.0,10.0,161.1,85.87,75.23,Small Business
+ORD-2024-1055,2024-02-03,Mechanical Keyboard Pro,Peripherals,Latin America,1,119.0,5.0,113.05,67.42,45.63,Small Business
+ORD-2024-1056,2024-02-03,Desk Mat XL,Accessories,Europe,1,49.0,10.0,44.1,36.05,8.05,Consumer
+ORD-2024-1057,2024-02-03,Ergonomic Executive Chair,Furniture,Asia-Pacific,1,640.0,5.0,608.0,487.29,120.71,Enterprise
+ORD-2024-1058,2024-02-03,Noise-Cancelling Headset,Peripherals,North America,7,229.0,20.0,1282.4,716.76,565.64,Consumer
+ORD-2024-1059,2024-02-04,Ergonomic Executive Chair,Furniture,Asia-Pacific,7,640.0,10.0,4032.0,3061.75,970.25,Small Business
+ORD-2024-1060,2024-02-05,27-inch 4K Monitor,Displays,Europe,3,420.0,0.0,1260.0,808.28,451.72,Small Business
+ORD-2024-1061,2024-02-06,4K Webcam Studio,Peripherals,North America,2,149.0,10.0,268.2,211.6,56.6,Mid-Market
+ORD-2024-1062,2024-02-06,Precision Wireless Mouse,Peripherals,Middle East & Africa,1,39.0,0.0,39.0,28.97,10.03,Small Business
+ORD-2024-1063,2024-02-06,4K Webcam Studio,Peripherals,Asia-Pacific,2,149.0,0.0,298.0,242.78,55.22,Small Business
+ORD-2024-1064,2024-02-06,Tablet Studio 11,Computing,North America,1,820.0,15.0,697.0,556.07,140.93,Enterprise
+ORD-2024-1065,2024-02-07,Mechanical Keyboard Pro,Peripherals,North America,7,119.0,0.0,833.0,537.42,295.58,Mid-Market
+ORD-2024-1066,2024-02-07,Noise-Cancelling Headset,Peripherals,North America,1,229.0,10.0,206.1,131.17,74.93,Enterprise
+ORD-2024-1067,2024-02-08,Graphics Dock eGPU,Computing,Europe,5,980.0,5.0,4655.0,2338.33,2316.67,Mid-Market
+ORD-2024-1068,2024-02-08,Ergonomic Executive Chair,Furniture,Latin America,1,640.0,5.0,608.0,416.57,191.43,Enterprise
+ORD-2024-1069,2024-02-08,Precision Wireless Mouse,Peripherals,Middle East & Africa,2,39.0,0.0,78.0,43.32,34.68,Consumer
+ORD-2024-1070,2024-02-08,Portable Travel Display,Displays,Asia-Pacific,3,260.0,20.0,624.0,498.82,125.18,Enterprise
+ORD-2024-1071,2024-02-08,Braided USB-C Cable,Accessories,North America,5,24.0,0.0,120.0,95.51,24.49,Enterprise
+ORD-2024-1072,2024-02-09,Conference Table,Furniture,North America,4,1250.0,0.0,5000.0,3460.0,1540.0,Mid-Market
+ORD-2024-1073,2024-02-10,Standing Desk 160cm,Furniture,Latin America,2,780.0,0.0,1560.0,1043.84,516.16,Small Business
+ORD-2024-1074,2024-02-11,Tablet Studio 11,Computing,Middle East & Africa,1,820.0,10.0,738.0,404.43,333.57,Enterprise
+ORD-2024-1075,2024-02-11,Developer Laptop 14,Computing,Asia-Pacific,2,1690.0,5.0,3211.0,1968.38,1242.62,Small Business
+ORD-2024-1076,2024-02-11,Conference Table,Furniture,Europe,4,1250.0,20.0,4000.0,2545.55,1454.45,Enterprise
+ORD-2024-1077,2024-02-11,Conference Table,Furniture,Latin America,2,1250.0,5.0,2375.0,1563.13,811.87,Enterprise
+ORD-2024-1078,2024-02-12,Tablet Studio 11,Computing,Middle East & Africa,1,820.0,5.0,779.0,547.49,231.51,Enterprise
+ORD-2024-1079,2024-02-13,27-inch 4K Monitor,Displays,Latin America,2,420.0,10.0,756.0,459.93,296.07,Enterprise
+ORD-2024-1080,2024-02-14,Cable Management Kit,Accessories,North America,2,34.0,0.0,68.0,54.64,13.36,Consumer
+ORD-2024-1081,2024-02-14,Conference Table,Furniture,Asia-Pacific,9,1250.0,5.0,10687.5,8367.95,2319.55,Enterprise
+ORD-2024-1082,2024-02-14,USB-C Docking Station,Peripherals,Europe,1,179.0,20.0,143.2,93.13,50.07,Mid-Market
+ORD-2024-1083,2024-02-15,Cable Management Kit,Accessories,Europe,4,34.0,10.0,122.4,87.92,34.48,Small Business
+ORD-2024-1084,2024-02-15,Standing Desk 160cm,Furniture,North America,1,780.0,15.0,663.0,513.49,149.51,Mid-Market
+ORD-2024-1085,2024-02-15,Modular Storage Cabinet,Furniture,Latin America,2,310.0,0.0,620.0,396.76,223.24,Mid-Market
+ORD-2024-1086,2024-02-16,Workstation Mini PC,Computing,North America,5,1120.0,10.0,5040.0,2577.81,2462.19,Small Business
+ORD-2024-1087,2024-02-17,Portable Travel Display,Displays,North America,3,260.0,0.0,780.0,391.67,388.33,Small Business
+ORD-2024-1088,2024-02-18,Developer Laptop 14,Computing,North America,1,1690.0,0.0,1690.0,1093.73,596.27,Mid-Market
+ORD-2024-1089,2024-02-19,Tablet Studio 11,Computing,Latin America,2,820.0,5.0,1558.0,1173.57,384.43,Small Business
+ORD-2024-1090,2024-02-20,Aluminium Laptop Stand,Accessories,Europe,1,69.0,20.0,55.2,28.47,26.73,Enterprise
+ORD-2024-1091,2024-02-21,Noise-Cancelling Headset,Peripherals,Asia-Pacific,1,229.0,5.0,217.55,148.11,69.44,Mid-Market
+ORD-2024-1092,2024-02-23,Aluminium Laptop Stand,Accessories,North America,4,69.0,15.0,234.6,131.51,103.09,Enterprise
+ORD-2024-1093,2024-02-23,USB-C Docking Station,Peripherals,Latin America,1,179.0,5.0,170.05,136.63,33.42,Enterprise
+ORD-2024-1094,2024-02-24,Workstation Mini PC,Computing,Middle East & Africa,2,1120.0,5.0,2128.0,1586.57,541.43,Mid-Market
+ORD-2024-1095,2024-02-24,Desk Mat XL,Accessories,Europe,2,49.0,0.0,98.0,69.18,28.82,Small Business
+ORD-2024-1096,2024-02-24,Noise-Cancelling Headset,Peripherals,Latin America,4,229.0,10.0,824.4,446.69,377.71,Enterprise
+ORD-2024-1097,2024-02-25,Noise-Cancelling Headset,Peripherals,Europe,2,229.0,0.0,458.0,350.1,107.9,Mid-Market
+ORD-2024-1098,2024-02-26,27-inch 4K Monitor,Displays,Asia-Pacific,4,420.0,5.0,1596.0,1154.51,441.49,Small Business
+ORD-2024-1099,2024-02-27,Portable Travel Display,Displays,Europe,2,260.0,10.0,468.0,364.57,103.43,Mid-Market
+ORD-2024-1100,2024-02-27,Precision Wireless Mouse,Peripherals,Europe,1,39.0,5.0,37.05,26.14,10.91,Small Business
+ORD-2024-1101,2024-02-27,Developer Laptop 14,Computing,North America,1,1690.0,25.0,1267.5,938.16,329.34,Enterprise
+ORD-2024-1102,2024-02-28,27-inch 4K Monitor,Displays,Europe,1,420.0,5.0,399.0,245.13,153.87,Small Business
+ORD-2024-1103,2024-02-29,Noise-Cancelling Headset,Peripherals,Asia-Pacific,4,229.0,0.0,916.0,749.79,166.21,Enterprise
+ORD-2024-1104,2024-03-01,Portable Travel Display,Displays,North America,1,260.0,10.0,234.0,160.84,73.16,Small Business
+ORD-2024-1105,2024-03-01,USB-C Docking Station,Peripherals,North America,1,179.0,5.0,170.05,102.25,67.8,Mid-Market
+ORD-2024-1106,2024-03-01,Ergonomic Executive Chair,Furniture,Latin America,1,640.0,20.0,512.0,262.25,249.75,Enterprise
+ORD-2024-1107,2024-03-01,27-inch 4K Monitor,Displays,Europe,2,420.0,0.0,840.0,678.28,161.72,Enterprise
+ORD-2024-1108,2024-03-01,27-inch 4K Monitor,Displays,North America,5,420.0,0.0,2100.0,1664.88,435.12,Mid-Market
+ORD-2024-1109,2024-03-02,Desk Mat XL,Accessories,North America,4,49.0,15.0,166.6,108.57,58.03,Small Business
+ORD-2024-1110,2024-03-02,USB-C Docking Station,Peripherals,Middle East & Africa,2,179.0,10.0,322.2,258.55,63.65,Small Business
+ORD-2024-1111,2024-03-02,Travel Backpack 25L,Accessories,North America,2,129.0,0.0,258.0,140.81,117.19,Consumer
+ORD-2024-1112,2024-03-02,34-inch Ultrawide Monitor,Displays,North America,5,690.0,20.0,2760.0,1948.23,811.77,Small Business
+ORD-2024-1113,2024-03-02,Modular Storage Cabinet,Furniture,Middle East & Africa,2,310.0,10.0,558.0,373.3,184.7,Small Business
+ORD-2024-1114,2024-03-04,Braided USB-C Cable,Accessories,Asia-Pacific,2,24.0,0.0,48.0,38.98,9.02,Enterprise
+ORD-2024-1115,2024-03-04,Graphics Dock eGPU,Computing,North America,1,980.0,15.0,833.0,517.58,315.42,Enterprise
+ORD-2024-1116,2024-03-05,Mechanical Keyboard Pro,Peripherals,Asia-Pacific,5,119.0,10.0,535.5,287.82,247.68,Small Business
+ORD-2024-1117,2024-03-06,Developer Laptop 14,Computing,North America,1,1690.0,10.0,1521.0,1077.11,443.89,Consumer
+ORD-2024-1118,2024-03-07,USB-C Docking Station,Peripherals,North America,3,179.0,5.0,510.15,257.62,252.53,Mid-Market
+ORD-2024-1119,2024-03-08,4K Webcam Studio,Peripherals,North America,1,149.0,10.0,134.1,67.2,66.9,Enterprise
+ORD-2024-1120,2024-03-08,Desk Mat XL,Accessories,North America,1,49.0,0.0,49.0,34.63,14.37,Enterprise
+ORD-2024-1121,2024-03-09,34-inch Ultrawide Monitor,Displays,Asia-Pacific,5,690.0,0.0,3450.0,2759.24,690.76,Small Business
+ORD-2024-1122,2024-03-10,Workstation Mini PC,Computing,North America,1,1120.0,5.0,1064.0,759.21,304.79,Small Business
+ORD-2024-1123,2024-03-11,Graphics Dock eGPU,Computing,Europe,2,980.0,5.0,1862.0,1258.39,603.61,Enterprise
+ORD-2024-1124,2024-03-11,Tablet Studio 11,Computing,Europe,9,820.0,5.0,7011.0,4558.31,2452.69,Enterprise
+ORD-2024-1125,2024-03-11,USB-C Docking Station,Peripherals,Asia-Pacific,1,179.0,0.0,179.0,129.8,49.2,Enterprise
+ORD-2024-1126,2024-03-11,Graphics Dock eGPU,Computing,Asia-Pacific,2,980.0,0.0,1960.0,999.46,960.54,Small Business
+ORD-2024-1127,2024-03-11,Workstation Mini PC,Computing,Asia-Pacific,3,1120.0,10.0,3024.0,2475.09,548.91,Mid-Market
+ORD-2024-1128,2024-03-12,4K Webcam Studio,Peripherals,Asia-Pacific,2,149.0,5.0,283.1,153.69,129.41,Small Business
+ORD-2024-1129,2024-03-13,Braided USB-C Cable,Accessories,Europe,1,24.0,5.0,22.8,15.94,6.86,Small Business
+ORD-2024-1130,2024-03-13,Precision Wireless Mouse,Peripherals,North America,1,39.0,25.0,29.25,16.77,12.48,Small Business
+ORD-2024-1131,2024-03-14,Tablet Studio 11,Computing,North America,5,820.0,0.0,4100.0,3141.79,958.21,Consumer
+ORD-2024-1132,2024-03-14,27-inch 4K Monitor,Displays,Europe,2,420.0,0.0,840.0,555.59,284.41,Mid-Market
+ORD-2024-1133,2024-03-15,USB-C Docking Station,Peripherals,Latin America,1,179.0,5.0,170.05,135.92,34.13,Consumer
+ORD-2024-1134,2024-03-15,Travel Backpack 25L,Accessories,Asia-Pacific,1,129.0,5.0,122.55,98.25,24.3,Consumer
+ORD-2024-1135,2024-03-16,Braided USB-C Cable,Accessories,Middle East & Africa,2,24.0,15.0,40.8,28.28,12.52,Mid-Market
+ORD-2024-1136,2024-03-16,USB-C Docking Station,Peripherals,North America,1,179.0,5.0,170.05,127.11,42.94,Enterprise
+ORD-2024-1137,2024-03-17,Portable Travel Display,Displays,Latin America,5,260.0,10.0,1170.0,889.64,280.36,Enterprise
+ORD-2024-1138,2024-03-17,Ergonomic Executive Chair,Furniture,North America,4,640.0,10.0,2304.0,1495.56,808.44,Small Business
+ORD-2024-1139,2024-03-18,Conference Table,Furniture,Europe,2,1250.0,20.0,2000.0,1636.56,363.44,Consumer
+ORD-2024-1140,2024-03-18,Conference Table,Furniture,North America,1,1250.0,15.0,1062.5,686.69,375.81,Consumer
+ORD-2024-1141,2024-03-18,Standing Desk 160cm,Furniture,Europe,1,780.0,0.0,780.0,587.08,192.92,Consumer
+ORD-2024-1142,2024-03-18,Portable Travel Display,Displays,North America,1,260.0,5.0,247.0,147.19,99.81,Consumer
+ORD-2024-1143,2024-03-19,Aluminium Laptop Stand,Accessories,Europe,2,69.0,5.0,131.1,73.0,58.1,Mid-Market
+ORD-2024-1144,2024-03-19,Developer Laptop 14,Computing,Asia-Pacific,1,1690.0,10.0,1521.0,1076.31,444.69,Mid-Market
+ORD-2024-1145,2024-03-19,34-inch Ultrawide Monitor,Displays,North America,2,690.0,0.0,1380.0,893.62,486.38,Enterprise
+ORD-2024-1146,2024-03-19,Braided USB-C Cable,Accessories,Asia-Pacific,2,24.0,0.0,48.0,28.13,19.87,Enterprise
+ORD-2024-1147,2024-03-19,Modular Storage Cabinet,Furniture,North America,2,310.0,10.0,558.0,281.41,276.59,Enterprise
+ORD-2024-1148,2024-03-21,Ergonomic Executive Chair,Furniture,Middle East & Africa,1,640.0,10.0,576.0,393.25,182.75,Small Business
+ORD-2024-1149,2024-03-21,Braided USB-C Cable,Accessories,Europe,2,24.0,10.0,43.2,21.81,21.39,Consumer
+ORD-2024-1150,2024-03-22,Portable Travel Display,Displays,Latin America,1,260.0,25.0,195.0,114.64,80.36,Small Business
+ORD-2024-1151,2024-03-22,Graphics Dock eGPU,Computing,North America,5,980.0,0.0,4900.0,3305.28,1594.72,Mid-Market
+ORD-2024-1152,2024-03-22,Braided USB-C Cable,Accessories,Asia-Pacific,5,24.0,15.0,102.0,52.06,49.94,Small Business
+ORD-2024-1153,2024-03-23,4K Webcam Studio,Peripherals,North America,4,149.0,10.0,536.4,384.44,151.96,Enterprise
+ORD-2024-1154,2024-03-24,Modular Storage Cabinet,Furniture,Latin America,2,310.0,5.0,589.0,458.2,130.8,Mid-Market
+ORD-2024-1155,2024-03-27,Tablet Studio 11,Computing,Europe,4,820.0,0.0,3280.0,2050.47,1229.53,Enterprise
+ORD-2024-1156,2024-03-29,Graphics Dock eGPU,Computing,North America,1,980.0,25.0,735.0,508.82,226.18,Enterprise
+ORD-2024-1157,2024-03-29,Workstation Mini PC,Computing,Europe,1,1120.0,10.0,1008.0,717.63,290.37,Mid-Market
+ORD-2024-1158,2024-03-30,USB-C Docking Station,Peripherals,Latin America,5,179.0,10.0,805.5,490.95,314.55,Mid-Market
+ORD-2024-1159,2024-03-31,Modular Storage Cabinet,Furniture,Latin America,2,310.0,0.0,620.0,371.55,248.45,Enterprise
+ORD-2024-1160,2024-03-31,Tablet Studio 11,Computing,Asia-Pacific,5,820.0,10.0,3690.0,2397.24,1292.76,Enterprise
+ORD-2024-1161,2024-03-31,Cable Management Kit,Accessories,Asia-Pacific,1,34.0,20.0,27.2,17.84,9.36,Mid-Market
+ORD-2024-1162,2024-04-01,Tablet Studio 11,Computing,Europe,4,820.0,10.0,2952.0,1808.93,1143.07,Small Business
+ORD-2024-1163,2024-04-01,Portable Travel Display,Displays,Asia-Pacific,1,260.0,0.0,260.0,149.17,110.83,Small Business
+ORD-2024-1164,2024-04-01,Modular Storage Cabinet,Furniture,Asia-Pacific,2,310.0,10.0,558.0,440.39,117.61,Enterprise
+ORD-2024-1165,2024-04-03,Noise-Cancelling Headset,Peripherals,Asia-Pacific,1,229.0,10.0,206.1,134.84,71.26,Small Business
+ORD-2024-1166,2024-04-04,34-inch Ultrawide Monitor,Displays,Europe,3,690.0,10.0,1863.0,1047.01,815.99,Enterprise
+ORD-2024-1167,2024-04-04,Developer Laptop 14,Computing,Europe,3,1690.0,0.0,5070.0,2927.81,2142.19,Mid-Market
+ORD-2024-1168,2024-04-04,Portable Travel Display,Displays,Europe,3,260.0,10.0,702.0,473.2,228.8,Mid-Market
+ORD-2024-1169,2024-04-05,Aluminium Laptop Stand,Accessories,North America,2,69.0,5.0,131.1,79.6,51.5,Mid-Market
+ORD-2024-1170,2024-04-06,Mechanical Keyboard Pro,Peripherals,Middle East & Africa,4,119.0,0.0,476.0,271.67,204.33,Enterprise
+ORD-2024-1171,2024-04-06,27-inch 4K Monitor,Displays,Asia-Pacific,1,420.0,0.0,420.0,321.34,98.66,Small Business
+ORD-2024-1172,2024-04-06,4K Webcam Studio,Peripherals,Latin America,1,149.0,0.0,149.0,98.32,50.68,Small Business
+ORD-2024-1173,2024-04-07,Aluminium Laptop Stand,Accessories,Europe,5,69.0,5.0,327.75,200.81,126.94,Enterprise
+ORD-2024-1174,2024-04-07,34-inch Ultrawide Monitor,Displays,Latin America,1,690.0,5.0,655.5,329.01,326.49,Small Business
+ORD-2024-1175,2024-04-07,Portable Travel Display,Displays,North America,1,260.0,0.0,260.0,184.79,75.21,Mid-Market
+ORD-2024-1176,2024-04-07,Workstation Mini PC,Computing,Asia-Pacific,1,1120.0,0.0,1120.0,743.66,376.34,Consumer
+ORD-2024-1177,2024-04-08,Precision Wireless Mouse,Peripherals,Asia-Pacific,1,39.0,5.0,37.05,23.66,13.39,Consumer
+ORD-2024-1178,2024-04-08,Tablet Studio 11,Computing,North America,2,820.0,20.0,1312.0,736.31,575.69,Enterprise
+ORD-2024-1179,2024-04-08,Travel Backpack 25L,Accessories,North America,1,129.0,5.0,122.55,63.21,59.34,Small Business
+ORD-2024-1180,2024-04-09,4K Webcam Studio,Peripherals,Middle East & Africa,1,149.0,0.0,149.0,121.35,27.65,Mid-Market
+ORD-2024-1181,2024-04-09,Mechanical Keyboard Pro,Peripherals,Europe,7,119.0,0.0,833.0,568.52,264.48,Mid-Market
+ORD-2024-1182,2024-04-09,Mechanical Keyboard Pro,Peripherals,Europe,5,119.0,0.0,595.0,319.65,275.35,Enterprise
+ORD-2024-1183,2024-04-09,Developer Laptop 14,Computing,Europe,1,1690.0,5.0,1605.5,1093.63,511.87,Consumer
+ORD-2024-1184,2024-04-09,34-inch Ultrawide Monitor,Displays,Asia-Pacific,2,690.0,0.0,1380.0,1016.41,363.59,Enterprise
+ORD-2024-1185,2024-04-11,Mechanical Keyboard Pro,Peripherals,Asia-Pacific,4,119.0,10.0,428.4,279.42,148.98,Small Business
+ORD-2024-1186,2024-04-12,Precision Wireless Mouse,Peripherals,Latin America,1,39.0,10.0,35.1,28.02,7.08,Mid-Market
+ORD-2024-1187,2024-04-12,USB-C Docking Station,Peripherals,North America,1,179.0,10.0,161.1,114.97,46.13,Mid-Market
+ORD-2024-1188,2024-04-12,Ergonomic Executive Chair,Furniture,Asia-Pacific,3,640.0,0.0,1920.0,1201.95,718.05,Enterprise
+ORD-2024-1189,2024-04-13,Mechanical Keyboard Pro,Peripherals,Latin America,2,119.0,0.0,238.0,126.86,111.14,Small Business
+ORD-2024-1190,2024-04-13,27-inch 4K Monitor,Displays,Europe,2,420.0,15.0,714.0,567.04,146.96,Mid-Market
+ORD-2024-1191,2024-04-13,Workstation Mini PC,Computing,Asia-Pacific,4,1120.0,5.0,4256.0,3117.46,1138.54,Mid-Market
+ORD-2024-1192,2024-04-14,Portable Travel Display,Displays,Asia-Pacific,4,260.0,0.0,1040.0,648.49,391.51,Mid-Market
+ORD-2024-1193,2024-04-14,Ergonomic Executive Chair,Furniture,Europe,5,640.0,0.0,3200.0,2023.91,1176.09,Consumer
+ORD-2024-1194,2024-04-14,Travel Backpack 25L,Accessories,North America,2,129.0,0.0,258.0,132.35,125.65,Enterprise
+ORD-2024-1195,2024-04-15,Tablet Studio 11,Computing,North America,2,820.0,0.0,1640.0,846.58,793.42,Mid-Market
+ORD-2024-1196,2024-04-15,27-inch 4K Monitor,Displays,Europe,9,420.0,5.0,3591.0,2181.23,1409.77,Consumer
+ORD-2024-1197,2024-04-16,Aluminium Laptop Stand,Accessories,Europe,3,69.0,0.0,207.0,106.23,100.77,Small Business
+ORD-2024-1198,2024-04-16,Noise-Cancelling Headset,Peripherals,Latin America,1,229.0,0.0,229.0,118.13,110.87,Consumer
+ORD-2024-1199,2024-04-16,Aluminium Laptop Stand,Accessories,Middle East & Africa,2,69.0,5.0,131.1,81.12,49.98,Mid-Market
+ORD-2024-1200,2024-04-17,Graphics Dock eGPU,Computing,Latin America,3,980.0,5.0,2793.0,2121.7,671.3,Mid-Market
+ORD-2024-1201,2024-04-17,34-inch Ultrawide Monitor,Displays,Asia-Pacific,1,690.0,5.0,655.5,384.26,271.24,Enterprise
+ORD-2024-1202,2024-04-17,Braided USB-C Cable,Accessories,North America,1,24.0,0.0,24.0,15.64,8.36,Mid-Market
+ORD-2024-1203,2024-04-17,Developer Laptop 14,Computing,Europe,1,1690.0,0.0,1690.0,1063.41,626.59,Enterprise
+ORD-2024-1204,2024-04-17,Standing Desk 160cm,Furniture,Latin America,1,780.0,10.0,702.0,469.43,232.57,Consumer
+ORD-2024-1205,2024-04-17,Aluminium Laptop Stand,Accessories,North America,2,69.0,10.0,124.2,97.17,27.03,Small Business
+ORD-2024-1206,2024-04-17,Tablet Studio 11,Computing,Asia-Pacific,2,820.0,0.0,1640.0,971.01,668.99,Mid-Market
+ORD-2024-1207,2024-04-19,Precision Wireless Mouse,Peripherals,North America,4,39.0,5.0,148.2,85.7,62.5,Mid-Market
+ORD-2024-1208,2024-04-19,Mechanical Keyboard Pro,Peripherals,Latin America,1,119.0,25.0,89.25,59.2,30.05,Small Business
+ORD-2024-1209,2024-04-19,4K Webcam Studio,Peripherals,Europe,3,149.0,25.0,335.25,206.21,129.04,Mid-Market
+ORD-2024-1210,2024-04-20,USB-C Docking Station,Peripherals,Europe,2,179.0,0.0,358.0,200.88,157.12,Enterprise
+ORD-2024-1211,2024-04-21,34-inch Ultrawide Monitor,Displays,Asia-Pacific,7,690.0,5.0,4588.5,3334.67,1253.83,Small Business
+ORD-2024-1212,2024-04-21,Noise-Cancelling Headset,Peripherals,Latin America,2,229.0,0.0,458.0,366.43,91.57,Mid-Market
+ORD-2024-1213,2024-04-22,Mechanical Keyboard Pro,Peripherals,North America,1,119.0,0.0,119.0,80.34,38.66,Enterprise
+ORD-2024-1214,2024-04-23,Workstation Mini PC,Computing,Europe,5,1120.0,5.0,5320.0,2698.15,2621.85,Mid-Market
+ORD-2024-1215,2024-04-24,Ergonomic Executive Chair,Furniture,Europe,2,640.0,5.0,1216.0,812.18,403.82,Enterprise
+ORD-2024-1216,2024-04-25,USB-C Docking Station,Peripherals,Latin America,9,179.0,0.0,1611.0,834.59,776.41,Small Business
+ORD-2024-1217,2024-04-26,Portable Travel Display,Displays,Europe,1,260.0,5.0,247.0,138.82,108.18,Mid-Market
+ORD-2024-1218,2024-04-27,34-inch Ultrawide Monitor,Displays,Asia-Pacific,1,690.0,0.0,690.0,384.46,305.54,Mid-Market
+ORD-2024-1219,2024-04-28,Portable Travel Display,Displays,North America,2,260.0,5.0,494.0,336.44,157.56,Consumer
+ORD-2024-1220,2024-04-29,4K Webcam Studio,Peripherals,Europe,1,149.0,0.0,149.0,108.97,40.03,Consumer
+ORD-2024-1221,2024-04-30,Aluminium Laptop Stand,Accessories,Asia-Pacific,4,69.0,10.0,248.4,167.0,81.4,Small Business
+ORD-2024-1222,2024-04-30,34-inch Ultrawide Monitor,Displays,Asia-Pacific,1,690.0,5.0,655.5,409.49,246.01,Mid-Market
+ORD-2024-1223,2024-05-01,Mechanical Keyboard Pro,Peripherals,Europe,1,119.0,10.0,107.1,62.63,44.47,Enterprise
+ORD-2024-1224,2024-05-01,27-inch 4K Monitor,Displays,North America,1,420.0,0.0,420.0,230.58,189.42,Enterprise
+ORD-2024-1225,2024-05-02,Tablet Studio 11,Computing,Europe,2,820.0,0.0,1640.0,967.88,672.12,Small Business
+ORD-2024-1226,2024-05-02,Developer Laptop 14,Computing,North America,1,1690.0,0.0,1690.0,949.54,740.46,Enterprise
+ORD-2024-1227,2024-05-03,Cable Management Kit,Accessories,Europe,2,34.0,10.0,61.2,32.46,28.74,Enterprise
+ORD-2024-1228,2024-05-03,Desk Mat XL,Accessories,Europe,2,49.0,0.0,98.0,71.02,26.98,Small Business
+ORD-2024-1229,2024-05-03,34-inch Ultrawide Monitor,Displays,Latin America,7,690.0,5.0,4588.5,3668.32,920.18,Mid-Market
+ORD-2024-1230,2024-05-04,Standing Desk 160cm,Furniture,Latin America,2,780.0,0.0,1560.0,856.43,703.57,Enterprise
+ORD-2024-1231,2024-05-05,Noise-Cancelling Headset,Peripherals,North America,5,229.0,0.0,1145.0,880.11,264.89,Small Business
+ORD-2024-1232,2024-05-05,Precision Wireless Mouse,Peripherals,Middle East & Africa,7,39.0,10.0,245.7,149.98,95.72,Consumer
+ORD-2024-1233,2024-05-05,4K Webcam Studio,Peripherals,North America,1,149.0,10.0,134.1,69.53,64.57,Enterprise
+ORD-2024-1234,2024-05-05,34-inch Ultrawide Monitor,Displays,Asia-Pacific,1,690.0,0.0,690.0,467.85,222.15,Mid-Market
+ORD-2024-1235,2024-05-05,Modular Storage Cabinet,Furniture,Asia-Pacific,5,310.0,20.0,1240.0,809.39,430.61,Enterprise
+ORD-2024-1236,2024-05-06,Developer Laptop 14,Computing,Europe,2,1690.0,0.0,3380.0,2503.09,876.91,Small Business
+ORD-2024-1237,2024-05-07,Aluminium Laptop Stand,Accessories,North America,5,69.0,0.0,345.0,225.34,119.66,Small Business
+ORD-2024-1238,2024-05-07,Workstation Mini PC,Computing,Latin America,4,1120.0,15.0,3808.0,1953.5,1854.5,Enterprise
+ORD-2024-1239,2024-05-07,34-inch Ultrawide Monitor,Displays,Europe,1,690.0,0.0,690.0,540.43,149.57,Enterprise
+ORD-2024-1240,2024-05-08,USB-C Docking Station,Peripherals,Asia-Pacific,2,179.0,10.0,322.2,224.01,98.19,Small Business
+ORD-2024-1241,2024-05-08,Noise-Cancelling Headset,Peripherals,Latin America,1,229.0,0.0,229.0,138.23,90.77,Small Business
+ORD-2024-1242,2024-05-09,Cable Management Kit,Accessories,Asia-Pacific,1,34.0,10.0,30.6,21.65,8.95,Enterprise
+ORD-2024-1243,2024-05-10,USB-C Docking Station,Peripherals,Latin America,2,179.0,10.0,322.2,263.14,59.06,Enterprise
+ORD-2024-1244,2024-05-10,Noise-Cancelling Headset,Peripherals,Asia-Pacific,2,229.0,5.0,435.1,331.0,104.1,Mid-Market
+ORD-2024-1245,2024-05-10,34-inch Ultrawide Monitor,Displays,North America,3,690.0,20.0,1656.0,1242.82,413.18,Mid-Market
+ORD-2024-1246,2024-05-11,Braided USB-C Cable,Accessories,Asia-Pacific,2,24.0,10.0,43.2,28.01,15.19,Consumer
+ORD-2024-1247,2024-05-12,Desk Mat XL,Accessories,Europe,2,49.0,10.0,88.2,57.25,30.95,Enterprise
+ORD-2024-1248,2024-05-12,34-inch Ultrawide Monitor,Displays,Europe,2,690.0,10.0,1242.0,792.66,449.34,Consumer
+ORD-2024-1249,2024-05-12,Travel Backpack 25L,Accessories,Europe,2,129.0,5.0,245.1,138.64,106.46,Enterprise
+ORD-2024-1250,2024-05-12,Tablet Studio 11,Computing,North America,3,820.0,10.0,2214.0,1396.68,817.32,Small Business
+ORD-2024-1251,2024-05-12,Precision Wireless Mouse,Peripherals,Europe,1,39.0,5.0,37.05,22.61,14.44,Mid-Market
+ORD-2024-1252,2024-05-12,27-inch 4K Monitor,Displays,Europe,2,420.0,5.0,798.0,520.09,277.91,Enterprise
+ORD-2024-1253,2024-05-13,Workstation Mini PC,Computing,Europe,7,1120.0,5.0,7448.0,5747.43,1700.57,Mid-Market
+ORD-2024-1254,2024-05-13,Graphics Dock eGPU,Computing,Europe,1,980.0,25.0,735.0,504.76,230.24,Small Business
+ORD-2024-1255,2024-05-14,Developer Laptop 14,Computing,North America,7,1690.0,5.0,11238.5,7915.46,3323.04,Small Business
+ORD-2024-1256,2024-05-15,34-inch Ultrawide Monitor,Displays,Europe,1,690.0,10.0,621.0,354.64,266.36,Small Business
+ORD-2024-1257,2024-05-16,USB-C Docking Station,Peripherals,Europe,2,179.0,5.0,340.1,200.13,139.97,Enterprise
+ORD-2024-1258,2024-05-18,Modular Storage Cabinet,Furniture,Europe,3,310.0,0.0,930.0,754.5,175.5,Enterprise
+ORD-2024-1259,2024-05-18,Mechanical Keyboard Pro,Peripherals,Europe,1,119.0,5.0,113.05,80.42,32.63,Consumer
+ORD-2024-1260,2024-05-19,Developer Laptop 14,Computing,Asia-Pacific,5,1690.0,0.0,8450.0,5557.39,2892.61,Mid-Market
+ORD-2024-1261,2024-05-19,Workstation Mini PC,Computing,Europe,2,1120.0,10.0,2016.0,1229.4,786.6,Consumer
+ORD-2024-1262,2024-05-20,Mechanical Keyboard Pro,Peripherals,Europe,1,119.0,0.0,119.0,74.09,44.91,Mid-Market
+ORD-2024-1263,2024-05-20,Desk Mat XL,Accessories,Europe,2,49.0,0.0,98.0,49.7,48.3,Mid-Market
+ORD-2024-1264,2024-05-20,Developer Laptop 14,Computing,North America,4,1690.0,5.0,6422.0,5208.28,1213.72,Mid-Market
+ORD-2024-1265,2024-05-20,34-inch Ultrawide Monitor,Displays,North America,2,690.0,5.0,1311.0,743.7,567.3,Mid-Market
+ORD-2024-1266,2024-05-21,27-inch 4K Monitor,Displays,Latin America,3,420.0,10.0,1134.0,782.91,351.09,Consumer
+ORD-2024-1267,2024-05-23,Ergonomic Executive Chair,Furniture,North America,1,640.0,0.0,640.0,425.6,214.4,Small Business
+ORD-2024-1268,2024-05-24,Workstation Mini PC,Computing,Europe,1,1120.0,0.0,1120.0,737.28,382.72,Enterprise
+ORD-2024-1269,2024-05-24,Portable Travel Display,Displays,North America,7,260.0,10.0,1638.0,1331.85,306.15,Consumer
+ORD-2024-1270,2024-05-25,Braided USB-C Cable,Accessories,Europe,2,24.0,0.0,48.0,29.86,18.14,Enterprise
+ORD-2024-1271,2024-05-25,34-inch Ultrawide Monitor,Displays,Middle East & Africa,4,690.0,10.0,2484.0,1821.22,662.78,Enterprise
+ORD-2024-1272,2024-05-25,Portable Travel Display,Displays,Middle East & Africa,2,260.0,0.0,520.0,367.47,152.53,Mid-Market
+ORD-2024-1273,2024-05-26,Precision Wireless Mouse,Peripherals,Asia-Pacific,4,39.0,0.0,156.0,109.88,46.12,Small Business
+ORD-2024-1274,2024-05-26,Workstation Mini PC,Computing,North America,1,1120.0,10.0,1008.0,542.28,465.72,Mid-Market
+ORD-2024-1275,2024-05-27,Portable Travel Display,Displays,Europe,1,260.0,25.0,195.0,104.26,90.74,Consumer
+ORD-2024-1276,2024-05-27,4K Webcam Studio,Peripherals,North America,1,149.0,10.0,134.1,96.94,37.16,Small Business
+ORD-2024-1277,2024-05-28,4K Webcam Studio,Peripherals,North America,7,149.0,15.0,886.55,454.83,431.72,Enterprise
+ORD-2024-1278,2024-05-28,Conference Table,Furniture,Europe,2,1250.0,0.0,2500.0,1995.45,504.55,Enterprise
+ORD-2024-1279,2024-05-28,Aluminium Laptop Stand,Accessories,North America,2,69.0,5.0,131.1,99.49,31.61,Mid-Market
+ORD-2024-1280,2024-05-29,34-inch Ultrawide Monitor,Displays,North America,4,690.0,10.0,2484.0,1448.94,1035.06,Mid-Market
+ORD-2024-1281,2024-05-29,27-inch 4K Monitor,Displays,Asia-Pacific,2,420.0,0.0,840.0,422.18,417.82,Enterprise
+ORD-2024-1282,2024-05-29,Graphics Dock eGPU,Computing,Middle East & Africa,1,980.0,20.0,784.0,402.71,381.29,Enterprise
+ORD-2024-1283,2024-05-29,Braided USB-C Cable,Accessories,North America,4,24.0,0.0,96.0,52.32,43.68,Mid-Market
+ORD-2024-1284,2024-05-30,Modular Storage Cabinet,Furniture,Asia-Pacific,1,310.0,10.0,279.0,156.62,122.38,Consumer
+ORD-2024-1285,2024-06-01,Standing Desk 160cm,Furniture,North America,1,780.0,0.0,780.0,614.62,165.38,Small Business
+ORD-2024-1286,2024-06-01,Conference Table,Furniture,Europe,2,1250.0,25.0,1875.0,1271.9,603.1,Mid-Market
+ORD-2024-1287,2024-06-01,Noise-Cancelling Headset,Peripherals,North America,9,229.0,5.0,1957.95,1493.06,464.89,Mid-Market
+ORD-2024-1288,2024-06-01,34-inch Ultrawide Monitor,Displays,Latin America,5,690.0,5.0,3277.5,2057.5,1220.0,Enterprise
+ORD-2024-1289,2024-06-02,Developer Laptop 14,Computing,North America,1,1690.0,0.0,1690.0,1121.46,568.54,Consumer
+ORD-2024-1290,2024-06-03,Travel Backpack 25L,Accessories,North America,2,129.0,10.0,232.2,126.9,105.3,Small Business
+ORD-2024-1291,2024-06-03,4K Webcam Studio,Peripherals,Asia-Pacific,5,149.0,5.0,707.75,389.89,317.86,Small Business
+ORD-2024-1292,2024-06-03,27-inch 4K Monitor,Displays,Asia-Pacific,7,420.0,5.0,2793.0,2155.27,637.73,Mid-Market
+ORD-2024-1293,2024-06-04,Mechanical Keyboard Pro,Peripherals,Latin America,3,119.0,5.0,339.15,274.7,64.45,Enterprise
+ORD-2024-1294,2024-06-05,Modular Storage Cabinet,Furniture,North America,1,310.0,0.0,310.0,249.19,60.81,Consumer
+ORD-2024-1295,2024-06-05,Graphics Dock eGPU,Computing,North America,1,980.0,0.0,980.0,627.78,352.22,Consumer
+ORD-2024-1296,2024-06-06,Precision Wireless Mouse,Peripherals,Latin America,1,39.0,0.0,39.0,30.42,8.58,Mid-Market
+ORD-2024-1297,2024-06-07,Workstation Mini PC,Computing,North America,1,1120.0,0.0,1120.0,788.32,331.68,Small Business
+ORD-2024-1298,2024-06-07,Modular Storage Cabinet,Furniture,Latin America,1,310.0,5.0,294.5,219.45,75.05,Enterprise
+ORD-2024-1299,2024-06-07,Noise-Cancelling Headset,Peripherals,Europe,2,229.0,5.0,435.1,323.79,111.31,Mid-Market
+ORD-2024-1300,2024-06-07,34-inch Ultrawide Monitor,Displays,Europe,4,690.0,0.0,2760.0,1872.69,887.31,Small Business
+ORD-2024-1301,2024-06-08,34-inch Ultrawide Monitor,Displays,Asia-Pacific,2,690.0,0.0,1380.0,1108.3,271.7,Mid-Market
+ORD-2024-1302,2024-06-09,Tablet Studio 11,Computing,Middle East & Africa,2,820.0,0.0,1640.0,904.39,735.61,Mid-Market
+ORD-2024-1303,2024-06-09,Travel Backpack 25L,Accessories,Asia-Pacific,3,129.0,10.0,348.3,212.17,136.13,Small Business
+ORD-2024-1304,2024-06-10,Braided USB-C Cable,Accessories,Europe,7,24.0,10.0,151.2,84.75,66.45,Enterprise
+ORD-2024-1305,2024-06-10,27-inch 4K Monitor,Displays,Europe,5,420.0,0.0,2100.0,1061.63,1038.37,Small Business
+ORD-2024-1306,2024-06-11,Standing Desk 160cm,Furniture,Europe,2,780.0,0.0,1560.0,1074.94,485.06,Consumer
+ORD-2024-1307,2024-06-12,Precision Wireless Mouse,Peripherals,Middle East & Africa,1,39.0,0.0,39.0,27.06,11.94,Enterprise
+ORD-2024-1308,2024-06-14,Noise-Cancelling Headset,Peripherals,Middle East & Africa,2,229.0,15.0,389.3,210.56,178.74,Enterprise
+ORD-2024-1309,2024-06-15,Graphics Dock eGPU,Computing,Europe,2,980.0,0.0,1960.0,1389.67,570.33,Mid-Market
+ORD-2024-1310,2024-06-15,27-inch 4K Monitor,Displays,Asia-Pacific,1,420.0,0.0,420.0,306.87,113.13,Enterprise
+ORD-2024-1311,2024-06-16,Desk Mat XL,Accessories,Middle East & Africa,2,49.0,0.0,98.0,55.0,43.0,Enterprise
+ORD-2024-1312,2024-06-16,Conference Table,Furniture,North America,3,1250.0,5.0,3562.5,2379.45,1183.05,Enterprise
+ORD-2024-1313,2024-06-16,Mechanical Keyboard Pro,Peripherals,North America,1,119.0,25.0,89.25,58.15,31.1,Enterprise
+ORD-2024-1314,2024-06-16,Mechanical Keyboard Pro,Peripherals,Europe,9,119.0,0.0,1071.0,734.43,336.57,Enterprise
+ORD-2024-1315,2024-06-17,Workstation Mini PC,Computing,Europe,4,1120.0,0.0,4480.0,2332.06,2147.94,Consumer
+ORD-2024-1316,2024-06-18,Precision Wireless Mouse,Peripherals,North America,1,39.0,20.0,31.2,18.96,12.24,Mid-Market
+ORD-2024-1317,2024-06-19,Standing Desk 160cm,Furniture,Asia-Pacific,2,780.0,25.0,1170.0,644.42,525.58,Enterprise
+ORD-2024-1318,2024-06-19,Modular Storage Cabinet,Furniture,Asia-Pacific,4,310.0,0.0,1240.0,853.3,386.7,Enterprise
+ORD-2024-1319,2024-06-20,Portable Travel Display,Displays,Europe,3,260.0,5.0,741.0,605.65,135.35,Small Business
+ORD-2024-1320,2024-06-20,27-inch 4K Monitor,Displays,Latin America,5,420.0,0.0,2100.0,1056.8,1043.2,Enterprise
+ORD-2024-1321,2024-06-20,34-inch Ultrawide Monitor,Displays,Asia-Pacific,1,690.0,0.0,690.0,557.68,132.32,Consumer
+ORD-2024-1322,2024-06-21,4K Webcam Studio,Peripherals,North America,1,149.0,5.0,141.55,110.6,30.95,Enterprise
+ORD-2024-1323,2024-06-21,Workstation Mini PC,Computing,Middle East & Africa,1,1120.0,5.0,1064.0,622.29,441.71,Enterprise
+ORD-2024-1324,2024-06-21,Workstation Mini PC,Computing,North America,1,1120.0,0.0,1120.0,904.16,215.84,Mid-Market
+ORD-2024-1325,2024-06-22,Cable Management Kit,Accessories,Europe,7,34.0,0.0,238.0,120.82,117.18,Small Business
+ORD-2024-1326,2024-06-23,USB-C Docking Station,Peripherals,North America,1,179.0,10.0,161.1,125.91,35.19,Mid-Market
+ORD-2024-1327,2024-06-23,Graphics Dock eGPU,Computing,Asia-Pacific,2,980.0,0.0,1960.0,1134.64,825.36,Consumer
+ORD-2024-1328,2024-06-24,Ergonomic Executive Chair,Furniture,Latin America,2,640.0,5.0,1216.0,764.65,451.35,Mid-Market
+ORD-2024-1329,2024-06-24,Standing Desk 160cm,Furniture,North America,2,780.0,5.0,1482.0,946.95,535.05,Consumer
+ORD-2024-1330,2024-06-24,27-inch 4K Monitor,Displays,North America,2,420.0,0.0,840.0,459.36,380.64,Enterprise
+ORD-2024-1331,2024-06-24,Tablet Studio 11,Computing,Europe,3,820.0,0.0,2460.0,1638.07,821.93,Enterprise
+ORD-2024-1332,2024-06-24,Noise-Cancelling Headset,Peripherals,North America,1,229.0,20.0,183.2,125.46,57.74,Mid-Market
+ORD-2024-1333,2024-06-25,Portable Travel Display,Displays,Asia-Pacific,1,260.0,5.0,247.0,196.4,50.6,Mid-Market
+ORD-2024-1334,2024-06-25,4K Webcam Studio,Peripherals,Asia-Pacific,1,149.0,0.0,149.0,118.02,30.98,Small Business
+ORD-2024-1335,2024-06-26,Precision Wireless Mouse,Peripherals,Europe,7,39.0,10.0,245.7,170.4,75.3,Mid-Market
+ORD-2024-1336,2024-06-26,Conference Table,Furniture,Asia-Pacific,1,1250.0,0.0,1250.0,925.37,324.63,Enterprise
+ORD-2024-1337,2024-06-26,Modular Storage Cabinet,Furniture,North America,1,310.0,10.0,279.0,156.47,122.53,Enterprise
+ORD-2024-1338,2024-06-26,USB-C Docking Station,Peripherals,Europe,3,179.0,10.0,483.3,366.89,116.41,Consumer
+ORD-2024-1339,2024-06-27,Precision Wireless Mouse,Peripherals,Asia-Pacific,1,39.0,0.0,39.0,28.79,10.21,Small Business
+ORD-2024-1340,2024-06-27,Braided USB-C Cable,Accessories,North America,2,24.0,20.0,38.4,21.16,17.24,Small Business
+ORD-2024-1341,2024-06-28,Modular Storage Cabinet,Furniture,North America,2,310.0,5.0,589.0,388.84,200.16,Mid-Market
+ORD-2024-1342,2024-06-28,Travel Backpack 25L,Accessories,Latin America,3,129.0,0.0,387.0,223.75,163.25,Mid-Market
+ORD-2024-1343,2024-06-28,Developer Laptop 14,Computing,North America,1,1690.0,5.0,1605.5,1181.82,423.68,Enterprise
+ORD-2024-1344,2024-06-28,Noise-Cancelling Headset,Peripherals,Asia-Pacific,1,229.0,10.0,206.1,140.48,65.62,Mid-Market
+ORD-2024-1345,2024-06-29,Travel Backpack 25L,Accessories,Middle East & Africa,3,129.0,0.0,387.0,256.61,130.39,Enterprise
+ORD-2024-1346,2024-06-29,Mechanical Keyboard Pro,Peripherals,Latin America,1,119.0,5.0,113.05,56.69,56.36,Enterprise
+ORD-2024-1347,2024-06-30,Desk Mat XL,Accessories,Asia-Pacific,2,49.0,0.0,98.0,61.72,36.28,Mid-Market
+ORD-2024-1348,2024-06-30,Workstation Mini PC,Computing,Europe,4,1120.0,5.0,4256.0,2164.12,2091.88,Small Business
+ORD-2024-1349,2024-07-01,Travel Backpack 25L,Accessories,Asia-Pacific,4,129.0,15.0,438.6,352.24,86.36,Mid-Market
+ORD-2024-1350,2024-07-02,USB-C Docking Station,Peripherals,Asia-Pacific,1,179.0,15.0,152.15,84.11,68.04,Small Business
+ORD-2024-1351,2024-07-02,USB-C Docking Station,Peripherals,North America,3,179.0,0.0,537.0,400.32,136.68,Consumer
+ORD-2024-1352,2024-07-03,USB-C Docking Station,Peripherals,North America,1,179.0,0.0,179.0,90.77,88.23,Small Business
+ORD-2024-1353,2024-07-03,Graphics Dock eGPU,Computing,North America,5,980.0,10.0,4410.0,3334.27,1075.73,Enterprise
+ORD-2024-1354,2024-07-03,Portable Travel Display,Displays,Latin America,2,260.0,10.0,468.0,265.25,202.75,Mid-Market
+ORD-2024-1355,2024-07-04,Cable Management Kit,Accessories,North America,5,34.0,0.0,170.0,96.55,73.45,Small Business
+ORD-2024-1356,2024-07-04,Noise-Cancelling Headset,Peripherals,Europe,2,229.0,0.0,458.0,323.3,134.7,Enterprise
+ORD-2024-1357,2024-07-05,Workstation Mini PC,Computing,Asia-Pacific,9,1120.0,0.0,10080.0,6992.95,3087.05,Enterprise
+ORD-2024-1358,2024-07-06,Desk Mat XL,Accessories,Europe,2,49.0,20.0,78.4,52.12,26.28,Mid-Market
+ORD-2024-1359,2024-07-06,Mechanical Keyboard Pro,Peripherals,Latin America,1,119.0,10.0,107.1,65.72,41.38,Small Business
+ORD-2024-1360,2024-07-06,Developer Laptop 14,Computing,Asia-Pacific,2,1690.0,5.0,3211.0,2521.09,689.91,Small Business
+ORD-2024-1361,2024-07-06,Conference Table,Furniture,North America,1,1250.0,0.0,1250.0,998.24,251.76,Consumer
+ORD-2024-1362,2024-07-07,Noise-Cancelling Headset,Peripherals,North America,2,229.0,5.0,435.1,240.98,194.12,Mid-Market
+ORD-2024-1363,2024-07-07,Conference Table,Furniture,Asia-Pacific,2,1250.0,5.0,2375.0,1609.58,765.42,Enterprise
+ORD-2024-1364,2024-07-07,Workstation Mini PC,Computing,Europe,2,1120.0,0.0,2240.0,1776.12,463.88,Mid-Market
+ORD-2024-1365,2024-07-07,Noise-Cancelling Headset,Peripherals,North America,9,229.0,0.0,2061.0,1146.69,914.31,Enterprise
+ORD-2024-1366,2024-07-09,Ergonomic Executive Chair,Furniture,Asia-Pacific,9,640.0,20.0,4608.0,2513.65,2094.35,Small Business
+ORD-2024-1367,2024-07-09,Cable Management Kit,Accessories,North America,1,34.0,0.0,34.0,17.04,16.96,Mid-Market
+ORD-2024-1368,2024-07-10,34-inch Ultrawide Monitor,Displays,Europe,2,690.0,0.0,1380.0,982.22,397.78,Small Business
+ORD-2024-1369,2024-07-10,Workstation Mini PC,Computing,Europe,1,1120.0,10.0,1008.0,643.78,364.22,Enterprise
+ORD-2024-1370,2024-07-11,Standing Desk 160cm,Furniture,Europe,2,780.0,25.0,1170.0,850.92,319.08,Enterprise
+ORD-2024-1371,2024-07-12,27-inch 4K Monitor,Displays,North America,2,420.0,0.0,840.0,469.06,370.94,Consumer
+ORD-2024-1372,2024-07-12,Mechanical Keyboard Pro,Peripherals,Europe,2,119.0,5.0,226.1,140.61,85.49,Enterprise
+ORD-2024-1373,2024-07-14,Workstation Mini PC,Computing,Asia-Pacific,4,1120.0,0.0,4480.0,3577.22,902.78,Small Business
+ORD-2024-1374,2024-07-14,Noise-Cancelling Headset,Peripherals,Latin America,4,229.0,0.0,916.0,511.44,404.56,Small Business
+ORD-2024-1375,2024-07-15,Conference Table,Furniture,Asia-Pacific,9,1250.0,0.0,11250.0,6375.31,4874.69,Mid-Market
+ORD-2024-1376,2024-07-15,Mechanical Keyboard Pro,Peripherals,Europe,4,119.0,10.0,428.4,336.25,92.15,Mid-Market
+ORD-2024-1377,2024-07-16,Tablet Studio 11,Computing,Latin America,4,820.0,0.0,3280.0,2135.91,1144.09,Enterprise
+ORD-2024-1378,2024-07-16,Modular Storage Cabinet,Furniture,Asia-Pacific,7,310.0,0.0,2170.0,1594.99,575.01,Enterprise
+ORD-2024-1379,2024-07-16,Noise-Cancelling Headset,Peripherals,North America,2,229.0,25.0,343.5,226.19,117.31,Enterprise
+ORD-2024-1380,2024-07-16,Travel Backpack 25L,Accessories,Europe,1,129.0,10.0,116.1,82.37,33.73,Small Business
+ORD-2024-1381,2024-07-18,Tablet Studio 11,Computing,Asia-Pacific,1,820.0,10.0,738.0,471.05,266.95,Small Business
+ORD-2024-1382,2024-07-19,Mechanical Keyboard Pro,Peripherals,Europe,4,119.0,10.0,428.4,252.09,176.31,Enterprise
+ORD-2024-1383,2024-07-19,4K Webcam Studio,Peripherals,North America,3,149.0,5.0,424.65,230.59,194.06,Mid-Market
+ORD-2024-1384,2024-07-20,27-inch 4K Monitor,Displays,Asia-Pacific,3,420.0,0.0,1260.0,995.49,264.51,Mid-Market
+ORD-2024-1385,2024-07-21,Modular Storage Cabinet,Furniture,North America,1,310.0,25.0,232.5,157.94,74.56,Enterprise
+ORD-2024-1386,2024-07-21,Braided USB-C Cable,Accessories,North America,2,24.0,10.0,43.2,26.86,16.34,Small Business
+ORD-2024-1387,2024-07-21,Tablet Studio 11,Computing,North America,5,820.0,10.0,3690.0,2363.04,1326.96,Enterprise
+ORD-2024-1388,2024-07-22,4K Webcam Studio,Peripherals,Asia-Pacific,7,149.0,0.0,1043.0,538.59,504.41,Mid-Market
+ORD-2024-1389,2024-07-22,Graphics Dock eGPU,Computing,Europe,1,980.0,15.0,833.0,520.9,312.1,Consumer
+ORD-2024-1390,2024-07-23,27-inch 4K Monitor,Displays,Asia-Pacific,2,420.0,10.0,756.0,404.57,351.43,Enterprise
+ORD-2024-1391,2024-07-24,Workstation Mini PC,Computing,Asia-Pacific,2,1120.0,5.0,2128.0,1221.66,906.34,Small Business
+ORD-2024-1392,2024-07-24,Mechanical Keyboard Pro,Peripherals,North America,4,119.0,20.0,380.8,217.82,162.98,Mid-Market
+ORD-2024-1393,2024-07-24,Braided USB-C Cable,Accessories,North America,5,24.0,20.0,96.0,63.94,32.06,Mid-Market
+ORD-2024-1394,2024-07-24,Graphics Dock eGPU,Computing,Europe,2,980.0,5.0,1862.0,1359.3,502.7,Enterprise
+ORD-2024-1395,2024-07-25,34-inch Ultrawide Monitor,Displays,Latin America,1,690.0,5.0,655.5,498.6,156.9,Mid-Market
+ORD-2024-1396,2024-07-26,USB-C Docking Station,Peripherals,North America,1,179.0,10.0,161.1,116.94,44.16,Mid-Market
+ORD-2024-1397,2024-07-26,Precision Wireless Mouse,Peripherals,Asia-Pacific,1,39.0,0.0,39.0,31.17,7.83,Small Business
+ORD-2024-1398,2024-07-26,Mechanical Keyboard Pro,Peripherals,Asia-Pacific,7,119.0,0.0,833.0,556.74,276.26,Consumer
+ORD-2024-1399,2024-07-27,Precision Wireless Mouse,Peripherals,Europe,1,39.0,5.0,37.05,20.39,16.66,Enterprise
+ORD-2024-1400,2024-07-27,4K Webcam Studio,Peripherals,Asia-Pacific,7,149.0,10.0,938.7,478.83,459.87,Enterprise
+ORD-2024-1401,2024-07-28,Standing Desk 160cm,Furniture,Asia-Pacific,5,780.0,0.0,3900.0,2170.32,1729.68,Small Business
+ORD-2024-1402,2024-07-28,Developer Laptop 14,Computing,Middle East & Africa,1,1690.0,10.0,1521.0,892.83,628.17,Mid-Market
+ORD-2024-1403,2024-07-28,Precision Wireless Mouse,Peripherals,North America,3,39.0,20.0,93.6,74.23,19.37,Enterprise
+ORD-2024-1404,2024-07-28,Workstation Mini PC,Computing,North America,5,1120.0,0.0,5600.0,3614.63,1985.37,Mid-Market
+ORD-2024-1405,2024-07-29,Portable Travel Display,Displays,Europe,4,260.0,20.0,832.0,420.22,411.78,Mid-Market
+ORD-2024-1406,2024-07-29,34-inch Ultrawide Monitor,Displays,Europe,2,690.0,0.0,1380.0,714.03,665.97,Enterprise
+ORD-2024-1407,2024-07-30,Modular Storage Cabinet,Furniture,Europe,2,310.0,0.0,620.0,439.28,180.72,Small Business
+ORD-2024-1408,2024-07-30,Graphics Dock eGPU,Computing,Europe,1,980.0,25.0,735.0,512.44,222.56,Enterprise
+ORD-2024-1409,2024-07-30,4K Webcam Studio,Peripherals,Asia-Pacific,1,149.0,0.0,149.0,93.63,55.37,Mid-Market
+ORD-2024-1410,2024-07-31,Portable Travel Display,Displays,North America,1,260.0,0.0,260.0,196.85,63.15,Small Business
+ORD-2024-1411,2024-07-31,Cable Management Kit,Accessories,Europe,3,34.0,0.0,102.0,56.81,45.19,Consumer
+ORD-2024-1412,2024-07-31,Workstation Mini PC,Computing,Asia-Pacific,7,1120.0,10.0,7056.0,4299.66,2756.34,Consumer
+ORD-2024-1413,2024-08-02,Noise-Cancelling Headset,Peripherals,Latin America,1,229.0,0.0,229.0,185.46,43.54,Enterprise
+ORD-2024-1414,2024-08-02,34-inch Ultrawide Monitor,Displays,Europe,1,690.0,5.0,655.5,435.85,219.65,Enterprise
+ORD-2024-1415,2024-08-02,Precision Wireless Mouse,Peripherals,Europe,1,39.0,25.0,29.25,16.95,12.3,Mid-Market
+ORD-2024-1416,2024-08-04,USB-C Docking Station,Peripherals,Europe,5,179.0,0.0,895.0,520.08,374.92,Small Business
+ORD-2024-1417,2024-08-04,Conference Table,Furniture,Asia-Pacific,1,1250.0,10.0,1125.0,733.45,391.55,Enterprise
+ORD-2024-1418,2024-08-04,Conference Table,Furniture,North America,2,1250.0,5.0,2375.0,1307.51,1067.49,Enterprise
+ORD-2024-1419,2024-08-04,Braided USB-C Cable,Accessories,Europe,1,24.0,25.0,18.0,10.82,7.18,Small Business
+ORD-2024-1420,2024-08-06,USB-C Docking Station,Peripherals,North America,2,179.0,10.0,322.2,242.8,79.4,Small Business
+ORD-2024-1421,2024-08-06,Precision Wireless Mouse,Peripherals,Asia-Pacific,2,39.0,5.0,74.1,47.58,26.52,Enterprise
+ORD-2024-1422,2024-08-06,Precision Wireless Mouse,Peripherals,Middle East & Africa,1,39.0,0.0,39.0,30.7,8.3,Small Business
+ORD-2024-1423,2024-08-07,Portable Travel Display,Displays,Europe,1,260.0,5.0,247.0,170.51,76.49,Mid-Market
+ORD-2024-1424,2024-08-07,Portable Travel Display,Displays,Asia-Pacific,3,260.0,0.0,780.0,443.67,336.33,Enterprise
+ORD-2024-1425,2024-08-07,Desk Mat XL,Accessories,North America,1,49.0,0.0,49.0,28.89,20.11,Mid-Market
+ORD-2024-1426,2024-08-08,Conference Table,Furniture,Europe,7,1250.0,0.0,8750.0,6021.71,2728.29,Enterprise
+ORD-2024-1427,2024-08-08,Noise-Cancelling Headset,Peripherals,Asia-Pacific,2,229.0,0.0,458.0,316.7,141.3,Mid-Market
+ORD-2024-1428,2024-08-10,Travel Backpack 25L,Accessories,North America,1,129.0,10.0,116.1,60.94,55.16,Enterprise
+ORD-2024-1429,2024-08-10,Noise-Cancelling Headset,Peripherals,North America,4,229.0,5.0,870.2,595.86,274.34,Enterprise
+ORD-2024-1430,2024-08-11,Graphics Dock eGPU,Computing,Europe,1,980.0,0.0,980.0,694.4,285.6,Enterprise
+ORD-2024-1431,2024-08-11,Ergonomic Executive Chair,Furniture,North America,2,640.0,0.0,1280.0,1025.37,254.63,Mid-Market
+ORD-2024-1432,2024-08-11,Standing Desk 160cm,Furniture,Asia-Pacific,4,780.0,0.0,3120.0,2008.16,1111.84,Mid-Market
+ORD-2024-1433,2024-08-12,Portable Travel Display,Displays,Latin America,1,260.0,20.0,208.0,163.44,44.56,Small Business
+ORD-2024-1434,2024-08-13,Standing Desk 160cm,Furniture,Europe,3,780.0,10.0,2106.0,1412.43,693.57,Small Business
+ORD-2024-1435,2024-08-13,Cable Management Kit,Accessories,North America,1,34.0,0.0,34.0,18.0,16.0,Enterprise
+ORD-2024-1436,2024-08-13,Travel Backpack 25L,Accessories,North America,4,129.0,5.0,490.2,373.38,116.82,Consumer
+ORD-2024-1437,2024-08-13,USB-C Docking Station,Peripherals,Asia-Pacific,7,179.0,0.0,1253.0,868.7,384.3,Consumer
+ORD-2024-1438,2024-08-13,Tablet Studio 11,Computing,Europe,5,820.0,15.0,3485.0,2021.42,1463.58,Enterprise
+ORD-2024-1439,2024-08-14,Developer Laptop 14,Computing,Asia-Pacific,4,1690.0,25.0,5070.0,3131.91,1938.09,Enterprise
+ORD-2024-1440,2024-08-14,Mechanical Keyboard Pro,Peripherals,Asia-Pacific,3,119.0,0.0,357.0,255.02,101.98,Small Business
+ORD-2024-1441,2024-08-14,Noise-Cancelling Headset,Peripherals,North America,1,229.0,0.0,229.0,141.51,87.49,Mid-Market
+ORD-2024-1442,2024-08-15,Developer Laptop 14,Computing,Europe,2,1690.0,0.0,3380.0,2354.68,1025.32,Enterprise
+ORD-2024-1443,2024-08-15,Portable Travel Display,Displays,Asia-Pacific,1,260.0,5.0,247.0,181.43,65.57,Mid-Market
+ORD-2024-1444,2024-08-15,4K Webcam Studio,Peripherals,Asia-Pacific,2,149.0,5.0,283.1,151.55,131.55,Mid-Market
+ORD-2024-1445,2024-08-17,Mechanical Keyboard Pro,Peripherals,Europe,2,119.0,15.0,202.3,115.0,87.3,Enterprise
+ORD-2024-1446,2024-08-18,Modular Storage Cabinet,Furniture,Europe,1,310.0,0.0,310.0,249.14,60.86,Small Business
+ORD-2024-1447,2024-08-18,Developer Laptop 14,Computing,North America,2,1690.0,15.0,2873.0,1994.66,878.34,Consumer
+ORD-2024-1448,2024-08-18,Graphics Dock eGPU,Computing,North America,1,980.0,0.0,980.0,722.69,257.31,Small Business
+ORD-2024-1449,2024-08-19,Desk Mat XL,Accessories,North America,4,49.0,10.0,176.4,144.11,32.29,Enterprise
+ORD-2024-1450,2024-08-19,34-inch Ultrawide Monitor,Displays,Europe,2,690.0,15.0,1173.0,714.64,458.36,Small Business
+ORD-2024-1451,2024-08-20,27-inch 4K Monitor,Displays,North America,4,420.0,10.0,1512.0,859.06,652.94,Enterprise
+ORD-2024-1452,2024-08-20,4K Webcam Studio,Peripherals,Europe,2,149.0,5.0,283.1,175.63,107.47,Enterprise
+ORD-2024-1453,2024-08-20,Ergonomic Executive Chair,Furniture,Asia-Pacific,3,640.0,10.0,1728.0,1318.38,409.62,Small Business
+ORD-2024-1454,2024-08-20,4K Webcam Studio,Peripherals,Latin America,1,149.0,0.0,149.0,105.28,43.72,Consumer
+ORD-2024-1455,2024-08-21,27-inch 4K Monitor,Displays,Latin America,2,420.0,0.0,840.0,562.55,277.45,Small Business
+ORD-2024-1456,2024-08-21,USB-C Docking Station,Peripherals,North America,1,179.0,0.0,179.0,133.15,45.85,Consumer
+ORD-2024-1457,2024-08-21,Conference Table,Furniture,North America,5,1250.0,10.0,5625.0,4528.79,1096.21,Mid-Market
+ORD-2024-1458,2024-08-21,Precision Wireless Mouse,Peripherals,North America,2,39.0,10.0,70.2,47.82,22.38,Small Business
+ORD-2024-1459,2024-08-21,Tablet Studio 11,Computing,Asia-Pacific,2,820.0,0.0,1640.0,1279.6,360.4,Consumer
+ORD-2024-1460,2024-08-21,Developer Laptop 14,Computing,Asia-Pacific,1,1690.0,10.0,1521.0,1164.23,356.77,Enterprise
+ORD-2024-1461,2024-08-22,Standing Desk 160cm,Furniture,Asia-Pacific,1,780.0,0.0,780.0,504.44,275.56,Consumer
+ORD-2024-1462,2024-08-23,USB-C Docking Station,Peripherals,North America,1,179.0,5.0,170.05,107.84,62.21,Small Business
+ORD-2024-1463,2024-08-24,Standing Desk 160cm,Furniture,Latin America,2,780.0,0.0,1560.0,1188.06,371.94,Mid-Market
+ORD-2024-1464,2024-08-24,34-inch Ultrawide Monitor,Displays,North America,2,690.0,15.0,1173.0,627.6,545.4,Mid-Market
+ORD-2024-1465,2024-08-24,Conference Table,Furniture,Latin America,1,1250.0,0.0,1250.0,798.76,451.24,Consumer
+ORD-2024-1466,2024-08-25,Mechanical Keyboard Pro,Peripherals,Europe,4,119.0,5.0,452.2,362.24,89.96,Consumer
+ORD-2024-1467,2024-08-26,Conference Table,Furniture,Europe,1,1250.0,5.0,1187.5,681.49,506.01,Consumer
+ORD-2024-1468,2024-08-26,Noise-Cancelling Headset,Peripherals,North America,1,229.0,0.0,229.0,162.04,66.96,Enterprise
+ORD-2024-1469,2024-08-26,Conference Table,Furniture,North America,1,1250.0,10.0,1125.0,758.54,366.46,Small Business
+ORD-2024-1470,2024-08-27,27-inch 4K Monitor,Displays,Asia-Pacific,1,420.0,5.0,399.0,286.79,112.21,Small Business
+ORD-2024-1471,2024-08-27,34-inch Ultrawide Monitor,Displays,Europe,1,690.0,0.0,690.0,561.75,128.25,Enterprise
+ORD-2024-1472,2024-08-27,4K Webcam Studio,Peripherals,North America,2,149.0,0.0,298.0,167.21,130.79,Enterprise
+ORD-2024-1473,2024-08-27,34-inch Ultrawide Monitor,Displays,Europe,3,690.0,0.0,2070.0,1164.13,905.87,Enterprise
+ORD-2024-1474,2024-08-28,Graphics Dock eGPU,Computing,North America,5,980.0,0.0,4900.0,3233.02,1666.98,Enterprise
+ORD-2024-1475,2024-08-28,Desk Mat XL,Accessories,Asia-Pacific,2,49.0,0.0,98.0,73.38,24.62,Small Business
+ORD-2024-1476,2024-08-28,Precision Wireless Mouse,Peripherals,Europe,1,39.0,5.0,37.05,20.51,16.54,Small Business
+ORD-2024-1477,2024-08-29,Precision Wireless Mouse,Peripherals,North America,3,39.0,10.0,105.3,77.88,27.42,Mid-Market
+ORD-2024-1478,2024-08-30,27-inch 4K Monitor,Displays,North America,9,420.0,0.0,3780.0,2237.72,1542.28,Small Business
+ORD-2024-1479,2024-09-01,USB-C Docking Station,Peripherals,North America,1,179.0,0.0,179.0,123.41,55.59,Small Business
+ORD-2024-1480,2024-09-02,Conference Table,Furniture,Europe,1,1250.0,5.0,1187.5,707.21,480.29,Mid-Market
+ORD-2024-1481,2024-09-02,Graphics Dock eGPU,Computing,North America,1,980.0,10.0,882.0,531.1,350.9,Enterprise
+ORD-2024-1482,2024-09-02,Conference Table,Furniture,North America,1,1250.0,5.0,1187.5,953.46,234.04,Small Business
+ORD-2024-1483,2024-09-03,Workstation Mini PC,Computing,Europe,2,1120.0,10.0,2016.0,1293.88,722.12,Consumer
+ORD-2024-1484,2024-09-04,Modular Storage Cabinet,Furniture,Asia-Pacific,3,310.0,0.0,930.0,533.32,396.68,Enterprise
+ORD-2024-1485,2024-09-05,Tablet Studio 11,Computing,North America,3,820.0,0.0,2460.0,1502.66,957.34,Enterprise
+ORD-2024-1486,2024-09-05,Mechanical Keyboard Pro,Peripherals,Europe,2,119.0,5.0,226.1,182.79,43.31,Small Business
+ORD-2024-1487,2024-09-05,Braided USB-C Cable,Accessories,North America,2,24.0,0.0,48.0,27.0,21.0,Enterprise
+ORD-2024-1488,2024-09-05,Modular Storage Cabinet,Furniture,Asia-Pacific,3,310.0,15.0,790.5,537.76,252.74,Small Business
+ORD-2024-1489,2024-09-06,Graphics Dock eGPU,Computing,North America,4,980.0,0.0,3920.0,2672.68,1247.32,Mid-Market
+ORD-2024-1490,2024-09-06,27-inch 4K Monitor,Displays,Asia-Pacific,2,420.0,0.0,840.0,659.91,180.09,Enterprise
+ORD-2024-1491,2024-09-06,34-inch Ultrawide Monitor,Displays,North America,1,690.0,10.0,621.0,395.34,225.66,Enterprise
+ORD-2024-1492,2024-09-07,USB-C Docking Station,Peripherals,Asia-Pacific,4,179.0,0.0,716.0,532.82,183.18,Small Business
+ORD-2024-1493,2024-09-08,Desk Mat XL,Accessories,North America,5,49.0,10.0,220.5,118.43,102.07,Consumer
+ORD-2024-1494,2024-09-08,Precision Wireless Mouse,Peripherals,Latin America,2,39.0,5.0,74.1,59.5,14.6,Mid-Market
+ORD-2024-1495,2024-09-08,27-inch 4K Monitor,Displays,Europe,3,420.0,0.0,1260.0,739.79,520.21,Enterprise
+ORD-2024-1496,2024-09-08,27-inch 4K Monitor,Displays,Middle East & Africa,1,420.0,5.0,399.0,313.04,85.96,Enterprise
+ORD-2024-1497,2024-09-08,Portable Travel Display,Displays,Asia-Pacific,7,260.0,0.0,1820.0,1105.96,714.04,Consumer
+ORD-2024-1498,2024-09-10,Standing Desk 160cm,Furniture,Asia-Pacific,7,780.0,5.0,5187.0,4044.46,1142.54,Consumer
+ORD-2024-1499,2024-09-10,34-inch Ultrawide Monitor,Displays,Latin America,2,690.0,5.0,1311.0,886.69,424.31,Mid-Market
+ORD-2024-1500,2024-09-10,34-inch Ultrawide Monitor,Displays,Europe,4,690.0,10.0,2484.0,2010.31,473.69,Mid-Market
+ORD-2024-1501,2024-09-10,Conference Table,Furniture,Europe,2,1250.0,0.0,2500.0,1956.98,543.02,Small Business
+ORD-2024-1502,2024-09-11,USB-C Docking Station,Peripherals,Europe,4,179.0,5.0,680.2,479.74,200.46,Small Business
+ORD-2024-1503,2024-09-11,Noise-Cancelling Headset,Peripherals,North America,1,229.0,25.0,171.75,131.1,40.65,Small Business
+ORD-2024-1504,2024-09-12,4K Webcam Studio,Peripherals,North America,9,149.0,15.0,1139.85,808.92,330.93,Mid-Market
+ORD-2024-1505,2024-09-12,USB-C Docking Station,Peripherals,Europe,1,179.0,0.0,179.0,125.83,53.17,Enterprise
+ORD-2024-1506,2024-09-12,27-inch 4K Monitor,Displays,Latin America,4,420.0,10.0,1512.0,1072.39,439.61,Enterprise
+ORD-2024-1507,2024-09-13,34-inch Ultrawide Monitor,Displays,Asia-Pacific,1,690.0,0.0,690.0,364.69,325.31,Small Business
+ORD-2024-1508,2024-09-13,Tablet Studio 11,Computing,Asia-Pacific,1,820.0,0.0,820.0,574.01,245.99,Consumer
+ORD-2024-1509,2024-09-14,Aluminium Laptop Stand,Accessories,Asia-Pacific,1,69.0,0.0,69.0,52.36,16.64,Small Business
+ORD-2024-1510,2024-09-15,34-inch Ultrawide Monitor,Displays,North America,1,690.0,10.0,621.0,420.14,200.86,Enterprise
+ORD-2024-1511,2024-09-15,27-inch 4K Monitor,Displays,North America,1,420.0,0.0,420.0,300.94,119.06,Small Business
+ORD-2024-1512,2024-09-15,Portable Travel Display,Displays,North America,1,260.0,5.0,247.0,187.77,59.23,Small Business
+ORD-2024-1513,2024-09-16,Graphics Dock eGPU,Computing,North America,1,980.0,10.0,882.0,682.47,199.53,Small Business
+ORD-2024-1514,2024-09-16,27-inch 4K Monitor,Displays,North America,2,420.0,0.0,840.0,552.57,287.43,Small Business
+ORD-2024-1515,2024-09-16,USB-C Docking Station,Peripherals,Europe,1,179.0,0.0,179.0,92.41,86.59,Enterprise
+ORD-2024-1516,2024-09-17,34-inch Ultrawide Monitor,Displays,Latin America,1,690.0,0.0,690.0,450.18,239.82,Enterprise
+ORD-2024-1517,2024-09-18,Portable Travel Display,Displays,Europe,1,260.0,10.0,234.0,145.27,88.73,Consumer
+ORD-2024-1518,2024-09-19,Braided USB-C Cable,Accessories,Latin America,1,24.0,25.0,18.0,9.89,8.11,Enterprise
+ORD-2024-1519,2024-09-19,27-inch 4K Monitor,Displays,Europe,1,420.0,0.0,420.0,333.25,86.75,Small Business
+ORD-2024-1520,2024-09-19,Graphics Dock eGPU,Computing,Latin America,4,980.0,10.0,3528.0,1768.35,1759.65,Mid-Market
+ORD-2024-1521,2024-09-20,USB-C Docking Station,Peripherals,Europe,1,179.0,5.0,170.05,118.64,51.41,Enterprise
+ORD-2024-1522,2024-09-21,Portable Travel Display,Displays,Europe,1,260.0,5.0,247.0,186.06,60.94,Enterprise
+ORD-2024-1523,2024-09-21,Developer Laptop 14,Computing,North America,5,1690.0,5.0,8027.5,6235.31,1792.19,Small Business
+ORD-2024-1524,2024-09-21,34-inch Ultrawide Monitor,Displays,North America,4,690.0,5.0,2622.0,1762.29,859.71,Small Business
+ORD-2024-1525,2024-09-22,34-inch Ultrawide Monitor,Displays,North America,1,690.0,5.0,655.5,525.98,129.52,Mid-Market
+ORD-2024-1526,2024-09-22,34-inch Ultrawide Monitor,Displays,Asia-Pacific,9,690.0,0.0,6210.0,3367.78,2842.22,Small Business
+ORD-2024-1527,2024-09-22,Cable Management Kit,Accessories,North America,2,34.0,0.0,68.0,36.26,31.74,Mid-Market
+ORD-2024-1528,2024-09-22,Standing Desk 160cm,Furniture,Asia-Pacific,3,780.0,0.0,2340.0,1301.65,1038.35,Mid-Market
+ORD-2024-1529,2024-09-22,Ergonomic Executive Chair,Furniture,North America,4,640.0,5.0,2432.0,1495.88,936.12,Consumer
+ORD-2024-1530,2024-09-23,4K Webcam Studio,Peripherals,Asia-Pacific,1,149.0,0.0,149.0,103.49,45.51,Consumer
+ORD-2024-1531,2024-09-23,Ergonomic Executive Chair,Furniture,North America,1,640.0,0.0,640.0,492.79,147.21,Consumer
+ORD-2024-1532,2024-09-24,34-inch Ultrawide Monitor,Displays,North America,4,690.0,10.0,2484.0,1955.02,528.98,Small Business
+ORD-2024-1533,2024-09-25,Workstation Mini PC,Computing,North America,1,1120.0,5.0,1064.0,582.47,481.53,Enterprise
+ORD-2024-1534,2024-09-25,Workstation Mini PC,Computing,Europe,3,1120.0,0.0,3360.0,2042.15,1317.85,Mid-Market
+ORD-2024-1535,2024-09-25,Workstation Mini PC,Computing,Asia-Pacific,1,1120.0,5.0,1064.0,575.07,488.93,Consumer
+ORD-2024-1536,2024-09-26,USB-C Docking Station,Peripherals,North America,1,179.0,15.0,152.15,114.14,38.01,Small Business
+ORD-2024-1537,2024-09-26,27-inch 4K Monitor,Displays,Europe,2,420.0,0.0,840.0,668.71,171.29,Consumer
+ORD-2024-1538,2024-09-27,4K Webcam Studio,Peripherals,North America,1,149.0,10.0,134.1,89.16,44.94,Consumer
+ORD-2024-1539,2024-09-27,27-inch 4K Monitor,Displays,Asia-Pacific,5,420.0,0.0,2100.0,1498.39,601.61,Small Business
+ORD-2024-1540,2024-09-27,Portable Travel Display,Displays,Middle East & Africa,7,260.0,10.0,1638.0,1215.44,422.56,Small Business
+ORD-2024-1541,2024-09-28,Graphics Dock eGPU,Computing,Asia-Pacific,3,980.0,5.0,2793.0,1558.62,1234.38,Small Business
+ORD-2024-1542,2024-09-28,Cable Management Kit,Accessories,North America,2,34.0,0.0,68.0,44.96,23.04,Enterprise
+ORD-2024-1543,2024-09-28,Mechanical Keyboard Pro,Peripherals,Middle East & Africa,9,119.0,0.0,1071.0,718.84,352.16,Small Business
+ORD-2024-1544,2024-09-28,4K Webcam Studio,Peripherals,Asia-Pacific,1,149.0,0.0,149.0,98.84,50.16,Mid-Market
+ORD-2024-1545,2024-09-29,Workstation Mini PC,Computing,Europe,2,1120.0,5.0,2128.0,1119.54,1008.46,Enterprise
+ORD-2024-1546,2024-09-29,34-inch Ultrawide Monitor,Displays,North America,2,690.0,0.0,1380.0,894.65,485.35,Small Business
+ORD-2024-1547,2024-09-30,Cable Management Kit,Accessories,Europe,1,34.0,0.0,34.0,19.52,14.48,Mid-Market
+ORD-2024-1548,2024-09-30,Precision Wireless Mouse,Peripherals,Europe,1,39.0,5.0,37.05,19.34,17.71,Mid-Market
+ORD-2024-1549,2024-10-01,Workstation Mini PC,Computing,Europe,1,1120.0,25.0,840.0,680.34,159.66,Small Business
+ORD-2024-1550,2024-10-01,Tablet Studio 11,Computing,North America,1,820.0,0.0,820.0,561.1,258.9,Mid-Market
+ORD-2024-1551,2024-10-01,4K Webcam Studio,Peripherals,Latin America,2,149.0,5.0,283.1,191.75,91.35,Consumer
+ORD-2024-1552,2024-10-01,Standing Desk 160cm,Furniture,North America,2,780.0,0.0,1560.0,908.07,651.93,Small Business
+ORD-2024-1553,2024-10-02,Precision Wireless Mouse,Peripherals,Europe,1,39.0,0.0,39.0,24.31,14.69,Enterprise
+ORD-2024-1554,2024-10-02,Modular Storage Cabinet,Furniture,Europe,4,310.0,0.0,1240.0,873.22,366.78,Enterprise
+ORD-2024-1555,2024-10-03,Noise-Cancelling Headset,Peripherals,Europe,1,229.0,5.0,217.55,115.57,101.98,Small Business
+ORD-2024-1556,2024-10-03,34-inch Ultrawide Monitor,Displays,Asia-Pacific,2,690.0,5.0,1311.0,817.95,493.05,Consumer
+ORD-2024-1557,2024-10-04,34-inch Ultrawide Monitor,Displays,North America,1,690.0,10.0,621.0,324.88,296.12,Small Business
+ORD-2024-1558,2024-10-04,4K Webcam Studio,Peripherals,North America,1,149.0,5.0,141.55,98.68,42.87,Enterprise
+ORD-2024-1559,2024-10-05,34-inch Ultrawide Monitor,Displays,Europe,2,690.0,0.0,1380.0,1053.64,326.36,Enterprise
+ORD-2024-1560,2024-10-05,27-inch 4K Monitor,Displays,North America,2,420.0,0.0,840.0,638.7,201.3,Enterprise
+ORD-2024-1561,2024-10-05,Mechanical Keyboard Pro,Peripherals,Asia-Pacific,4,119.0,5.0,452.2,335.76,116.44,Enterprise
+ORD-2024-1562,2024-10-06,34-inch Ultrawide Monitor,Displays,Latin America,1,690.0,0.0,690.0,561.06,128.94,Small Business
+ORD-2024-1563,2024-10-06,4K Webcam Studio,Peripherals,North America,2,149.0,0.0,298.0,208.08,89.92,Small Business
+ORD-2024-1564,2024-10-06,Portable Travel Display,Displays,Asia-Pacific,4,260.0,0.0,1040.0,766.0,274.0,Mid-Market
+ORD-2024-1565,2024-10-07,Developer Laptop 14,Computing,Europe,4,1690.0,10.0,6084.0,4094.85,1989.15,Small Business
+ORD-2024-1566,2024-10-07,Aluminium Laptop Stand,Accessories,Asia-Pacific,4,69.0,0.0,276.0,182.48,93.52,Enterprise
+ORD-2024-1567,2024-10-08,Tablet Studio 11,Computing,Europe,5,820.0,0.0,4100.0,2592.36,1507.64,Mid-Market
+ORD-2024-1568,2024-10-09,Aluminium Laptop Stand,Accessories,Asia-Pacific,1,69.0,0.0,69.0,56.26,12.74,Enterprise
+ORD-2024-1569,2024-10-09,Mechanical Keyboard Pro,Peripherals,Europe,1,119.0,10.0,107.1,85.41,21.69,Mid-Market
+ORD-2024-1570,2024-10-09,Workstation Mini PC,Computing,North America,3,1120.0,25.0,2520.0,1772.2,747.8,Mid-Market
+ORD-2024-1571,2024-10-09,34-inch Ultrawide Monitor,Displays,Europe,3,690.0,0.0,2070.0,1047.32,1022.68,Small Business
+ORD-2024-1572,2024-10-10,USB-C Docking Station,Peripherals,North America,4,179.0,10.0,644.4,417.69,226.71,Consumer
+ORD-2024-1573,2024-10-10,Ergonomic Executive Chair,Furniture,Europe,4,640.0,0.0,2560.0,1614.7,945.3,Mid-Market
+ORD-2024-1574,2024-10-10,34-inch Ultrawide Monitor,Displays,Europe,1,690.0,5.0,655.5,363.66,291.84,Small Business
+ORD-2024-1575,2024-10-11,Cable Management Kit,Accessories,North America,2,34.0,10.0,61.2,37.48,23.72,Consumer
+ORD-2024-1576,2024-10-12,Developer Laptop 14,Computing,Europe,2,1690.0,25.0,2535.0,1323.85,1211.15,Consumer
+ORD-2024-1577,2024-10-12,Mechanical Keyboard Pro,Peripherals,Middle East & Africa,5,119.0,10.0,535.5,332.02,203.48,Enterprise
+ORD-2024-1578,2024-10-13,Standing Desk 160cm,Furniture,Asia-Pacific,1,780.0,0.0,780.0,427.76,352.24,Mid-Market
+ORD-2024-1579,2024-10-13,4K Webcam Studio,Peripherals,Middle East & Africa,1,149.0,0.0,149.0,112.68,36.32,Enterprise
+ORD-2024-1580,2024-10-13,Developer Laptop 14,Computing,North America,4,1690.0,0.0,6760.0,4098.21,2661.79,Mid-Market
+ORD-2024-1581,2024-10-14,27-inch 4K Monitor,Displays,North America,2,420.0,0.0,840.0,424.79,415.21,Consumer
+ORD-2024-1582,2024-10-14,Workstation Mini PC,Computing,North America,1,1120.0,10.0,1008.0,568.74,439.26,Enterprise
+ORD-2024-1583,2024-10-15,Cable Management Kit,Accessories,Europe,3,34.0,10.0,91.8,61.15,30.65,Consumer
+ORD-2024-1584,2024-10-15,Mechanical Keyboard Pro,Peripherals,North America,2,119.0,5.0,226.1,177.77,48.33,Enterprise
+ORD-2024-1585,2024-10-15,Precision Wireless Mouse,Peripherals,Asia-Pacific,1,39.0,5.0,37.05,30.29,6.76,Enterprise
+ORD-2024-1586,2024-10-16,4K Webcam Studio,Peripherals,Europe,2,149.0,10.0,268.2,177.22,90.98,Mid-Market
+ORD-2024-1587,2024-10-16,4K Webcam Studio,Peripherals,Asia-Pacific,3,149.0,0.0,447.0,350.2,96.8,Consumer
+ORD-2024-1588,2024-10-17,Tablet Studio 11,Computing,North America,3,820.0,10.0,2214.0,1268.41,945.59,Enterprise
+ORD-2024-1589,2024-10-17,Modular Storage Cabinet,Furniture,North America,1,310.0,0.0,310.0,239.71,70.29,Enterprise
+ORD-2024-1590,2024-10-17,34-inch Ultrawide Monitor,Displays,Middle East & Africa,2,690.0,0.0,1380.0,696.94,683.06,Small Business
+ORD-2024-1591,2024-10-18,Precision Wireless Mouse,Peripherals,North America,7,39.0,25.0,204.75,111.2,93.55,Enterprise
+ORD-2024-1592,2024-10-18,Developer Laptop 14,Computing,Middle East & Africa,2,1690.0,5.0,3211.0,2041.4,1169.6,Enterprise
+ORD-2024-1593,2024-10-18,Conference Table,Furniture,Europe,2,1250.0,10.0,2250.0,1622.6,627.4,Consumer
+ORD-2024-1594,2024-10-18,4K Webcam Studio,Peripherals,Asia-Pacific,7,149.0,0.0,1043.0,576.41,466.59,Mid-Market
+ORD-2024-1595,2024-10-18,4K Webcam Studio,Peripherals,Middle East & Africa,4,149.0,10.0,536.4,365.14,171.26,Small Business
+ORD-2024-1596,2024-10-19,USB-C Docking Station,Peripherals,Europe,1,179.0,5.0,170.05,98.56,71.49,Small Business
+ORD-2024-1597,2024-10-19,34-inch Ultrawide Monitor,Displays,Middle East & Africa,2,690.0,5.0,1311.0,826.54,484.46,Mid-Market
+ORD-2024-1598,2024-10-19,Aluminium Laptop Stand,Accessories,Latin America,3,69.0,0.0,207.0,148.23,58.77,Enterprise
+ORD-2024-1599,2024-10-20,4K Webcam Studio,Peripherals,Europe,9,149.0,0.0,1341.0,967.78,373.22,Small Business
+ORD-2024-1600,2024-10-20,Noise-Cancelling Headset,Peripherals,Asia-Pacific,5,229.0,0.0,1145.0,845.67,299.33,Small Business
+ORD-2024-1601,2024-10-20,Travel Backpack 25L,Accessories,Asia-Pacific,1,129.0,0.0,129.0,89.88,39.12,Enterprise
+ORD-2024-1602,2024-10-20,27-inch 4K Monitor,Displays,North America,1,420.0,0.0,420.0,277.72,142.28,Small Business
+ORD-2024-1603,2024-10-22,Graphics Dock eGPU,Computing,North America,5,980.0,0.0,4900.0,3297.23,1602.77,Consumer
+ORD-2024-1604,2024-10-22,Aluminium Laptop Stand,Accessories,Latin America,4,69.0,0.0,276.0,180.27,95.73,Mid-Market
+ORD-2024-1605,2024-10-22,Mechanical Keyboard Pro,Peripherals,North America,9,119.0,0.0,1071.0,570.01,500.99,Mid-Market
+ORD-2024-1606,2024-10-22,USB-C Docking Station,Peripherals,Middle East & Africa,3,179.0,0.0,537.0,395.69,141.31,Mid-Market
+ORD-2024-1607,2024-10-24,Conference Table,Furniture,Europe,1,1250.0,15.0,1062.5,865.5,197.0,Mid-Market
+ORD-2024-1608,2024-10-24,Aluminium Laptop Stand,Accessories,North America,5,69.0,5.0,327.75,171.43,156.32,Mid-Market
+ORD-2024-1609,2024-10-25,Modular Storage Cabinet,Furniture,Asia-Pacific,2,310.0,0.0,620.0,314.52,305.48,Consumer
+ORD-2024-1610,2024-10-26,USB-C Docking Station,Peripherals,North America,2,179.0,0.0,358.0,247.51,110.49,Enterprise
+ORD-2024-1611,2024-10-26,Mechanical Keyboard Pro,Peripherals,Europe,2,119.0,0.0,238.0,133.02,104.98,Small Business
+ORD-2024-1612,2024-10-26,Noise-Cancelling Headset,Peripherals,North America,5,229.0,10.0,1030.5,717.79,312.71,Mid-Market
+ORD-2024-1613,2024-10-27,USB-C Docking Station,Peripherals,North America,4,179.0,0.0,716.0,527.29,188.71,Small Business
+ORD-2024-1614,2024-10-28,Mechanical Keyboard Pro,Peripherals,Europe,5,119.0,0.0,595.0,328.61,266.39,Consumer
+ORD-2024-1615,2024-10-28,34-inch Ultrawide Monitor,Displays,Latin America,2,690.0,10.0,1242.0,835.06,406.94,Enterprise
+ORD-2024-1616,2024-10-28,Portable Travel Display,Displays,Europe,5,260.0,10.0,1170.0,938.42,231.58,Enterprise
+ORD-2024-1617,2024-10-29,Workstation Mini PC,Computing,North America,1,1120.0,0.0,1120.0,835.45,284.55,Enterprise
+ORD-2024-1618,2024-10-29,Standing Desk 160cm,Furniture,Europe,1,780.0,10.0,702.0,430.5,271.5,Small Business
+ORD-2024-1619,2024-10-30,Portable Travel Display,Displays,Europe,2,260.0,0.0,520.0,281.15,238.85,Enterprise
+ORD-2024-1620,2024-10-30,USB-C Docking Station,Peripherals,Asia-Pacific,4,179.0,10.0,644.4,480.19,164.21,Enterprise
+ORD-2024-1621,2024-10-31,4K Webcam Studio,Peripherals,Latin America,7,149.0,0.0,1043.0,723.05,319.95,Small Business
+ORD-2024-1622,2024-10-31,34-inch Ultrawide Monitor,Displays,Latin America,3,690.0,0.0,2070.0,1649.78,420.22,Mid-Market
+ORD-2024-1623,2024-10-31,Portable Travel Display,Displays,Asia-Pacific,3,260.0,10.0,702.0,388.84,313.16,Enterprise
+ORD-2024-1624,2024-11-01,Workstation Mini PC,Computing,North America,2,1120.0,15.0,1904.0,1189.38,714.62,Consumer
+ORD-2024-1625,2024-11-01,Mechanical Keyboard Pro,Peripherals,Europe,4,119.0,5.0,452.2,346.15,106.05,Mid-Market
+ORD-2024-1626,2024-11-01,27-inch 4K Monitor,Displays,Europe,1,420.0,0.0,420.0,318.51,101.49,Mid-Market
+ORD-2024-1627,2024-11-01,Workstation Mini PC,Computing,Asia-Pacific,1,1120.0,5.0,1064.0,594.3,469.7,Enterprise
+ORD-2024-1628,2024-11-01,Developer Laptop 14,Computing,Latin America,1,1690.0,10.0,1521.0,956.58,564.42,Enterprise
+ORD-2024-1629,2024-11-01,27-inch 4K Monitor,Displays,Europe,3,420.0,5.0,1197.0,882.48,314.52,Small Business
+ORD-2024-1630,2024-11-02,Graphics Dock eGPU,Computing,Europe,2,980.0,5.0,1862.0,1141.15,720.85,Enterprise
+ORD-2024-1631,2024-11-03,USB-C Docking Station,Peripherals,Latin America,4,179.0,10.0,644.4,361.06,283.34,Mid-Market
+ORD-2024-1632,2024-11-04,4K Webcam Studio,Peripherals,Asia-Pacific,1,149.0,0.0,149.0,104.11,44.89,Small Business
+ORD-2024-1633,2024-11-04,Mechanical Keyboard Pro,Peripherals,Europe,3,119.0,10.0,321.3,227.18,94.12,Small Business
+ORD-2024-1634,2024-11-05,27-inch 4K Monitor,Displays,North America,1,420.0,0.0,420.0,216.24,203.76,Mid-Market
+ORD-2024-1635,2024-11-05,Precision Wireless Mouse,Peripherals,Asia-Pacific,3,39.0,15.0,99.45,80.57,18.88,Enterprise
+ORD-2024-1636,2024-11-05,Developer Laptop 14,Computing,North America,4,1690.0,0.0,6760.0,3582.76,3177.24,Small Business
+ORD-2024-1637,2024-11-05,Portable Travel Display,Displays,Europe,2,260.0,15.0,442.0,327.83,114.17,Enterprise
+ORD-2024-1638,2024-11-05,Braided USB-C Cable,Accessories,Europe,2,24.0,0.0,48.0,37.86,10.14,Mid-Market
+ORD-2024-1639,2024-11-06,Tablet Studio 11,Computing,Asia-Pacific,1,820.0,15.0,697.0,438.91,258.09,Enterprise
+ORD-2024-1640,2024-11-06,Developer Laptop 14,Computing,North America,2,1690.0,5.0,3211.0,2391.18,819.82,Consumer
+ORD-2024-1641,2024-11-07,27-inch 4K Monitor,Displays,North America,1,420.0,0.0,420.0,243.02,176.98,Consumer
+ORD-2024-1642,2024-11-07,Workstation Mini PC,Computing,Europe,5,1120.0,0.0,5600.0,3223.39,2376.61,Mid-Market
+ORD-2024-1643,2024-11-07,Tablet Studio 11,Computing,North America,4,820.0,10.0,2952.0,1656.51,1295.49,Small Business
+ORD-2024-1644,2024-11-08,Standing Desk 160cm,Furniture,Asia-Pacific,1,780.0,0.0,780.0,442.47,337.53,Consumer
+ORD-2024-1645,2024-11-08,27-inch 4K Monitor,Displays,Asia-Pacific,1,420.0,0.0,420.0,263.45,156.55,Enterprise
+ORD-2024-1646,2024-11-08,Portable Travel Display,Displays,Latin America,1,260.0,0.0,260.0,160.13,99.87,Mid-Market
+ORD-2024-1647,2024-11-09,Ergonomic Executive Chair,Furniture,Asia-Pacific,5,640.0,10.0,2880.0,1445.73,1434.27,Enterprise
+ORD-2024-1648,2024-11-09,Noise-Cancelling Headset,Peripherals,North America,5,229.0,5.0,1087.75,564.86,522.89,Enterprise
+ORD-2024-1649,2024-11-09,Aluminium Laptop Stand,Accessories,Europe,1,69.0,0.0,69.0,48.76,20.24,Small Business
+ORD-2024-1650,2024-11-09,Developer Laptop 14,Computing,North America,1,1690.0,0.0,1690.0,1022.74,667.26,Enterprise
+ORD-2024-1651,2024-11-09,USB-C Docking Station,Peripherals,Europe,1,179.0,10.0,161.1,131.05,30.05,Consumer
+ORD-2024-1652,2024-11-10,Braided USB-C Cable,Accessories,Middle East & Africa,3,24.0,0.0,72.0,47.41,24.59,Consumer
+ORD-2024-1653,2024-11-10,Mechanical Keyboard Pro,Peripherals,Europe,2,119.0,5.0,226.1,156.86,69.24,Enterprise
+ORD-2024-1654,2024-11-10,4K Webcam Studio,Peripherals,North America,1,149.0,0.0,149.0,83.77,65.23,Mid-Market
+ORD-2024-1655,2024-11-11,Noise-Cancelling Headset,Peripherals,Asia-Pacific,2,229.0,0.0,458.0,349.28,108.72,Mid-Market
+ORD-2024-1656,2024-11-11,4K Webcam Studio,Peripherals,North America,5,149.0,15.0,633.25,376.76,256.49,Enterprise
+ORD-2024-1657,2024-11-11,Graphics Dock eGPU,Computing,Asia-Pacific,1,980.0,0.0,980.0,530.3,449.7,Consumer
+ORD-2024-1658,2024-11-12,Developer Laptop 14,Computing,Latin America,2,1690.0,5.0,3211.0,1833.95,1377.05,Enterprise
+ORD-2024-1659,2024-11-12,Desk Mat XL,Accessories,Europe,1,49.0,0.0,49.0,35.87,13.13,Small Business
+ORD-2024-1660,2024-11-13,Conference Table,Furniture,Latin America,1,1250.0,5.0,1187.5,764.31,423.19,Enterprise
+ORD-2024-1661,2024-11-13,Workstation Mini PC,Computing,Europe,1,1120.0,0.0,1120.0,648.27,471.73,Small Business
+ORD-2024-1662,2024-11-13,USB-C Docking Station,Peripherals,Asia-Pacific,5,179.0,20.0,716.0,372.34,343.66,Mid-Market
+ORD-2024-1663,2024-11-14,Ergonomic Executive Chair,Furniture,Europe,4,640.0,0.0,2560.0,1732.78,827.22,Enterprise
+ORD-2024-1664,2024-11-14,Tablet Studio 11,Computing,Europe,3,820.0,0.0,2460.0,1265.81,1194.19,Mid-Market
+ORD-2024-1665,2024-11-14,Portable Travel Display,Displays,North America,2,260.0,10.0,468.0,372.32,95.68,Mid-Market
+ORD-2024-1666,2024-11-15,34-inch Ultrawide Monitor,Displays,North America,1,690.0,20.0,552.0,319.53,232.47,Mid-Market
+ORD-2024-1667,2024-11-15,Modular Storage Cabinet,Furniture,Europe,2,310.0,15.0,527.0,369.93,157.07,Consumer
+ORD-2024-1668,2024-11-16,Workstation Mini PC,Computing,Europe,5,1120.0,10.0,5040.0,2945.11,2094.89,Enterprise
+ORD-2024-1669,2024-11-16,Mechanical Keyboard Pro,Peripherals,North America,4,119.0,0.0,476.0,319.16,156.84,Mid-Market
+ORD-2024-1670,2024-11-16,27-inch 4K Monitor,Displays,Europe,2,420.0,0.0,840.0,675.93,164.07,Small Business
+ORD-2024-1671,2024-11-16,Standing Desk 160cm,Furniture,Europe,3,780.0,0.0,2340.0,1244.12,1095.88,Small Business
+ORD-2024-1672,2024-11-17,27-inch 4K Monitor,Displays,Europe,2,420.0,10.0,756.0,520.97,235.03,Enterprise
+ORD-2024-1673,2024-11-17,Workstation Mini PC,Computing,Asia-Pacific,1,1120.0,5.0,1064.0,773.36,290.64,Small Business
+ORD-2024-1674,2024-11-17,Portable Travel Display,Displays,Europe,3,260.0,5.0,741.0,560.82,180.18,Enterprise
+ORD-2024-1675,2024-11-18,Standing Desk 160cm,Furniture,Europe,3,780.0,10.0,2106.0,1662.67,443.33,Small Business
+ORD-2024-1676,2024-11-18,Portable Travel Display,Displays,North America,4,260.0,0.0,1040.0,596.02,443.98,Enterprise
+ORD-2024-1677,2024-11-19,Aluminium Laptop Stand,Accessories,Asia-Pacific,1,69.0,20.0,55.2,35.62,19.58,Consumer
+ORD-2024-1678,2024-11-20,Graphics Dock eGPU,Computing,Middle East & Africa,1,980.0,5.0,931.0,493.69,437.31,Small Business
+ORD-2024-1679,2024-11-20,Standing Desk 160cm,Furniture,Asia-Pacific,1,780.0,0.0,780.0,607.4,172.6,Mid-Market
+ORD-2024-1680,2024-11-20,Ergonomic Executive Chair,Furniture,Europe,1,640.0,0.0,640.0,475.51,164.49,Enterprise
+ORD-2024-1681,2024-11-21,Desk Mat XL,Accessories,Europe,1,49.0,5.0,46.55,37.94,8.61,Consumer
+ORD-2024-1682,2024-11-21,Aluminium Laptop Stand,Accessories,North America,1,69.0,5.0,65.55,44.13,21.42,Mid-Market
+ORD-2024-1683,2024-11-21,4K Webcam Studio,Peripherals,North America,1,149.0,0.0,149.0,92.43,56.57,Enterprise
+ORD-2024-1684,2024-11-22,Portable Travel Display,Displays,Asia-Pacific,5,260.0,10.0,1170.0,734.26,435.74,Enterprise
+ORD-2024-1685,2024-11-22,Precision Wireless Mouse,Peripherals,Europe,2,39.0,0.0,78.0,54.69,23.31,Mid-Market
+ORD-2024-1686,2024-11-23,4K Webcam Studio,Peripherals,Latin America,4,149.0,0.0,596.0,367.59,228.41,Enterprise
+ORD-2024-1687,2024-11-23,27-inch 4K Monitor,Displays,North America,1,420.0,0.0,420.0,340.73,79.27,Mid-Market
+ORD-2024-1688,2024-11-23,Graphics Dock eGPU,Computing,North America,1,980.0,10.0,882.0,637.87,244.13,Consumer
+ORD-2024-1689,2024-11-23,Precision Wireless Mouse,Peripherals,Asia-Pacific,1,39.0,5.0,37.05,24.6,12.45,Enterprise
+ORD-2024-1690,2024-11-23,Developer Laptop 14,Computing,Asia-Pacific,1,1690.0,20.0,1352.0,885.85,466.15,Enterprise
+ORD-2024-1691,2024-11-24,Precision Wireless Mouse,Peripherals,Asia-Pacific,1,39.0,5.0,37.05,23.52,13.53,Enterprise
+ORD-2024-1692,2024-11-24,4K Webcam Studio,Peripherals,North America,2,149.0,5.0,283.1,164.69,118.41,Consumer
+ORD-2024-1693,2024-11-24,Standing Desk 160cm,Furniture,Europe,1,780.0,0.0,780.0,418.92,361.08,Enterprise
+ORD-2024-1694,2024-11-24,Aluminium Laptop Stand,Accessories,North America,1,69.0,0.0,69.0,44.44,24.56,Enterprise
+ORD-2024-1695,2024-11-24,Modular Storage Cabinet,Furniture,Europe,1,310.0,5.0,294.5,210.21,84.29,Mid-Market
+ORD-2024-1696,2024-11-24,Portable Travel Display,Displays,Europe,4,260.0,0.0,1040.0,542.6,497.4,Enterprise
+ORD-2024-1697,2024-11-24,4K Webcam Studio,Peripherals,Europe,9,149.0,0.0,1341.0,678.33,662.67,Enterprise
+ORD-2024-1698,2024-11-25,Aluminium Laptop Stand,Accessories,Europe,3,69.0,20.0,165.6,98.69,66.91,Enterprise
+ORD-2024-1699,2024-11-26,Modular Storage Cabinet,Furniture,Europe,2,310.0,10.0,558.0,319.79,238.21,Mid-Market
+ORD-2024-1700,2024-11-27,27-inch 4K Monitor,Displays,Asia-Pacific,2,420.0,5.0,798.0,614.89,183.11,Enterprise
+ORD-2024-1701,2024-11-27,Workstation Mini PC,Computing,Middle East & Africa,2,1120.0,0.0,2240.0,1168.27,1071.73,Mid-Market
+ORD-2024-1702,2024-11-27,Developer Laptop 14,Computing,North America,5,1690.0,10.0,7605.0,4971.23,2633.77,Enterprise
+ORD-2024-1703,2024-11-27,Braided USB-C Cable,Accessories,Asia-Pacific,2,24.0,20.0,38.4,20.67,17.73,Mid-Market
+ORD-2024-1704,2024-11-28,Precision Wireless Mouse,Peripherals,North America,1,39.0,10.0,35.1,24.93,10.17,Enterprise
+ORD-2024-1705,2024-11-29,Noise-Cancelling Headset,Peripherals,Asia-Pacific,2,229.0,15.0,389.3,231.85,157.45,Small Business
+ORD-2024-1706,2024-11-29,Noise-Cancelling Headset,Peripherals,Asia-Pacific,2,229.0,25.0,343.5,178.36,165.14,Consumer
+ORD-2024-1707,2024-11-29,Precision Wireless Mouse,Peripherals,North America,7,39.0,5.0,259.35,178.01,81.34,Small Business
+ORD-2024-1708,2024-12-01,Standing Desk 160cm,Furniture,Asia-Pacific,3,780.0,5.0,2223.0,1623.47,599.53,Enterprise
+ORD-2024-1709,2024-12-01,34-inch Ultrawide Monitor,Displays,Asia-Pacific,2,690.0,0.0,1380.0,842.08,537.92,Mid-Market
+ORD-2024-1710,2024-12-01,Travel Backpack 25L,Accessories,Asia-Pacific,1,129.0,0.0,129.0,80.86,48.14,Enterprise
+ORD-2024-1711,2024-12-01,27-inch 4K Monitor,Displays,Asia-Pacific,1,420.0,0.0,420.0,239.99,180.01,Mid-Market
+ORD-2024-1712,2024-12-02,Mechanical Keyboard Pro,Peripherals,Latin America,1,119.0,0.0,119.0,97.3,21.7,Consumer
+ORD-2024-1713,2024-12-02,Precision Wireless Mouse,Peripherals,Asia-Pacific,1,39.0,15.0,33.15,25.96,7.19,Enterprise
+ORD-2024-1714,2024-12-02,USB-C Docking Station,Peripherals,Middle East & Africa,1,179.0,5.0,170.05,124.22,45.83,Small Business
+ORD-2024-1715,2024-12-02,34-inch Ultrawide Monitor,Displays,Asia-Pacific,1,690.0,15.0,586.5,347.36,239.14,Small Business
+ORD-2024-1716,2024-12-02,Noise-Cancelling Headset,Peripherals,North America,4,229.0,15.0,778.6,514.47,264.13,Small Business
+ORD-2024-1717,2024-12-02,Aluminium Laptop Stand,Accessories,North America,2,69.0,0.0,138.0,75.4,62.6,Mid-Market
+ORD-2024-1718,2024-12-02,Modular Storage Cabinet,Furniture,Europe,2,310.0,5.0,589.0,467.83,121.17,Small Business
+ORD-2024-1719,2024-12-02,Workstation Mini PC,Computing,Asia-Pacific,2,1120.0,0.0,2240.0,1780.9,459.1,Consumer
+ORD-2024-1720,2024-12-02,Developer Laptop 14,Computing,North America,3,1690.0,5.0,4816.5,3139.08,1677.42,Small Business
+ORD-2024-1721,2024-12-03,Aluminium Laptop Stand,Accessories,Latin America,2,69.0,10.0,124.2,77.96,46.24,Mid-Market
+ORD-2024-1722,2024-12-03,Aluminium Laptop Stand,Accessories,Europe,2,69.0,5.0,131.1,85.42,45.68,Small Business
+ORD-2024-1723,2024-12-03,34-inch Ultrawide Monitor,Displays,North America,1,690.0,0.0,690.0,371.47,318.53,Enterprise
+ORD-2024-1724,2024-12-03,Aluminium Laptop Stand,Accessories,North America,5,69.0,0.0,345.0,264.14,80.86,Enterprise
+ORD-2024-1725,2024-12-03,Modular Storage Cabinet,Furniture,North America,2,310.0,0.0,620.0,332.1,287.9,Enterprise
+ORD-2024-1726,2024-12-04,Developer Laptop 14,Computing,Latin America,2,1690.0,0.0,3380.0,2053.49,1326.51,Enterprise
+ORD-2024-1727,2024-12-04,4K Webcam Studio,Peripherals,North America,1,149.0,5.0,141.55,105.75,35.8,Small Business
+ORD-2024-1728,2024-12-04,27-inch 4K Monitor,Displays,Asia-Pacific,7,420.0,10.0,2646.0,1908.25,737.75,Enterprise
+ORD-2024-1729,2024-12-04,Tablet Studio 11,Computing,Middle East & Africa,1,820.0,5.0,779.0,573.12,205.88,Enterprise
+ORD-2024-1730,2024-12-04,Graphics Dock eGPU,Computing,Europe,3,980.0,0.0,2940.0,2006.83,933.17,Small Business
+ORD-2024-1731,2024-12-06,34-inch Ultrawide Monitor,Displays,Asia-Pacific,1,690.0,0.0,690.0,533.19,156.81,Enterprise
+ORD-2024-1732,2024-12-06,Conference Table,Furniture,Europe,1,1250.0,0.0,1250.0,714.88,535.12,Small Business
+ORD-2024-1733,2024-12-07,Graphics Dock eGPU,Computing,Asia-Pacific,1,980.0,5.0,931.0,659.12,271.88,Enterprise
+ORD-2024-1734,2024-12-07,Precision Wireless Mouse,Peripherals,Asia-Pacific,1,39.0,0.0,39.0,21.64,17.36,Mid-Market
+ORD-2024-1735,2024-12-08,Precision Wireless Mouse,Peripherals,North America,1,39.0,5.0,37.05,26.11,10.94,Mid-Market
+ORD-2024-1736,2024-12-08,4K Webcam Studio,Peripherals,Asia-Pacific,2,149.0,0.0,298.0,210.76,87.24,Mid-Market
+ORD-2024-1737,2024-12-09,Precision Wireless Mouse,Peripherals,North America,2,39.0,15.0,66.3,44.88,21.42,Enterprise
+ORD-2024-1738,2024-12-09,Noise-Cancelling Headset,Peripherals,Europe,5,229.0,0.0,1145.0,716.67,428.33,Enterprise
+ORD-2024-1739,2024-12-09,Standing Desk 160cm,Furniture,North America,4,780.0,0.0,3120.0,2203.8,916.2,Enterprise
+ORD-2024-1740,2024-12-10,Portable Travel Display,Displays,Europe,1,260.0,10.0,234.0,134.81,99.19,Small Business
+ORD-2024-1741,2024-12-10,Braided USB-C Cable,Accessories,Asia-Pacific,4,24.0,0.0,96.0,78.3,17.7,Small Business
+ORD-2024-1742,2024-12-10,Standing Desk 160cm,Furniture,Asia-Pacific,9,780.0,15.0,5967.0,4574.6,1392.4,Small Business
+ORD-2024-1743,2024-12-10,Precision Wireless Mouse,Peripherals,North America,4,39.0,5.0,148.2,77.43,70.77,Mid-Market
+ORD-2024-1744,2024-12-10,Aluminium Laptop Stand,Accessories,Latin America,1,69.0,5.0,65.55,47.07,18.48,Small Business
+ORD-2024-1745,2024-12-10,Mechanical Keyboard Pro,Peripherals,Europe,1,119.0,0.0,119.0,60.88,58.12,Small Business
+ORD-2024-1746,2024-12-10,Precision Wireless Mouse,Peripherals,Asia-Pacific,1,39.0,0.0,39.0,26.69,12.31,Consumer
+ORD-2024-1747,2024-12-11,4K Webcam Studio,Peripherals,Asia-Pacific,2,149.0,0.0,298.0,159.71,138.29,Mid-Market
+ORD-2024-1748,2024-12-11,Aluminium Laptop Stand,Accessories,Europe,1,69.0,0.0,69.0,42.5,26.5,Mid-Market
+ORD-2024-1749,2024-12-11,34-inch Ultrawide Monitor,Displays,Europe,4,690.0,10.0,2484.0,1660.09,823.91,Consumer
+ORD-2024-1750,2024-12-11,34-inch Ultrawide Monitor,Displays,North America,1,690.0,0.0,690.0,369.62,320.38,Consumer
+ORD-2024-1751,2024-12-12,Noise-Cancelling Headset,Peripherals,Asia-Pacific,4,229.0,15.0,778.6,559.25,219.35,Consumer
+ORD-2024-1752,2024-12-13,Tablet Studio 11,Computing,Asia-Pacific,9,820.0,0.0,7380.0,4104.4,3275.6,Small Business
+ORD-2024-1753,2024-12-13,USB-C Docking Station,Peripherals,North America,1,179.0,0.0,179.0,134.8,44.2,Small Business
+ORD-2024-1754,2024-12-13,Tablet Studio 11,Computing,Middle East & Africa,1,820.0,10.0,738.0,457.62,280.38,Enterprise
+ORD-2024-1755,2024-12-13,Portable Travel Display,Displays,Europe,2,260.0,10.0,468.0,314.76,153.24,Small Business
+ORD-2024-1756,2024-12-15,Desk Mat XL,Accessories,Europe,3,49.0,0.0,147.0,86.15,60.85,Enterprise
+ORD-2024-1757,2024-12-15,27-inch 4K Monitor,Displays,North America,1,420.0,10.0,378.0,272.65,105.35,Mid-Market
+ORD-2024-1758,2024-12-16,Desk Mat XL,Accessories,Latin America,5,49.0,0.0,245.0,180.93,64.07,Enterprise
+ORD-2024-1759,2024-12-17,Graphics Dock eGPU,Computing,Asia-Pacific,1,980.0,0.0,980.0,667.88,312.12,Consumer
+ORD-2024-1760,2024-12-17,34-inch Ultrawide Monitor,Displays,Latin America,9,690.0,5.0,5899.5,3767.4,2132.1,Enterprise
+ORD-2024-1761,2024-12-17,4K Webcam Studio,Peripherals,Asia-Pacific,1,149.0,10.0,134.1,104.78,29.32,Mid-Market
+ORD-2024-1762,2024-12-17,Tablet Studio 11,Computing,Europe,4,820.0,15.0,2788.0,2212.65,575.35,Enterprise
+ORD-2024-1763,2024-12-17,27-inch 4K Monitor,Displays,Latin America,2,420.0,0.0,840.0,544.36,295.64,Mid-Market
+ORD-2024-1764,2024-12-18,27-inch 4K Monitor,Displays,Latin America,4,420.0,10.0,1512.0,1171.04,340.96,Mid-Market
+ORD-2024-1765,2024-12-18,34-inch Ultrawide Monitor,Displays,North America,4,690.0,0.0,2760.0,1886.75,873.25,Small Business
+ORD-2024-1766,2024-12-18,Developer Laptop 14,Computing,North America,3,1690.0,0.0,5070.0,4012.25,1057.75,Mid-Market
+ORD-2024-1767,2024-12-18,Travel Backpack 25L,Accessories,North America,2,129.0,10.0,232.2,152.6,79.6,Mid-Market
+ORD-2024-1768,2024-12-18,27-inch 4K Monitor,Displays,Asia-Pacific,4,420.0,20.0,1344.0,846.07,497.93,Small Business
+ORD-2024-1769,2024-12-18,Precision Wireless Mouse,Peripherals,Europe,1,39.0,5.0,37.05,29.96,7.09,Mid-Market
+ORD-2024-1770,2024-12-19,Aluminium Laptop Stand,Accessories,Europe,1,69.0,20.0,55.2,29.64,25.56,Mid-Market
+ORD-2024-1771,2024-12-19,Workstation Mini PC,Computing,Asia-Pacific,1,1120.0,5.0,1064.0,638.59,425.41,Enterprise
+ORD-2024-1772,2024-12-19,Precision Wireless Mouse,Peripherals,Asia-Pacific,1,39.0,0.0,39.0,25.69,13.31,Enterprise
+ORD-2024-1773,2024-12-20,Graphics Dock eGPU,Computing,Asia-Pacific,1,980.0,0.0,980.0,686.32,293.68,Mid-Market
+ORD-2024-1774,2024-12-20,Modular Storage Cabinet,Furniture,Middle East & Africa,3,310.0,5.0,883.5,458.35,425.15,Small Business
+ORD-2024-1775,2024-12-20,Graphics Dock eGPU,Computing,North America,9,980.0,15.0,7497.0,5527.06,1969.94,Small Business
+ORD-2024-1776,2024-12-20,USB-C Docking Station,Peripherals,Asia-Pacific,3,179.0,10.0,483.3,371.74,111.56,Enterprise
+ORD-2024-1777,2024-12-21,Modular Storage Cabinet,Furniture,Asia-Pacific,5,310.0,0.0,1550.0,941.02,608.98,Mid-Market
+ORD-2024-1778,2024-12-21,USB-C Docking Station,Peripherals,Middle East & Africa,1,179.0,5.0,170.05,85.55,84.5,Consumer
+ORD-2024-1779,2024-12-22,Mechanical Keyboard Pro,Peripherals,Asia-Pacific,1,119.0,10.0,107.1,75.58,31.52,Mid-Market
+ORD-2024-1780,2024-12-22,Workstation Mini PC,Computing,North America,1,1120.0,10.0,1008.0,773.46,234.54,Enterprise
+ORD-2024-1781,2024-12-23,Standing Desk 160cm,Furniture,North America,5,780.0,0.0,3900.0,2309.58,1590.42,Small Business
+ORD-2024-1782,2024-12-23,Travel Backpack 25L,Accessories,North America,1,129.0,5.0,122.55,86.95,35.6,Mid-Market
+ORD-2024-1783,2024-12-24,27-inch 4K Monitor,Displays,Europe,2,420.0,15.0,714.0,422.64,291.36,Enterprise
+ORD-2024-1784,2024-12-24,27-inch 4K Monitor,Displays,North America,7,420.0,15.0,2499.0,1423.76,1075.24,Enterprise
+ORD-2024-1785,2024-12-24,Ergonomic Executive Chair,Furniture,Europe,1,640.0,0.0,640.0,484.51,155.49,Consumer
+ORD-2024-1786,2024-12-25,Tablet Studio 11,Computing,Asia-Pacific,1,820.0,0.0,820.0,597.21,222.79,Small Business
+ORD-2024-1787,2024-12-25,Graphics Dock eGPU,Computing,Asia-Pacific,1,980.0,0.0,980.0,647.59,332.41,Small Business
+ORD-2024-1788,2024-12-25,Conference Table,Furniture,Asia-Pacific,1,1250.0,15.0,1062.5,859.99,202.51,Consumer
+ORD-2024-1789,2024-12-25,Precision Wireless Mouse,Peripherals,Middle East & Africa,2,39.0,0.0,78.0,40.73,37.27,Enterprise
+ORD-2024-1790,2024-12-27,Modular Storage Cabinet,Furniture,Middle East & Africa,1,310.0,5.0,294.5,222.15,72.35,Consumer
+ORD-2024-1791,2024-12-27,Ergonomic Executive Chair,Furniture,North America,3,640.0,0.0,1920.0,1133.46,786.54,Consumer
+ORD-2024-1792,2024-12-28,Braided USB-C Cable,Accessories,Europe,1,24.0,10.0,21.6,17.42,4.18,Enterprise
+ORD-2024-1793,2024-12-29,Precision Wireless Mouse,Peripherals,North America,2,39.0,0.0,78.0,47.14,30.86,Consumer
+ORD-2024-1794,2024-12-29,Workstation Mini PC,Computing,Europe,3,1120.0,0.0,3360.0,1763.4,1596.6,Mid-Market
+ORD-2024-1795,2024-12-30,Noise-Cancelling Headset,Peripherals,Asia-Pacific,5,229.0,10.0,1030.5,589.31,441.19,Enterprise
+ORD-2024-1796,2024-12-30,Precision Wireless Mouse,Peripherals,Latin America,2,39.0,0.0,78.0,47.96,30.04,Small Business
+ORD-2024-1797,2024-12-30,Ergonomic Executive Chair,Furniture,Europe,2,640.0,10.0,1152.0,595.25,556.75,Small Business
+ORD-2024-1798,2024-12-30,Braided USB-C Cable,Accessories,North America,4,24.0,0.0,96.0,78.06,17.94,Consumer
+ORD-2024-1799,2024-12-31,34-inch Ultrawide Monitor,Displays,North America,1,690.0,0.0,690.0,489.66,200.34,Mid-Market
+ORD-2024-1800,2024-12-31,Precision Wireless Mouse,Peripherals,North America,1,39.0,5.0,37.05,29.49,7.56,Enterprise
