@@ -13,3 +13,12 @@ venv/
 .vscode/
 *.sw?
 *.log
+
+# Reports build artifacts and scratch renders
+report_render/
+report_render_v2/
+report_check/
+report_shots/
+report_diagrams/
+build_project_report.py
+build_final_report.py
