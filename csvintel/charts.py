@@ -11,34 +11,34 @@ import plotly.graph_objects as go
 from .text import humanize
 
 
-ACCENT = "#8b7cff"
-ACCENT_2 = "#22d3ee"
-GRID = "#1e293b"
+ACCENT = "#4f46e5"     # Indigo primary
+ACCENT_2 = "#0891b2"   # Cyan secondary
+GRID = "#e2e8f0"       # Light slate grid
 PAPER = "rgba(0,0,0,0)"
-FONT = "#cbd5e1"
+FONT = "#334155"       # Slate 700 text
 
 
 def _style(fig: go.Figure, title: str | None = None, height: int = 380) -> go.Figure:
     fig.update_layout(
-        template="plotly_dark",
+        template="plotly_white",
         paper_bgcolor=PAPER,
         plot_bgcolor=PAPER,
         font=dict(family="Inter, sans-serif", color=FONT, size=12),
         title=dict(
             text=title or "",
-            font=dict(size=14, color="#f8fafc", family="Inter, sans-serif"),
+            font=dict(size=14, color="#0f172a", family="Inter, sans-serif"),
             x=0,
             xanchor="left",
             pad=dict(l=4, t=4, b=8),
         ),
         margin=dict(l=18, r=18, t=48 if title else 20, b=18),
         height=height,
-        hoverlabel=dict(bgcolor="#111827", font_size=12, font_family="Inter"),
-        colorway=[ACCENT, ACCENT_2, "#f472b6", "#fbbf24", "#34d399", "#60a5fa"],
+        hoverlabel=dict(bgcolor="#ffffff", font_size=12, font_family="Inter", bordercolor="#cbd5e1", font_color="#0f172a"),
+        colorway=[ACCENT, ACCENT_2, "#db2777", "#d97706", "#059669", "#2563eb"],
         showlegend=False,
     )
-    fig.update_xaxes(gridcolor=GRID, zeroline=False, linecolor=GRID, tickfont=dict(size=11))
-    fig.update_yaxes(gridcolor=GRID, zeroline=False, linecolor=GRID, tickfont=dict(size=11))
+    fig.update_xaxes(gridcolor=GRID, zeroline=False, linecolor=GRID, tickfont=dict(size=11, color=FONT))
+    fig.update_yaxes(gridcolor=GRID, zeroline=False, linecolor=GRID, tickfont=dict(size=11, color=FONT))
     return fig
 
 
@@ -128,7 +128,7 @@ def build_figure(
         if x not in table.columns or y not in table.columns:
             return None
         fig = px.pie(table.head(8), names=x, values=y, hole=0.55)
-        fig.update_traces(textposition="inside", textinfo="percent", marker=dict(line=dict(color="#0b0f19", width=2)))
+        fig.update_traces(textposition="inside", textinfo="percent", marker=dict(line=dict(color="#ffffff", width=2)))
         fig.update_layout(showlegend=True, legend=dict(orientation="h", y=-0.1, font=dict(size=10)))
         return _style(fig, title)
 
@@ -138,8 +138,8 @@ def build_figure(
             return None
         plot_df = table.rename(columns={x: chart.get("x_label", x), y: chart.get("y_label", y)})
         nx, ny = chart.get("x_label", x), chart.get("y_label", y)
-        fig = px.scatter(plot_df, x=nx, y=ny, opacity=0.55)
-        fig.update_traces(marker=dict(size=5, color=ACCENT_2, line=dict(width=0)))
+        fig = px.scatter(plot_df, x=nx, y=ny, opacity=0.65)
+        fig.update_traces(marker=dict(size=6, color=ACCENT_2, line=dict(width=0)))
         fig.update_layout(xaxis_title=nx, yaxis_title=ny)
         return _style(fig, title)
 
